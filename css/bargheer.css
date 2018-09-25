@@ -1,0 +1,29 @@
+.songTitle {
+    
+}
+
+.songAudio {
+    margin: 8px 0 40px 20px;
+    display: block;
+}
+
+.noBullet {
+    list-style-type: none;    
+}
+
+.textViewContent span.unclear {
+    color: #cc0000;
+    font-weight: normal;
+}
+
+.right {
+    text-align: right !important;
+    display: block;
+    clear: both;
+}
+
+.signed {
+    text-align: right !important;
+    display: block;
+    clear: both;
+}
