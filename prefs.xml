@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<prefs><version>1.0</version><entries>
+<prefs>
+        <version>1.0</version>
+        <entries>
         
-        <!-- plugins --><entry key="plugin_window" value="../exist/rest/db/contents/js/Window.js"/><entry key="plugin_textView" value="../exist/rest/db/contents/js/TextView.js"/><entry key="data/xql/getLinkTarget.xql" value="../exist/rest/db/contents/xql/getLinkTarget.xql"/></entries></prefs>
+                <!-- plugins -->
+                <entry key="plugin_window"
+                        value="$bargheer-edition$/js/Window.js"/>
+                <entry key="plugin_textView"
+                        value="$bargheer-edition$/js/TextView.js"/>
+                <entry key="data/xql/getLinkTarget.xql"
+                        value="$bargheer-edition$/xql/getLinkTarget.xql"/>
+        </entries>
+</prefs>

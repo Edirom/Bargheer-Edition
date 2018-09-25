@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Bargheer-Fiedellieder-Edition</description>
+    <author>Musikwissenschaftliches Seminar Detmold/Paderborn</author>
+    <website>https://github.com/Edirom/Bargheer-Edition</website>
+    <status>dev</status>
+    <license>CC BY 4.0</license>
+    <copyright>true</copyright>
+    <type>library</type>
+    <target>Bargheer-Edition</target>
+    <!--<prepare>pre-install.xql</prepare>-->
+    <!--<finish>post-install.xql</finish>-->
+</meta>
