@@ -8,6 +8,6 @@
     <copyright>true</copyright>
     <type>library</type>
     <target>Bargheer-Edition</target>
-    <!--<prepare>pre-install.xql</prepare>-->
+    <prepare>pre-install.xql</prepare>
     <!--<finish>post-install.xql</finish>-->
 </meta>
