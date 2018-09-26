@@ -1,11 +1,261 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Carl Louis Bargheer, Audio-Dateien </title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. 801</p></encodingDesc><revisionDesc><change when="2013-03-24" who="JV">erstmals eingebaut</change></revisionDesc></teiHeader><text><body><div><head type="main">Carl Louis Bargheer,<lb/> Tonaufnahmen der <hi rend="italics">Fiedellieder</hi> und der 5 Lieder für Bariton</head><lb/></div><div><p><hi rend="bold">Ausführende</hi>: <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml#text-801_K_01">Markus Köhler</ref> (Bariton), <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml#text-801_K_02">Julia Parusch</ref> (Violine), <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml#text-801_K_03">Peter Kreutz</ref> (Klavier)</p><p><hi rend="bold">Aufnahme</hi>: März 2013, Hochschule für Musik Detmold, Tonmeister: Benjamin Reichert</p><p>Die Aufnahmen sind zunächst hier separat vom Notentext zugänglich. Zu einem späteren Zeitpunkt soll die Möglichkeit geschaffen werden, die Aufnahme synchron mit einer Darstellung des Notentextes zu visualisieren. Sie können den jeweiligen Notentext jedoch in einem separaten Fenster öffnen und durch eigenständiges Blättern mitverfolgen.</p></div><div xml:id="text-801_Audio_A"><head>Fiedellieder für Bariton, Violine und Klavier nach Texten von Theodor Storm</head><p>(Wenn Sie den Notentext der Neuedition beim Hören mitverfolgen möchten, öffnen Sie bitte im Menü am rechten Rand der Software unter "<hi rend="bold">Quellen</hi>" den Eintrag "<hi rend="bold">Neusatz: ED</hi>". Wenn Sie das neue Fenster etwas nach rechts schieben, behalten Sie Zugriff auf die Steuerung der Audioaufnahmen in der vorliegenden Datei.)</p><lb/><p><list><item rend="noBullet"><seg rend="songTitle">Nr. 1: "Wenn mir unterm Fiedelbogen"</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/01_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/01_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item rend="noBullet"><seg rend="songTitle">Nr. 2: "Nun ein Scherflein in die Runde"</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/02_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/02_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item rend="noBullet"><seg rend="songTitle">Nr. 3: "Musikanten wollen wandern"</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/03_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/03_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item rend="noBullet"><seg rend="songTitle">Nr. 4: "Am Markte bei der Kirchen"</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/04_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/04_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item rend="noBullet"><seg rend="songTitle">Nr. 5: "Weiter geht’s und immer weiter" und Nr. 6: "Nun geht der Mond zur Wolkennacht"</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/05_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/05_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item></list></p></div><anchor xml:id="text-801_Audio_B"/><div><head>5 Lieder für Bariton, <lb/>Seiner Durchlaucht dem regierenden Fürsten zur Lippe unterthänigst gewidmet</head><p>(Den Notentext zu diesen Liedern können Sie sich beim Anhören in einem separaten Fenster <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-907.xml">➞ hier öffnen</ref>. Wenn Sie das Fenster mit der Notenedition etwas zur Seite schieben, haben Sie weiterhin Zugriff auf die Datei mit der Steuerung des Abspielvorgangs.)</p><lb/><p><list><item><seg rend="songTitle">Nr. 1 "Will die Rose firsch erblühn" (Text: Julius Kessler)</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/06_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/06_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item><seg rend="songTitle">Nr. 2 "O könnt ich zu dir fliegen" (Text: Max von Schenkendorf)</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/07_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/07_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item><seg rend="songTitle">Nr. 3 "Wär ich ein Stern" (Text: aus Jean Pauls <hi rend="italic">Flegeljahren</hi>)
-                            </seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/08_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/08_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item><seg rend="songTitle">Nr. 4 Lebewohl (Wanderlieder Nr. 1) "Lebe wohl, mein Lieb!" (Text: Ludwig Uhland)</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/09_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/09_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item><item><seg rend="songTitle">Nr. 5 In der Ferne "Will ruhen unter den Bäumen hier" (Text: Ludwig Uhland)</seg><audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls"><source src="../exist/rest/db/apps/Bargheer-Edition/audio/ogg/10_Bargheer.ogg" type="audio/ogg"/><source src="../exist/rest/db/apps/Bargheer-Edition/audio/mp3/10_Bargheer.mp3" type="audio/mp3"/><p>Your browser does not support the audio element.</p></audio></item></list></p></div><div><head>Die Künstler</head><p xml:id="text-801_K_01"><hi rend="bold">Markus Köhler, Bariton</hi></p><p><figure place="inline"><graphic url="images/Kuenstler/Koehler_markus.jpg" height="300px"/></figure>
-                Markus Köhler, geboren in Leipzig, wo er als Mitglied des Thomanerchores seine erste musikalische Unterweisung erhielt. Er studierte dann an der Dresdner Musikhochschule Gesang bei Prof. H. Petzold und bei Prof. I. Hartmann-Dressler an der Hochschule der Künste in Berlin (West). Noch als Student erhielt er ein Diplom beim Internationalen Robert-Schumann-Wettbewerb in Zwickau und einen Sonderpreis beim Wettbewerb „Lied Duos – Das Deutsche Kunstlied“ in Frankfurt/Main. Zudem belegte er Kurse bei Dietrich Fischer-Dieskau und Aribert Reimann.</p><p>Neben verschiedenen Bühnenengagements u.a. am Thüringischen Landestheater und der Berliner Kammeroper machte er sich vor allem als Konzertsänger und Liedinterpret auch über die Grenzen Deutschlands hinaus einen Namen. Schwerpunkte seines Repertoires bilden Oratorien von Monteverdi bis Theodorakis und Liedgesang von der Klassik bis zur Moderne. Auftritte in der Berliner Philharmonie (u.a. mit dem Scharoun-Ensemble und dem Ensemble Oriol), im Konzerthaus Berlin, im Leipziger Gewandhaus, in der Kölner Philharmonie, in der Alten Oper Frankfurt/M. und vielen anderen bekannten Aufführungsstätten mit namhaften Dirigenten, Chören und Orchestern sowie bei den Berliner Festwochen, dem Kunstfest in Weimar, der Gustav-Mahler-Musikwoche in Dobbiaco/Italien, den Musikfestspielen in Dresden, bei Radio- und Fernsehaufnahmen im Rias Berlin, SFB, MDR, NDR, WDR, Deutschland-Radio, CD-Einspielungen mit Werken klassischer und zeitgenössischer Komponisten, zeugen von seiner vielfältigen künstlerischen Tätigkeit. Köhler bemüht sich auch darum, weitgehend vergessenes Repertoire wieder zum Leben zu erwecken, so brachte er 1993 Lieder von Robert Franz in einer Ersteinspielung heraus oder war zuletzt federführend beteiligt an einer Einspielung von Carl Reineckes <hi rend="italics">Dornröschen</hi>.</p><p>Seit 1992 ist Markus Köhler Professor für Gesang an der Hochschule für Musik Detmold.</p><lb/></div><div><p xml:id="text-801_K_02"><hi rend="bold">Julia Parusch, Violine</hi></p><p><figure place="inline"><graphic url="images/Kuenstler/ParuschDSC_0738.jpg" height="150px"/></figure>
-                Julia Parusch wurde 1992 in Kasachstan geboren und erhielt ihren ersten Geigenunterricht im Alter von 6 Jahren. Nach einem zweijährigen Jungstudium studiert sie seit Oktober 2009 als Vollstudentin an der Hochschule für Musik Detmold bei Prof. Eckhard Fischer und schließt ihr Bachelor- Studium voraussichtlich im Sommer 2013 ab.</p><p>Trotz ihres jungen Alters konnte Julia Parusch bereits viele nationale und internationale Orchestererfahrungen sammeln. Sie war unter anderem mit der Deutschen Streicherphilharmonie, dem Rundfunk- Sinfonieorchester Berlin, Partner- und Projektorchestern aus Russland, Schweden, Frankreich, England, etc. auf Arbeits- und Konzertphasen unterwegs.</p><p>Julia Parusch hatte bereits die Möglichkeit mit verschiedenen berühmten Persönlichkeiten, wie Kurt Masur, Sabine Meyer, Gerd Albrecht, Frank Beermann und Christoph Poppen, zu musizieren.</p><p>Auch bei Musikfestivals wie dem Young Euro Classic wirkte sie mit. Mit der jungen Norddeutschen Philharmonie spielte sie unter anderem auch das Eröffnungskonzert der Hanse Sail im August 2011 unter Nicholas Miltons musikalischer Leitung. </p><p>Im Sommer 2012 gab sie ihr Debüt mit Beethovens Violinkonzert und dem Hochschulorchester der Universität Bielefeld unter Michael Hoyers Leitung.</p><p>Seit 2011 ist sie Mitglied des Party Symphonie Orchestra und tritt ebenfalls bei nationalen sowie internationalen Galas auf, wie beispielsweise vergangenes Neujahr in der Schweiz. 
-                </p><lb/></div><div><p xml:id="text-801_K_03"><hi rend="bold">Peter Kreutz, Klavier</hi></p><p><figure place="inline"><graphic url="images/Kuenstler/Kreutz_Bild.jpg" height="300px"/></figure>
-                In Gütersloh geboren und aufgewachsen studierte Peter Kreutz an der Hochschule für Musik in Detmold sowohl Klavier als auch Gesang, seine Examina wurden mit besonderen Auszeichnungen bedacht.</p><p>Schon während des Klavierstudiums bei Renate Kretschmar-Fischer begann eine langjährige enge Zusammenarbeit mit Helmut Kretschmar, in dessen Meisterklasse für Gesang Peter Kreutz auf viele Sänger traf, die von Detmold aus eine internationale Karriere begannen. Zahlreiche Preise bei internationalen Wettbewerben wie u.a. in München (ARD) und s´Hertogenbosch (Niederlande) sind Zeugnis des hohen Niveaus dieser Arbeit. 1988 gewann Peter Kreutz den 1. Preis im Liedduowettbewerb des Bundesverbands der Deutschen Industrie (BDI), 1990 wurde er als Liedpianist beim Deutschen Musikwettbewerb ausgezeichnet und in die Bundesauswahl „Konzerte Junger Künstler“ aufgenommen.</p><p>Seine Konzerttätigkeit führt Peter Kreutz durch zahlreiche Länder Europas, bei internationalen Festspielen wie dem „Kissinger Sommer“ und den „Gustav-Mahler-Wochen“ im italienischen Toblach war er wiederholt zu hören. Eine große Anzahl der Liederabende wurden von den Sendeanstalten der ARD, der RAI und dem  niederländischen Rundfunk mitgeschnitten; Fernsehproduktionen entstanden beim ZDF und dem niederländischen Fernsehen. CDs mit Liedern von Johannes Brahms, Liedern des 19. und 20. Jahrhunderts sowie Werken von Antonin Dvorak sind im Handel erhältlich.</p><p>Neben seiner hauptamtlichen Tätigkeit als Klavierpädagoge und Fachbereichsleiter an der Gütersloher Musikschule unterrichtet  Peter Kreutz seit vielen Jahren  an der Hochschule für Musik in Detmold das Fach Liedgestaltung, 2004 wurde er zum Honorarprofessor ernannt. Zusammen mit Studierenden seiner Liedklasse gründete Peter Kreutz im Jahr 2000 in seiner Heimatstadt Gütersloh die Konzertreihe „Forum Lied“: die Konzertreihe hat mit 70 Programmen und rund 1000 Einzelwerken längst ihr Stammpublikum gefunden und ist seit der Saison 2010/11 im neuen  Theater auf der Stadt zu Hause.</p></div><div><lb/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Louis Bargheer, Audio-Dateien </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr. 801</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-03-24" who="JV">erstmals eingebaut</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head type="main">Carl Louis Bargheer,<lb/> Tonaufnahmen der <hi rend="italics"
+                        >Fiedellieder</hi> und der 5 Lieder für Bariton</head>
+                <lb/>
+            </div>
+            <div>
+                <p><hi rend="bold">Ausführende</hi>: <ref
+                        target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml#text-801_K_01"
+                        >Markus Köhler</ref> (Bariton), <ref
+                        target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml#text-801_K_02"
+                        >Julia Parusch</ref> (Violine), <ref
+                        target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml#text-801_K_03"
+                        >Peter Kreutz</ref> (Klavier)</p>
+                <p><hi rend="bold">Aufnahme</hi>: März 2013, Hochschule für Musik Detmold,
+                    Tonmeister: Benjamin Reichert</p>
+                <p>Die Aufnahmen sind zunächst hier separat vom Notentext zugänglich. Zu einem
+                    späteren Zeitpunkt soll die Möglichkeit geschaffen werden, die Aufnahme synchron
+                    mit einer Darstellung des Notentextes zu visualisieren. Sie können den
+                    jeweiligen Notentext jedoch in einem separaten Fenster öffnen und durch
+                    eigenständiges Blättern mitverfolgen.</p>
+            </div>
+            <div xml:id="text-801_Audio_A">
+                <head>Fiedellieder für Bariton, Violine und Klavier nach Texten von Theodor
+                    Storm</head>
+                <p>(Wenn Sie den Notentext der Neuedition beim Hören mitverfolgen möchten, öffnen
+                    Sie bitte im Menü am rechten Rand der Software unter "<hi rend="bold"
+                        >Quellen</hi>" den Eintrag "<hi rend="bold">Neusatz: ED</hi>". Wenn Sie das
+                    neue Fenster etwas nach rechts schieben, behalten Sie Zugriff auf die Steuerung
+                    der Audioaufnahmen in der vorliegenden Datei.)</p>
+                <lb/>
+                <p><list>
+                        <item rend="noBullet"><seg rend="songTitle">Nr. 1: "Wenn mir unterm
+                                Fiedelbogen"</seg><audio xmlns="http://www.w3.org/1999/xhtml"
+                                class="songAudio" preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/01_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/01_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item rend="noBullet"><seg rend="songTitle">Nr. 2: "Nun ein Scherflein in
+                                die Runde"</seg><audio xmlns="http://www.w3.org/1999/xhtml"
+                                class="songAudio" preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/02_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/02_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item rend="noBullet"><seg rend="songTitle">Nr. 3: "Musikanten wollen
+                                wandern"</seg><audio xmlns="http://www.w3.org/1999/xhtml"
+                                class="songAudio" preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/03_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/03_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item rend="noBullet"><seg rend="songTitle">Nr. 4: "Am Markte bei der
+                                Kirchen"</seg><audio xmlns="http://www.w3.org/1999/xhtml"
+                                class="songAudio" preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/04_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/04_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item rend="noBullet"><seg rend="songTitle">Nr. 5: "Weiter geht’s und immer
+                                weiter" und Nr. 6: "Nun geht der Mond zur Wolkennacht"</seg><audio
+                                xmlns="http://www.w3.org/1999/xhtml" class="songAudio"
+                                preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/05_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/05_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                    </list></p>
+            </div>
+            <anchor xml:id="text-801_Audio_B"/>
+            <div>
+                <head>5 Lieder für Bariton, <lb/>Seiner Durchlaucht dem regierenden Fürsten zur
+                    Lippe unterthänigst gewidmet</head>
+                <p>(Den Notentext zu diesen Liedern können Sie sich beim Anhören in einem separaten
+                    Fenster <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-907.xml"
+                        >➞ hier öffnen</ref>. Wenn Sie das Fenster mit der Notenedition etwas zur
+                    Seite schieben, haben Sie weiterhin Zugriff auf die Datei mit der Steuerung des
+                    Abspielvorgangs.)</p>
+                <lb/>
+                <p><list>
+                        <item><seg rend="songTitle">Nr. 1 "Will die Rose firsch erblühn" (Text:
+                                Julius Kessler)</seg><audio xmlns="http://www.w3.org/1999/xhtml"
+                                class="songAudio" preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/06_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/06_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item><seg rend="songTitle">Nr. 2 "O könnt ich zu dir fliegen" (Text: Max
+                                von Schenkendorf)</seg><audio xmlns="http://www.w3.org/1999/xhtml"
+                                class="songAudio" preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/07_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/07_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item><seg rend="songTitle">Nr. 3 "Wär ich ein Stern" (Text: aus Jean Pauls
+                                    <hi rend="italic">Flegeljahren</hi>) </seg><audio
+                                xmlns="http://www.w3.org/1999/xhtml" class="songAudio"
+                                preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/08_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/08_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item><seg rend="songTitle">Nr. 4 Lebewohl (Wanderlieder Nr. 1) "Lebe wohl,
+                                mein Lieb!" (Text: Ludwig Uhland)</seg><audio
+                                xmlns="http://www.w3.org/1999/xhtml" class="songAudio"
+                                preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/09_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/09_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                        <item><seg rend="songTitle">Nr. 5 In der Ferne "Will ruhen unter den Bäumen
+                                hier" (Text: Ludwig Uhland)</seg><audio
+                                xmlns="http://www.w3.org/1999/xhtml" class="songAudio"
+                                preload="auto" controls="controls"><source
+                                    src="$bargheer-edition$/audio/ogg/10_Bargheer.ogg"
+                                    type="audio/ogg"/><source
+                                    src="$bargheer-edition$/audio/mp3/10_Bargheer.mp3"
+                                    type="audio/mp3"/><p>Your browser does not support the audio
+                                    element.</p></audio></item>
+                    </list></p>
+            </div>
+            <div>
+                <head>Die Künstler</head>
+                <p xml:id="text-801_K_01"><hi rend="bold">Markus Köhler, Bariton</hi></p>
+                <p><figure place="inline">
+                        <graphic url="images/Kuenstler/Koehler_markus.jpg" height="300px"/>
+                    </figure> Markus Köhler, geboren in Leipzig, wo er als Mitglied des
+                    Thomanerchores seine erste musikalische Unterweisung erhielt. Er studierte dann
+                    an der Dresdner Musikhochschule Gesang bei Prof. H. Petzold und bei Prof. I.
+                    Hartmann-Dressler an der Hochschule der Künste in Berlin (West). Noch als
+                    Student erhielt er ein Diplom beim Internationalen Robert-Schumann-Wettbewerb in
+                    Zwickau und einen Sonderpreis beim Wettbewerb „Lied Duos – Das Deutsche
+                    Kunstlied“ in Frankfurt/Main. Zudem belegte er Kurse bei Dietrich
+                    Fischer-Dieskau und Aribert Reimann.</p>
+                <p>Neben verschiedenen Bühnenengagements u.a. am Thüringischen Landestheater und der
+                    Berliner Kammeroper machte er sich vor allem als Konzertsänger und Liedinterpret
+                    auch über die Grenzen Deutschlands hinaus einen Namen. Schwerpunkte seines
+                    Repertoires bilden Oratorien von Monteverdi bis Theodorakis und Liedgesang von
+                    der Klassik bis zur Moderne. Auftritte in der Berliner Philharmonie (u.a. mit
+                    dem Scharoun-Ensemble und dem Ensemble Oriol), im Konzerthaus Berlin, im
+                    Leipziger Gewandhaus, in der Kölner Philharmonie, in der Alten Oper Frankfurt/M.
+                    und vielen anderen bekannten Aufführungsstätten mit namhaften Dirigenten, Chören
+                    und Orchestern sowie bei den Berliner Festwochen, dem Kunstfest in Weimar, der
+                    Gustav-Mahler-Musikwoche in Dobbiaco/Italien, den Musikfestspielen in Dresden,
+                    bei Radio- und Fernsehaufnahmen im Rias Berlin, SFB, MDR, NDR, WDR,
+                    Deutschland-Radio, CD-Einspielungen mit Werken klassischer und zeitgenössischer
+                    Komponisten, zeugen von seiner vielfältigen künstlerischen Tätigkeit. Köhler
+                    bemüht sich auch darum, weitgehend vergessenes Repertoire wieder zum Leben zu
+                    erwecken, so brachte er 1993 Lieder von Robert Franz in einer Ersteinspielung
+                    heraus oder war zuletzt federführend beteiligt an einer Einspielung von Carl
+                    Reineckes <hi rend="italics">Dornröschen</hi>.</p>
+                <p>Seit 1992 ist Markus Köhler Professor für Gesang an der Hochschule für Musik
+                    Detmold.</p>
+                <lb/>
+            </div>
+            <div>
+                <p xml:id="text-801_K_02"><hi rend="bold">Julia Parusch, Violine</hi></p>
+                <p><figure place="inline">
+                        <graphic url="images/Kuenstler/ParuschDSC_0738.jpg" height="150px"/>
+                    </figure> Julia Parusch wurde 1992 in Kasachstan geboren und erhielt ihren
+                    ersten Geigenunterricht im Alter von 6 Jahren. Nach einem zweijährigen
+                    Jungstudium studiert sie seit Oktober 2009 als Vollstudentin an der Hochschule
+                    für Musik Detmold bei Prof. Eckhard Fischer und schließt ihr Bachelor- Studium
+                    voraussichtlich im Sommer 2013 ab.</p>
+                <p>Trotz ihres jungen Alters konnte Julia Parusch bereits viele nationale und
+                    internationale Orchestererfahrungen sammeln. Sie war unter anderem mit der
+                    Deutschen Streicherphilharmonie, dem Rundfunk- Sinfonieorchester Berlin,
+                    Partner- und Projektorchestern aus Russland, Schweden, Frankreich, England, etc.
+                    auf Arbeits- und Konzertphasen unterwegs.</p>
+                <p>Julia Parusch hatte bereits die Möglichkeit mit verschiedenen berühmten
+                    Persönlichkeiten, wie Kurt Masur, Sabine Meyer, Gerd Albrecht, Frank Beermann
+                    und Christoph Poppen, zu musizieren.</p>
+                <p>Auch bei Musikfestivals wie dem Young Euro Classic wirkte sie mit. Mit der jungen
+                    Norddeutschen Philharmonie spielte sie unter anderem auch das Eröffnungskonzert
+                    der Hanse Sail im August 2011 unter Nicholas Miltons musikalischer Leitung. </p>
+                <p>Im Sommer 2012 gab sie ihr Debüt mit Beethovens Violinkonzert und dem
+                    Hochschulorchester der Universität Bielefeld unter Michael Hoyers Leitung.</p>
+                <p>Seit 2011 ist sie Mitglied des Party Symphonie Orchestra und tritt ebenfalls bei
+                    nationalen sowie internationalen Galas auf, wie beispielsweise vergangenes
+                    Neujahr in der Schweiz. </p>
+                <lb/>
+            </div>
+            <div>
+                <p xml:id="text-801_K_03"><hi rend="bold">Peter Kreutz, Klavier</hi></p>
+                <p><figure place="inline">
+                        <graphic url="images/Kuenstler/Kreutz_Bild.jpg" height="300px"/>
+                    </figure> In Gütersloh geboren und aufgewachsen studierte Peter Kreutz an der
+                    Hochschule für Musik in Detmold sowohl Klavier als auch Gesang, seine Examina
+                    wurden mit besonderen Auszeichnungen bedacht.</p>
+                <p>Schon während des Klavierstudiums bei Renate Kretschmar-Fischer begann eine
+                    langjährige enge Zusammenarbeit mit Helmut Kretschmar, in dessen Meisterklasse
+                    für Gesang Peter Kreutz auf viele Sänger traf, die von Detmold aus eine
+                    internationale Karriere begannen. Zahlreiche Preise bei internationalen
+                    Wettbewerben wie u.a. in München (ARD) und s´Hertogenbosch (Niederlande) sind
+                    Zeugnis des hohen Niveaus dieser Arbeit. 1988 gewann Peter Kreutz den 1. Preis
+                    im Liedduowettbewerb des Bundesverbands der Deutschen Industrie (BDI), 1990
+                    wurde er als Liedpianist beim Deutschen Musikwettbewerb ausgezeichnet und in die
+                    Bundesauswahl „Konzerte Junger Künstler“ aufgenommen.</p>
+                <p>Seine Konzerttätigkeit führt Peter Kreutz durch zahlreiche Länder Europas, bei
+                    internationalen Festspielen wie dem „Kissinger Sommer“ und den
+                    „Gustav-Mahler-Wochen“ im italienischen Toblach war er wiederholt zu hören. Eine
+                    große Anzahl der Liederabende wurden von den Sendeanstalten der ARD, der RAI und
+                    dem niederländischen Rundfunk mitgeschnitten; Fernsehproduktionen entstanden
+                    beim ZDF und dem niederländischen Fernsehen. CDs mit Liedern von Johannes
+                    Brahms, Liedern des 19. und 20. Jahrhunderts sowie Werken von Antonin Dvorak
+                    sind im Handel erhältlich.</p>
+                <p>Neben seiner hauptamtlichen Tätigkeit als Klavierpädagoge und Fachbereichsleiter
+                    an der Gütersloher Musikschule unterrichtet Peter Kreutz seit vielen Jahren an
+                    der Hochschule für Musik in Detmold das Fach Liedgestaltung, 2004 wurde er zum
+                    Honorarprofessor ernannt. Zusammen mit Studierenden seiner Liedklasse gründete
+                    Peter Kreutz im Jahr 2000 in seiner Heimatstadt Gütersloh die Konzertreihe
+                    „Forum Lied“: die Konzertreihe hat mit 70 Programmen und rund 1000 Einzelwerken
+                    längst ihr Stammpublikum gefunden und ist seit der Saison 2010/11 im neuen
+                    Theater auf der Stadt zu Hause.</p>
+            </div>
+            <div>
+                <lb/>
                 <!--<figure rend="center">
                     <graphic url="/images/Mus-h1-B-184B.jpg" height="1000px"/>
                     <figDesc>Bargheer, Foto 2</figDesc>
-                </figure>--><p rend="center">Ⓒ Copyright: Projekt llb-bargheer, Musikwiss. Seminar Detmold/Paderborn, 2013</p><p rend="center">Ⓒ Copyright Künstlerbiographien und Tonaufnahmen: Markus Köhler, Julia Parusch, Peter Kreutz, Detmold, 2013; Tonmeister: Benjamin Reichert</p></div></body></text></TEI>
+                </figure>-->
+                <p rend="center">Ⓒ Copyright: Projekt llb-bargheer, Musikwiss. Seminar
+                    Detmold/Paderborn, 2013</p>
+                <p rend="center">Ⓒ Copyright Künstlerbiographien und Tonaufnahmen: Markus Köhler,
+                    Julia Parusch, Peter Kreutz, Detmold, 2013; Tonmeister: Benjamin Reichert</p>
+            </div>
+        </body>
+    </text>
+</TEI>
