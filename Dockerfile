@@ -10,7 +10,7 @@ ENV EOL_BUILD_HOME="/opt/eol-build"
 ENV DATA_BUILD_HOME="/opt/data-build"
 
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends ant unzip
+    && apt-get install -y --no-install-recommends ant curl unzip
 
 WORKDIR ${EOL_BUILD_HOME}
 
