@@ -3,7 +3,7 @@
 # 1. set up the build environment and build the expath-packages
 # 2. run the eXist-db
 #########################
-FROM eclipse-temurin:17-jre AS builder
+FROM eclipse-temurin:25-jre AS builder
 LABEL maintainer="Peter Stadler for the ViFE"
 
 ENV EOL_BUILD_HOME="/opt/eol-build"
