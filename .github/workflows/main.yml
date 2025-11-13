@@ -20,7 +20,7 @@ jobs:
 
       # Login against DockerHub registry except on PR
       - name: Log in to DockerHub
-        uses: docker/login-action@v1
+        uses: docker/login-action@v3
         with:
           username: vifebot
           password: ${{ secrets.VIFEBOT_DOCKERHUB_TOKEN }}
