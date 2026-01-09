@@ -1,2 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Joseph Joachim An Carl Louis Bargheer, undatiert </title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>LLB, Mus-h 1 B 100, 1 DBl. u. 1 Bl. (6 b. S.)</p></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-1023</p></encodingDesc><revisionDesc><change when="2012-07-24" who="JV">grob erfasst</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Joseph Joachim an Carl Louis Bargheer, <lb/>ohne Datum</head><opener><salute>Lieber, verehrter Freund!</salute></opener><p>Ihr Schreiben würde ich gleich beantwortet haben, wenn mir nicht vorgestern durch die Erkrankung unseres jüngsten Töchterchens der Sinn sehr gefangen gewesen wäre. Es geht heute besser, und jede Gefahr scheint vorüber, so Gott will! Ihren Wunsch anlangend, so glaube ich kaum, daß Sie ein festes Engagement vor Ihrer Ankunft in London haben werden; d. h. eines für Geld. <pb/>Englische Unternehmer bezahlen bloß Namen, die dort schon vom Publikum durch Gewohnheit gekannt sind. Indeß kann man ja immerhin im Crystal-Pallast den besten Versuch machen, wo das beste Orchester ist und auch im Weiner fortlaufende Concerte gegeben werden. Ich schließe ein paar Zeilen an Herrn Manns, den gewandten Dirigenten der Concerte ein, und schreibe gleichzeitig an Grove (meinen speciellen Freund) dem <pb/>Sekretair der Gesellschaft direkt. Richten Sie an Manns (Crystal Palace, Sydenham London) ein paar Worte, in dem Sie Ihren Wunsch aussprechen, und leben meine Zeilen bei. Außerdem will ich an Arthur Chappell, 50, New Bond: Street, und an G. Cusins? einige Zeilen gleich schreiben. Dieser Cusins (34 oder 35, Nottingham Palace, York-Gate, London) ist Dirigent der Phil- <pb/>harmonischen Gesellschaft, und da will ich den Vorschlag machen mit Ihnen das Spohrsche Stück zu spielen. Die philh: Concerte fangen aber erst im März an. Meine Erfahrung ist aber die, daß man nur persönlich in London etwas ausrichtet, und daß erst nach Jahren ein Aufenthalt dort lukrativ ist, es wäre denn für Sängerinnen, wie die Lind oder die Lucca, d. h. für große Operntalente. Selbst Mendelssohn's Briefe richteten für mich kaum etwas aus; die Leute sind eben zu beschäftigt in dem riesigen Nest! Erst seiner persönlichen Verwendung verdankte ich allerdings sehr viel.</p><p>Also alle die genannten Herren finden Sie brieflich vorbereitet, wenn Sie schreiben, was Sie bald thun sollten. An meinen Bruder und Einen oder Andern will ich Ihnen noch Introduktionen schicken; schreiben Sie mir gleich wann Sie reisen. <pb/>. Ich begebe mich vom 2ten Januar über Posen, Bromberg, Danzig, Königsberg nach Petersburg, wo ich am 15ten einzutreffen hoffe. Briefe werden mir von hier gleich nachgeschickt. Am 19ten Febr: spiele ich zuerst in London, wo wir hoffentlich erfreuliche Tage mit einander durchleben werden.</p><closer><seg>Empfehlen Sie mich recht angelegentlich Ihrer lieben Frau. Die Meinige grüßt auch schönstens</seg><lb/><seg>Ihr Joseph Joachim</seg></closer></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Joseph Joachim An Carl Louis Bargheer, undatiert </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>LLB, Mus-h 1 B 100, 1 DBl. u. 1 Bl. (6 b. S.)</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-1023</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2012-07-24" who="JV">grob erfasst</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">Joseph Joachim an Carl Louis Bargheer, <lb/>ohne Datum</head>
+                <opener><salute>Lieber, verehrter Freund!</salute></opener>
+                <p>Ihr Schreiben würde ich gleich beantwortet haben, wenn mir nicht vorgestern durch die Erkrankung unseres jüngsten Töchterchens der Sinn sehr gefangen gewesen wäre. Es geht heute besser, und jede Gefahr scheint vorüber, so Gott will! Ihren Wunsch anlangend, so glaube ich kaum, daß
+                    Sie ein festes Engagement vor Ihrer Ankunft in London haben werden; d. h. eines für Geld. <pb/>Englische Unternehmer bezahlen bloß Namen, die dort schon vom Publikum durch Gewohnheit gekannt sind. Indeß kann man ja immerhin im Crystal-Pallast den besten Versuch machen, wo das
+                    beste Orchester ist und auch im Weiner fortlaufende Concerte gegeben werden. Ich schließe ein paar Zeilen an Herrn Manns, den gewandten Dirigenten der Concerte ein, und schreibe gleichzeitig an Grove (meinen speciellen Freund) dem <pb/>Sekretair der Gesellschaft direkt. Richten
+                    Sie an Manns (Crystal Palace, Sydenham London) ein paar Worte, in dem Sie Ihren Wunsch aussprechen, und leben meine Zeilen bei. Außerdem will ich an Arthur Chappell, 50, New Bond: Street, und an G. Cusins? einige Zeilen gleich schreiben. Dieser Cusins (34 oder 35, Nottingham
+                    Palace, York-Gate, London) ist Dirigent der Phil- <pb/>harmonischen Gesellschaft, und da will ich den Vorschlag machen mit Ihnen das Spohrsche Stück zu spielen. Die philh: Concerte fangen aber erst im März an. Meine Erfahrung ist aber die, daß man nur persönlich in London etwas
+                    ausrichtet, und daß erst nach Jahren ein Aufenthalt dort lukrativ ist, es wäre denn für Sängerinnen, wie die Lind oder die Lucca, d. h. für große Operntalente. Selbst Mendelssohn's Briefe richteten für mich kaum etwas aus; die Leute sind eben zu beschäftigt in dem riesigen Nest!
+                    Erst seiner persönlichen Verwendung verdankte ich allerdings sehr viel.</p>
+                <p>Also alle die genannten Herren finden Sie brieflich vorbereitet, wenn Sie schreiben, was Sie bald thun sollten. An meinen Bruder und Einen oder Andern will ich Ihnen noch Introduktionen schicken; schreiben Sie mir gleich wann Sie reisen. <pb/>. Ich begebe mich vom 2ten Januar über
+                    Posen, Bromberg, Danzig, Königsberg nach Petersburg, wo ich am 15ten einzutreffen hoffe. Briefe werden mir von hier gleich nachgeschickt. Am 19ten Febr: spiele ich zuerst in London, wo wir hoffentlich erfreuliche Tage mit einander durchleben werden.</p>
+                <closer><seg>Empfehlen Sie mich recht angelegentlich Ihrer lieben Frau. Die Meinige grüßt auch schönstens</seg><lb/><seg>Ihr Joseph Joachim</seg></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

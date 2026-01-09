@@ -1,2 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Aussortiert: text-1012: Oberhofmarschallamt Detmold an Carl Bargheer, betr. seine Ernennung zum Kapellmeister und Dirigenten des Fürstl. Orchesters in Detmold, Detmold, 23. April 1862</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>LLB, Mus-h 1 B 56, 1 DBl. (2 b.S. einschl. Adr.), Siegelausriß</p></sourceDesc></fileDesc><revisionDesc><change when="2011-08-24" who="JV">Kopiert und korrekturgelesen</change></revisionDesc></teiHeader><text><body><div><figure><graphic url="/images/Mus-h1-B-56_Bl_001r.jpg" height="750px"/><figDesc>Ernennung zum Kapellmeister, Detmold, 23. April 1862, D-DT, Mus-h 1 B 56, Bl. 1r</figDesc></figure></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aussortiert: text-1012: Oberhofmarschallamt Detmold an Carl Bargheer, betr. seine Ernennung zum Kapellmeister und Dirigenten des Fürstl. Orchesters in Detmold, Detmold, 23. April 1862</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>LLB, Mus-h 1 B 56, 1 DBl. (2 b.S. einschl. Adr.), Siegelausriß</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2011-08-24" who="JV">Kopiert und korrekturgelesen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <figure>
+                    <graphic url="/images/Mus-h1-B-56_Bl_001r.jpg" height="750px"/>
+                    <figDesc>Ernennung zum Kapellmeister, Detmold, 23. April 1862, D-DT, Mus-h 1 B 56, Bl. 1r</figDesc>
+                </figure>
+            </div>
+        </body>
+    </text>
+</TEI>

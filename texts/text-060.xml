@@ -1,8 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Fiedellieder, Textkopie von Bargheer<lb/>D-DT, Mus-h1-B 7</title><author role="poet">Storm, Theodor</author><author role="composer">Bargheer, Carl Louis</author></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listWit><witness n="1" xml:id="bargheer1">Detmold, Landesbibliothek, Mus-h1 B-7</witness></listWit><msDesc n="1"><msIdentifier><country>D</country><settlement>Detmold</settlement><institution>Lippische Landesbibliothek</institution><idno>Mus-h1 B 7</idno></msIdentifier><physDesc><p><title>Fiedellieder von Th. Storm<lb/>für Baryton, Violine und Pianoforte.</title></p><p>Handschrift auf 12zeilig bedrucktem Notenpapier mit Eindruck "Aug. Böhm, Hamburg, No. 1."</p><p>9 Bl. (18 b.S.)</p></physDesc></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-060</p></encodingDesc><revisionDesc><change when="2013-01-09" who="JV">Korrektur nach Original</change><change when="2011-04-20" who="JV">Ersteingabe</change></revisionDesc></teiHeader><text><front/><body><div type="text"><head type="main">Fiedellieder in der Textkopie von Carl Louis Bargheer, Lippische Landesbibliothek Detmold, Mus-h 1 B 7</head><lb/><div n="1" type="Lied"><head><hi rend="underline" n="1">Fiedellieder</hi>. von C. Bargheer.</head><head>I</head><lg><l>Wenn mir unterm Fiedelbogen</l><l>Manche Saite auch zersprang,</l><l>Neue werden aufgezogen,</l><l>Und sie geben frischen Klang.</l></lg><p><note resp="JV">Dies ist in den Neuen Fiedelliedern die 3. Strophe; Strophe 2, 4 und 5 dort neu</note></p><lg><l>Und es tönt und schwillt und rauschet</l><l>Wie im Sturz der Waldesbach;</l><l>Meine Seele singt die Weise,</l><l>Meine Geige singt sie nach.</l></lg></div><div n="2" type="Lied"><head>II.</head><lg><l>Nun ein Scherflein in die Runde</l><l>Von den Cavalieren allen!</l><l>Für mein Lied, und ganz besonders</l><l>Weil's den Frauen so gefallen.</l></lg><lg><l>Dass sie alle mit einander</l><l>Lustig klingen in der Tasche;</l><l>Und Herr Wirth! vom besten Elfer</l><l>Eine wohlgezog’ne Flasche.</l></lg><lg><l>Nun ein Lied und nun ein Humpen</l><l>Schwer von lieblichen Getränken,</l><l>Ewig, ewig unermüdlich</l><l>Will ich meinen Bogen schwenken!</l></lg><pb n="1v"/></div><div n="3" type="Lied"><head>III</head><lg><l>Musikanten wollen wandern!</l><l>Durch die Saiten geht der Wind;</l><l>Und er weht die leichten Lieder</l><l>In die weite Welt geschwind.</l></lg><note>Eine zweite Strophe ist zwar vertont, aber in dieser Textversion nicht wiedergegeben.</note>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fiedellieder, Textkopie von Bargheer<lb/>D-DT, Mus-h1-B 7</title>
+                <author role="poet">Storm, Theodor</author>
+                <author role="composer">Bargheer, Carl Louis</author>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness n="1" xml:id="bargheer1">Detmold, Landesbibliothek, Mus-h1 B-7</witness>
+                </listWit>
+                <msDesc n="1">
+                    <msIdentifier>
+                        <country>D</country>
+                        <settlement>Detmold</settlement>
+                        <institution>Lippische Landesbibliothek</institution>
+                        <idno>Mus-h1 B 7</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p><title>Fiedellieder von Th. Storm<lb/>für Baryton, Violine und Pianoforte.</title></p>
+                        <p>Handschrift auf 12zeilig bedrucktem Notenpapier mit Eindruck "Aug. Böhm, Hamburg, No. 1."</p>
+                        <p>9 Bl. (18 b.S.)</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-060</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-01-09" who="JV">Korrektur nach Original</change>
+            <change when="2011-04-20" who="JV">Ersteingabe</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="text">
+                <head type="main">Fiedellieder in der Textkopie von Carl Louis Bargheer, Lippische Landesbibliothek Detmold, Mus-h 1 B 7</head>
+                <lb/>
+                <div n="1" type="Lied">
+                    <head><hi rend="underline" n="1">Fiedellieder</hi>. von C. Bargheer.</head>
+                    <head>I</head>
+                    <lg>
+                        <l>Wenn mir unterm Fiedelbogen</l>
+                        <l>Manche Saite auch zersprang,</l>
+                        <l>Neue werden aufgezogen,</l>
+                        <l>Und sie geben frischen Klang.</l>
+                    </lg>
+                    <p><note resp="JV">Dies ist in den Neuen Fiedelliedern die 3. Strophe; Strophe 2, 4 und 5 dort neu</note></p>
+                    <lg>
+                        <l>Und es tönt und schwillt und rauschet</l>
+                        <l>Wie im Sturz der Waldesbach;</l>
+                        <l>Meine Seele singt die Weise,</l>
+                        <l>Meine Geige singt sie nach.</l>
+                    </lg>
+                </div>
+                <div n="2" type="Lied">
+                    <head>II.</head>
+                    <lg>
+                        <l>Nun ein Scherflein in die Runde</l>
+                        <l>Von den Cavalieren allen!</l>
+                        <l>Für mein Lied, und ganz besonders</l>
+                        <l>Weil's den Frauen so gefallen.</l>
+                    </lg>
+                    <lg>
+                        <l>Dass sie alle mit einander</l>
+                        <l>Lustig klingen in der Tasche;</l>
+                        <l>Und Herr Wirth! vom besten Elfer</l>
+                        <l>Eine wohlgezog’ne Flasche.</l>
+                    </lg>
+                    <lg>
+                        <l>Nun ein Lied und nun ein Humpen</l>
+                        <l>Schwer von lieblichen Getränken,</l>
+                        <l>Ewig, ewig unermüdlich</l>
+                        <l>Will ich meinen Bogen schwenken!</l>
+                    </lg>
+                    <pb n="1v"/>
+                </div>
+                <div n="3" type="Lied">
+                    <head>III</head>
+                    <lg>
+                        <l>Musikanten wollen wandern!</l>
+                        <l>Durch die Saiten geht der Wind;</l>
+                        <l>Und er weht die leichten Lieder</l>
+                        <l>In die weite Welt geschwind.</l>
+                    </lg>
+                    <note>Eine zweite Strophe ist zwar vertont, aber in dieser Textversion nicht wiedergegeben.</note>
                     <!--<lg>
                         <l>Musikanten wollen wandern!</l>
                         <l>Schon zur Neige geht der Wein,</l>
                         <l>ziehn die Lieder in die Weite,</l>
                         <l>muss der Spielmann hinterdrein.</l>
-                    </lg>--></div><div n="4" type="Lied"><head>IV.</head><lg><l>Am Markte bei der Kirchen, da steht ein <lb/>klingend Haus,</l><l>Trompet und Geigen tönen da <lb/>mannigfach heraus.</l></lg><lg><l>Der Lindbaum vor der Thüre ist lust'ger <lb/>Aufenthalt;</l><l>Vom Wald die Finken kommen und <lb/>singen, dass es schallt.</l></lg><lg><l>Und auf der Bank darunter, die mit <lb/>dem Kindlein da,</l><l>Das ist in alle Wege die blond Frau <lb/>Musika.</l></lg><lg><l>Der jungfrisch Stadttrompeter bläst <lb/>eben grad vom Thurm,</l><l>Er bläst, dass nun vergangen all <lb/>Noth und Wintersturm.</l><l/></lg><pb n="2r"/><lg><l>Die Schwalb ist heimgekehret, lind <lb/>weht des Lenzes Hauch</l><l>Das bläst er jetzt vom Thurme nach <lb/>altehrwürd’gem Brauch;</l></lg><lg><l>Herr Gott die Saaten segne mit <lb/>deiner milden Hand</l><l>Und gieb uns Frieden, Frieden <lb/>im lieben, deutschen Land.</l><l/></lg></div><div n="5" type="Lied"><head>V.</head><lg><l>Weiter geht's und immer weiter</l><l>Ach, noch immer denk ich dein!</l><l>Vor mir stehn im Duft d. Wälder</l><l>Rückwärts brennt der Abendschein.</l></lg><lg><l>Einsam werden Weg und Stege,</l><l>Ganz alleine wandr’ ich bald;</l><l>Einen Falken seh ich kreisen –</l><l>Über mir schon rauscht der Wald.</l></lg></div><div n="6" type="Lied"><head>VI</head><lg><l>Nun geht der Mond durch Wolkennacht</l><l>Nun ist der Tag herum</l><l>Nun schweigen alle Vögel bald</l><l>Im Walde um und um.</l></lg><lg><l>Die Drossel singt ihr letztes Lied</l><l>Ein Lied zu allerbest,</l><l>Die Amsel pfeift den letzten Ton</l><l>Und fliegt zu Nest, zu Nest.</l></lg><lg><l>Da nehm auch ich zur guten Nacht</l><l>Zur Hand die Geige mein,</l><l>Das ist ein klingend Nachtgebet</l><l>Und dringt zum Himmel ein.</l></lg><lb/><lb/></div><div><head>Fiedellieder, Textkopie von Carl Louis Bargheer, Bl. 1r/v, D-DT, Mus-h 1 B 7, Bl. 1r/2v:</head><p><figure><graphic url="/images/Mus-h_1B7_001.jpg" height="750px"/><figDesc>Fiedellieder, Textkopie von Bargheer, Bl. 1r/2v, D-DT, Mus-h1-B 7</figDesc></figure><lb/><lb/></p></div><div><head>Fiedellieder, Textkopie von Carl Louis Bargheer, Bl. 1r/v, D-DT, Mus-h 1 B 7, Bl. 1v/2r:</head><p><figure><graphic url="/images/Mus-h_1B7_002.jpg" height="750px"/><figDesc>Fiedellieder, Textkopie von Bargheer, Bl. 1v/2r, D-DT, Mus-h1-B 7</figDesc></figure></p></div></div></body></text></TEI>
+                    </lg>-->
+                </div>
+                <div n="4" type="Lied">
+                    <head>IV.</head>
+                    <lg>
+                        <l>Am Markte bei der Kirchen, da steht ein <lb/>klingend Haus,</l>
+                        <l>Trompet und Geigen tönen da <lb/>mannigfach heraus.</l>
+                    </lg>
+                    <lg>
+                        <l>Der Lindbaum vor der Thüre ist lust'ger <lb/>Aufenthalt;</l>
+                        <l>Vom Wald die Finken kommen und <lb/>singen, dass es schallt.</l>
+                    </lg>
+                    <lg>
+                        <l>Und auf der Bank darunter, die mit <lb/>dem Kindlein da,</l>
+                        <l>Das ist in alle Wege die blond Frau <lb/>Musika.</l>
+                    </lg>
+                    <lg>
+                        <l>Der jungfrisch Stadttrompeter bläst <lb/>eben grad vom Thurm,</l>
+                        <l>Er bläst, dass nun vergangen all <lb/>Noth und Wintersturm.</l>
+                        <l/>
+                    </lg>
+                    <pb n="2r"/>
+                    <lg>
+                        <l>Die Schwalb ist heimgekehret, lind <lb/>weht des Lenzes Hauch</l>
+                        <l>Das bläst er jetzt vom Thurme nach <lb/>altehrwürd’gem Brauch;</l>
+                    </lg>
+                    <lg>
+                        <l>Herr Gott die Saaten segne mit <lb/>deiner milden Hand</l>
+                        <l>Und gieb uns Frieden, Frieden <lb/>im lieben, deutschen Land.</l>
+                        <l/>
+                    </lg>
+                </div>
+                <div n="5" type="Lied">
+                    <head>V.</head>
+                    <lg>
+                        <l>Weiter geht's und immer weiter</l>
+                        <l>Ach, noch immer denk ich dein!</l>
+                        <l>Vor mir stehn im Duft d. Wälder</l>
+                        <l>Rückwärts brennt der Abendschein.</l>
+                    </lg>
+                    <lg>
+                        <l>Einsam werden Weg und Stege,</l>
+                        <l>Ganz alleine wandr’ ich bald;</l>
+                        <l>Einen Falken seh ich kreisen –</l>
+                        <l>Über mir schon rauscht der Wald.</l>
+                    </lg>
+                </div>
+                <div n="6" type="Lied">
+                    <head>VI</head>
+                    <lg>
+                        <l>Nun geht der Mond durch Wolkennacht</l>
+                        <l>Nun ist der Tag herum</l>
+                        <l>Nun schweigen alle Vögel bald</l>
+                        <l>Im Walde um und um.</l>
+                    </lg>
+                    <lg>
+                        <l>Die Drossel singt ihr letztes Lied</l>
+                        <l>Ein Lied zu allerbest,</l>
+                        <l>Die Amsel pfeift den letzten Ton</l>
+                        <l>Und fliegt zu Nest, zu Nest.</l>
+                    </lg>
+                    <lg>
+                        <l>Da nehm auch ich zur guten Nacht</l>
+                        <l>Zur Hand die Geige mein,</l>
+                        <l>Das ist ein klingend Nachtgebet</l>
+                        <l>Und dringt zum Himmel ein.</l>
+                    </lg>
+                    <lb/>
+                    <lb/>
+                </div>
+                <div>
+                    <head>Fiedellieder, Textkopie von Carl Louis Bargheer, Bl. 1r/v, D-DT, Mus-h 1 B 7, Bl. 1r/2v:</head>
+                    <p><figure>
+                            <graphic url="/images/Mus-h_1B7_001.jpg" height="750px"/>
+                            <figDesc>Fiedellieder, Textkopie von Bargheer, Bl. 1r/2v, D-DT, Mus-h1-B 7</figDesc>
+                        </figure><lb/><lb/></p>
+                </div>
+                <div>
+                    <head>Fiedellieder, Textkopie von Carl Louis Bargheer, Bl. 1r/v, D-DT, Mus-h 1 B 7, Bl. 1v/2r:</head>
+                    <p><figure>
+                            <graphic url="/images/Mus-h_1B7_002.jpg" height="750px"/>
+                            <figDesc>Fiedellieder, Textkopie von Bargheer, Bl. 1v/2r, D-DT, Mus-h1-B 7</figDesc>
+                        </figure></p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

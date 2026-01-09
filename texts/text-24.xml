@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Ferdinand David an Carl Louis Bargheer, Leipzig, 6. Oktober 1865</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>LLB, Mus-h 1 B 50, 1 Bl. (1 b. S.)</p></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-24</p></encodingDesc><revisionDesc><change when="2011-08-24" who="JV">erfasst und Korrekturgelesen</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Ferdinand David an Carl Louis Bargheer, <lb/>Leipzig, 6. Oktober 1865</head><opener><dateline rend="right"><hi rend="latintype">Leipzig</hi> 6 Oct. 1865.</dateline><salute>Lieber Herr <hi rend="latintype">Bargheer</hi>,</salute></opener><p>Ihren Wunsch habe ich der Conzert-Direktion mitgetheilt in deren Auftrage ich Ihnen mitzutheilen habe:</p><p>"Daß sie hofft Ihnen zu der von Ihnen gewünschten Zeit Ihnen ein Engagement anbieten zu können, worüber Ihnen später Mittheilung gemacht werden wird." Ich brauche Ihnen nicht zu sagen daß ich mich sehr freuen werde Sie wieder zu sehen u. zu hören.</p><closer><salute>Stets Ihr Sie herzlich liebender</salute><lb/><signed rend="center"><hi rend="latintype">FDavid</hi></signed></closer></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand David an Carl Louis Bargheer, Leipzig, 6. Oktober 1865</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>LLB, Mus-h 1 B 50, 1 Bl. (1 b. S.)</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-24</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2011-08-24" who="JV">erfasst und Korrekturgelesen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">Ferdinand David an Carl Louis Bargheer, <lb/>Leipzig, 6. Oktober 1865</head>
+                <opener><dateline rend="right"><hi rend="latintype">Leipzig</hi> 6 Oct. 1865.</dateline><salute>Lieber Herr <hi rend="latintype">Bargheer</hi>,</salute></opener>
+                <p>Ihren Wunsch habe ich der Conzert-Direktion mitgetheilt in deren Auftrage ich Ihnen mitzutheilen habe:</p>
+                <p>"Daß sie hofft Ihnen zu der von Ihnen gewünschten Zeit Ihnen ein Engagement anbieten zu können, worüber Ihnen später Mittheilung gemacht werden wird." Ich brauche Ihnen nicht zu sagen daß ich mich sehr freuen werde Sie wieder zu sehen u. zu hören.</p>
+                <closer><salute>Stets Ihr Sie herzlich liebender</salute><lb/><signed rend="center"><hi rend="latintype">FDavid</hi></signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

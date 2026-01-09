@@ -1,3 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Detmold, 8. Februar 1837</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 11</idno></msIdentifier><physDesc><p>1 DBl., 4 b. S. o. Adr.</p><p>auf 2v lediglich großes "<hi rend="latintype">K:</hi>" notiert, keine Adresse</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2031</p></encodingDesc><revisionDesc><change when="2013-08-26" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 8. Februar 1837
-                </head><opener><dateline rend="right">Detmold den 18/2 37.</dateline><salute>Hochverehrter Herr Capellmeister!</salute></opener><p>Vor einiger Zeit wurde von unserm Hofe der Wunsch geäußert, Ihr herrliches Werk "des Heilands letzte Stunden" in <hi rend="latintype">Detmold</hi> zur Aufführung zu bringen. Sogleich kaufte ich eine bedeutende Anzahl Chorstimmen, und begann die Proben. Der hiesige Singverein besteht ohngefähr aus 50 bis 54 Personen, die die sich noch zu dieser Aufführung viele Damen und Herren der Umgegend angeschlossen haben; auch wird das Theater-Chor zur Verstärkung beitragen, und die ersten Sänger die <hi rend="latintype">Solo</hi> Parthieen übernehmen, so daß ich dadurch in den Stand gesetzt bin, das <hi rend="latintype">Oratorium</hi> würdig ausführen zu können. Ich erlaube mir die <pb n="1v"/>Bitte, mir die <hi rend="latintype">Partitur</hi> und <hi rend="latintype">Orchester-</hi>stimmen gütigst leihen zu wollen, mit meinem herzlichsten Danke werde ich dieselben Ihnen unversehrt wieder zustellen. Ich gedenke das <hi rend="latintype">Oratorium</hi> Ende <hi rend="latintype">Mai</hi>zur Aufführung zu bringen.</p><p>Es ist hier bei unserm Theater ein junges Mädchen Fr: <hi rend="latintype">Emma Scott</hi> aus <hi rend="latintype">Ludwigslust</hi> eine Verwandte von mir, welche neben einer ausgezeichneten <hi rend="latintype">Sopran</hi> Stimme (ich darf Sie dabei an die Traut erinnern) eine sehr schöne Figur besitzt, und ausgezeichnet <hi rend="latintype">Clavier</hi> spielt. Man hat ihr hier einen mehrjährigen <hi rend="latintype">Contract</hi> angeboten, weil man mit Recht vermuthet, daß sie sonst nicht lange bleiben würde. Ich rieth ihr jedoch davon ab. Wenn Ew: Wohlgebor: darauf <hi rend="latintype">reflectiren</hi> würden, sie bei Ihrem Theater zu <hi rend="latintype">engagiren</hi>, so bin ich innig überzeugt, daß sie unter Ihrer Leitung in kurzer Zeit eine ausgezeichnete Sängerin werden wird. Sie <pb n="2r"/>kann, da sie auf mein Anrathen, einen mehrjährigen <hi rend="latintype">Contract</hi> bei der Detmolder Bühne ausgeschlagen hat, sogleich in <hi rend="latintype">Cassel</hi> eintreffen, da sie sechswöchentliche Kündigung hat, und ich bin gewiß, daß Ihre Erwartungen übertroffen werden. Als <hi rend="latintype">Rezia</hi>, <hi rend="latintype">Agathe</hi> ist sie in <hi rend="latintype">Münster</hi> gerufen, dieselbe Auszeichnung wäre ihr auch hier zu Theil geworden, wenn hier dergleichen erlaubt wäre.</p><p>Nochmals wiederhole ich meine Bitte hinsichtlich des <hi rend="latintype">Oratoriums</hi>. Würden Sie bei der Aufführung zugegen sein so würden Sie sich überzeugen mit welcher Liebe und Fleiß man Ihr schönes Werk <hi rend="latintype">executiren</hi> wird.</p><closer>Ihrer verehrten Frau Gemahlin und Tochter bitte ich mich zu empfehlen. <lb/>Hochachtungsvoll und ergebenst<lb/>Ew: Wohlgebor:<lb/><seg rend="right">dankbarer Schüler</seg><signed><hi rend="latintype">AugKiel.</hi></signed></closer></div><div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348754245056/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 11</ref></p></div></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title><lb/>August Kiel an Louis Spohr, Detmold, 8. Februar 1837</title>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p>Publication Information</p>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <msDesc>
+                                                                                <msIdentifier>
+                                                                                                <institution>Universitätsbibliothek Kassel</institution>
+                                                                                                <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 11</idno>
+                                                                                </msIdentifier>
+                                                                                <physDesc>
+                                                                                                <p>1 DBl., 4 b. S. o. Adr.</p>
+                                                                                                <p>auf 2v lediglich großes "<hi rend="latintype">K:</hi>" notiert, keine Adresse</p>
+                                                                                </physDesc>
+                                                                                <additional/>
+                                                                </msDesc>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr. text-2031</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2013-08-26" who="JV">Übertragen und erstmals angelegt</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div type="letter">
+                                                                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 8. Februar 1837 </head>
+                                                                <opener><dateline rend="right">Detmold den 18/2 37.</dateline><salute>Hochverehrter Herr Capellmeister!</salute></opener>
+                                                                <p>Vor einiger Zeit wurde von unserm Hofe der Wunsch geäußert, Ihr herrliches Werk "des Heilands letzte Stunden" in <hi rend="latintype">Detmold</hi> zur Aufführung zu bringen. Sogleich kaufte ich eine bedeutende Anzahl Chorstimmen, und
+                                                                                begann die Proben. Der hiesige Singverein besteht ohngefähr aus 50 bis 54 Personen, die die sich noch zu dieser Aufführung viele Damen und Herren der Umgegend angeschlossen haben; auch wird das Theater-Chor zur
+                                                                                Verstärkung beitragen, und die ersten Sänger die <hi rend="latintype">Solo</hi> Parthieen übernehmen, so daß ich dadurch in den Stand gesetzt bin, das <hi rend="latintype">Oratorium</hi> würdig ausführen zu können. Ich
+                                                                                erlaube mir die <pb n="1v"/>Bitte, mir die <hi rend="latintype">Partitur</hi> und <hi rend="latintype">Orchester-</hi>stimmen gütigst leihen zu wollen, mit meinem herzlichsten Danke werde ich dieselben Ihnen unversehrt
+                                                                                wieder zustellen. Ich gedenke das <hi rend="latintype">Oratorium</hi> Ende <hi rend="latintype">Mai</hi>zur Aufführung zu bringen.</p>
+                                                                <p>Es ist hier bei unserm Theater ein junges Mädchen Fr: <hi rend="latintype">Emma Scott</hi> aus <hi rend="latintype">Ludwigslust</hi> eine Verwandte von mir, welche neben einer ausgezeichneten <hi rend="latintype">Sopran</hi> Stimme
+                                                                                (ich darf Sie dabei an die Traut erinnern) eine sehr schöne Figur besitzt, und ausgezeichnet <hi rend="latintype">Clavier</hi> spielt. Man hat ihr hier einen mehrjährigen <hi rend="latintype">Contract</hi> angeboten,
+                                                                                weil man mit Recht vermuthet, daß sie sonst nicht lange bleiben würde. Ich rieth ihr jedoch davon ab. Wenn Ew: Wohlgebor: darauf <hi rend="latintype">reflectiren</hi> würden, sie bei Ihrem Theater zu <hi rend="latintype"
+                                                                                                >engagiren</hi>, so bin ich innig überzeugt, daß sie unter Ihrer Leitung in kurzer Zeit eine ausgezeichnete Sängerin werden wird. Sie <pb n="2r"/>kann, da sie auf mein Anrathen, einen mehrjährigen <hi
+                                                                                                rend="latintype">Contract</hi> bei der Detmolder Bühne ausgeschlagen hat, sogleich in <hi rend="latintype">Cassel</hi> eintreffen, da sie sechswöchentliche Kündigung hat, und ich bin gewiß, daß Ihre
+                                                                                Erwartungen übertroffen werden. Als <hi rend="latintype">Rezia</hi>, <hi rend="latintype">Agathe</hi> ist sie in <hi rend="latintype">Münster</hi> gerufen, dieselbe Auszeichnung wäre ihr auch hier zu Theil geworden, wenn
+                                                                                hier dergleichen erlaubt wäre.</p>
+                                                                <p>Nochmals wiederhole ich meine Bitte hinsichtlich des <hi rend="latintype">Oratoriums</hi>. Würden Sie bei der Aufführung zugegen sein so würden Sie sich überzeugen mit welcher Liebe und Fleiß man Ihr schönes Werk <hi rend="latintype"
+                                                                                                >executiren</hi> wird.</p>
+                                                                <closer>Ihrer verehrten Frau Gemahlin und Tochter bitte ich mich zu empfehlen. <lb/>Hochachtungsvoll und ergebenst<lb/>Ew: Wohlgebor:<lb/><seg rend="right">dankbarer Schüler</seg><signed><hi rend="latintype"
+                                                                                >AugKiel.</hi></signed></closer>
+                                                </div>
+                                                <div>
+                                                                <div type="letter" subtype="facsimile">
+                                                                                <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348754245056/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 11</ref></p>
+                                                                </div>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

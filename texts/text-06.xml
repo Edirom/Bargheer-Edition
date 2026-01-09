@@ -1,8 +1,322 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="A030022"><teiHeader><fileDesc><titleStmt><title>Quellenbeschreibung</title><author xml:id="author">Andreas Fukerider</author><editor/><editor/><funder><name>Bargheer-Edition</name><address><street/><postCode/><placeName><country>D</country><settlement>Detmold</settlement></placeName></address></funder></titleStmt><editionStmt><edition/><respStmt><resp/><name/></respStmt></editionStmt><extent>less than 1 MB</extent><publicationStmt><publisher/><availability status="restricted"><p/></availability></publicationStmt><notesStmt><note/></notesStmt><sourceDesc><p/></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-06</p><projectDesc><p>Bargheer-Fiedellieder-Ausgabe</p></projectDesc><editorialDecl><p/></editorialDecl></encodingDesc><profileDesc><creation><date/></creation><langUsage><language ident="de-DE">Deutsch</language></langUsage><textClass>
-            
-            
-         </textClass></profileDesc><revisionDesc status="proposed"><change when="2012-12-18" who="JV">Korrekturlesung Fukerider eingearbeitet; Bennung Quellen angepasst</change><change when="2012-12-16" who="JV">Im ersten Teil durch die Verweise ergänzt</change><change when="2011-12-16" who="AF">Datei in xml übertragen</change></revisionDesc></teiHeader><text><body><div><head type="main">Quellenbeschreibung</head><head>von Andreas Fukerider</head><lb/><head><lb/>Verweise auf tabellarische Darstellungen:</head><p>⇒ <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1003.xml">Tabellarische Darstellung des Manuskriptaufbaus</ref></p><p>⇒ <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1004.xml">Tabellarische Darstellung der Werkgenese</ref> (Überblick zu den Überarbeitungsstufen der Lieder)</p><p>⇒ <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1001.xml">Farblegende zu den Eintragungen in der Edition</ref></p></div><div><head>Beschreibung der Quellen zur Musik:</head><lb/><head><lb/>Inhalt der Mappe</head><p>Die Mappe enthält 11, teils ineinandergelegte, teils aufeinander folgende Doppelblätter, sowie ein eingeschobenes einzelnes Blatt; an einem der Bögen ist ein zusätzliches Blatt angeklebt (Maße der Seiten  27 x 35,5 cm). Von Bibliothekarshand ist nachträglich eine durchlaufende Foliierung von „-1-“ bis „-24-“ eingetragen, die allerdings die Chronologie der Handschrift nicht beachtet (vgl. w.u.). Die Mappe enthält die 6 Lieder in einer Reinschrift (Bl. 1–10), in einer Kopistenabschrift, die zunächst nur 4 Lieder umfasste (Bl. 13–17 und 23–24), ferner von Bargheers Hand die nachkomponierten beiden Lieder 4 und 5 (Bl. 18–20) und das letzte Lied in einer frühen Fassung (Bl. 21–22). Zusätzlich enthält die Mappe einen Stimmauszug für Violine von Bargheers Hand (Bl. 11–12).</p></div><div><head>Bindung</head><p>Die Bögen 1r–10v (Reinschrift Bargheers) sind durch Fadenbindung zusammengehalten, der Bogen mit fol. 11r–12v (Violine Solo) ist eingelegt. Separat sind die Bögen von fol. 13r–17v und 23r–24v zusammengebunden, wobei in deren Mitte die Bögen mit den fol. 18r–22v eingelegt sind (vgl. hierzu auch die <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1003.xml">Tabellarische Darstellung</ref>). Innerhalb der Mappe lassen sich somit mehrere inhaltlich zusammengehörende Einheiten erkennen, die in der Mappe nur hinter- und ineinander gelegt, aber nicht mehr zusammengebunden wurden; eine dieser Einheiten besteht aus der Reinschrift Bargheers (Bl. 1–10), eine weitere aus der ursprünglichen Kopistenabschrift (Bl. 13–17 und 23–24). In der Kopistenabschrift sind als weitere Bögen die nachkomponierten Lieder 4 und 5 (Bl. 18–20) und die Frühform des 6. Liedes (Bl. 21–22) eingelegt, aber nicht zusammengebunden. Die Violinstimme (Bl. 11–12) ist ebenfalls lediglich eingelegt. Schon der äußere Handschriftenbefund lässt also vermuten, dass die Lieder 4 und 5 später komponiert wurden als die anderen Lieder.</p></div><div><head>Papiersorte</head><p>Fol. 1r–12v bestehen aus der Papiersorte mit dem Aufdruck „Joh. Aug. Böhme, Hamburg. No. 1“ (teils ist dieser Aufdruck überklebt, sichtbar ist er am unteren linken Rand von Bl. 1r, 2r, 3r, 7r,  8r, 12r, 13r, 18r und 20r). Auf 7r und 8r ist die Schrift dabei in einer kleineren Type gesetzt als auf den übrigen Seiten. Bei Fol. 13r–17v und 18r-20v handelt es sich um mit einer Schablone (sehr sauber) 12-zeilig rastriertes Papier mit abweichender Rastralgröße, wobei fol. 13r und 14v von Bargheer ganzflächig mit dem Böhme-Papier überklebt sind. Danach folgt ein einzelner Bogen mit dem Aufdruck „B&amp;H. Nr. 1. C.“ unterhalb des Verlags-Logos (Bär mit Wappen und Eindruck „1719“; fol. 21r–22v). Bei den vier letzten Blättern handelt es sich wieder um das vom Kopisten auch sonst benutzte Papier (fol. 23r–24v).
-               </p></div><div><head>Lagenordnung</head><p>Auf drei ineinander gelegte DBl. (fol. 1r–6v) folgen zwei ineinandergelegte (fol. 7r–10v), dann ein einzelnes DBl. (fol. 11r–12v). Nach einem einzelnen Blatt (fol. 13r)  (ursprünglich 1 DBl., Bl. 2 abgeschnitten) schließen sich zwei ineinandergelegte Bögen an (fol. 14r–15v und 23r–24v), in deren Mitte drei weitere Bögen liegen: ein einzelner (fol. 16r–17v), ein einzelner mit angeklebtem Blatt (fol. 18r–20v), und noch ein einzelner Bogen (fol. 21r–22v) sind dort hintereinander eingelegt. Bevor die Blätter 16–22 eingelegt wurden, folgte auf Blatt 15 direkt Blatt 23.</p></div><div><head>Überklebungen</head><p>Im Notentext finden sich zahlreiche Überklebungen, auf denen Bargheer umfangreiche Korrekturen, hauptsächlich in der Abschrift des Kopisten, vorgenommen hat. Die folgende Tabelle listet alle Überklebungen auf:</p><table><row><cell>Überklebung Nr.</cell><cell>Seite</cell><cell>Lied</cell><cell>Überklebte Takte</cell></row><row><cell>1</cell><cell>3v</cell><cell>„Nun ein Scherflein in die Runde” (Nr. 2)</cell><cell>T. 33 f. über der Reinschrift Bargheers</cell></row><row><cell>2</cell><cell>13r</cell><cell>„Wenn mir unterm Fiedelbogen” (Nr. 1)</cell><cell> T. 1–22 über der Kopistenabschrift (dazu auch die erste Akkolade auf fol. 13v durchgestrichen)</cell></row><row><cell>3</cell><cell>14r</cell><cell>„Wenn mir unterm Fiedelbogen” (Nr. 1)</cell><cell>T. 45–52 über der Kopistenabschrift</cell></row><row><cell>4</cell><cell>14v–15r</cell><cell>„Nun ein Scherflein in die Runde” (Nr. 2)</cell><cell>T. 1–20 über der Kopistenabschrift</cell></row><row><cell>5</cell><cell>16r</cell><cell>„Nun ein Scherflein in die Runde” (Nr. 2)</cell><cell>T. 43–48 über der Kopistenabschrift, dazu vier Takte „Allegro molto” vor Lied Nr. 3 ergänzt</cell></row><row><cell>6</cell><cell>17v</cell><cell>„Musikanten wollen wandern” (Nr. 3)</cell><cell>T.39–46 über der Kopistenabschrift</cell></row><row><cell>7</cell><cell>20v</cell><cell>„Weiter geht's und immer weiter” (Nr. 5)</cell><cell>T. 9–12 über Bargheers nachträglich eingefügter Niederschrift</cell></row><row><cell>8</cell><cell>22r</cell><cell>„Nun geht der Mond” (Nr. 6)</cell><cell>T. 23 über Bargheers Kopistenvorlage (nur Violinstimme)</cell></row><row><cell>9</cell><cell>22r</cell><cell>„Nun geht der Mond” (Nr. 6)</cell><cell>T. 26 f. über Bargheers Kopistenvorlage (nur Violinstimme)</cell></row><row><cell>10</cell><cell>22v</cell><cell>„Nun geht der Mond” (Nr. 6)</cell><cell>T. 48–53  über Bargheers Kopistenvorlage</cell></row><row><cell>11</cell><cell>23r</cell><cell>„Nun geht der Mond” (Nr. 6)</cell><cell>T. 1–4 über der Kopistenabschrift</cell></row></table></div><div><head>Nummerierung</head><p>Es gibt zwei Nummerierungsarten; die Foliierung des Bibliothekars, der in die rechte, obere Ecke jeder recto-Seite mit Bleistift fortlaufende Nummern (1–24) eingetragen hat, und die (unvollständige) Seiten-Nummerierung des Kopisten oder Bargheers selbst. Letzere besteht aus mit Tinte geschriebenen Zahlen in der oberen, äußeren Ecke jedes Blattes und verläuft von fol. 13r mit der Nummer „[1]“ (möglicherweise notiert, aber durch die Überklebung nicht erkennbar) bis zu fol. 19v mit der Nummer „14“. Das leere fol. 20r hat nur die Foliierung des Bibliothekars, erst fol. 20v ist in der mit Tinte bezeichneten Zählung die Nummer „15“. Fol. 21r–22v sind wiederum nur vom Bibliothekar nummeriert, und erst fol. 23r–24v mit den anschließenden Seitennummern „16“ bis „19“ bezeichnet. Bei diesen letzten vier Nummern handelt es sich nicht um die ursprünglichen Zahlen; vielmehr sind darunter die Nummern „11“ bis „15“ erkennbar, deren letzte Ziffern jeweils überschrieben wurden (d. h., dass die „1” als Zehnerstelle jeder Zahl noch von der ursprünglichen Zählung beibehalten wurde und nur die letzte der beiden Ziffern überschrieben ist, was bei der Zuordnung der Nummerierungen von Bedeutung ist). </p><p>Nun gibt es entweder die Möglichkeit, dass alle diese Seitennummern in Tinte von Bargheer stammen, oder dass sie teilweise auf ihn und teilweise auf den Kopisten zurückgehen. Die Möglichkeit, dass alle vom Kopisten herrühren, ist unwahrscheinlich, da fol. 18r–20v (S. 11–15) nur von Bargheer beschrieben wurden und also vermutlich auch von ihm nummeriert wurden.</p><p>Um die verschiedenen Nummerierungen zuzuordnen, hilft der Blick auf die Lagenordnung: Da fol. 23r–24v vom Kopisten stammen (mit Schablone rastriertes Papier, gleiche Bögen wie fol. 14r–15v), stellen die überschriebenen Zahlen wohl dessen ursprüngliche Zählung dar.</p><p>Die auf dem Böhme-Papier befindlichen, eingelegten fol. 18r–20v sind demnach von Bargheer selbst nachträglich vor fol. 23r eingefügt und nummeriert worden. Dabei musste die ursprüngliche Nummerierung des Kopisten auf fol. 23r–24v korrigiert werden, weshalb Bargheer die alten Nummern überschrieb. Die unnummerierte, leere fol. 20r erklärt sich vermutlich dadurch, dass Bargheer bereits bei der Niederschrift des Liedes „Weiter geht’s und immer weiter” (Nr. 5) von Anfang an einen bruchlosen Übergang zu „Nun geht der Mond” (Nr. 6) schaffen wollte, indem er das letzte Wort von „Weiter geht’s” als verbindendes Moment im ersten Takt von „Nun geht der Mond” (mit Bleistift unter der Überklebung auf fol. 21r) nutzt. Da der Kopist das in der ihm von Bargheer vorgelegten früheren Fassung vorletzte Lied, „Musikanten wollen wandern” (Nr. 3, fol. 16v–17v), auf einer verso-Seite beendet hatte, fing „Nun geht der Mond” (fol. 23r) auf einer recto-Seite an, sodass Bargheer gezwungen war, an sein eingefügtes Doppelblatt (fol. 18–19) ein einzelnes Blatt (fol. 20) anzuhängen, dessen recto-Seite er unbeschriftet ließ, um den Übergang vom genau eine Seite einnehmenden „Weiter geht’s” zu „Nun geht der Mond” auf einen Blick sichtbar und ohne Blättern spielbar zu notieren.</p><p>Weitere Indizien für die Vermutung, dass die Überschreibungen der Seitennummern sowie die Nummern der Seiten 11–15 auf fol. 18r–20v von Bargheer stammen, findet man im Vergleich der Handschriften beider Schreiber. Man vergleiche</p><list><item>die Schreibung der „1”: Fol. 17v zeigt in der Seitennummer die „1” des Kopisten. Daneben findet sich die „1” als Fingersatz der Geigenstimme auf fol. 13v. Diese beiden Ziffern haben den Knick nach links am oberen Ende gemeinsam. Beim Fingersatz könnte das zur Unterscheidung der „1” vom staccato-Keil oder -Strich dienen. Die mutmaßlich vom Kopisten stammenden Ziffern „1” als nicht überschriebene Teile auf fol. 23r–24v zeigen entweder keinen Knick (fol. 23r) oder eine Knickandeutung/Ballung von Tinte am oberen Ende (fol. 23v–24r). Im Gegensatz dazu ist die Ziffer „1” in den Seitennummern auf fol. 18r–20v mehr oder weniger deutlich unten mit dem Knick/der Balkung versehen, genauso wie die eindeutig von Bargheer stammenden Ziffern auf der Überklebung von fol. 17v.</item><item>die Schreibung der „2”: Fol. 13v zeigt die „2” des Kopisten als Seitenzahl und als Fingersatz über der Geigenstimme. Beim Vergleich mit Bargheers „2” (als 2[do] auf der Überklebung auf fol. 14r, als Seitennummer bei fol. 18v, auf fol. 12v oder wieder als 2[do]  auf fol. 5r) stellt sich diese als zackiger und unrunder als die „2” des Kopisten heraus.</item><item>die Schreibung der „3”: Fol. 14r zeigt die „3” des Kopisten als Seitenzahl und in der Taktangabe unter der Überklebung. Beim Vergleich mit Bargheers „3” (in der Taktangabe auf fol. 2v und 12v, als Seitenzahl auf fol. 19r) stellt sich auch diese als zackiger und unrunder als die „3” des Kopisten heraus.</item><item>die Schreibung der „6”: Dieser Vergleich ist das aussagekräftigste Indiz beim Vergleich der Schreibung der Ziffern. Fol. 13r zeigt unter der Überklebung die „6” des Kopisten als Taktangabe, auf fol. 15v als Seitennummer. Beim Vergleich mit Bargheers „6” (in der Taktangabe auf fol. 1r, 11r, 12v und 13r, als Taktzahl auf fol. 11r) fällt besonders auf, dass Bargheer seine „6” im Gegensatz zum Kopisten niemals mit überhängendem Bogen schreibt, sondern stets einen recht geraden Hals notiert.</item></list><p>Generell lässt sich feststellen, dass Bargheers Schrift unrunder und eckiger ist als die des Kopisten. Man vergleiche dazu ganz allgemein die Form der Notenköpfe (oval bei Bargheer und beinahe kreisförmig beim Kopisten) und die Schreibung der Violinschlüssel.</p><p>Aus dieser Nummerierung und der Verteilung der Papiersorten ab fol. 13r lässt sich schließen, dass fol.18r–20v erst nach der Kopistenabschrift hinzugefügt wurden. Vermutlich hatte Bargheer daher die Lieder „Am Markte bei der Kirchen“ und „Weiter geht’s und immer weiter“ (Nr. 4 und 5) noch nicht komponiert, als er seine Urfassung dem Kopisten übergab.</p></div><div><head>Überlieferungsstufen</head><div><head type="sub">Allgemeines</head><p>Ganz allgemein lassen sich drei erhaltene Überlieferungsschichten unterscheiden: Die <hi rend="bold">Kopistenschicht (K)</hi>, die <hi rend="bold">Korrekturschicht</hi> Bargheers auf dieser Abschrift <hi rend="bold">(K<hi rend="superscript">A</hi>)</hi> und <hi rend="bold">Bargheers Reinschrift (A<hi rend="sup">2</hi></hi> bzw. im Lesartenverzeichnis: A2). Innerhalb dieser Schichten können weitere Korrekturen und Änderungen auftreten, die aber nicht als eigenständige Schichten, sondern lediglich als Arbeitsstufen gelten. An einzelnen, besonderen Stellen werden diese Arbeitsstufen diskutiert.</p><p>Dazu kommt bei Nr. 6 „Nun geht der Mond” als besondere, zusätzlich erhaltene Schicht die <hi rend="bold">erste Niederschrift des Liedes</hi>, die der Kopist als Vorlage benutzt hat (<hi rend="bold">A<hi rend="superscript">V</hi></hi> in der Übersicht bzw. innerhalb der Lesarten <hi rend="bold">A1</hi> bezeichnet).</p><p>Die einzelnen Schichten lassen sich wie folgt charakterisieren:</p><list><item>A<hi rend="superscript">V</hi> bzw. <hi rend="bold">A<hi rend="sub">1</hi></hi>: Nur noch fragmentarisch erhaltenes Autograph als Vorlage zur Kopistenabschrift. Dieses Autograph ist lediglich zu „Nun geht der Mond” (Nr. 6) auf fol. 21r–22v erhalten. Auf dieser Schicht finden sich bereits Korrekturen.</item><item><hi rend="bold">K</hi>: Kopistenabschrift. Diese Abschrift muss auf einer früheren Fassung der Lieder (vermutlich A1) beruhen, die größtenteils (bis auf Nr. 6) nicht mehr erhalten ist. Zu dieser Stufe gehört alles, was auf dem nicht von Böhme und Breitkopf stammenden Papier notiert ist. Selten sind hier Korrekturen des Kopisten selbst zu finden.
-                        </item><item><hi rend="bold">K<hi rend="superscript">A</hi></hi>: Korrekturschicht auf der Kopistenabschrift. Diese Korrekturen wurden von Bargheer meist durch Überklebungen hergestellt, nur selten korrigierte er direkt auf dem Text des Kopisten. Häufig finden sich weitere Änderungen, die durch Rasur oder Überklebung auf den bereits vorhandenen Korrekturen und Überklebungen vorgenommen wurden. Innerhalb dieser Korrekturschicht lassen sich verschiedenene Arbeitsstufen unterscheiden.<lb/>
-                            Die Korrekturen betreffen sowohl sämtliche Stimmen als auch die Textverteilung und vor allem – was die Anlage der Fiedellieder substantiell verändert – neu erstellte Übergänge zwischen den Liedern. Bargheer hat im Laufe der Korrekturen den sechs Liedern eine zyklische Anlage gegeben (bzw. diese verstärkt), sodass eine separate Aufführung einzelner Lieder wohl nicht mehr in Frage kommen konnte.<lb/></item><item>A<hi rend="sup">R</hi> bzw. <hi rend="bold">A<hi rend="sub">2</hi></hi>: Reinschrift Bargheers. Nachdem Bargheer mit allen Liedern in der korrigierten Fassung zufrieden war, übertrug er sie gesammelt in eine reinschriftliche Fassung. In dieser finden sich teilweise zwar weitere Ergänzungen in Bogensetzung, Artikulation oder Dynamik, die in den Korrekturen der früheren Fassungen nicht enthalten sind , ebenso kleinere Veränderungen im Notentext selbst (z. B. die Überklebung auf fol. 3v), im Großen und Ganzen wurde hier aber nichts mehr substantiell verändert. Die Bleistiftergänzungen in der Reinschrift stammen wohl überwiegend nicht von Bargheer selbst, sondern wahrscheinlich zum größten Teil von dem Pianisten, der diese Reinschrift bei einer Aufführung benutzte. Dafür spricht, dass die Eintragungen in der Reinschrift sich fast ausschließlich auf die Klavierstimme beschränken, und sich die Dynamikbezeichnungen in ihrer Schreibung deutlich von denen Bargheers und der Bezeichnungen im Violinen-Stimmauszug unterscheiden.<lb/></item></list><p>Eine Sonderstellung nimmt die Überlieferung des Stimmenauszuges der Violine (<hi rend="bold">A<hi rend="sub">3</hi></hi>, fol. 11r–12v) ein. Eine ausführliche Diskussion dieser Stimme findet weiter unten statt.</p><p>Außerdem enthalten der Stimmenauszug und die Reinschrift zahlreiche weitere Bleistifteintragungen, die nicht von Bargheer stammen. Auch dazu unten mehr.</p><lb/><lb/></div><div><head>Überlieferung der einzelnen Lieder</head><lb/><div><head type="sub">Nr. 1 „Wenn mir unterm Fiedelbogen”</head><p>Bei „Wenn mir unterm Fiedelbogen” (fol. 1r-2r, 13r-14r, 12v) lassen sich mustergültig die Schichten K, K<hi rend="superscript">A</hi> und AR unterscheiden. Dabei hat Bargheer die erste Seite der Kopistenabschrift (fol. 13r) komplett überklebt und auf der folgenden Seite die erste Akkolade ebenfalls gestrichen: T. 1–22 wurden so nach der Kopistenabschrift korrigiert. Ebenso sind die letzten Takte (T. 45–52) des Kopisten vollständig durch eine neue Version ersetzt. Außerdem findet man hier auf fol. 13v, T. 7 eine der seltenen Korrekturen Bargheers direkt im Notentext des Kopisten; der Bargheer'sche Notenkopf ist in Größe und Gestalt von den Köpfen des Kopisten zu unterscheiden. Außerdem erkennt man deutlich den vorherigen Bleistifteintrag unter der Tinte, und das Kreuz ähnelt eher dem Bargheers als dem des Kopisten.</p><lb/></div><div><head type="sub">Nr. 2 „Nun ein Scherflein in die Runde”</head><p>Eine Unterscheidung der Überarbeitungsstufen  in „Nun ein Scherflein in die Runde” (fol. 2v-4r, 14v-16r) erweist  sich als komplizierter als in vielen anderen Liedern. Erneut sind größere Abschnitte der Kopistenabschrift (die komplette erste und die zweite Seite mit Ausnahme der letzten Akkolade und ebenso die letzte Akkolade des Liedes, fol. 14v–15r) durch eine weitere Version Bargheers überklebt. Neben der zugrunde liegenden Kopisten-Schicht (mit einer Kopisten-Rasur des falsch gesetzten Taktstriches unter der Überklebung auf fol. 15r) finden sich unter der Überklebung in T. 7 und 3 als erster Korrekturschritt Bleistiftkorrekturen Bargheers. Offensichtlich führte der Wunsch nach umfassenden Änderungen dann dazu, dass Bargheer  die komplette Seite 14v und zwei Drittel von fol. 15r überklebte. Auf dieser Überklebung findet sich dann ein weiterer Arbeitsschritt durch erneute Korrekturen, vgl. fol. 15r, T. 5f. im Klavier. Diese letzten Korrekturen hat er dann bis auf einige kleine Änderungen (vgl. z. B. fol. 14v, T. 5f. mit fol.2v, T. 5f.) in der Reinschrift (A<hi rend="sup">R</hi> bzw. A2) übernommen.</p><p>Besondere Beachtung als ausgesprochen komplizierte, aber in den verschiedenen Überarbeitungsstzufen gut nachvollziehbare Stelle verdient der Vergleich von fol. 15v, T. 33f. (mit Auftakt) mit fol. 3v, T. 33ff.  Es lassen sich folgende Arbeittschritte in der Gesangsstimme in chronologischer Reihenfolge festhalten:</p><list><item>Kopistenabschrift: 8tel. 16tel 8tel 8tel 8tel 8tel</item><item>Korrektur: 4tel. 8tel 8tel 8tel + Ergänzung am Ende von T. 8 mit Änderung der Textverteilung</item><item>Übernahme in Reinschrift</item><item>Melodie-Korrektur mit Bleistift in der Kopistenabschrift: T. 9 komplett auf h<hi rend="sup">1</hi></item><item>Überklebung in Reinschrift und Übernahme der Melodie</item></list><p>Ähnlich verhält es sich mit T. 10, hier fehlt lediglich der erste Korrekturvorgang vor der Übernahme in die Reinschrift.</p><p>Eine weitere komplexere Änderung findet sich in den letzten Takten des Liedes:</p><p>Der eingelegte Zettel fol. 16a erklärt sich vermutlich folgendermaßen: die Grundschicht K ist auch hier vorhanden. Anschließend hat Bargheer fol. 16a ausgeschnitten und beschrieben, wobei hier gegenüber der Kopisten-Schicht hauptsächlich die Geigenstimme verändert wurde. Bevor er fol. 16a allerdings festklebte, kam er auf die Idee, die vier Takte Übergang zum nächsten Lied im Klavier zu komponieren, sodass fol. 16a zu kurz war und er einen weiteren Ausschnitt anfertigte, den er dann über fol. 16r klebte und in die Reinschrift übernahm.</p><lb/></div><div><head type="sub">Nr. 3 „Musikanten wollen wandern”</head><p>Dieses Lied ist auf fol. 4r–5r und 16v–17v überliefert. Überklebungen finden sich hier in der K-Schicht nur in den letzten beiden Akkoladen des Liedes. Ferner finden sich innerhalb der K-Schicht auf fol. 16v wiederum deutlich von Bargheers Hand stammende Korrekturzusätze.</p><p>Die K<hi rend="superscript">A</hi>-Schicht als Überklebung mit zwei weiteren Korrekturschritten (eine weitere Überklebung und Rasuren auf dieser zweiten Überklebung) ist hier gut nachvollziehbar. Durch die Korrektur hat Bargheer das 1mo/2do-Ende auffallend an „Wenn mir unterm Fiedelbogen” angeglichen. </p><p>Die Reinschrift weist weitere Bleistiftergänzungen auf, die hier einen bedeutenden Einblick in die Entstehung der Bleistifteintragungen sowohl in den Reinschriften als auch dem Stimmenauszug der Violine geben: In dem Stimmenauszug ist die Wiederholung des Liedes durchgestrichen, genau wie in der Reinschrift im Klavier. Generell sind die Bleistifteintragungen in der Reinschrift ausschließlich auf die Klavierstimme konzentriert, sodass der Schluss nahe liegt, dass bei einer Aufführung die Reinschrift dem Pianisten und die Violinstimme dem Geiger gedient hat. Dies bestätigt sich, wenn man die Schreibungen der „p”s vergleicht; das „p” des Pianisten, des Geigers und Bargheers sind sämtlich deutlich untereinander verschieden, so dass sie von verschiedenen Schreibern stammen dürften. </p><lb/></div><div><head type="sub">Nr. 4 „Am Markte vor der Kirchen” und Nr. 5 „Weiter geht’s und immer weiter”</head><p>Diese beiden, offensichtlich nachkomponierten Lieder sind auf Bl. 18r bis 20v von Bargheers Hand notiert und lassen sich in ihrer Überlieferungsgeschichte gut zusammenfassen; sie enthalten kaum Korrekturen (bis auf die Überklebung auf fol. 20v), was darauf schließen lässt, dass Bargheer diese Lieder erst nach längerer Korrekturphase von einer Vorlage bzw. aus einem Entwurf übertragen hat. Es finden sich lediglich die Schichten K, A<hi rend="sup">R</hi> und wie bereits erwähnt einmal K<hi rend="superscript">A</hi>.</p><lb/></div><div><head type="sub">Nr. 6 „Nun geht der Mond durch Wolkennacht”</head><p>Dieses Lied ist das einzige, das auch in der frühesten  Version (A<hi rend="superscript">V</hi> bzw. A1, fol. 21r–22v) erhalten ist. Durch die zahlreichen Korrekturen Bargheers (Rasuren, Überschreibungen in Tinte und Bleistift, Überklebungen), darunter die besonders markanten Blei- und Buntstift-Eintragungen in der mehrfach geänderten Schlusspassage ( vgl. Überklebung auf fol. 22v), zeigt diese Niederschrift noch deutlich den Charakter eines ersten Entwurfs. Diese Änderungen, die Überklebungen auf fol. 22r sowie andere Rasuren, z. B. auf fol. 21v, T. 11f. und 16f., muss Bargheer bereits vor der Übergabe an den Kopisten gemacht haben, während andere Änderungen, wie beispielsweise die Rasuren auf fol. 21v, T. 1f. und 18f., erst später hinzugefügt wurden, da diese in der Kopistenabschrift nicht übernommen wurden. Interessanterweise hat Bargheer diese späteren Änderungen in weiteren Korrekuren und der Reinschrift ebenfalls nicht übernommen. Die vereinzelten zwei Takte auf fol. 21r erklären sich durch die überklebte Schicht auf fol. 22v: Bargheer fing mit der Niederschrift des Liedes auf fol. 21v an, wohl weil er erwartete, dass er dafür drei Seiten benötigte (um erst nach zwei Seiten blättern zu müssen und danach den Rest des Lieds auf einmal zu überblicken). Unter der Überklebung auf fol. 22v erkennt man, dass die Schlussakkorde allerdings keinen Platz mehr hatten, sodass er sie kurzerhand auf der letzten freien Seite des Bogens als Fortsetzung in den gleichen Notenzeilen notierte. Dass „Nun geht der Mond” auf der verso-Seite anfängt, ohne dass die vorhergehende recto-Seite mit dem vorletzten Lied (anfangs wohl noch „Musikanten wollen wandern”) aufhört, wirft nun aber die Frage nach der Struktur und Entstehung der Vorlage für den Kopisten auf: Hatte Bargheer die Lieder aus irgendwelchen Gründen anfangs noch nicht fortlaufend (sondern einzeln) notiert? Oder hat er „Nun geht der Mond” dem Kopisten erst nachgereicht?  Vermutlich hatte Bargheer die Vorlagen für den Kopisten noch nicht zusammenhängend notiert; vorstellbar ist etwa eine gelegentliche Kompositionsarbeit ohne das konkrete Ziel, sämtliche Fiedellieder zu vertonen. Nach und nach notierte Bargheer so die Lieder 1–3 und 6 und gab die Sammlung der Blätter dann dem Kopisten, der sie einmal zusammenhängend notieren sollte.</p><p>Auf der Kopistenschicht selbst (Bl. 23r-24v) finden sich, von der Überklebung der vier Anfangstakte abgesehen, vergleichsweise wenige Korrekturen Bargheers, was für eine intensivere Beschäftigung mit „Nun geht der Mond” vor der Übergabe an den Kopisten und damit vielleicht tatsächlich für die These der Nachreichung an den Kopisten spricht;  kleinere Bleistifteinträge wie „a T.” [= a Tempo] und der Eintrag zweier Viertelpausen am Ende von fol. 24v (diese wurden in der Reinschrift übernommen) und „steigt” als Textalternative zu „dringt (zum Himmel ein)” im dritten Takt von fol. 24v (diese Korrektur wurde nicht in die Reinschrift übernommen) stellen neben der Überklebung auf fol. 23r die einzigen Bearbeitungsspuren nach der Abschrift dar. Auf der Überklebung ist neben deutlichen Änderungen in Klavier- und Geigenstimme die vorher lediglich mit Bleistift eingetragene Übernahme des letzten Wortes aus „Weiter gehts und immer weiter” in den ersten Takt von „Nun geht der Mond” nun mit Tinte fest gehalten.</p><p>Von der nunmehr korrigierten Kopistenabschrift hat Bargheer das Lied dann mit einigen kleineren Ergänzungen, z. B. das neue „mf” auf fol. 8v und vor allem eine abermalige Änderung der Schlusstakte der Violine, in die Reinschrift übernommen.</p><lb/></div></div></div><div><head>Zuordnung des Stimmauszuges der Violine (A<hi rend="sub">3</hi>)</head><p>Im Stimmauszug auf fol. 11r–12v finden sich außer der mit Tinte notierten Grundschicht auch zahlreiche Bleistiftergänzungen, die Dynamik, Fingersatz und Artikulation betreffen. Aus der Schreibung der „p”, „f” und „mf” (beispielsweise auf fol. 12v) lässt sich allerdings ablesen, dass diese Eintragungen wohl nicht von Bargheer selbst stammen, sondern vermutlich im Kontext einer Aufführung der Werke von den beteiligten Musikern eingetragen wurden.</p><p>Die Lieder sind im Auszug so angeordnet, dass sie in dem aufgeschlagenen Doppelblatt links oben beginnen (fol. 12v), auf der gegenüberliegenden Seite (fol. 11r) fortgesetzt werden und nach dem Wenden des DBl. schließlich auf fol. 12r enden. Diese ungewöhnliche Reihenfolge ist von Bargheer wohl durchdacht, da so bei aufgeschlagenem Bogen auf einen Blick alles bis zum Ende von „Nun ein Scherflein in die Runde” gespielt werden konnte, woraufhin der Geiger am Anfang von „Musikanten wollen wandern” die sieben Takte Pause nutzen konnte, um den Bogen zu wenden.</p><p>Die Ermittlung des Entstehungszeitpunkts des Stimmauszugs ist leider nur bis zu einem gewissen Grade problemlos: Er muss mindestens nach der ersten Korrekturschicht durch Bargheer entstanden sein, vgl. dazu beispielsweise die Überklebung auf fol. 14r mit der entsprechenden Stelle auf fol. 12v oder fol. 14v, T. 4. Diese Stelle beweist auch, dass die Reinschrift nach dem Auszug entstanden sein muss, denn die in diesem auf fol. 12v, 4. Takt im „Moderato” notierte Änderung wurde wieder leicht modifiziert in die Reinschrift auf fol. 2v, T. 4 übernommen (vgl. auch fol. 12v, T. 12 mit fol. 1r, T. 12 oder die Änderung auf fol. 11r, T. 1 gegenüber fol. 15r, T. 4 und ihre Weiterverarbeitung auf fol. 3r, T. 2).</p><p>Es ist allerdings bei einer großen Zahl von Korrekturen auf fol. 13r–24v nicht entscheidbar, ob diese vor oder nach der Niederschrift des Stimmauszuges gemacht wurden. So z. B. fol. 13r, T. 11f. (vielleicht war die Korrektur in T. 11 zuerst auf fol. 13r, die Korrektur in T. 12 aber zuerst im Stimmauszug vorhanden?), die Überklebung auf fol. 14r und die Notation der Violinstimme im Bariton-System am Ende von fol. 17v. Es gibt noch einige weitere Stellen, die somit die Einordnung erschweren.</p></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="A030022">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quellenbeschreibung</title>
+                <author xml:id="author">Andreas Fukerider</author>
+                <editor/>
+                <editor/>
+                <funder><name>Bargheer-Edition</name><address>
+                        <street/>
+                        <postCode/>
+                        <placeName><country>D</country><settlement>Detmold</settlement></placeName>
+                    </address></funder>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>less than 1 MB</extent>
+            <publicationStmt>
+                <publisher/>
+                <availability status="restricted">
+                    <p/>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-06</p>
+            <projectDesc>
+                <p>Bargheer-Fiedellieder-Ausgabe</p>
+            </projectDesc>
+            <editorialDecl>
+                <p/>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation><date/></creation>
+            <langUsage>
+                <language ident="de-DE">Deutsch</language>
+            </langUsage>
+            <textClass> </textClass>
+        </profileDesc>
+        <revisionDesc status="proposed">
+            <change when="2012-12-18" who="JV">Korrekturlesung Fukerider eingearbeitet; Bennung Quellen angepasst</change>
+            <change when="2012-12-16" who="JV">Im ersten Teil durch die Verweise ergänzt</change>
+            <change when="2011-12-16" who="AF">Datei in xml übertragen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head type="main">Quellenbeschreibung</head>
+                <head>von Andreas Fukerider</head>
+                <lb/>
+                <head><lb/>Verweise auf tabellarische Darstellungen:</head>
+                <p>⇒ <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1003.xml">Tabellarische Darstellung des Manuskriptaufbaus</ref></p>
+                <p>⇒ <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1004.xml">Tabellarische Darstellung der Werkgenese</ref> (Überblick zu den Überarbeitungsstufen der Lieder)</p>
+                <p>⇒ <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1001.xml">Farblegende zu den Eintragungen in der Edition</ref></p>
+            </div>
+            <div>
+                <head>Beschreibung der Quellen zur Musik:</head>
+                <lb/>
+                <head><lb/>Inhalt der Mappe</head>
+                <p>Die Mappe enthält 11, teils ineinandergelegte, teils aufeinander folgende Doppelblätter, sowie ein eingeschobenes einzelnes Blatt; an einem der Bögen ist ein zusätzliches Blatt angeklebt (Maße der Seiten 27 x 35,5 cm). Von Bibliothekarshand ist nachträglich eine durchlaufende
+                    Foliierung von „-1-“ bis „-24-“ eingetragen, die allerdings die Chronologie der Handschrift nicht beachtet (vgl. w.u.). Die Mappe enthält die 6 Lieder in einer Reinschrift (Bl. 1–10), in einer Kopistenabschrift, die zunächst nur 4 Lieder umfasste (Bl. 13–17 und 23–24), ferner von
+                    Bargheers Hand die nachkomponierten beiden Lieder 4 und 5 (Bl. 18–20) und das letzte Lied in einer frühen Fassung (Bl. 21–22). Zusätzlich enthält die Mappe einen Stimmauszug für Violine von Bargheers Hand (Bl. 11–12).</p>
+            </div>
+            <div>
+                <head>Bindung</head>
+                <p>Die Bögen 1r–10v (Reinschrift Bargheers) sind durch Fadenbindung zusammengehalten, der Bogen mit fol. 11r–12v (Violine Solo) ist eingelegt. Separat sind die Bögen von fol. 13r–17v und 23r–24v zusammengebunden, wobei in deren Mitte die Bögen mit den fol. 18r–22v eingelegt sind
+                    (vgl. hierzu auch die <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1003.xml">Tabellarische Darstellung</ref>). Innerhalb der Mappe lassen sich somit mehrere inhaltlich zusammengehörende Einheiten erkennen, die in der Mappe nur hinter- und ineinander gelegt,
+                    aber nicht mehr zusammengebunden wurden; eine dieser Einheiten besteht aus der Reinschrift Bargheers (Bl. 1–10), eine weitere aus der ursprünglichen Kopistenabschrift (Bl. 13–17 und 23–24). In der Kopistenabschrift sind als weitere Bögen die nachkomponierten Lieder 4 und 5 (Bl.
+                    18–20) und die Frühform des 6. Liedes (Bl. 21–22) eingelegt, aber nicht zusammengebunden. Die Violinstimme (Bl. 11–12) ist ebenfalls lediglich eingelegt. Schon der äußere Handschriftenbefund lässt also vermuten, dass die Lieder 4 und 5 später komponiert wurden als die anderen
+                    Lieder.</p>
+            </div>
+            <div>
+                <head>Papiersorte</head>
+                <p>Fol. 1r–12v bestehen aus der Papiersorte mit dem Aufdruck „Joh. Aug. Böhme, Hamburg. No. 1“ (teils ist dieser Aufdruck überklebt, sichtbar ist er am unteren linken Rand von Bl. 1r, 2r, 3r, 7r, 8r, 12r, 13r, 18r und 20r). Auf 7r und 8r ist die Schrift dabei in einer kleineren Type
+                    gesetzt als auf den übrigen Seiten. Bei Fol. 13r–17v und 18r-20v handelt es sich um mit einer Schablone (sehr sauber) 12-zeilig rastriertes Papier mit abweichender Rastralgröße, wobei fol. 13r und 14v von Bargheer ganzflächig mit dem Böhme-Papier überklebt sind. Danach folgt ein
+                    einzelner Bogen mit dem Aufdruck „B&amp;H. Nr. 1. C.“ unterhalb des Verlags-Logos (Bär mit Wappen und Eindruck „1719“; fol. 21r–22v). Bei den vier letzten Blättern handelt es sich wieder um das vom Kopisten auch sonst benutzte Papier (fol. 23r–24v). </p>
+            </div>
+            <div>
+                <head>Lagenordnung</head>
+                <p>Auf drei ineinander gelegte DBl. (fol. 1r–6v) folgen zwei ineinandergelegte (fol. 7r–10v), dann ein einzelnes DBl. (fol. 11r–12v). Nach einem einzelnen Blatt (fol. 13r) (ursprünglich 1 DBl., Bl. 2 abgeschnitten) schließen sich zwei ineinandergelegte Bögen an (fol. 14r–15v und
+                    23r–24v), in deren Mitte drei weitere Bögen liegen: ein einzelner (fol. 16r–17v), ein einzelner mit angeklebtem Blatt (fol. 18r–20v), und noch ein einzelner Bogen (fol. 21r–22v) sind dort hintereinander eingelegt. Bevor die Blätter 16–22 eingelegt wurden, folgte auf Blatt 15
+                    direkt Blatt 23.</p>
+            </div>
+            <div>
+                <head>Überklebungen</head>
+                <p>Im Notentext finden sich zahlreiche Überklebungen, auf denen Bargheer umfangreiche Korrekturen, hauptsächlich in der Abschrift des Kopisten, vorgenommen hat. Die folgende Tabelle listet alle Überklebungen auf:</p>
+                <table>
+                    <row>
+                        <cell>Überklebung Nr.</cell>
+                        <cell>Seite</cell>
+                        <cell>Lied</cell>
+                        <cell>Überklebte Takte</cell>
+                    </row>
+                    <row>
+                        <cell>1</cell>
+                        <cell>3v</cell>
+                        <cell>„Nun ein Scherflein in die Runde” (Nr. 2)</cell>
+                        <cell>T. 33 f. über der Reinschrift Bargheers</cell>
+                    </row>
+                    <row>
+                        <cell>2</cell>
+                        <cell>13r</cell>
+                        <cell>„Wenn mir unterm Fiedelbogen” (Nr. 1)</cell>
+                        <cell> T. 1–22 über der Kopistenabschrift (dazu auch die erste Akkolade auf fol. 13v durchgestrichen)</cell>
+                    </row>
+                    <row>
+                        <cell>3</cell>
+                        <cell>14r</cell>
+                        <cell>„Wenn mir unterm Fiedelbogen” (Nr. 1)</cell>
+                        <cell>T. 45–52 über der Kopistenabschrift</cell>
+                    </row>
+                    <row>
+                        <cell>4</cell>
+                        <cell>14v–15r</cell>
+                        <cell>„Nun ein Scherflein in die Runde” (Nr. 2)</cell>
+                        <cell>T. 1–20 über der Kopistenabschrift</cell>
+                    </row>
+                    <row>
+                        <cell>5</cell>
+                        <cell>16r</cell>
+                        <cell>„Nun ein Scherflein in die Runde” (Nr. 2)</cell>
+                        <cell>T. 43–48 über der Kopistenabschrift, dazu vier Takte „Allegro molto” vor Lied Nr. 3 ergänzt</cell>
+                    </row>
+                    <row>
+                        <cell>6</cell>
+                        <cell>17v</cell>
+                        <cell>„Musikanten wollen wandern” (Nr. 3)</cell>
+                        <cell>T.39–46 über der Kopistenabschrift</cell>
+                    </row>
+                    <row>
+                        <cell>7</cell>
+                        <cell>20v</cell>
+                        <cell>„Weiter geht's und immer weiter” (Nr. 5)</cell>
+                        <cell>T. 9–12 über Bargheers nachträglich eingefügter Niederschrift</cell>
+                    </row>
+                    <row>
+                        <cell>8</cell>
+                        <cell>22r</cell>
+                        <cell>„Nun geht der Mond” (Nr. 6)</cell>
+                        <cell>T. 23 über Bargheers Kopistenvorlage (nur Violinstimme)</cell>
+                    </row>
+                    <row>
+                        <cell>9</cell>
+                        <cell>22r</cell>
+                        <cell>„Nun geht der Mond” (Nr. 6)</cell>
+                        <cell>T. 26 f. über Bargheers Kopistenvorlage (nur Violinstimme)</cell>
+                    </row>
+                    <row>
+                        <cell>10</cell>
+                        <cell>22v</cell>
+                        <cell>„Nun geht der Mond” (Nr. 6)</cell>
+                        <cell>T. 48–53 über Bargheers Kopistenvorlage</cell>
+                    </row>
+                    <row>
+                        <cell>11</cell>
+                        <cell>23r</cell>
+                        <cell>„Nun geht der Mond” (Nr. 6)</cell>
+                        <cell>T. 1–4 über der Kopistenabschrift</cell>
+                    </row>
+                </table>
+            </div>
+            <div>
+                <head>Nummerierung</head>
+                <p>Es gibt zwei Nummerierungsarten; die Foliierung des Bibliothekars, der in die rechte, obere Ecke jeder recto-Seite mit Bleistift fortlaufende Nummern (1–24) eingetragen hat, und die (unvollständige) Seiten-Nummerierung des Kopisten oder Bargheers selbst. Letzere besteht aus mit
+                    Tinte geschriebenen Zahlen in der oberen, äußeren Ecke jedes Blattes und verläuft von fol. 13r mit der Nummer „[1]“ (möglicherweise notiert, aber durch die Überklebung nicht erkennbar) bis zu fol. 19v mit der Nummer „14“. Das leere fol. 20r hat nur die Foliierung des
+                    Bibliothekars, erst fol. 20v ist in der mit Tinte bezeichneten Zählung die Nummer „15“. Fol. 21r–22v sind wiederum nur vom Bibliothekar nummeriert, und erst fol. 23r–24v mit den anschließenden Seitennummern „16“ bis „19“ bezeichnet. Bei diesen letzten vier Nummern handelt es sich
+                    nicht um die ursprünglichen Zahlen; vielmehr sind darunter die Nummern „11“ bis „15“ erkennbar, deren letzte Ziffern jeweils überschrieben wurden (d. h., dass die „1” als Zehnerstelle jeder Zahl noch von der ursprünglichen Zählung beibehalten wurde und nur die letzte der beiden
+                    Ziffern überschrieben ist, was bei der Zuordnung der Nummerierungen von Bedeutung ist). </p>
+                <p>Nun gibt es entweder die Möglichkeit, dass alle diese Seitennummern in Tinte von Bargheer stammen, oder dass sie teilweise auf ihn und teilweise auf den Kopisten zurückgehen. Die Möglichkeit, dass alle vom Kopisten herrühren, ist unwahrscheinlich, da fol. 18r–20v (S. 11–15) nur
+                    von Bargheer beschrieben wurden und also vermutlich auch von ihm nummeriert wurden.</p>
+                <p>Um die verschiedenen Nummerierungen zuzuordnen, hilft der Blick auf die Lagenordnung: Da fol. 23r–24v vom Kopisten stammen (mit Schablone rastriertes Papier, gleiche Bögen wie fol. 14r–15v), stellen die überschriebenen Zahlen wohl dessen ursprüngliche Zählung dar.</p>
+                <p>Die auf dem Böhme-Papier befindlichen, eingelegten fol. 18r–20v sind demnach von Bargheer selbst nachträglich vor fol. 23r eingefügt und nummeriert worden. Dabei musste die ursprüngliche Nummerierung des Kopisten auf fol. 23r–24v korrigiert werden, weshalb Bargheer die alten
+                    Nummern überschrieb. Die unnummerierte, leere fol. 20r erklärt sich vermutlich dadurch, dass Bargheer bereits bei der Niederschrift des Liedes „Weiter geht’s und immer weiter” (Nr. 5) von Anfang an einen bruchlosen Übergang zu „Nun geht der Mond” (Nr. 6) schaffen wollte, indem er
+                    das letzte Wort von „Weiter geht’s” als verbindendes Moment im ersten Takt von „Nun geht der Mond” (mit Bleistift unter der Überklebung auf fol. 21r) nutzt. Da der Kopist das in der ihm von Bargheer vorgelegten früheren Fassung vorletzte Lied, „Musikanten wollen wandern” (Nr. 3,
+                    fol. 16v–17v), auf einer verso-Seite beendet hatte, fing „Nun geht der Mond” (fol. 23r) auf einer recto-Seite an, sodass Bargheer gezwungen war, an sein eingefügtes Doppelblatt (fol. 18–19) ein einzelnes Blatt (fol. 20) anzuhängen, dessen recto-Seite er unbeschriftet ließ, um den
+                    Übergang vom genau eine Seite einnehmenden „Weiter geht’s” zu „Nun geht der Mond” auf einen Blick sichtbar und ohne Blättern spielbar zu notieren.</p>
+                <p>Weitere Indizien für die Vermutung, dass die Überschreibungen der Seitennummern sowie die Nummern der Seiten 11–15 auf fol. 18r–20v von Bargheer stammen, findet man im Vergleich der Handschriften beider Schreiber. Man vergleiche</p>
+                <list>
+                    <item>die Schreibung der „1”: Fol. 17v zeigt in der Seitennummer die „1” des Kopisten. Daneben findet sich die „1” als Fingersatz der Geigenstimme auf fol. 13v. Diese beiden Ziffern haben den Knick nach links am oberen Ende gemeinsam. Beim Fingersatz könnte das zur Unterscheidung
+                        der „1” vom staccato-Keil oder -Strich dienen. Die mutmaßlich vom Kopisten stammenden Ziffern „1” als nicht überschriebene Teile auf fol. 23r–24v zeigen entweder keinen Knick (fol. 23r) oder eine Knickandeutung/Ballung von Tinte am oberen Ende (fol. 23v–24r). Im Gegensatz
+                        dazu ist die Ziffer „1” in den Seitennummern auf fol. 18r–20v mehr oder weniger deutlich unten mit dem Knick/der Balkung versehen, genauso wie die eindeutig von Bargheer stammenden Ziffern auf der Überklebung von fol. 17v.</item>
+                    <item>die Schreibung der „2”: Fol. 13v zeigt die „2” des Kopisten als Seitenzahl und als Fingersatz über der Geigenstimme. Beim Vergleich mit Bargheers „2” (als 2[do] auf der Überklebung auf fol. 14r, als Seitennummer bei fol. 18v, auf fol. 12v oder wieder als 2[do] auf fol. 5r)
+                        stellt sich diese als zackiger und unrunder als die „2” des Kopisten heraus.</item>
+                    <item>die Schreibung der „3”: Fol. 14r zeigt die „3” des Kopisten als Seitenzahl und in der Taktangabe unter der Überklebung. Beim Vergleich mit Bargheers „3” (in der Taktangabe auf fol. 2v und 12v, als Seitenzahl auf fol. 19r) stellt sich auch diese als zackiger und unrunder als
+                        die „3” des Kopisten heraus.</item>
+                    <item>die Schreibung der „6”: Dieser Vergleich ist das aussagekräftigste Indiz beim Vergleich der Schreibung der Ziffern. Fol. 13r zeigt unter der Überklebung die „6” des Kopisten als Taktangabe, auf fol. 15v als Seitennummer. Beim Vergleich mit Bargheers „6” (in der Taktangabe
+                        auf fol. 1r, 11r, 12v und 13r, als Taktzahl auf fol. 11r) fällt besonders auf, dass Bargheer seine „6” im Gegensatz zum Kopisten niemals mit überhängendem Bogen schreibt, sondern stets einen recht geraden Hals notiert.</item>
+                </list>
+                <p>Generell lässt sich feststellen, dass Bargheers Schrift unrunder und eckiger ist als die des Kopisten. Man vergleiche dazu ganz allgemein die Form der Notenköpfe (oval bei Bargheer und beinahe kreisförmig beim Kopisten) und die Schreibung der Violinschlüssel.</p>
+                <p>Aus dieser Nummerierung und der Verteilung der Papiersorten ab fol. 13r lässt sich schließen, dass fol.18r–20v erst nach der Kopistenabschrift hinzugefügt wurden. Vermutlich hatte Bargheer daher die Lieder „Am Markte bei der Kirchen“ und „Weiter geht’s und immer weiter“ (Nr. 4 und
+                    5) noch nicht komponiert, als er seine Urfassung dem Kopisten übergab.</p>
+            </div>
+            <div>
+                <head>Überlieferungsstufen</head>
+                <div>
+                    <head type="sub">Allgemeines</head>
+                    <p>Ganz allgemein lassen sich drei erhaltene Überlieferungsschichten unterscheiden: Die <hi rend="bold">Kopistenschicht (K)</hi>, die <hi rend="bold">Korrekturschicht</hi> Bargheers auf dieser Abschrift <hi rend="bold">(K<hi rend="superscript">A</hi>)</hi> und <hi rend="bold"
+                            >Bargheers Reinschrift (A<hi rend="sup">2</hi></hi> bzw. im Lesartenverzeichnis: A2). Innerhalb dieser Schichten können weitere Korrekturen und Änderungen auftreten, die aber nicht als eigenständige Schichten, sondern lediglich als Arbeitsstufen gelten. An einzelnen,
+                        besonderen Stellen werden diese Arbeitsstufen diskutiert.</p>
+                    <p>Dazu kommt bei Nr. 6 „Nun geht der Mond” als besondere, zusätzlich erhaltene Schicht die <hi rend="bold">erste Niederschrift des Liedes</hi>, die der Kopist als Vorlage benutzt hat (<hi rend="bold">A<hi rend="superscript">V</hi></hi> in der Übersicht bzw. innerhalb der
+                        Lesarten <hi rend="bold">A1</hi> bezeichnet).</p>
+                    <p>Die einzelnen Schichten lassen sich wie folgt charakterisieren:</p>
+                    <list>
+                        <item>A<hi rend="superscript">V</hi> bzw. <hi rend="bold">A<hi rend="sub">1</hi></hi>: Nur noch fragmentarisch erhaltenes Autograph als Vorlage zur Kopistenabschrift. Dieses Autograph ist lediglich zu „Nun geht der Mond” (Nr. 6) auf fol. 21r–22v erhalten. Auf dieser Schicht
+                            finden sich bereits Korrekturen.</item>
+                        <item><hi rend="bold">K</hi>: Kopistenabschrift. Diese Abschrift muss auf einer früheren Fassung der Lieder (vermutlich A1) beruhen, die größtenteils (bis auf Nr. 6) nicht mehr erhalten ist. Zu dieser Stufe gehört alles, was auf dem nicht von Böhme und Breitkopf stammenden
+                            Papier notiert ist. Selten sind hier Korrekturen des Kopisten selbst zu finden. </item>
+                        <item><hi rend="bold">K<hi rend="superscript">A</hi></hi>: Korrekturschicht auf der Kopistenabschrift. Diese Korrekturen wurden von Bargheer meist durch Überklebungen hergestellt, nur selten korrigierte er direkt auf dem Text des Kopisten. Häufig finden sich weitere
+                            Änderungen, die durch Rasur oder Überklebung auf den bereits vorhandenen Korrekturen und Überklebungen vorgenommen wurden. Innerhalb dieser Korrekturschicht lassen sich verschiedenene Arbeitsstufen unterscheiden.<lb/> Die Korrekturen betreffen sowohl sämtliche Stimmen als
+                            auch die Textverteilung und vor allem – was die Anlage der Fiedellieder substantiell verändert – neu erstellte Übergänge zwischen den Liedern. Bargheer hat im Laufe der Korrekturen den sechs Liedern eine zyklische Anlage gegeben (bzw. diese verstärkt), sodass eine
+                            separate Aufführung einzelner Lieder wohl nicht mehr in Frage kommen konnte.<lb/></item>
+                        <item>A<hi rend="sup">R</hi> bzw. <hi rend="bold">A<hi rend="sub">2</hi></hi>: Reinschrift Bargheers. Nachdem Bargheer mit allen Liedern in der korrigierten Fassung zufrieden war, übertrug er sie gesammelt in eine reinschriftliche Fassung. In dieser finden sich teilweise zwar
+                            weitere Ergänzungen in Bogensetzung, Artikulation oder Dynamik, die in den Korrekturen der früheren Fassungen nicht enthalten sind , ebenso kleinere Veränderungen im Notentext selbst (z. B. die Überklebung auf fol. 3v), im Großen und Ganzen wurde hier aber nichts mehr
+                            substantiell verändert. Die Bleistiftergänzungen in der Reinschrift stammen wohl überwiegend nicht von Bargheer selbst, sondern wahrscheinlich zum größten Teil von dem Pianisten, der diese Reinschrift bei einer Aufführung benutzte. Dafür spricht, dass die Eintragungen in
+                            der Reinschrift sich fast ausschließlich auf die Klavierstimme beschränken, und sich die Dynamikbezeichnungen in ihrer Schreibung deutlich von denen Bargheers und der Bezeichnungen im Violinen-Stimmauszug unterscheiden.<lb/></item>
+                    </list>
+                    <p>Eine Sonderstellung nimmt die Überlieferung des Stimmenauszuges der Violine (<hi rend="bold">A<hi rend="sub">3</hi></hi>, fol. 11r–12v) ein. Eine ausführliche Diskussion dieser Stimme findet weiter unten statt.</p>
+                    <p>Außerdem enthalten der Stimmenauszug und die Reinschrift zahlreiche weitere Bleistifteintragungen, die nicht von Bargheer stammen. Auch dazu unten mehr.</p>
+                    <lb/>
+                    <lb/>
+                </div>
+                <div>
+                    <head>Überlieferung der einzelnen Lieder</head>
+                    <lb/>
+                    <div>
+                        <head type="sub">Nr. 1 „Wenn mir unterm Fiedelbogen”</head>
+                        <p>Bei „Wenn mir unterm Fiedelbogen” (fol. 1r-2r, 13r-14r, 12v) lassen sich mustergültig die Schichten K, K<hi rend="superscript">A</hi> und AR unterscheiden. Dabei hat Bargheer die erste Seite der Kopistenabschrift (fol. 13r) komplett überklebt und auf der folgenden Seite
+                            die erste Akkolade ebenfalls gestrichen: T. 1–22 wurden so nach der Kopistenabschrift korrigiert. Ebenso sind die letzten Takte (T. 45–52) des Kopisten vollständig durch eine neue Version ersetzt. Außerdem findet man hier auf fol. 13v, T. 7 eine der seltenen Korrekturen
+                            Bargheers direkt im Notentext des Kopisten; der Bargheer'sche Notenkopf ist in Größe und Gestalt von den Köpfen des Kopisten zu unterscheiden. Außerdem erkennt man deutlich den vorherigen Bleistifteintrag unter der Tinte, und das Kreuz ähnelt eher dem Bargheers als dem
+                            des Kopisten.</p>
+                        <lb/>
+                    </div>
+                    <div>
+                        <head type="sub">Nr. 2 „Nun ein Scherflein in die Runde”</head>
+                        <p>Eine Unterscheidung der Überarbeitungsstufen in „Nun ein Scherflein in die Runde” (fol. 2v-4r, 14v-16r) erweist sich als komplizierter als in vielen anderen Liedern. Erneut sind größere Abschnitte der Kopistenabschrift (die komplette erste und die zweite Seite mit Ausnahme
+                            der letzten Akkolade und ebenso die letzte Akkolade des Liedes, fol. 14v–15r) durch eine weitere Version Bargheers überklebt. Neben der zugrunde liegenden Kopisten-Schicht (mit einer Kopisten-Rasur des falsch gesetzten Taktstriches unter der Überklebung auf fol. 15r)
+                            finden sich unter der Überklebung in T. 7 und 3 als erster Korrekturschritt Bleistiftkorrekturen Bargheers. Offensichtlich führte der Wunsch nach umfassenden Änderungen dann dazu, dass Bargheer die komplette Seite 14v und zwei Drittel von fol. 15r überklebte. Auf dieser
+                            Überklebung findet sich dann ein weiterer Arbeitsschritt durch erneute Korrekturen, vgl. fol. 15r, T. 5f. im Klavier. Diese letzten Korrekturen hat er dann bis auf einige kleine Änderungen (vgl. z. B. fol. 14v, T. 5f. mit fol.2v, T. 5f.) in der Reinschrift (A<hi
+                                rend="sup">R</hi> bzw. A2) übernommen.</p>
+                        <p>Besondere Beachtung als ausgesprochen komplizierte, aber in den verschiedenen Überarbeitungsstzufen gut nachvollziehbare Stelle verdient der Vergleich von fol. 15v, T. 33f. (mit Auftakt) mit fol. 3v, T. 33ff. Es lassen sich folgende Arbeittschritte in der Gesangsstimme in
+                            chronologischer Reihenfolge festhalten:</p>
+                        <list>
+                            <item>Kopistenabschrift: 8tel. 16tel 8tel 8tel 8tel 8tel</item>
+                            <item>Korrektur: 4tel. 8tel 8tel 8tel + Ergänzung am Ende von T. 8 mit Änderung der Textverteilung</item>
+                            <item>Übernahme in Reinschrift</item>
+                            <item>Melodie-Korrektur mit Bleistift in der Kopistenabschrift: T. 9 komplett auf h<hi rend="sup">1</hi></item>
+                            <item>Überklebung in Reinschrift und Übernahme der Melodie</item>
+                        </list>
+                        <p>Ähnlich verhält es sich mit T. 10, hier fehlt lediglich der erste Korrekturvorgang vor der Übernahme in die Reinschrift.</p>
+                        <p>Eine weitere komplexere Änderung findet sich in den letzten Takten des Liedes:</p>
+                        <p>Der eingelegte Zettel fol. 16a erklärt sich vermutlich folgendermaßen: die Grundschicht K ist auch hier vorhanden. Anschließend hat Bargheer fol. 16a ausgeschnitten und beschrieben, wobei hier gegenüber der Kopisten-Schicht hauptsächlich die Geigenstimme verändert wurde.
+                            Bevor er fol. 16a allerdings festklebte, kam er auf die Idee, die vier Takte Übergang zum nächsten Lied im Klavier zu komponieren, sodass fol. 16a zu kurz war und er einen weiteren Ausschnitt anfertigte, den er dann über fol. 16r klebte und in die Reinschrift
+                            übernahm.</p>
+                        <lb/>
+                    </div>
+                    <div>
+                        <head type="sub">Nr. 3 „Musikanten wollen wandern”</head>
+                        <p>Dieses Lied ist auf fol. 4r–5r und 16v–17v überliefert. Überklebungen finden sich hier in der K-Schicht nur in den letzten beiden Akkoladen des Liedes. Ferner finden sich innerhalb der K-Schicht auf fol. 16v wiederum deutlich von Bargheers Hand stammende
+                            Korrekturzusätze.</p>
+                        <p>Die K<hi rend="superscript">A</hi>-Schicht als Überklebung mit zwei weiteren Korrekturschritten (eine weitere Überklebung und Rasuren auf dieser zweiten Überklebung) ist hier gut nachvollziehbar. Durch die Korrektur hat Bargheer das 1mo/2do-Ende auffallend an „Wenn mir
+                            unterm Fiedelbogen” angeglichen. </p>
+                        <p>Die Reinschrift weist weitere Bleistiftergänzungen auf, die hier einen bedeutenden Einblick in die Entstehung der Bleistifteintragungen sowohl in den Reinschriften als auch dem Stimmenauszug der Violine geben: In dem Stimmenauszug ist die Wiederholung des Liedes
+                            durchgestrichen, genau wie in der Reinschrift im Klavier. Generell sind die Bleistifteintragungen in der Reinschrift ausschließlich auf die Klavierstimme konzentriert, sodass der Schluss nahe liegt, dass bei einer Aufführung die Reinschrift dem Pianisten und die
+                            Violinstimme dem Geiger gedient hat. Dies bestätigt sich, wenn man die Schreibungen der „p”s vergleicht; das „p” des Pianisten, des Geigers und Bargheers sind sämtlich deutlich untereinander verschieden, so dass sie von verschiedenen Schreibern stammen dürften. </p>
+                        <lb/>
+                    </div>
+                    <div>
+                        <head type="sub">Nr. 4 „Am Markte vor der Kirchen” und Nr. 5 „Weiter geht’s und immer weiter”</head>
+                        <p>Diese beiden, offensichtlich nachkomponierten Lieder sind auf Bl. 18r bis 20v von Bargheers Hand notiert und lassen sich in ihrer Überlieferungsgeschichte gut zusammenfassen; sie enthalten kaum Korrekturen (bis auf die Überklebung auf fol. 20v), was darauf schließen lässt,
+                            dass Bargheer diese Lieder erst nach längerer Korrekturphase von einer Vorlage bzw. aus einem Entwurf übertragen hat. Es finden sich lediglich die Schichten K, A<hi rend="sup">R</hi> und wie bereits erwähnt einmal K<hi rend="superscript">A</hi>.</p>
+                        <lb/>
+                    </div>
+                    <div>
+                        <head type="sub">Nr. 6 „Nun geht der Mond durch Wolkennacht”</head>
+                        <p>Dieses Lied ist das einzige, das auch in der frühesten Version (A<hi rend="superscript">V</hi> bzw. A1, fol. 21r–22v) erhalten ist. Durch die zahlreichen Korrekturen Bargheers (Rasuren, Überschreibungen in Tinte und Bleistift, Überklebungen), darunter die besonders
+                            markanten Blei- und Buntstift-Eintragungen in der mehrfach geänderten Schlusspassage ( vgl. Überklebung auf fol. 22v), zeigt diese Niederschrift noch deutlich den Charakter eines ersten Entwurfs. Diese Änderungen, die Überklebungen auf fol. 22r sowie andere Rasuren, z. B.
+                            auf fol. 21v, T. 11f. und 16f., muss Bargheer bereits vor der Übergabe an den Kopisten gemacht haben, während andere Änderungen, wie beispielsweise die Rasuren auf fol. 21v, T. 1f. und 18f., erst später hinzugefügt wurden, da diese in der Kopistenabschrift nicht
+                            übernommen wurden. Interessanterweise hat Bargheer diese späteren Änderungen in weiteren Korrekuren und der Reinschrift ebenfalls nicht übernommen. Die vereinzelten zwei Takte auf fol. 21r erklären sich durch die überklebte Schicht auf fol. 22v: Bargheer fing mit der
+                            Niederschrift des Liedes auf fol. 21v an, wohl weil er erwartete, dass er dafür drei Seiten benötigte (um erst nach zwei Seiten blättern zu müssen und danach den Rest des Lieds auf einmal zu überblicken). Unter der Überklebung auf fol. 22v erkennt man, dass die
+                            Schlussakkorde allerdings keinen Platz mehr hatten, sodass er sie kurzerhand auf der letzten freien Seite des Bogens als Fortsetzung in den gleichen Notenzeilen notierte. Dass „Nun geht der Mond” auf der verso-Seite anfängt, ohne dass die vorhergehende recto-Seite mit dem
+                            vorletzten Lied (anfangs wohl noch „Musikanten wollen wandern”) aufhört, wirft nun aber die Frage nach der Struktur und Entstehung der Vorlage für den Kopisten auf: Hatte Bargheer die Lieder aus irgendwelchen Gründen anfangs noch nicht fortlaufend (sondern einzeln)
+                            notiert? Oder hat er „Nun geht der Mond” dem Kopisten erst nachgereicht? Vermutlich hatte Bargheer die Vorlagen für den Kopisten noch nicht zusammenhängend notiert; vorstellbar ist etwa eine gelegentliche Kompositionsarbeit ohne das konkrete Ziel, sämtliche Fiedellieder
+                            zu vertonen. Nach und nach notierte Bargheer so die Lieder 1–3 und 6 und gab die Sammlung der Blätter dann dem Kopisten, der sie einmal zusammenhängend notieren sollte.</p>
+                        <p>Auf der Kopistenschicht selbst (Bl. 23r-24v) finden sich, von der Überklebung der vier Anfangstakte abgesehen, vergleichsweise wenige Korrekturen Bargheers, was für eine intensivere Beschäftigung mit „Nun geht der Mond” vor der Übergabe an den Kopisten und damit vielleicht
+                            tatsächlich für die These der Nachreichung an den Kopisten spricht; kleinere Bleistifteinträge wie „a T.” [= a Tempo] und der Eintrag zweier Viertelpausen am Ende von fol. 24v (diese wurden in der Reinschrift übernommen) und „steigt” als Textalternative zu „dringt (zum
+                            Himmel ein)” im dritten Takt von fol. 24v (diese Korrektur wurde nicht in die Reinschrift übernommen) stellen neben der Überklebung auf fol. 23r die einzigen Bearbeitungsspuren nach der Abschrift dar. Auf der Überklebung ist neben deutlichen Änderungen in Klavier- und
+                            Geigenstimme die vorher lediglich mit Bleistift eingetragene Übernahme des letzten Wortes aus „Weiter gehts und immer weiter” in den ersten Takt von „Nun geht der Mond” nun mit Tinte fest gehalten.</p>
+                        <p>Von der nunmehr korrigierten Kopistenabschrift hat Bargheer das Lied dann mit einigen kleineren Ergänzungen, z. B. das neue „mf” auf fol. 8v und vor allem eine abermalige Änderung der Schlusstakte der Violine, in die Reinschrift übernommen.</p>
+                        <lb/>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <head>Zuordnung des Stimmauszuges der Violine (A<hi rend="sub">3</hi>)</head>
+                <p>Im Stimmauszug auf fol. 11r–12v finden sich außer der mit Tinte notierten Grundschicht auch zahlreiche Bleistiftergänzungen, die Dynamik, Fingersatz und Artikulation betreffen. Aus der Schreibung der „p”, „f” und „mf” (beispielsweise auf fol. 12v) lässt sich allerdings ablesen,
+                    dass diese Eintragungen wohl nicht von Bargheer selbst stammen, sondern vermutlich im Kontext einer Aufführung der Werke von den beteiligten Musikern eingetragen wurden.</p>
+                <p>Die Lieder sind im Auszug so angeordnet, dass sie in dem aufgeschlagenen Doppelblatt links oben beginnen (fol. 12v), auf der gegenüberliegenden Seite (fol. 11r) fortgesetzt werden und nach dem Wenden des DBl. schließlich auf fol. 12r enden. Diese ungewöhnliche Reihenfolge ist von
+                    Bargheer wohl durchdacht, da so bei aufgeschlagenem Bogen auf einen Blick alles bis zum Ende von „Nun ein Scherflein in die Runde” gespielt werden konnte, woraufhin der Geiger am Anfang von „Musikanten wollen wandern” die sieben Takte Pause nutzen konnte, um den Bogen zu
+                    wenden.</p>
+                <p>Die Ermittlung des Entstehungszeitpunkts des Stimmauszugs ist leider nur bis zu einem gewissen Grade problemlos: Er muss mindestens nach der ersten Korrekturschicht durch Bargheer entstanden sein, vgl. dazu beispielsweise die Überklebung auf fol. 14r mit der entsprechenden Stelle
+                    auf fol. 12v oder fol. 14v, T. 4. Diese Stelle beweist auch, dass die Reinschrift nach dem Auszug entstanden sein muss, denn die in diesem auf fol. 12v, 4. Takt im „Moderato” notierte Änderung wurde wieder leicht modifiziert in die Reinschrift auf fol. 2v, T. 4 übernommen (vgl.
+                    auch fol. 12v, T. 12 mit fol. 1r, T. 12 oder die Änderung auf fol. 11r, T. 1 gegenüber fol. 15r, T. 4 und ihre Weiterverarbeitung auf fol. 3r, T. 2).</p>
+                <p>Es ist allerdings bei einer großen Zahl von Korrekturen auf fol. 13r–24v nicht entscheidbar, ob diese vor oder nach der Niederschrift des Stimmauszuges gemacht wurden. So z. B. fol. 13r, T. 11f. (vielleicht war die Korrektur in T. 11 zuerst auf fol. 13r, die Korrektur in T. 12
+                    aber zuerst im Stimmauszug vorhanden?), die Überklebung auf fol. 14r und die Notation der Violinstimme im Bariton-System am Ende von fol. 17v. Es gibt noch einige weitere Stellen, die somit die Einordnung erschweren.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

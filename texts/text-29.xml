@@ -1,2 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Oberhofmarschallamt Detmold an Carl Bargheer, betr. seine Ernennung zum Hof-Konzertmeister, Detmold, 25. Oktober 1860</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><country>D</country><settlement>Detmold</settlement><repository n="D-DT">Lippische Landesbibliothek</repository><idno>Mus-h 1 B 55</idno></msIdentifier><physDesc><p>1 DBl. (2 b.S. einschl. Adr.), Siegelrest</p><p>am oberen linken Rand in Tinte vom Schreiber: "<hi rend="latintype">N<hi rend="sup">o</hi></hi>. 241."</p></physDesc></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr: text-29</p></encodingDesc><revisionDesc><change when="2012-12-08" who="JV">Faksimile eingefügt, Metadaten ergänzt</change><change when="2011-08-24" who="JV">Kopiert und korrekturgelesen</change></revisionDesc></teiHeader><text><body><div type="document"><head type="main">Ernennnung Carl Louis Bargheers zum Hof-Konzertmeister, <lb/> Detmold, 25. Oktober 1860</head><div type="address"><p><address><addrLine>An</addrLine><addrLine>den Herrn Hof-Concertmeister</addrLine><addrLine><hi rend="latintype"><sic>Bargher</sic></hi></addrLine><addrLine>hierselbst.</addrLine></address></p></div><div><p>Ew. Wohlgeboren eröffnet das Hofmarschallamt, Höchstem Befehle gemäß, daß S<hi rend="sup">e</hi> Hochfürstliche Durchlaucht der Fürst, gnädigst geruhet haben Ihnen den Titel eines Hof-Concertmeisters, beizulegen und Ihr bisheriges Gehalt von 300 rthlr., auf 400 rthlr. jährlich zu erhöhen, welche Gehaltserhöhung von dem 1<hi rend="sup">ten</hi> d. M. an beginnt. – Die Hofstaats-Casse ist wegen Auszahlung der gnädigst bewilligten Gehaltserhöhung mit Instruction versehen worden.</p><closer><dateline rend="left"><placeName><settlement>Detmold</settlement></placeName>, den 25<hi rend="sup">ten</hi> October 1860.</dateline><signed rend="right">Fürstliches Hofmarschall-Amt.<lb/></signed><signed n="mp">Meysenbug</signed></closer></div><div type="Aktenfuss"><p rend="left">An <lb/>den Herrn Hof-Concertmeister <lb/><hi rend="latintype">Bargher.</hi></p><lb/></div></div><div rend="center"><figure><graphic url="/images/Mus-h1-B-55_Bl_001r.jpg" height="750px"/><figDesc>Ernennung zum Hof-Konzertmeister,Detmold, 25. Oktober 1860, D-DT, Mus-h 1 B 55, Bl. 1r</figDesc></figure></div><div rend="center"><p>Quelle: Lippische Landesbibliothek Detmold, D-DT, Mus-h 1 B 55, Bl. 1r</p></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oberhofmarschallamt Detmold an Carl Bargheer, betr. seine Ernennung zum Hof-Konzertmeister, Detmold, 25. Oktober 1860</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>D</country>
+                        <settlement>Detmold</settlement>
+                        <repository n="D-DT">Lippische Landesbibliothek</repository>
+                        <idno>Mus-h 1 B 55</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 DBl. (2 b.S. einschl. Adr.), Siegelrest</p>
+                        <p>am oberen linken Rand in Tinte vom Schreiber: "<hi rend="latintype">N<hi rend="sup">o</hi></hi>. 241."</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr: text-29</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2012-12-08" who="JV">Faksimile eingefügt, Metadaten ergänzt</change>
+            <change when="2011-08-24" who="JV">Kopiert und korrekturgelesen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="document">
+                <head type="main">Ernennnung Carl Louis Bargheers zum Hof-Konzertmeister, <lb/> Detmold, 25. Oktober 1860</head>
+                <div type="address">
+                    <p><address>
+                            <addrLine>An</addrLine>
+                            <addrLine>den Herrn Hof-Concertmeister</addrLine>
+                            <addrLine><hi rend="latintype"><sic>Bargher</sic></hi></addrLine>
+                            <addrLine>hierselbst.</addrLine>
+                        </address></p>
+                </div>
+                <div>
+                    <p>Ew. Wohlgeboren eröffnet das Hofmarschallamt, Höchstem Befehle gemäß, daß S<hi rend="sup">e</hi> Hochfürstliche Durchlaucht der Fürst, gnädigst geruhet haben Ihnen den Titel eines Hof-Concertmeisters, beizulegen und Ihr bisheriges Gehalt von 300 rthlr., auf 400 rthlr. jährlich
+                        zu erhöhen, welche Gehaltserhöhung von dem 1<hi rend="sup">ten</hi> d. M. an beginnt. – Die Hofstaats-Casse ist wegen Auszahlung der gnädigst bewilligten Gehaltserhöhung mit Instruction versehen worden.</p>
+                    <closer><dateline rend="left"><placeName><settlement>Detmold</settlement></placeName>, den 25<hi rend="sup">ten</hi> October 1860.</dateline><signed rend="right">Fürstliches Hofmarschall-Amt.<lb/></signed><signed n="mp">Meysenbug</signed></closer>
+                </div>
+                <div type="Aktenfuss">
+                    <p rend="left">An <lb/>den Herrn Hof-Concertmeister <lb/><hi rend="latintype">Bargher.</hi></p>
+                    <lb/>
+                </div>
+            </div>
+            <div rend="center">
+                <figure>
+                    <graphic url="/images/Mus-h1-B-55_Bl_001r.jpg" height="750px"/>
+                    <figDesc>Ernennung zum Hof-Konzertmeister,Detmold, 25. Oktober 1860, D-DT, Mus-h 1 B 55, Bl. 1r</figDesc>
+                </figure>
+            </div>
+            <div rend="center">
+                <p>Quelle: Lippische Landesbibliothek Detmold, D-DT, Mus-h 1 B 55, Bl. 1r</p>
+            </div>
+        </body>
+    </text>
+</TEI>

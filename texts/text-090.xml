@@ -1,4 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Theodor Storm an Klaus Groth, Husum, 30. Juli 1871</title><author>Storm, Theodor</author></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><bibl>Theodor Storm – Klaus Groth. Briefwechsel. Kritische Ausgabe, hg. von Boy Hinrichs, Berlin: Erich Schmidt, 1990 (= Storm-Briefwechsel, Bd. 11), S. 72</bibl></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-090</p></encodingDesc><revisionDesc><change when="2011-07-16" who="AS">Texteingabe</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Theodor Storm an Klaus Groth, Husum, 30. Juli 1871</head><opener><date when="2011-05-12" rend="right">Husum, 30 Juli 1871.</date><salute>Lieber Klaus!</salute></opener><p>Daß du ein recht schlechter Mensch bist, weiß ich nun; denn Du hast mir noch</p><p>[...] </p><p>Guk einmal in dem jetzt erscheinenden Augustheft des "Salon" den Artikel "Neue Lieder"<note>Der Zyklus "Neue Lieder" - später: "Die neuen Fiedel-Lieder" waren im August erschienen in: Der Salon für Literatur, Kunst und Gesellschaft, Bd. 8, 1971, S. 534-539 (Storm, LL I, S. 96-102). Im Erstdruck umfaßt der Zyklus 11 Lieder, das dritte hat Storm in späteren Drucken gestrichen.</note> von mir an. Es ist so leichte "Goldschlägerarbeit", wie ich sie noch nie geliefert; der Hauptzweck bei der Publication war, wie Du sehen wirst, meinem Vetter Ludwig Scherff eine wohlverdiente Freude zu machen<note>Storms "componirender Vetter" (Brief 29) Ludwig Scherff hatte kurz zuvor den Zyklus "Die Lieder jung Werner's aus Scheffels 'Trompter von Säckingen' für Bariton mit Begleitung des Pianoforte" verfaßt und veröffentlicht. Storm wurde durch sie zur eigenen Produktion der "Neuen Lieder" angeregt. Am 28. 6. 1871 schrieb er seinem Sohn Hans: "Ich habe seit 14 Tgn täglich diese herzerquickenden Lieder gesungen und das ganze Haus begann ordentlich zu lachen u. zu leben; ich selbst wurde so davon gepackt daß ich zu meinen alten vor 30 Jahren gedichteten Fiedel-Liedern noch 3 neue, frischer u. tiefer als die alten, geschrieben habe, die ich einzeln, so wie sie fertig waren, zum Meister Ludwig hinüberfliegen ließ, der sie auch wohl komponieren wird" (zit. nach: Storm, LL I, S. 879)<lb/>
-                    Am 3. 7. 1871 waren weitere Lieder hinzugekommen, Storm sprach in einem Brief an seinen Sohn Karl davon, daß ihn, immer noch angeregt durch die Lieder Scherffs, "ein wahres Produktionsfieber" überfallen habe (a. a. O., S. 880). Storm widmete die "Neuen Lieder" Ludwig Scherff: "Die aber, Meister Ludwig, dem Lebenden, dessen klare Manneskraft nicht im Sande verrinnen wird, lasse ich diese frischen Blätter zufallen. Nimm sie hin nebst jenen alten, die der todte Freund nicht mehr gebrauchen kann; und mag es gelten, ob ich dich klingen machen kann, wie Du es mir gethan hast." (a. a. O., S. 883)</note> und sie bei meinem Besuch selbst mit zu genießen; aber frisch sind die Lieder, freilich auch in dem Sinn allzu frisch, daß sie noch naß in die Presse wanderten; über die Hälfte ist noch nach u. nach während des Druck's eingeschoben.</p><p>[...] </p><closer><salute>
-                    So, nun drück ich Euch beiden herzlich die Hand, und grüße auch das junge Gesindel; auch Do grüßt euch herzlich.<lb/><seg rend="right">Euer alter</seg><lb/></salute><signed>TheodorSt.</signed></closer></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd">
+                    <teiHeader>
+                                        <fileDesc>
+                                                            <titleStmt>
+                                                                                <title>Theodor Storm an Klaus Groth, Husum, 30. Juli 1871</title>
+                                                                                <author>Storm, Theodor</author>
+                                                            </titleStmt>
+                                                            <publicationStmt>
+                                                                                <p/>
+                                                            </publicationStmt>
+                                                            <sourceDesc>
+                                                                                <bibl>Theodor Storm – Klaus Groth. Briefwechsel. Kritische Ausgabe, hg. von Boy Hinrichs, Berlin: Erich Schmidt, 1990 (= Storm-Briefwechsel, Bd. 11), S. 72</bibl>
+                                                            </sourceDesc>
+                                        </fileDesc>
+                                        <encodingDesc>
+                                                            <p>Interne Text-Nr.: text-090</p>
+                                        </encodingDesc>
+                                        <revisionDesc>
+                                                            <change when="2011-07-16" who="AS">Texteingabe</change>
+                                        </revisionDesc>
+                    </teiHeader>
+                    <text>
+                                        <body>
+                                                            <div type="letter">
+                                                                                <head type="main">Theodor Storm an Klaus Groth, Husum, 30. Juli 1871</head>
+                                                                                <opener><date when="2011-05-12" rend="right">Husum, 30 Juli 1871.</date><salute>Lieber Klaus!</salute></opener>
+                                                                                <p>Daß du ein recht schlechter Mensch bist, weiß ich nun; denn Du hast mir noch</p>
+                                                                                <p>[...] </p>
+                                                                                <p>Guk einmal in dem jetzt erscheinenden Augustheft des "Salon" den Artikel "Neue Lieder"<note>Der Zyklus "Neue Lieder" - später: "Die neuen Fiedel-Lieder" waren im August erschienen in: Der Salon für Literatur, Kunst
+                                                                                                                        und Gesellschaft, Bd. 8, 1971, S. 534-539 (Storm, LL I, S. 96-102). Im Erstdruck umfaßt der Zyklus 11 Lieder, das dritte hat Storm in späteren Drucken gestrichen.</note> von mir
+                                                                                                    an. Es ist so leichte "Goldschlägerarbeit", wie ich sie noch nie geliefert; der Hauptzweck bei der Publication war, wie Du sehen wirst, meinem Vetter Ludwig Scherff eine wohlverdiente Freude zu
+                                                                                                                        machen<note>Storms "componirender Vetter" (Brief 29) Ludwig Scherff hatte kurz zuvor den Zyklus "Die Lieder jung Werner's aus Scheffels 'Trompter von Säckingen' für Bariton mit
+                                                                                                                        Begleitung des Pianoforte" verfaßt und veröffentlicht. Storm wurde durch sie zur eigenen Produktion der "Neuen Lieder" angeregt. Am 28. 6. 1871 schrieb er seinem Sohn Hans: "Ich
+                                                                                                                        habe seit 14 Tgn täglich diese herzerquickenden Lieder gesungen und das ganze Haus begann ordentlich zu lachen u. zu leben; ich selbst wurde so davon gepackt daß ich zu meinen
+                                                                                                                        alten vor 30 Jahren gedichteten Fiedel-Liedern noch 3 neue, frischer u. tiefer als die alten, geschrieben habe, die ich einzeln, so wie sie fertig waren, zum Meister Ludwig
+                                                                                                                        hinüberfliegen ließ, der sie auch wohl komponieren wird" (zit. nach: Storm, LL I, S. 879)<lb/> Am 3. 7. 1871 waren weitere Lieder hinzugekommen, Storm sprach in einem Brief an
+                                                                                                                        seinen Sohn Karl davon, daß ihn, immer noch angeregt durch die Lieder Scherffs, "ein wahres Produktionsfieber" überfallen habe (a. a. O., S. 880). Storm widmete die "Neuen Lieder"
+                                                                                                                        Ludwig Scherff: "Die aber, Meister Ludwig, dem Lebenden, dessen klare Manneskraft nicht im Sande verrinnen wird, lasse ich diese frischen Blätter zufallen. Nimm sie hin nebst jenen
+                                                                                                                        alten, die der todte Freund nicht mehr gebrauchen kann; und mag es gelten, ob ich dich klingen machen kann, wie Du es mir gethan hast." (a. a. O., S. 883)</note> und sie bei meinem
+                                                                                                    Besuch selbst mit zu genießen; aber frisch sind die Lieder, freilich auch in dem Sinn allzu frisch, daß sie noch naß in die Presse wanderten; über die Hälfte ist noch nach u. nach während des Druck's
+                                                                                                    eingeschoben.</p>
+                                                                                <p>[...] </p>
+                                                                                <closer><salute> So, nun drück ich Euch beiden herzlich die Hand, und grüße auch das junge Gesindel; auch Do grüßt euch herzlich.<lb/><seg rend="right">Euer alter</seg><lb/></salute><signed>TheodorSt.</signed></closer>
+                                                            </div>
+                                        </body>
+                    </text>
+</TEI>

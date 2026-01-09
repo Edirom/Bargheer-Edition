@@ -1,3 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"><teiHeader><fileDesc><titleStmt><title>Notizen Bargheers im Fürstl. lippischen Kalender, hier auf das Jahr 1876, betr. den Tod seiner Frau</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><country>D</country><settlement>Detmold</settlement><repository n="D-DT">Lippische Landesbibliothek</repository><idno>Mus-h 1 B 37</idno></msIdentifier><physDesc><p>D-DT, Mus-h 1 B 37, durchschossenes Exemplar des Kalenders von 1876: "Fürstlich Lippischer | Kalender | nach dem verbesserten Styl | auf das Schaltjahr 1876 nach Christi Geb. | [...] Detmold, | Druck und Verlag der Meyer'schen Hofbuchhandlung. | (Gebr. Klingenberg.)"; enthält im Anhang auch ein "Fürstlich Lippisches Adreß-Verzeichnis auf das Jahr 1876." (allerdings ohne Wohnortsangaben)</p><p>weitere Kalender: auf das Jahr 1860, 1865, 1866, 1876</p></physDesc></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr: text-13</p></encodingDesc><revisionDesc><change when="2012-12-08" who="JV">Metadaten zugefügt</change><change when="2011-08-16" who="JV">Erstübertragung nach Hinweis von Fukerider</change></revisionDesc></teiHeader><text><body><div><head type="main">Kalender-Notizen Bargheers, <lb/>1. – 12. November 1876</head><head>Notizen Bargheers, November 1876, in: D-DT, Mus-h 1 B 37, Bl. 23r Übertragung:</head><p><note resp="JV">Blatt 23r, neben gedrucktem Kalenderblatt vom November 1876</note></p><p>1. Morgens 9 Uhr in Gotha von Herrn Besser auf dem Bahnhof erwartet. Durfte Bertha den Tag nicht sehen, weil Dr. <unclear>Hassenstein</unclear> schlimme Folgen der Aufregung befürchtet.</p><p>2. Bertha gesehen, die keine Ahnung davon hatte, dachte, dass ich das gestrige Concert verschoben. Zur Mutter "Gott sei Dank, so kann ich in seinen Armen sterben!<supplied>"</supplied>. Ihr Zustand bessert sich, Transfusion unterbleibt, da sich ihr Puls gehoben und Dr. Meusel, sie nicht mehr für angezeigt hält. Sie jetzt selbst: <supplied>"</supplied>Gestern ging es zum Sterben, heute geht es zum Leben."</p><p>3. Berthas Zustand bessert sich nach Hassensteins Aussage über Alles Erwarten. Dr. H. räth mir selber, die kleine Concertreise nach Dortmund und Osnabrück nicht aufzugeben.</p><p>4. Abreise nach Dortmund, woselbst Abends nach 10 Uhr angekommen.</p><p>5. Probe und Concertaufführung, Bismarkhymne.</p><p>Früh Telegramm aus Gotha "Berthas Zustand verschlimmert durch neue Gallensteincolik, grösste Gefahr". In Angst und Sorge zurückgefahren, Professor Schöne in der ph. Allee begegnet. Sie lebt noch. Die Nacht gewacht mit Schwester Pudentiana.</p><p>Hassensteins Hoffnung wird immer geringer. Schwester Engelberta wacht die Nacht bei ihr, Früh Morgens 5 Uhr von mir abgelöst. Keine Hoffnung mehr.</p><p>8. Nachmittags beginnt der Todeskampf.<lb/>
-                Endlich erlöst von ihren langen qualvollen Leiden Abends gegen 7 Uhr.</p><p>9. Einsegung der Leiche. Pastor Müller. <lb/>Ausfahrt zum Leichenhaus mit Wonne, dem alten Herrn Besser und Freitag.</p><p>11. Beerdigung. <lb/>Adolph mit Martha, Meysenbug, Paul Benndorf</p><p>12. Rückfahrt nach Hamburg</p><p>Blatt 23r, neben gedrucktem Kalenderblatt vom November 1876, mit Notizen vom 1. bis 12. November 1876:</p><lb/></div><div rend="center"><head>D-DT, Mus-h 1 B 37, Bl. 23r Faksimile:</head><p>Blatt 23r, neben gedrucktem Kalenderblatt vom November 1876, mit Notizen vom 1. bis 12. November 1876:</p><p><figure><graphic url="/images/Mus-h1-B-37_Bl_023r.jpg" height="750px"/><figDesc>Kalendernotizen vom 1.–12. November 1876, D-DT, Mus h 1 B 37</figDesc></figure></p></div><div rend="center"><p>Quelle: Lippische Landesbibliothek Detmold, D-DT, Mus-h 1 B 37, Bl. 23r</p></div></body></text></TEI>
+<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title>Notizen Bargheers im Fürstl. lippischen Kalender, hier auf das Jahr 1876, betr. den Tod seiner Frau</title>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p>Publication Information</p>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <msDesc>
+                                                                                <msIdentifier>
+                                                                                                <country>D</country>
+                                                                                                <settlement>Detmold</settlement>
+                                                                                                <repository n="D-DT">Lippische Landesbibliothek</repository>
+                                                                                                <idno>Mus-h 1 B 37</idno>
+                                                                                </msIdentifier>
+                                                                                <physDesc>
+                                                                                                <p>D-DT, Mus-h 1 B 37, durchschossenes Exemplar des Kalenders von 1876: "Fürstlich Lippischer | Kalender | nach dem verbesserten Styl | auf das Schaltjahr 1876 nach Christi Geb. | [...] Detmold, | Druck
+                                                                                                                und Verlag der Meyer'schen Hofbuchhandlung. | (Gebr. Klingenberg.)"; enthält im Anhang auch ein "Fürstlich Lippisches Adreß-Verzeichnis auf das Jahr 1876." (allerdings ohne
+                                                                                                                Wohnortsangaben)</p>
+                                                                                                <p>weitere Kalender: auf das Jahr 1860, 1865, 1866, 1876</p>
+                                                                                </physDesc>
+                                                                </msDesc>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr: text-13</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2012-12-08" who="JV">Metadaten zugefügt</change>
+                                                <change when="2011-08-16" who="JV">Erstübertragung nach Hinweis von Fukerider</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div>
+                                                                <head type="main">Kalender-Notizen Bargheers, <lb/>1. – 12. November 1876</head>
+                                                                <head>Notizen Bargheers, November 1876, in: D-DT, Mus-h 1 B 37, Bl. 23r Übertragung:</head>
+                                                                <p><note resp="JV">Blatt 23r, neben gedrucktem Kalenderblatt vom November 1876</note></p>
+                                                                <p>1. Morgens 9 Uhr in Gotha von Herrn Besser auf dem Bahnhof erwartet. Durfte Bertha den Tag nicht sehen, weil Dr. <unclear>Hassenstein</unclear> schlimme Folgen der Aufregung befürchtet.</p>
+                                                                <p>2. Bertha gesehen, die keine Ahnung davon hatte, dachte, dass ich das gestrige Concert verschoben. Zur Mutter "Gott sei Dank, so kann ich in seinen Armen sterben!<supplied>"</supplied>. Ihr Zustand bessert sich, Transfusion
+                                                                                unterbleibt, da sich ihr Puls gehoben und Dr. Meusel, sie nicht mehr für angezeigt hält. Sie jetzt selbst: <supplied>"</supplied>Gestern ging es zum Sterben, heute geht es zum Leben."</p>
+                                                                <p>3. Berthas Zustand bessert sich nach Hassensteins Aussage über Alles Erwarten. Dr. H. räth mir selber, die kleine Concertreise nach Dortmund und Osnabrück nicht aufzugeben.</p>
+                                                                <p>4. Abreise nach Dortmund, woselbst Abends nach 10 Uhr angekommen.</p>
+                                                                <p>5. Probe und Concertaufführung, Bismarkhymne.</p>
+                                                                <p>Früh Telegramm aus Gotha "Berthas Zustand verschlimmert durch neue Gallensteincolik, grösste Gefahr". In Angst und Sorge zurückgefahren, Professor Schöne in der ph. Allee begegnet. Sie lebt noch. Die Nacht gewacht mit Schwester
+                                                                                Pudentiana.</p>
+                                                                <p>Hassensteins Hoffnung wird immer geringer. Schwester Engelberta wacht die Nacht bei ihr, Früh Morgens 5 Uhr von mir abgelöst. Keine Hoffnung mehr.</p>
+                                                                <p>8. Nachmittags beginnt der Todeskampf.<lb/> Endlich erlöst von ihren langen qualvollen Leiden Abends gegen 7 Uhr.</p>
+                                                                <p>9. Einsegung der Leiche. Pastor Müller. <lb/>Ausfahrt zum Leichenhaus mit Wonne, dem alten Herrn Besser und Freitag.</p>
+                                                                <p>11. Beerdigung. <lb/>Adolph mit Martha, Meysenbug, Paul Benndorf</p>
+                                                                <p>12. Rückfahrt nach Hamburg</p>
+                                                                <p>Blatt 23r, neben gedrucktem Kalenderblatt vom November 1876, mit Notizen vom 1. bis 12. November 1876:</p>
+                                                                <lb/>
+                                                </div>
+                                                <div rend="center">
+                                                                <head>D-DT, Mus-h 1 B 37, Bl. 23r Faksimile:</head>
+                                                                <p>Blatt 23r, neben gedrucktem Kalenderblatt vom November 1876, mit Notizen vom 1. bis 12. November 1876:</p>
+                                                                <p><figure>
+                                                                                                <graphic url="/images/Mus-h1-B-37_Bl_023r.jpg" height="750px"/>
+                                                                                                <figDesc>Kalendernotizen vom 1.–12. November 1876, D-DT, Mus h 1 B 37</figDesc>
+                                                                                </figure></p>
+                                                </div>
+                                                <div rend="center">
+                                                                <p>Quelle: Lippische Landesbibliothek Detmold, D-DT, Mus-h 1 B 37, Bl. 23r</p>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

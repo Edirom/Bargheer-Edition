@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Frieda Bargheer an Willi Schramm, Timmendorferstrand 8. Dezember 1935</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>LLB, Mus-h 1 B 175, 1 Bl. (2 b. S.)</p></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-40</p></encodingDesc><revisionDesc><change when="2011-08-31" who="JV">erfasst und Korrekturgelesen</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Frieda Bargheer an Willi Schramm, <lb/>Timmendorferstrand, 8. Dezember 1835</head><opener><dateline rend="right">Olgaheim. Timmendorferstrand <lb/> d. 8. Dez. 35.</dateline><salute>Sehr geehrter Herr Studienrat.</salute></opener><p>Den 30. Nov. 1933 baten Sie mich, Ihnen einige Kompositionen meines Vaters <unclear>noch</unclear> etwas zu überlassen, da Sie dieselben abschreiben lassen wollen und dieselben dann späer in einem Konzert verwenden wollten.</p><p>Ich würde mich herzlich freuen, wenn es dazu gekommen sein sollte.</p><p>Das Zurückschicken scheint nun etwas in Vergessenheit geraten zu sein, ich möchte mir deshalb erlauben, daran zu erinnern, was Sie sicher verstehen und mir nicht übel nehmen werden.</p><p>Früher schrieben Sie mir, dass Sie öfter mit einem Verwandten von mir, Herrn Oberregierungsrat Bargheer zusammen kämen. Dürfte ich Sie bitten, ihm Grüße von mir zu sagen, Seine Schwester besuchte mich vor einem Jahr hier und stellte mir in Aussicht, durch ihren Bruder mir nähere Angaben über seine Vorfahren zu machen. Leider aber geschah dieses nicht. Es haben eben immer alle Menschen, und ich gehöre sehr dazu, zu viel Arbeit und kommen nicht zu persönlichen Dingen.</p><closer><seg rend="left">Mit vorzüglicher Hochachtung grüsst</seg><lb/><seg rend="center">Ihre ergebene</seg><lb/><seg rend="right">Frieda Bargheer</seg></closer></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Frieda Bargheer an Willi Schramm, Timmendorferstrand 8. Dezember 1935</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>LLB, Mus-h 1 B 175, 1 Bl. (2 b. S.)</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-40</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2011-08-31" who="JV">erfasst und Korrekturgelesen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">Frieda Bargheer an Willi Schramm, <lb/>Timmendorferstrand, 8. Dezember 1835</head>
+                <opener><dateline rend="right">Olgaheim. Timmendorferstrand <lb/> d. 8. Dez. 35.</dateline><salute>Sehr geehrter Herr Studienrat.</salute></opener>
+                <p>Den 30. Nov. 1933 baten Sie mich, Ihnen einige Kompositionen meines Vaters <unclear>noch</unclear> etwas zu überlassen, da Sie dieselben abschreiben lassen wollen und dieselben dann späer in einem Konzert verwenden wollten.</p>
+                <p>Ich würde mich herzlich freuen, wenn es dazu gekommen sein sollte.</p>
+                <p>Das Zurückschicken scheint nun etwas in Vergessenheit geraten zu sein, ich möchte mir deshalb erlauben, daran zu erinnern, was Sie sicher verstehen und mir nicht übel nehmen werden.</p>
+                <p>Früher schrieben Sie mir, dass Sie öfter mit einem Verwandten von mir, Herrn Oberregierungsrat Bargheer zusammen kämen. Dürfte ich Sie bitten, ihm Grüße von mir zu sagen, Seine Schwester besuchte mich vor einem Jahr hier und stellte mir in Aussicht, durch ihren Bruder mir nähere
+                    Angaben über seine Vorfahren zu machen. Leider aber geschah dieses nicht. Es haben eben immer alle Menschen, und ich gehöre sehr dazu, zu viel Arbeit und kommen nicht zu persönlichen Dingen.</p>
+                <closer><seg rend="left">Mit vorzüglicher Hochachtung grüsst</seg><lb/><seg rend="center">Ihre ergebene</seg><lb/><seg rend="right">Frieda Bargheer</seg></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

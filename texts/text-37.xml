@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Frieda Bargheer an Willi Schramm, Timmendorferstrand, 28. Dezember 1932</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>LLB, Mus-h 1 B 172, 1 Bl. (2 b. S.)</p><p>Bleistiftnotiz von Schramm am Briefkopf von 1r: "Wann u. wo hat B. Brahms kennen gelernt?"</p></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: 37</p></encodingDesc><revisionDesc><change when="2011-08-24" who="JV">erfasst und Korrekturgelesen</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Frieda Bargheer an Willi Schramm, <lb/>Timmendorferstrand, 28. Dezember 1932</head><opener><dateline rend="left">Olgaheim. <lb/>Timmendorferstrand.</dateline><dateline rend="right">d. 28. 12. 32.</dateline><salute>Sehr verehrter Herr Direktor.</salute></opener><p>Für Ihre Karte vom 16. ds. bestens dankend teile ich Ihnen mit, dass die Kompositionen meines Vates nur im Manuscript sind und sehr mit Änderungen versehen. Von einzelnen kleinen Frauenchören und den „Fiedelliedern“ sind die Stimmen da<supplied>.</supplied> dann componierte er schon in ganz jungen Jahren einfache Lieder, die später immer wieder vorgenommen wurden. Wenn Ihnen daran liegen sollte, kann ich ja einzelnes schicken. Die Photographien können Sie natürlich gern behalten so lange Sie sie brauchen. Den "Professor" Titel hatte unser Vater nicht, von Detmold den als Hofcapellmeister, der aber in der Hamburger Zeit je länger wir dort waren, desto weniger genannt wurde. – Von Brahms verschiedenen Besuchen bei uns und dem Musicieren mit unserem Vater habe ich noch <pb n="1v"/>manche kleine Erinnerung – mir waren sie wertvoll, aber als Dr. Michelmann<note resp="JV">Emild Michelmann, Agathe von Siebold, die Jugendliebe von Brahms, 1930</note> nach ihnen frug (schriftlich) erschienen sie mir nicht erzählenswert. Bei einem gelegentlichen Zusammensein in Göttingen erzählte ich davon, dann brachte er es in „Agathe v. Siebold“ 2. Teil doch heraus.</p><p>Die Lieder unseres Vaters sind ganz schlicht, das Componieren tat er zu seiner eigenen Freude in seinen alten Tagen mehr als zu den Zeiten, wo das Solospiel ihn sehr in Anspruch nahm.</p><p>Es ist mir eine Freude, dass alte Zeiten wieder wach werden.</p><closer><salute>Mit vorzüglicher Hochachtung
-                <seg rend="center">Frieda Bargheer</seg></salute></closer><postscript><p>Wenn Ihnen daran gelegen ist könnte ich schicken:<lb/>
-                Motette f. 4stimm. gem. Chor Ps. 51 (gedruckt) <lb/>
-                Psalm 103 für 4stimm Frauenchor – Manuskript <lb/>
-                kl. Frauenchöre " <supplied>für</supplied> 4stimmig "   "  <lb/>
-                Wanderlieder (Cyclus) für 1 Singst m Cl. Bl. "   "  <lb/>
-                Fiedellieder f. 1 Singstimme m. Clavierbegl. u. Geige "   " </p></postscript></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title>Frieda Bargheer an Willi Schramm, Timmendorferstrand, 28. Dezember 1932</title>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p>Publication Information</p>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <p>LLB, Mus-h 1 B 172, 1 Bl. (2 b. S.)</p>
+                                                                <p>Bleistiftnotiz von Schramm am Briefkopf von 1r: "Wann u. wo hat B. Brahms kennen gelernt?"</p>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr.: 37</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2011-08-24" who="JV">erfasst und Korrekturgelesen</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div type="letter">
+                                                                <head type="main">Frieda Bargheer an Willi Schramm, <lb/>Timmendorferstrand, 28. Dezember 1932</head>
+                                                                <opener><dateline rend="left">Olgaheim. <lb/>Timmendorferstrand.</dateline><dateline rend="right">d. 28. 12. 32.</dateline><salute>Sehr verehrter Herr Direktor.</salute></opener>
+                                                                <p>Für Ihre Karte vom 16. ds. bestens dankend teile ich Ihnen mit, dass die Kompositionen meines Vates nur im Manuscript sind und sehr mit Änderungen versehen. Von einzelnen kleinen Frauenchören und den „Fiedelliedern“ sind die Stimmen
+                                                                                                da<supplied>.</supplied> dann componierte er schon in ganz jungen Jahren einfache Lieder, die später immer wieder vorgenommen wurden. Wenn Ihnen daran liegen sollte, kann ich ja einzelnes schicken. Die
+                                                                                Photographien können Sie natürlich gern behalten so lange Sie sie brauchen. Den "Professor" Titel hatte unser Vater nicht, von Detmold den als Hofcapellmeister, der aber in der Hamburger Zeit je länger wir dort waren,
+                                                                                desto weniger genannt wurde. – Von Brahms verschiedenen Besuchen bei uns und dem Musicieren mit unserem Vater habe ich noch <pb n="1v"/>manche kleine Erinnerung – mir waren sie wertvoll, aber als Dr. Michelmann<note
+                                                                                                resp="JV">Emild Michelmann, Agathe von Siebold, die Jugendliebe von Brahms, 1930</note> nach ihnen frug (schriftlich) erschienen sie mir nicht erzählenswert. Bei einem gelegentlichen Zusammensein in
+                                                                                Göttingen erzählte ich davon, dann brachte er es in „Agathe v. Siebold“ 2. Teil doch heraus.</p>
+                                                                <p>Die Lieder unseres Vaters sind ganz schlicht, das Componieren tat er zu seiner eigenen Freude in seinen alten Tagen mehr als zu den Zeiten, wo das Solospiel ihn sehr in Anspruch nahm.</p>
+                                                                <p>Es ist mir eine Freude, dass alte Zeiten wieder wach werden.</p>
+                                                                <closer><salute>Mit vorzüglicher Hochachtung <seg rend="center">Frieda Bargheer</seg></salute></closer>
+                                                                <postscript>
+                                                                                <p>Wenn Ihnen daran gelegen ist könnte ich schicken:<lb/> Motette f. 4stimm. gem. Chor Ps. 51 (gedruckt) <lb/> Psalm 103 für 4stimm Frauenchor – Manuskript <lb/> kl. Frauenchöre " <supplied>für</supplied> 4stimmig " "
+                                                                                                <lb/> Wanderlieder (Cyclus) für 1 Singst m Cl. Bl. " " <lb/> Fiedellieder f. 1 Singstimme m. Clavierbegl. u. Geige " " </p>
+                                                                </postscript>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

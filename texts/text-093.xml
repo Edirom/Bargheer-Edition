@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Verlagscontract Theodor Storm - Gebrüder Paetel, 17./26. Mai 1872</title><author>Storm, Theodor</author></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><bibl>Theodor Storm – Gebrüder Paetel. Briefwechsel. Kritische Ausgabe, hg. von Roland Berbig, Berlin: Erich Schmidt, 2006 (Storm-Briefwechsel, Bd. 16) S. 45</bibl></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-093</p></encodingDesc><revisionDesc><change when="2011-08-06" who="AS">Brieftexteingabe</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Theodor Storm, Verlagskontrakt mit den Gebrüder Paetel, 17./26. Mai 1872</head><opener><date when="1872-05-17" rend="right">17./26. Mai 1872</date><lb/><hi n="1" rend="underline center">Verlagscontract.</hi></opener><p>Der Amtsrichter Theodor Storm in Husum giebt den Gebrüdern Paetel in Berlin ein Buch unter dem Titel "<hi n="1" rend="underline">Zerstreute Kapitel</hi>", enthaltend:</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verlagscontract Theodor Storm - Gebrüder Paetel, 17./26. Mai 1872</title>
+                <author>Storm, Theodor</author>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Theodor Storm – Gebrüder Paetel. Briefwechsel. Kritische Ausgabe, hg. von Roland Berbig, Berlin: Erich Schmidt, 2006 (Storm-Briefwechsel, Bd. 16) S. 45</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-093</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2011-08-06" who="AS">Brieftexteingabe</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">Theodor Storm, Verlagskontrakt mit den Gebrüder Paetel, 17./26. Mai 1872</head>
+                <opener><date when="1872-05-17" rend="right">17./26. Mai 1872</date><lb/><hi n="1" rend="underline center">Verlagscontract.</hi></opener>
+                <p>Der Amtsrichter Theodor Storm in Husum giebt den Gebrüdern Paetel in Berlin ein Buch unter dem Titel "<hi n="1" rend="underline">Zerstreute Kapitel</hi>", enthaltend:</p>
                 <!--<p>I.</p>
                 <p>"<hi n="1" rend="underline">Der Amtschirurgus</hi> - <hi n="1" rend="underline">Heimkehr</hi>.</p>
                 <p>II.</p>
@@ -7,11 +33,40 @@
                     <hi n="1" rend="underline">Gedichte</hi> (8 bis 10 Seiten, zu mindestens je ein Gedicht von 8 Zeilen)</p>
                 <p>III.</p>
                 <p>
-                    <hi n="1" rend="underline">Eine Halligfahrt</hi>.</p>--><p>[...]</p><p>IV.</p><p><hi n="1" rend="underline">Die neuen Fiedel-Lieder</hi>.</p><p>V.</p>
+                    <hi n="1" rend="underline">Eine Halligfahrt</hi>.</p>-->
+                <p>[...]</p>
+                <p>IV.</p>
+                <p><hi n="1" rend="underline">Die neuen Fiedel-Lieder</hi>.</p>
+                <p>V.</p>
                 <!--<p>
                     <hi n="1" rend="underline">Draußen im Haidedorfe</hi>.</p>
                 <p>VI.</p>
                 <p>
-                    <hi n="1" rend="underline">Zwei Kuchenesser der alten Zeit</hi>."</p>--><p>[...]</p><p>unter nachstehenden Bedingungen für die erste und alle folgenden Auflagen in Verlag.</p><p>§ 1.</p><p>Das Buch erscheint in Miniaturformat, und nicht vor 1 Oktober 1872.</p><p>§ 2.</p><p>Für die erste Auflage von 2000 Exemplaren erhält der Verfasser außer 12 gebundenen und 12 ungebundenen Exemplaren ein Honorar von 440 (vierhundert und vierzig) Thalern, zahlbar in fünf gleichen monatlichen Raten, zuerst 1 August 1872.</p><p>§ 3.</p><p>Für jede folgende Auflage, nach Belieben des Verlegers von ein- oder zweitausend Exemplaren, erhält der Verfasser nach Verhältniß das gleiche Honorar von zweihundert und zwanzig Thalern nebst sechs gebundenen und sechs ungebundenen Exemplaren, zahlbar bei Ausgabe der neuen Auflage.</p><p>§ 4.</p><p>Die Gedichte sub II kann der Verfasser vom 1 Oktober 1873 an, die Gedichte sub IV vom 1 Oktober 1876 an in der Sammlung seiner Gedichte veröffentlichen.</p><p>§ 5.</p><p>Das Recht des Verlegers der Gesammtausgabe der Schriften des Verfassers, George Westermann in Braunschweig, das Buch vom 1 Oktober 1876 an in diese Gesammtausgabe aufzunehmen, bleibt vorbehalten, unbeschadet des Rechts dieser Separatausgabe.</p>
+                    <hi n="1" rend="underline">Zwei Kuchenesser der alten Zeit</hi>."</p>-->
+                <p>[...]</p>
+                <p>unter nachstehenden Bedingungen für die erste und alle folgenden Auflagen in Verlag.</p>
+                <p>§ 1.</p>
+                <p>Das Buch erscheint in Miniaturformat, und nicht vor 1 Oktober 1872.</p>
+                <p>§ 2.</p>
+                <p>Für die erste Auflage von 2000 Exemplaren erhält der Verfasser außer 12 gebundenen und 12 ungebundenen Exemplaren ein Honorar von 440 (vierhundert und vierzig) Thalern, zahlbar in fünf gleichen monatlichen Raten, zuerst 1 August 1872.</p>
+                <p>§ 3.</p>
+                <p>Für jede folgende Auflage, nach Belieben des Verlegers von ein- oder zweitausend Exemplaren, erhält der Verfasser nach Verhältniß das gleiche Honorar von zweihundert und zwanzig Thalern nebst sechs gebundenen und sechs ungebundenen Exemplaren, zahlbar bei Ausgabe der neuen
+                    Auflage.</p>
+                <p>§ 4.</p>
+                <p>Die Gedichte sub II kann der Verfasser vom 1 Oktober 1873 an, die Gedichte sub IV vom 1 Oktober 1876 an in der Sammlung seiner Gedichte veröffentlichen.</p>
+                <p>§ 5.</p>
+                <p>Das Recht des Verlegers der Gesammtausgabe der Schriften des Verfassers, George Westermann in Braunschweig, das Buch vom 1 Oktober 1876 an in diese Gesammtausgabe aufzunehmen, bleibt vorbehalten, unbeschadet des Rechts dieser Separatausgabe.</p>
                 <!--<p>§ 6.</p>
-                <p>Die Verleger dieser Separatausgabe sind befugt, aus dem sub I bis VI incl. aufgeführtem Material, die ad V aufgeführte Novelle "<hi n="1" rend="underline">Draußen im Haidedorf</hi>" auszuschneiden und unter diesem Titel separat erscheinen zu lassen.</p>--><p>[...]</p><p>Husum, 17. Mai 1872.</p><p>Theodor Storm.</p><p>§ 7.</p><p>Die Rechte und Pflichten dieses Contraktes sollen auch auf die Rechtsnachfolger beider Theile übergehen.–</p><p>Husum, den 26. Mai</p><p>1872.</p><closer><signed>Theodor Storm</signed></closer></div></body></text></TEI>
+                <p>Die Verleger dieser Separatausgabe sind befugt, aus dem sub I bis VI incl. aufgeführtem Material, die ad V aufgeführte Novelle "<hi n="1" rend="underline">Draußen im Haidedorf</hi>" auszuschneiden und unter diesem Titel separat erscheinen zu lassen.</p>-->
+                <p>[...]</p>
+                <p>Husum, 17. Mai 1872.</p>
+                <p>Theodor Storm.</p>
+                <p>§ 7.</p>
+                <p>Die Rechte und Pflichten dieses Contraktes sollen auch auf die Rechtsnachfolger beider Theile übergehen.–</p>
+                <p>Husum, den 26. Mai</p>
+                <p>1872.</p>
+                <closer><signed>Theodor Storm</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

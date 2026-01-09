@@ -1,2 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Dr. Gerhard Hachmann an Carl Louis Bargheer, Hamburg, 9. März 1888</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><country>D</country><settlement>Detmold</settlement><repository n="D-DT">Lippische Landesbibliothek</repository><idno>Mus-h 1 B 80</idno></msIdentifier><physDesc><p>1 DBl. (1 b.S.)</p></physDesc></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr: text-34</p></encodingDesc><revisionDesc><change when="2012-12-08" who="JV">Metadaten ergänzt</change><change when="2011-08-24" who="JV">erfasst und Korrekturgelesen</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Dr. Gerhard Hachmann an Carl Louis Bargheer, <lb/>Hamburg, 9. März 1888</head><opener><dateline rend="right"><hi rend="latintype">Hamburg</hi>, den 9. <hi rend="latintype">März</hi> 1888.</dateline><salute>Geehrter Herr <hi rend="latintype">Bargheer</hi>!</salute></opener><p>Bei Ihrem bevorstehenden Ausscheiden aus der Stellung zur Philharmonischen Gesellschaft ist es der Wunsch des Comités, Ihnen die dankbare Anerkennung zu erkennen zu geben für alle reichen künstlerischen Leistungen, welche Sie während einer langen Reihe von Jahren als Leiter der Kammermusik-Abende und als erster Concertmeister des Orchesters dargeboten haben. – Das Comité bitte Sie deshalb, die beifolgende Ehrengabe als Ausdruck dieser Gesinnung entgegen nehmen zu wollen.</p><closer><seg rend="right"><hi rend="latintype">Das Comité der Philharmonischen Concerte:</hi><lb/><hi rend="latintype">Hachmann</hi> C Bargheer</seg><lb/><seg rend="left" type="footline">Herrn Hofcapellmeister <hi rend="latintype">C Bargheer</hi><lb/>hier.</seg></closer></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dr. Gerhard Hachmann an Carl Louis Bargheer, Hamburg, 9. März 1888</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>D</country>
+                        <settlement>Detmold</settlement>
+                        <repository n="D-DT">Lippische Landesbibliothek</repository>
+                        <idno>Mus-h 1 B 80</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 DBl. (1 b.S.)</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr: text-34</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2012-12-08" who="JV">Metadaten ergänzt</change>
+            <change when="2011-08-24" who="JV">erfasst und Korrekturgelesen</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">Dr. Gerhard Hachmann an Carl Louis Bargheer, <lb/>Hamburg, 9. März 1888</head>
+                <opener><dateline rend="right"><hi rend="latintype">Hamburg</hi>, den 9. <hi rend="latintype">März</hi> 1888.</dateline><salute>Geehrter Herr <hi rend="latintype">Bargheer</hi>!</salute></opener>
+                <p>Bei Ihrem bevorstehenden Ausscheiden aus der Stellung zur Philharmonischen Gesellschaft ist es der Wunsch des Comités, Ihnen die dankbare Anerkennung zu erkennen zu geben für alle reichen künstlerischen Leistungen, welche Sie während einer langen Reihe von Jahren als Leiter der
+                    Kammermusik-Abende und als erster Concertmeister des Orchesters dargeboten haben. – Das Comité bitte Sie deshalb, die beifolgende Ehrengabe als Ausdruck dieser Gesinnung entgegen nehmen zu wollen.</p>
+                <closer><seg rend="right"><hi rend="latintype">Das Comité der Philharmonischen Concerte:</hi><lb/><hi rend="latintype">Hachmann</hi> C Bargheer</seg><lb/><seg rend="left" type="footline">Herrn Hofcapellmeister <hi rend="latintype">C Bargheer</hi><lb/>hier.</seg></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
