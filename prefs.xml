@@ -28,7 +28,7 @@
         <entry key="image_server" value="openseadragon"/>
         <entry key="image_prefix" value="https://bargheer.edirom.de/Scaler/IIIF/"/>
         <!-- <entry key="edition_path" value="/db/apps/edirom/edition-example/content/ediromEditions/"/> -->
-        <entry key="edition_path" value="/db/apps/edirom/bargheer-edition/content/"/>
+        <entry key="edition_path" value="/db/apps/Bargheer-Edition/"/>
     </entries>
 
 
