@@ -1,23 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Zu dieser Website</title><respStmt><name>Herausgeber</name><resp>Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim Veit</resp></respStmt></titleStmt><publicationStmt><p>Publication information</p></publicationStmt><sourceDesc><p>Information about the source</p></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-01</p></encodingDesc><revisionDesc><change when="2012-11-25" who="JV">Ersteinrichtung; noch unvollständig</change></revisionDesc></teiHeader><text><body><div><head type="main">Zu dieser Website</head><p><figure place="inline"><graphic url="images/bargheer_symbol1.jpg" height="220px"/></figure></p><p>Auf der vorliegenden Website finden Sie einerseits Informationen zu den <hi rend="italic">Fiedelliedern</hi>, die der Kapellmeister, Komponist und Violinist Carl Louis Bargheer (1831–1902) nach Textvorlagen von Theodor Storm (1817–1888) komponierte. Integriert ist eine vollständige digitale Edition dieser Lieder einschließlich eines ausführlichen Kritischen Berichts, der auch die komplizierte Genese bzw. den Überarbeitungsprozess dieser Lieder im Detail verdeutlichen will. Darüber hinaus werden zahlreiche Informationen und Dokumente bereitgestellt, die über den engeren Gegenstand dieser <hi rend="italic">Fiedellieder</hi> hinausgehen und Bargheers Biographie, aber auch seine Rolle im Musikleben, speziell seine Zeit in der Detmolder Hofkapelle und die Kontakte zu Johannes Brahms, beleuchten. Dabei sind in erster Linie Briefe und Archivalien, aber auch bildliche Zeugnisse aufgenommen. Die Mehrzahl dieser Dokumente stammt aus der Lippischen Landesbibliothek Detmold und dem Landesarchiv NRW, Abteilung Ostwestfalen-Lippe und wird hier erstmals veröffentlicht.</p><p>Ebenfalls in der Darstellung berücksichtigt sind die Hintergründe der Entstehung der Textvorlage. Hierzu gehört die Wiedergabe des Märchens <hi rend="italic">Das Sonnenkind</hi> von Ferdinand Röse, für das Storm einen Teil der Texte seiner <hi rend="italic">Fiedellieder</hi> zunächst schrieb, ebenso wie die Verdeutlichung der nachträglichen Erweiterung dieser Lieder und die Dokumentation der von Bargheer benutzten Fassung.</p><p>Die vorliegende Seite, die sich als <hi rend="italic">work in progress</hi> versteht, wurde erstellt von einer Projektgruppe am Musikwissenschaftlichen Seminar Detmold/Paderborn in Kooperation mit der <ref target="http://www.llb-detmold.de">Lippischen Landesbibliothek Detmold</ref> und in Verbindung mit dem <ref target="http://www.archive.nrw.de/lav/abteilungen/ostwestfalen_lippe/profil_zustaendigkeit/index.php">Landesarchiv NRW, Abteilung Ostwestfalen-Lippe</ref>, sowie mit Unterstützung des BMBF-Projekts <ref target="http://www.textgrid.de/home/">TextGrid</ref> und des DFG-Projekts <ref target="http://www.edirom.de">Edirom</ref>.</p><p>Verantwortlich für die Inhalte dieser Seiten sind Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim Veit. </p><p>Die zugehörige Printedition der Lieder ist Dezember 2012 im Carus-Verlag, Stuttgart, erschienen. <ref target="http://www.carus-verlag.com/index.php3?BLink=KKWerk&amp;WerkID=31426">(➞ zur Notenausgabe)</ref></p><!-- Link auf separates Fenster einstellen --><p>Bei der Vorbereitung der vorliegenden digitalen Edition konnte das <ref target="http://www.textgrid.de">TextGrid-Laboratory</ref> noch vor der Veröffentlichung des endgültigen Release 1.0 genutzt werden. Dem TextGrid-Konsortium sowie Herrn M.Sc. Julian Dabbert sei für die Unterstützung herzlich gedankt.</p><p>Die technische Konzeption und Durchführung der vorliegenden Edition wären ohne die vielfache Unterstützung durch das DFG-Projekt <ref target="http://www.edirom.de">Edirom</ref> nicht möglich gewesen. Ein besonderer Dank gilt daher den Herren Dr. Johannes Kepper, Dipl.Wirt.Inf. Daniel Röwenstrunk und Benjamin Wolff Bohl M.A., die dem Projekt stets mit Rat und Tat zur Seite standen. Für die Hilfe bei der Codierung der musikalischen Quellen im Format der <ref target="http://www.music-encoding.org">Music Encoding Initative MEI</ref> sei ferner Maja Hartwig M.A. und Kristina Richts M.A. gedankt; die Ergebnisse der Codierung der Genese der Lieder werden erst zu einem späteren Zeitpunkt auf dieser Website sichtbar sein.</p><p>Schließlich gilt unser besonderer Dank auch Herrn Dr. Joachim Eberhardt von der Lippischen Landesbibliothek Detmold für die stets hilfsbereite und großzügige Förderung dieses mehrsemestrigen Projekts. Den Mitarbeitern der Landesbibliothek danken wir für die große Geduld bei der über einen großen Zeitraum notwendigen Nutzung der Quellen.</p><p>© 2012. Alle Rechte an den Abbildungen liegen bei den bewahrenden Institutionen; die der digitalen Edition und der Textteile bei der Projektgruppe des Musikwissenschaftlichen Seminars Detmold. Die Rechte an der Print-Edition der <hi rend="italic">Fiedellieder</hi> liegen beim Carus-Verlag Stuttgart.</p></div><div><head>Überblick über die Materialien dieser Website</head><p>Die Seite enthält gegenwärtig folgende Materialien:
-                <list><item><hi rend="bold">Sämtliche Quellen zu Bargheers <hi rend="italic">Fiedelliedern</hi></hi><lb/>
-            Die einzelnen Entstehungsstufen der Komposition sind in unterschiedlichster Weise dokumentiert. Direkten Zugang zu den verschiedenen Versionen bietet die Auflistung unter dem Punkt <hi rend="bold">Quellen</hi> im Navigator.</item><item><hi rend="bold">Einen digitalen Kritischen Bericht zur Edition der <hi rend="italic">Fiedellieder</hi></hi><lb/>
-            Die Anmerkungen zur Edition sind auf unterschiedliche Weise zugänglich:<lb/>
-            1. Unter dem Menüpunkt <hi rend="bold">Werk | Fiedellieder</hi> lässt sich eine Takt-für-Takt-Liste der Anmerkungen aufrufen, in der einzelne Anmerkungen gezielt angesteuert und dann sukzessive durchgeblättert werden können.<lb/>
-            2. Eleganter ist der Zugang über die musikalischen <hi rend="bold">Quellen</hi>, in denen in der oberen Leiste die Funktion "Anmerkungen ein-/ausblenden" zum Einblenden entsprechender Symbole im Notentext führt, die wiederum verdeutlichen wo und wie viele Anmerkungen zu einem bestimmten Takt gehören. Das Aufrufen durch Klick auf diese Icons öffnet wiederum den Anmerkungstext. Zusätzlich können unter dem Menüpunkt <hi rend="bold">Anmerkungen</hi> diese auch nach Prioritäten oder bestimmten Kategorien gefiltert werden.<lb/></item><item><hi rend="bold">Eine Beschreibung der Entstehung und Überlieferung von Textvorlage und Musik</hi><lb/>
-                Hinweise zur Textgestalt finden sich unter der Rubrik <hi rend="bold">Liedtexte</hi> im dem auf der rechten Seite aufgeklappten Navigator. Dort sind sowohl die Textvorlagen zugänglich als auch eine Übersicht zu den verschiedenen Stadien der Textentwicklung bei Storm. Weitere Hinweise finden sich in der Rubrik <hi rend="bold"><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-05.xml">Zur Entstehung</ref></hi> des Menüpunkts <hi rend="bold">Kritischer Bericht</hi>, in der auch die wenigen Fakten, die zur Entstehung der Komposition bekannt sind, zusammengefasst sind. Briefe, die die Entstehung von Storms Gedichten dokumentieren, sind unter <hi rend="bold"><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-005.xml">Materialien</ref></hi> zugänglich.
-            </item><item><hi rend="bold">Eine Beschreibung und Bewertung der Quellen zu Text und Musik</hi><lb/>
-                Die Beschreibung der musikalischen Quellen und deren Bewertung sowie Angaben zur Textgestalt bei Bargheer finden sich im Kritischen Bericht unter dem Menüpunkt <hi rend="bold"><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-06.xml">Quellenbeschreibung</ref></hi>. Dort sind auch Übersichten zum Manuskriptaufbau und zu den verschiedenen Stufen der komplexen Werkgenese zu finden.</item><item><hi rend="bold">Materialien zur Biographie von Bargheer und zu den im Kontext der Lieder erwähnten Personen</hi><lb/>
-                Unter den Menüpunkten <hi rend="bold">Biographisches</hi>, <hi rend="bold">Dokumente</hi> und <hi rend="bold">Materialien</hi> finden sich umfangreiche Textmaterialien einschließlich einer Dokumentation zahlreicher Briefe und Archivalien aus der Lippischen Landesbibliothek und aus dem Landesarchiv NRW, Abteilung Ostwestfalen-Lippe. Diese Informationen werden zur Zeit noch laufend ergänzt und teilweise mit Faksimiles der entsprechenden Quellen verbunden.<lb/>
-                Enthalten sind in diesem Teil auch <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-091.xml">Kurzbiographien Bargheers von Willi Schramm</ref> sowie <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-09.xml">zweier Projektteilnehmer (Joachim Iffland und Agnes Seipelt)</ref>, ferner der <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-43.xml">Nachruf von Emil Krause</ref>. Darüber hinaus sind verschiedene Personen aus dem Umkreis der Entstehung und Überlieferung der Lieder mit entsprechenden Informationen vertreten (u.a. Ferdinand Röse, Theodor Storm, Ferdinand Weidig).</item><item><hi rend="bold">Materialien zu den Kontakten zwischen Bargheer und Brahms</hi><lb/>
-                Zu diesen Materialien gehört eine Erstveröffentlichung von Bargheers <hi rend="italic"><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-45.xml">Erinnerungen an Johannes Brahms in Detmold 1857-1865</ref></hi> in der von Willi Schramm überlieferten Form (maschinenschriftliche Abschrift), ferner eine Veröffentlichung der <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-080.xml">Erinnerungen an Brahms von Hermann Freiherr von Meysenbug</ref> und der <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-081.xml">Erinnerungen von Carl von Meysenbug</ref>.</item><item><hi rend="bold">Den kompletten Text des Märchens <hi rend="italic">Das Sonnenkind</hi> von Ferdinand Röse</hi><lb/>
-                        Die Fassung des Märchens, wie sie 1845 in dem Volkskalender <hi rend="italic">Der deutsche Pilger durch die Welt</hi> abgedruckt wurde, ist auf dieser Website <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-03.xml">komplett wiedergegeben</ref> (z. Zt. noch ohne Integration der Abbildungen).</item><item><hi rend="bold">Bildmaterial zu Bargheer</hi><lb/>
-                Der <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-008.xml">Bildteil</ref> enthält sowohl Fotografien Bargheers als auch Faksimiles von Konzertprogrammen sowie etliche Faksimiles (letztere sind z.Zt. in die Übertragungen integriert, werden aber über eine Liste auch an dieser Stelle zugänglich sein). </item><item><hi rend="bold">Eine Tonaufnahme der Fiedellieder (und der 5 Lieder für Bariton)</hi><lb/>
-                        Die Interpreten der ersten Aufführung nach dem neu edierten Notentext, Markus Köhler (Bariton), Julia Parusch (Violine) und Peter Kreutz (Klavier), haben die Lieder aufgenommen und dankenswerterweise die Tonaufnahme für diese Website zur Verfügung gestellt. Sie finden diese Tonaufnahme in einer separaten Datei: <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml">➞ Zur Tonaufnahme</ref>.
-                    </item><lb/></list></p></div><div><head>Hinweise zu Einschränkungen im gegenwärtigen Stand (Version 0.9)</head><p>Das <hi rend="bold">Lesartenverzeichnis</hi> in seiner gegenwärtigen Form ähnelt konzeptionell noch sehr der traditionellen Anlage solcher Verzeichnisse und unterscheidet sich lediglich durch die Integration der Quellenfaksimiles und verschiedene Filtermöglichkeiten. Die zum gezielten Filtern notwendige Vergabe von Prioritäten und Kategorien ist z. Zt. noch nicht konsequent umgesetzt. Um die Benutzung zu erleichtern, ist eine weitere Differenzierung und deutlichere Strukturierung der Angaben geplant.</p><p>In diesem Kontext ist auch eine grundsätzliche Problematik anzusprechen, die die Entscheidung betrifft, ob <hi rend="bold">Anmerkungen</hi> gezielt nur für einzelne Phänomene oder <hi rend="italic">Kategorien</hi> angelegt oder alle in einem Takt oder einer Taktgruppe vorkommenden Phänomene zusammen in einer Anmerkung beschrieben werden sollen. Das Problem wird zusätzlich kompliziert durch die Vergabe von <hi rend="italic">Prioritäten</hi>, die die Wichtigkeit einzelner Anmerkungen bezeichnen (im Sinne ihrer Bedeutung für die Edition des musikalischen Textes). Die jetzige Lösung kann nur als Angebot zum Testen unterschiedlicher Formen verstanden werden; eine Differenzierung würde aber z. B. erlauben, Fremdeinträge, Nachträge oder Stufen der Entstehung besser durch Filter gruppieren zu können.</p><p>Die komplexe <hi rend="bold">Textgenese</hi> dieser Lieder zwingt an vielen Stellen, die verschiedenen Stufen der Entstehung deutlich zu trennen und darzustellen. Dies ist aufgrund der nicht immer freizulegenden Überklebungen in den Manuskripten gelegentlich schwierig. Soweit die Stellen nicht komplett abzulösen, aber wenigstens zum Teil entzifferbar waren, sind sie in Neusatz übertragen und in dieser Form in die Faksimiles einmontiert worden. Dennoch ist die Textentwicklung dabei nicht immer einfach nachzuvollziehen. Erst die Codierung erleichtert das Erfassen der Textbewegungen. Die größtenteils bereits erstellte Codierung im Format der <ref target="http://www.music-encoding.org">Music Encoding Initative MEI</ref> wird erst zu einem späteren Zeitpunkt in die Website integriert.</p><p>Das <hi rend="bold">Layout</hi> der Anmerkungen ist in der gegenwärtigen Version als vorläufig zu verstehen. Es wird bis zur Veröffentlichung der Version 1.0 überarbeitet sein. Dasselbe gilt für die Darstellung und Binnenauszeichnung einiger wiedergegebener Texte.</p></div><div><head>Hinweise</head><p>Diese Website wurde erstellt mit den empfohlenen Codierungen von
-                    <figure><graphic url="http://www.tei-c.org/logos/TEI-glow.png"/></figure>
-                    bzw. im musikalischen Teil von 
-                    <figure><graphic url="http://music-encoding.org/pix/meiLogo.png"/></figure>
-                    Die technische Konzeption und Betreuung lag beim DFG-Projekt <ref target="http://www.edirom.de">Edirom</ref>.
-                </p></div><div>
-                <!--<head>Disclaimer</head>--></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zu dieser Website</title>
+                <respStmt>
+                    <name>Herausgeber</name>
+                    <resp>Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie
+                        Rauch, Agnes Seipelt und Joachim Veit</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-01</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2012-11-25" who="JV">Ersteinrichtung; noch unvollständig</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head type="main">Zu dieser Website</head>
+                <p><figure place="inline">
+                        <graphic url="images/bargheer_symbol1.jpg" height="220px"/>
+                    </figure></p>
+                <p>Auf der vorliegenden Website finden Sie einerseits Informationen zu den <hi
+                        rend="italic">Fiedelliedern</hi>, die der Kapellmeister, Komponist und
+                    Violinist Carl Louis Bargheer (1831–1902) nach Textvorlagen von Theodor Storm
+                    (1817–1888) komponierte. Integriert ist eine vollständige digitale Edition
+                    dieser Lieder einschließlich eines ausführlichen Kritischen Berichts, der auch
+                    die komplizierte Genese bzw. den Überarbeitungsprozess dieser Lieder im Detail
+                    verdeutlichen will. Darüber hinaus werden zahlreiche Informationen und Dokumente
+                    bereitgestellt, die über den engeren Gegenstand dieser <hi rend="italic"
+                        >Fiedellieder</hi> hinausgehen und Bargheers Biographie, aber auch seine
+                    Rolle im Musikleben, speziell seine Zeit in der Detmolder Hofkapelle und die
+                    Kontakte zu Johannes Brahms, beleuchten. Dabei sind in erster Linie Briefe und
+                    Archivalien, aber auch bildliche Zeugnisse aufgenommen. Die Mehrzahl dieser
+                    Dokumente stammt aus der Lippischen Landesbibliothek Detmold und dem
+                    Landesarchiv NRW, Abteilung Ostwestfalen-Lippe und wird hier erstmals
+                    veröffentlicht.</p>
+                <p>Ebenfalls in der Darstellung berücksichtigt sind die Hintergründe der Entstehung
+                    der Textvorlage. Hierzu gehört die Wiedergabe des Märchens <hi rend="italic">Das
+                        Sonnenkind</hi> von Ferdinand Röse, für das Storm einen Teil der Texte
+                    seiner <hi rend="italic">Fiedellieder</hi> zunächst schrieb, ebenso wie die
+                    Verdeutlichung der nachträglichen Erweiterung dieser Lieder und die
+                    Dokumentation der von Bargheer benutzten Fassung.</p>
+                <p>Die vorliegende Seite, die sich als <hi rend="italic">work in progress</hi>
+                    versteht, wurde erstellt von einer Projektgruppe am Musikwissenschaftlichen
+                    Seminar Detmold/Paderborn in Kooperation mit der <ref
+                        target="http://www.llb-detmold.de">Lippischen Landesbibliothek Detmold</ref>
+                    und in Verbindung mit dem <ref
+                        target="http://www.archive.nrw.de/lav/abteilungen/ostwestfalen_lippe/profil_zustaendigkeit/index.php"
+                        >Landesarchiv NRW, Abteilung Ostwestfalen-Lippe</ref>, sowie mit
+                    Unterstützung des BMBF-Projekts <ref target="http://www.textgrid.de/home/"
+                        >TextGrid</ref> und des DFG-Projekts <ref target="http://www.edirom.de"
+                        >Edirom</ref>.</p>
+                <p>Verantwortlich für die Inhalte dieser Seiten sind Kostadin Delinikolov, Andreas
+                    Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim
+                    Veit. </p>
+                <p>Die zugehörige Printedition der Lieder ist Dezember 2012 im Carus-Verlag,
+                    Stuttgart, erschienen. <ref
+                        target="http://www.carus-verlag.com/index.php3?BLink=KKWerk&amp;WerkID=31426"
+                        >(➞ zur Notenausgabe)</ref></p>
+                <!-- Link auf separates Fenster einstellen -->
+                <p>Bei der Vorbereitung der vorliegenden digitalen Edition konnte das <ref
+                        target="http://www.textgrid.de">TextGrid-Laboratory</ref> noch vor der
+                    Veröffentlichung des endgültigen Release 1.0 genutzt werden. Dem
+                    TextGrid-Konsortium sowie Herrn M.Sc. Julian Dabbert sei für die Unterstützung
+                    herzlich gedankt.</p>
+                <p>Die technische Konzeption und Durchführung der vorliegenden Edition wären ohne
+                    die vielfache Unterstützung durch das DFG-Projekt <ref
+                        target="http://www.edirom.de">Edirom</ref> nicht möglich gewesen. Ein
+                    besonderer Dank gilt daher den Herren Dr. Johannes Kepper, Dipl.Wirt.Inf. Daniel
+                    Röwenstrunk und Benjamin Wolff Bohl M.A., die dem Projekt stets mit Rat und Tat
+                    zur Seite standen. Für die Hilfe bei der Codierung der musikalischen Quellen im
+                    Format der <ref target="http://www.music-encoding.org">Music Encoding Initative
+                        MEI</ref> sei ferner Maja Hartwig M.A. und Kristina Richts M.A. gedankt; die
+                    Ergebnisse der Codierung der Genese der Lieder werden erst zu einem späteren
+                    Zeitpunkt auf dieser Website sichtbar sein.</p>
+                <p>Schließlich gilt unser besonderer Dank auch Herrn Dr. Joachim Eberhardt von der
+                    Lippischen Landesbibliothek Detmold für die stets hilfsbereite und großzügige
+                    Förderung dieses mehrsemestrigen Projekts. Den Mitarbeitern der Landesbibliothek
+                    danken wir für die große Geduld bei der über einen großen Zeitraum notwendigen
+                    Nutzung der Quellen.</p>
+                <p>© 2012. Alle Rechte an den Abbildungen liegen bei den bewahrenden Institutionen;
+                    die der digitalen Edition und der Textteile bei der Projektgruppe des
+                    Musikwissenschaftlichen Seminars Detmold. Die Rechte an der Print-Edition der
+                        <hi rend="italic">Fiedellieder</hi> liegen beim Carus-Verlag Stuttgart.</p>
+            </div>
+            <div>
+                <head>Überblick über die Materialien dieser Website</head>
+                <p>Die Seite enthält gegenwärtig folgende Materialien: <list>
+                        <item><hi rend="bold">Sämtliche Quellen zu Bargheers <hi rend="italic"
+                                    >Fiedelliedern</hi></hi><lb/> Die einzelnen Entstehungsstufen
+                            der Komposition sind in unterschiedlichster Weise dokumentiert. Direkten
+                            Zugang zu den verschiedenen Versionen bietet die Auflistung unter dem
+                            Punkt <hi rend="bold">Quellen</hi> im Navigator.</item>
+                        <item><hi rend="bold">Einen digitalen Kritischen Bericht zur Edition der <hi
+                                    rend="italic">Fiedellieder</hi></hi><lb/> Die Anmerkungen zur
+                            Edition sind auf unterschiedliche Weise zugänglich:<lb/> 1. Unter dem
+                            Menüpunkt <hi rend="bold">Werk | Fiedellieder</hi> lässt sich eine
+                            Takt-für-Takt-Liste der Anmerkungen aufrufen, in der einzelne
+                            Anmerkungen gezielt angesteuert und dann sukzessive durchgeblättert
+                            werden können.<lb/> 2. Eleganter ist der Zugang über die musikalischen
+                                <hi rend="bold">Quellen</hi>, in denen in der oberen Leiste die
+                            Funktion "Anmerkungen ein-/ausblenden" zum Einblenden entsprechender
+                            Symbole im Notentext führt, die wiederum verdeutlichen wo und wie viele
+                            Anmerkungen zu einem bestimmten Takt gehören. Das Aufrufen durch Klick
+                            auf diese Icons öffnet wiederum den Anmerkungstext. Zusätzlich können
+                            unter dem Menüpunkt <hi rend="bold">Anmerkungen</hi> diese auch nach
+                            Prioritäten oder bestimmten Kategorien gefiltert werden.<lb/></item>
+                        <item><hi rend="bold">Eine Beschreibung der Entstehung und Überlieferung von
+                                Textvorlage und Musik</hi><lb/> Hinweise zur Textgestalt finden sich
+                            unter der Rubrik <hi rend="bold">Liedtexte</hi> im dem auf der rechten
+                            Seite aufgeklappten Navigator. Dort sind sowohl die Textvorlagen
+                            zugänglich als auch eine Übersicht zu den verschiedenen Stadien der
+                            Textentwicklung bei Storm. Weitere Hinweise finden sich in der Rubrik
+                                <hi rend="bold"><ref
+                                    target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-05.xml"
+                                    >Zur Entstehung</ref></hi> des Menüpunkts <hi rend="bold"
+                                >Kritischer Bericht</hi>, in der auch die wenigen Fakten, die zur
+                            Entstehung der Komposition bekannt sind, zusammengefasst sind. Briefe,
+                            die die Entstehung von Storms Gedichten dokumentieren, sind unter <hi
+                                rend="bold"><ref
+                                    target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-005.xml"
+                                    >Materialien</ref></hi> zugänglich. </item>
+                        <item><hi rend="bold">Eine Beschreibung und Bewertung der Quellen zu Text
+                                und Musik</hi><lb/> Die Beschreibung der musikalischen Quellen und
+                            deren Bewertung sowie Angaben zur Textgestalt bei Bargheer finden sich
+                            im Kritischen Bericht unter dem Menüpunkt <hi rend="bold"><ref
+                                    target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-06.xml"
+                                    >Quellenbeschreibung</ref></hi>. Dort sind auch Übersichten zum
+                            Manuskriptaufbau und zu den verschiedenen Stufen der komplexen
+                            Werkgenese zu finden.</item>
+                        <item><hi rend="bold">Materialien zur Biographie von Bargheer und zu den im
+                                Kontext der Lieder erwähnten Personen</hi><lb/> Unter den
+                            Menüpunkten <hi rend="bold">Biographisches</hi>, <hi rend="bold"
+                                >Dokumente</hi> und <hi rend="bold">Materialien</hi> finden sich
+                            umfangreiche Textmaterialien einschließlich einer Dokumentation
+                            zahlreicher Briefe und Archivalien aus der Lippischen Landesbibliothek
+                            und aus dem Landesarchiv NRW, Abteilung Ostwestfalen-Lippe. Diese
+                            Informationen werden zur Zeit noch laufend ergänzt und teilweise mit
+                            Faksimiles der entsprechenden Quellen verbunden.<lb/> Enthalten sind in
+                            diesem Teil auch <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-091.xml"
+                                >Kurzbiographien Bargheers von Willi Schramm</ref> sowie <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-09.xml"
+                                >zweier Projektteilnehmer (Joachim Iffland und Agnes Seipelt)</ref>,
+                            ferner der <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-43.xml"
+                                >Nachruf von Emil Krause</ref>. Darüber hinaus sind verschiedene
+                            Personen aus dem Umkreis der Entstehung und Überlieferung der Lieder mit
+                            entsprechenden Informationen vertreten (u.a. Ferdinand Röse, Theodor
+                            Storm, Ferdinand Weidig).</item>
+                        <item><hi rend="bold">Materialien zu den Kontakten zwischen Bargheer und
+                                Brahms</hi><lb/> Zu diesen Materialien gehört eine
+                            Erstveröffentlichung von Bargheers <hi rend="italic"><ref
+                                    target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-45.xml"
+                                    >Erinnerungen an Johannes Brahms in Detmold 1857-1865</ref></hi>
+                            in der von Willi Schramm überlieferten Form (maschinenschriftliche
+                            Abschrift), ferner eine Veröffentlichung der <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-080.xml"
+                                >Erinnerungen an Brahms von Hermann Freiherr von Meysenbug</ref> und
+                            der <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-081.xml"
+                                >Erinnerungen von Carl von Meysenbug</ref>.</item>
+                        <item><hi rend="bold">Den kompletten Text des Märchens <hi rend="italic">Das
+                                    Sonnenkind</hi> von Ferdinand Röse</hi><lb/> Die Fassung des
+                            Märchens, wie sie 1845 in dem Volkskalender <hi rend="italic">Der
+                                deutsche Pilger durch die Welt</hi> abgedruckt wurde, ist auf dieser
+                            Website <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-03.xml"
+                                >komplett wiedergegeben</ref> (z. Zt. noch ohne Integration der
+                            Abbildungen).</item>
+                        <item><hi rend="bold">Bildmaterial zu Bargheer</hi><lb/> Der <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-008.xml"
+                                >Bildteil</ref> enthält sowohl Fotografien Bargheers als auch
+                            Faksimiles von Konzertprogrammen sowie etliche Faksimiles (letztere sind
+                            z.Zt. in die Übertragungen integriert, werden aber über eine Liste auch
+                            an dieser Stelle zugänglich sein). </item>
+                        <item><hi rend="bold">Eine Tonaufnahme der Fiedellieder (und der 5 Lieder
+                                für Bariton)</hi><lb/> Die Interpreten der ersten Aufführung nach
+                            dem neu edierten Notentext, Markus Köhler (Bariton), Julia Parusch
+                            (Violine) und Peter Kreutz (Klavier), haben die Lieder aufgenommen und
+                            dankenswerterweise die Tonaufnahme für diese Website zur Verfügung
+                            gestellt. Sie finden diese Tonaufnahme in einer separaten Datei: <ref
+                                target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml"
+                                >➞ Zur Tonaufnahme</ref>. </item>
+                        <lb/>
+                    </list></p>
+            </div>
+            <div>
+                <head>Hinweise zu Einschränkungen im gegenwärtigen Stand (Version 0.9)</head>
+                <p>Das <hi rend="bold">Lesartenverzeichnis</hi> in seiner gegenwärtigen Form ähnelt
+                    konzeptionell noch sehr der traditionellen Anlage solcher Verzeichnisse und
+                    unterscheidet sich lediglich durch die Integration der Quellenfaksimiles und
+                    verschiedene Filtermöglichkeiten. Die zum gezielten Filtern notwendige Vergabe
+                    von Prioritäten und Kategorien ist z. Zt. noch nicht konsequent umgesetzt. Um
+                    die Benutzung zu erleichtern, ist eine weitere Differenzierung und deutlichere
+                    Strukturierung der Angaben geplant.</p>
+                <p>In diesem Kontext ist auch eine grundsätzliche Problematik anzusprechen, die die
+                    Entscheidung betrifft, ob <hi rend="bold">Anmerkungen</hi> gezielt nur für
+                    einzelne Phänomene oder <hi rend="italic">Kategorien</hi> angelegt oder alle in
+                    einem Takt oder einer Taktgruppe vorkommenden Phänomene zusammen in einer
+                    Anmerkung beschrieben werden sollen. Das Problem wird zusätzlich kompliziert
+                    durch die Vergabe von <hi rend="italic">Prioritäten</hi>, die die Wichtigkeit
+                    einzelner Anmerkungen bezeichnen (im Sinne ihrer Bedeutung für die Edition des
+                    musikalischen Textes). Die jetzige Lösung kann nur als Angebot zum Testen
+                    unterschiedlicher Formen verstanden werden; eine Differenzierung würde aber z.
+                    B. erlauben, Fremdeinträge, Nachträge oder Stufen der Entstehung besser durch
+                    Filter gruppieren zu können.</p>
+                <p>Die komplexe <hi rend="bold">Textgenese</hi> dieser Lieder zwingt an vielen
+                    Stellen, die verschiedenen Stufen der Entstehung deutlich zu trennen und
+                    darzustellen. Dies ist aufgrund der nicht immer freizulegenden Überklebungen in
+                    den Manuskripten gelegentlich schwierig. Soweit die Stellen nicht komplett
+                    abzulösen, aber wenigstens zum Teil entzifferbar waren, sind sie in Neusatz
+                    übertragen und in dieser Form in die Faksimiles einmontiert worden. Dennoch ist
+                    die Textentwicklung dabei nicht immer einfach nachzuvollziehen. Erst die
+                    Codierung erleichtert das Erfassen der Textbewegungen. Die größtenteils bereits
+                    erstellte Codierung im Format der <ref target="http://www.music-encoding.org"
+                        >Music Encoding Initative MEI</ref> wird erst zu einem späteren Zeitpunkt in
+                    die Website integriert.</p>
+                <p>Das <hi rend="bold">Layout</hi> der Anmerkungen ist in der gegenwärtigen Version
+                    als vorläufig zu verstehen. Es wird bis zur Veröffentlichung der Version 1.0
+                    überarbeitet sein. Dasselbe gilt für die Darstellung und Binnenauszeichnung
+                    einiger wiedergegebener Texte.</p>
+            </div>
+            <div>
+                <head>Hinweise</head>
+                <p>Diese Website wurde erstellt mit den empfohlenen Codierungen von <figure>
+                        <graphic url="https://www.tei-c.org/about/logos/TEI_Logo_Horizontal.png"/>
+                    </figure> bzw. im musikalischen Teil von <figure>
+                        <graphic url="https://music-encoding.org/pix/logos/mei-logo-full-light.png"
+                        />
+                    </figure> Die technische Konzeption und Betreuung lag beim DFG-Projekt <ref
+                        target="http://www.edirom.de">Edirom</ref>. </p>
+            </div>
+            <div>
+                <!--<head>Disclaimer</head>--></div>
+        </body>
+    </text>
+</TEI>
