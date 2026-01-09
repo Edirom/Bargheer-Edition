@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      meiversion="5.0"
      xml:id="sourceA1_s2">
-   <meiHead>
+   <meiHead meiversion="5.0">
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title>Urfassung, Revision 1</title>
          </titleStmt>
          <pubStmt/>
       </fileDesc>
@@ -20,6 +20,25 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <manifestationList>
+         <manifestation>
+            <identifier type="siglum">A1_s2</identifier>
+            <titleStmt>
+               <title>Urfassung, Revision 1</title>
+            </titleStmt>
+            <notesStmt>
+               <annot xml:id="corrections"
+                      type="overlay"
+                      plist="#overlayP1 #overlayP2 #overlayP3">
+                  <title>Korrekturen</title>
+               </annot>
+            </notesStmt>
+            <relationList>
+               <relation rel="isEmbodimentOf"
+                         target="xmldb:exist:///db/apps/Bargheer-Edition/works/edirom_work_2c574d8e-fbb7-44b6-bc73-f1b5715621e8.xml#edirom_work_2c574d8e-fbb7-44b6-bc73-f1b5715621e8_exp1"/>
+            </relationList>
+         </manifestation>
+      </manifestationList>
       <revisionDesc>
          <change n="1" resp="#mei40To50">
             <changeDesc>
@@ -29,9 +48,11 @@
          </change>
       </revisionDesc>
    </meiHead>
-   <music>
+   <music meiversion="5.0">
       <facsimile>
-         <surface n="1" xml:id="edirom_surface_8d88cdc3-9124-4a4e-b894-35c24c028750">
+         <surface n="1"
+                  xml:id="edirom_surface_8d88cdc3-9124-4a4e-b894-35c24c028750"
+                  rotate="0">
             <graphic height="2605"
                      target="edition-39469223/sourceA1_s2/A1-02.jpg"
                      type="facsimile"
@@ -44,7 +65,11 @@
                  width="2000px"
                  x="0px"
                  xml:id="overlayP1"
-                 y="0px">
+                 y="0px"
+                 preserveAspectRatio="xMidYMid meet"
+                 zoomAndPan="magnify"
+                 contentScriptType="text/ecmascript"
+                 contentStyleType="text/css">
                <g id="Ebene_1_xA0_Bild_1_">
                   <g>
                      <path d="M-732.771-425.336c4.77,0,9.539,0,14.309,0C-718.119-421.04-733.064-421.293-732.771-425.336z"
@@ -3833,123 +3858,145 @@
                   type="measure"
                   ulx="221"
                   uly="305"
-                  xml:id="edirom_zone_602c81d2-1b24-4ff0-aae9-9fae3822ce91"/>
+                  xml:id="edirom_zone_602c81d2-1b24-4ff0-aae9-9fae3822ce91"
+                  rotate="0"/>
             <zone lrx="556"
                   lry="952"
                   type="measure"
                   ulx="138"
                   uly="191"
-                  xml:id="edirom_zone_df234c78-eab0-42cc-be6e-872f30e711ce"/>
+                  xml:id="edirom_zone_df234c78-eab0-42cc-be6e-872f30e711ce"
+                  rotate="0"/>
             <zone lrx="795"
                   lry="950"
                   type="measure"
                   ulx="490"
                   uly="219"
-                  xml:id="edirom_zone_a41bb2bb-5390-4d1c-be76-f071b224d095"/>
+                  xml:id="edirom_zone_a41bb2bb-5390-4d1c-be76-f071b224d095"
+                  rotate="0"/>
             <zone lrx="1057"
                   lry="930"
                   type="measure"
                   ulx="728"
                   uly="221"
-                  xml:id="edirom_zone_a1759308-dc2e-4220-992d-e18d6bb5b7fa"/>
+                  xml:id="edirom_zone_a1759308-dc2e-4220-992d-e18d6bb5b7fa"
+                  rotate="0"/>
             <zone lrx="1307"
                   lry="928"
                   type="measure"
                   ulx="997"
                   uly="197"
-                  xml:id="edirom_zone_65ebaa5d-6eda-49f5-b7c8-a4eb219f700e"/>
+                  xml:id="edirom_zone_65ebaa5d-6eda-49f5-b7c8-a4eb219f700e"
+                  rotate="0"/>
             <zone lrx="1550"
                   lry="958"
                   type="measure"
                   ulx="1237"
                   uly="216"
-                  xml:id="edirom_zone_9e6028cb-211b-418e-a0ef-5a36cdc5333f"/>
+                  xml:id="edirom_zone_9e6028cb-211b-418e-a0ef-5a36cdc5333f"
+                  rotate="0"/>
             <zone lrx="1810"
                   lry="947"
                   type="measure"
                   ulx="1489"
                   uly="219"
-                  xml:id="edirom_zone_fd06ea3b-fb6e-4bcd-a326-3af482d31ac5"/>
+                  xml:id="edirom_zone_fd06ea3b-fb6e-4bcd-a326-3af482d31ac5"
+                  rotate="0"/>
             <zone lrx="590"
                   lry="1689"
                   type="measure"
                   ulx="133"
                   uly="966"
-                  xml:id="edirom_zone_1603aa46-3aec-4a43-8d44-d48901746bff"/>
+                  xml:id="edirom_zone_1603aa46-3aec-4a43-8d44-d48901746bff"
+                  rotate="0"/>
             <zone lrx="886"
                   lry="1667"
                   type="measure"
                   ulx="526"
                   uly="936"
-                  xml:id="edirom_zone_eafac01c-1c14-4867-a4c4-54ed388899db"/>
+                  xml:id="edirom_zone_eafac01c-1c14-4867-a4c4-54ed388899db"
+                  rotate="0"/>
             <zone lrx="1144"
                   lry="1670"
                   type="measure"
                   ulx="817"
                   uly="947"
-                  xml:id="edirom_zone_6c0836b2-17e8-4273-b82e-af84e3073b91"/>
+                  xml:id="edirom_zone_6c0836b2-17e8-4273-b82e-af84e3073b91"
+                  rotate="0"/>
             <zone lrx="1395"
                   lry="1674"
                   type="measure"
                   ulx="1082"
                   uly="963"
-                  xml:id="edirom_zone_7cc505d5-e142-4b7c-81b3-26647f265669"/>
+                  xml:id="edirom_zone_7cc505d5-e142-4b7c-81b3-26647f265669"
+                  rotate="0"/>
             <zone lrx="1675"
                   lry="1708"
                   type="measure"
                   ulx="1337"
                   uly="980"
-                  xml:id="edirom_zone_05055a6d-548b-4ebb-97a1-63ac9d7698de"/>
+                  xml:id="edirom_zone_05055a6d-548b-4ebb-97a1-63ac9d7698de"
+                  rotate="0"/>
             <zone lrx="1858"
                   lry="1708"
                   type="measure"
                   ulx="1603"
                   uly="980"
-                  xml:id="edirom_zone_634cfb2e-ccb9-4947-9fea-02928792d8be"/>
+                  xml:id="edirom_zone_634cfb2e-ccb9-4947-9fea-02928792d8be"
+                  rotate="0"/>
             <zone lrx="523"
                   lry="2480"
                   type="measure"
                   ulx="133"
                   uly="1691"
-                  xml:id="edirom_zone_5f47fa9e-d32e-4b86-a270-b594353fefad"/>
+                  xml:id="edirom_zone_5f47fa9e-d32e-4b86-a270-b594353fefad"
+                  rotate="0"/>
             <zone lrx="795"
                   lry="2466"
                   type="measure"
                   ulx="479"
                   uly="1694"
-                  xml:id="edirom_zone_590c0055-8fd5-46ed-b7ff-7a0e4cf4e9a7"/>
+                  xml:id="edirom_zone_590c0055-8fd5-46ed-b7ff-7a0e4cf4e9a7"
+                  rotate="0"/>
             <zone lrx="1060"
                   lry="2486"
                   type="measure"
                   ulx="739"
                   uly="1727"
-                  xml:id="edirom_zone_fca0cbb2-476b-47cb-8b70-6aa5b778fa0f"/>
+                  xml:id="edirom_zone_fca0cbb2-476b-47cb-8b70-6aa5b778fa0f"
+                  rotate="0"/>
             <zone lrx="1285"
                   lry="2453"
                   type="measure"
                   ulx="1019"
                   uly="1694"
-                  xml:id="edirom_zone_13068d77-5264-4ba1-9971-5be4715d3dd7"/>
+                  xml:id="edirom_zone_13068d77-5264-4ba1-9971-5be4715d3dd7"
+                  rotate="0"/>
             <zone lrx="1495"
                   lry="2436"
                   type="measure"
                   ulx="1235"
                   uly="1711"
-                  xml:id="edirom_zone_0dd5c47f-69a5-4261-8492-b05101f1aeff"/>
+                  xml:id="edirom_zone_0dd5c47f-69a5-4261-8492-b05101f1aeff"
+                  rotate="0"/>
             <zone lrx="1708"
                   lry="2472"
                   type="measure"
                   ulx="1437"
                   uly="1708"
-                  xml:id="edirom_zone_762412ec-9d7e-4dd3-b36f-12008ad862fa"/>
+                  xml:id="edirom_zone_762412ec-9d7e-4dd3-b36f-12008ad862fa"
+                  rotate="0"/>
             <zone lrx="1849"
                   lry="2572"
                   type="measure"
                   ulx="1644"
                   uly="1714"
-                  xml:id="edirom_zone_e9734c76-6f27-431f-9649-ebf4c4405dcb"/>
+                  xml:id="edirom_zone_e9734c76-6f27-431f-9649-ebf4c4405dcb"
+                  rotate="0"/>
          </surface>
-         <surface n="2" xml:id="edirom_surface_03a7921c-2901-4a8d-ae32-9e1ed6e5be4c">
+         <surface n="2"
+                  xml:id="edirom_surface_03a7921c-2901-4a8d-ae32-9e1ed6e5be4c"
+                  rotate="0">
             <graphic height="2597"
                      target="edition-39469223/sourceA1_s2/A1-03.jpg"
                      type="facsimile"
@@ -3962,7 +4009,11 @@
                  width="2000px"
                  x="0px"
                  xml:id="overlayP2"
-                 y="0px">
+                 y="0px"
+                 preserveAspectRatio="xMidYMid meet"
+                 zoomAndPan="magnify"
+                 contentScriptType="text/ecmascript"
+                 contentStyleType="text/css">
                <g>
                   <g>
                      <path d="M401.667-91.216c0-0.217,0-0.434,0-0.65c3.244,0,6.488,0,9.738,0    C409.441-90.364,404.707-91.64,401.667-91.216z"
@@ -4335,93 +4386,110 @@
                   type="measure"
                   ulx="149"
                   uly="199"
-                  xml:id="edirom_zone_9db0ec14-6e44-4405-bf30-5d0b33ecc1ee"/>
+                  xml:id="edirom_zone_9db0ec14-6e44-4405-bf30-5d0b33ecc1ee"
+                  rotate="0"/>
             <zone lrx="866"
                   lry="935"
                   type="measure"
                   ulx="502"
                   uly="193"
-                  xml:id="edirom_zone_aac63727-cecd-437a-a7fe-fe0b7f3b6854"/>
+                  xml:id="edirom_zone_aac63727-cecd-437a-a7fe-fe0b7f3b6854"
+                  rotate="0"/>
             <zone lrx="1153"
                   lry="924"
                   type="measure"
                   ulx="811"
                   uly="168"
-                  xml:id="edirom_zone_f480ebd3-de11-4c93-b287-e18876f8e056"/>
+                  xml:id="edirom_zone_f480ebd3-de11-4c93-b287-e18876f8e056"
+                  rotate="0"/>
             <zone lrx="1435"
                   lry="932"
                   type="measure"
                   ulx="1101"
                   uly="179"
-                  xml:id="edirom_zone_c5b9c426-bde2-4cf4-a385-d9f30589898c"/>
+                  xml:id="edirom_zone_c5b9c426-bde2-4cf4-a385-d9f30589898c"
+                  rotate="0"/>
             <zone lrx="1755"
                   lry="943"
                   type="measure"
                   ulx="1385"
                   uly="179"
-                  xml:id="edirom_zone_df602861-9f2f-4c8a-abad-a7d957fafbfa"/>
+                  xml:id="edirom_zone_df602861-9f2f-4c8a-abad-a7d957fafbfa"
+                  rotate="0"/>
             <zone lrx="557"
                   lry="1692"
                   type="measure"
                   ulx="157"
                   uly="919"
-                  xml:id="edirom_zone_bf802a71-46ea-475b-abd9-6e3b323fe2d0"/>
+                  xml:id="edirom_zone_bf802a71-46ea-475b-abd9-6e3b323fe2d0"
+                  rotate="0"/>
             <zone lrx="869"
                   lry="1698"
                   type="measure"
                   ulx="505"
                   uly="925"
-                  xml:id="edirom_zone_c94a54a5-9d4f-4d44-bb51-c5a5e34786ac"/>
+                  xml:id="edirom_zone_c94a54a5-9d4f-4d44-bb51-c5a5e34786ac"
+                  rotate="0"/>
             <zone lrx="1220"
                   lry="1695"
                   type="measure"
                   ulx="828"
                   uly="914"
-                  xml:id="edirom_zone_82b84d10-6aab-4972-9b0c-aaf9e6c820eb"/>
+                  xml:id="edirom_zone_82b84d10-6aab-4972-9b0c-aaf9e6c820eb"
+                  rotate="0"/>
             <zone lrx="1549"
                   lry="1703"
                   type="measure"
                   ulx="1176"
                   uly="930"
-                  xml:id="edirom_zone_824ccc45-e0c2-4c2b-b1b7-0fbda54e1485"/>
+                  xml:id="edirom_zone_824ccc45-e0c2-4c2b-b1b7-0fbda54e1485"
+                  rotate="0"/>
             <zone lrx="1860"
                   lry="1703"
                   type="measure"
                   ulx="1490"
                   uly="941"
-                  xml:id="edirom_zone_489cced6-4eba-444c-ab60-a08e7c0285ee"/>
+                  xml:id="edirom_zone_489cced6-4eba-444c-ab60-a08e7c0285ee"
+                  rotate="0"/>
             <zone lrx="635"
                   lry="2462"
                   type="measure"
                   ulx="144"
                   uly="1670"
-                  xml:id="edirom_zone_57912e21-72c8-4d9b-b8b6-82bbc7cc209f"/>
+                  xml:id="edirom_zone_57912e21-72c8-4d9b-b8b6-82bbc7cc209f"
+                  rotate="0"/>
             <zone lrx="952"
                   lry="2456"
                   type="measure"
                   ulx="588"
                   uly="1697"
-                  xml:id="edirom_zone_57d523fb-9a2c-47de-85ff-a5c391d3d102"/>
+                  xml:id="edirom_zone_57d523fb-9a2c-47de-85ff-a5c391d3d102"
+                  rotate="0"/>
             <zone lrx="1297"
                   lry="2461"
                   type="measure"
                   ulx="889"
                   uly="1683"
-                  xml:id="edirom_zone_d9e4f8ac-714b-48ba-a41f-8982811dc685"/>
+                  xml:id="edirom_zone_d9e4f8ac-714b-48ba-a41f-8982811dc685"
+                  rotate="0"/>
             <zone lrx="1686"
                   lry="2451"
                   type="measure"
                   ulx="1206"
                   uly="1706"
-                  xml:id="edirom_zone_3b21dc1f-5884-4f18-901d-43b04a95f047"/>
+                  xml:id="edirom_zone_3b21dc1f-5884-4f18-901d-43b04a95f047"
+                  rotate="0"/>
             <zone lrx="1923"
                   lry="2495"
                   type="measure"
                   ulx="1606"
                   uly="1697"
-                  xml:id="edirom_zone_ce3918ac-90c0-40ed-b897-47f77e8dd3f5"/>
+                  xml:id="edirom_zone_ce3918ac-90c0-40ed-b897-47f77e8dd3f5"
+                  rotate="0"/>
          </surface>
-         <surface n="3" xml:id="edirom_surface_3ba2dd4a-c527-4061-9a39-ab984c526462">
+         <surface n="3"
+                  xml:id="edirom_surface_3ba2dd4a-c527-4061-9a39-ab984c526462"
+                  rotate="0">
             <graphic height="2604"
                      target="edition-39469223/sourceA1_s2/A1-04.jpg"
                      type="facsimile"
@@ -4434,7 +4502,11 @@
                  width="2000px"
                  x="0px"
                  xml:id="overlayP3"
-                 y="0px">
+                 y="0px"
+                 preserveAspectRatio="xMidYMid meet"
+                 zoomAndPan="magnify"
+                 contentScriptType="text/ecmascript"
+                 contentStyleType="text/css">
                <g>
                   <path d="M195.896-171.424c11.975-8.865,24.727-20.34,44.877-18.861c1.816,0.57,3.217,1.557,5.203,1.949   c2.705,2.281,5.018,4.961,7.805,7.156c-0.012,1.529,1.123,1.916,0.652,3.902c-1.111,0.025-1.684-0.482-1.951-1.303   c-1.262-2.855-3.576-4.664-5.854-6.502c-0.217,0-0.436,0-0.652,0c-0.449-1.285-1.732-1.734-3.252-1.953   c-2.498-2.52-9.758-2.484-13.008-0.648c-10.686,2.752-19.518,7.365-26.666,13.658c-3.162,0.955-4.654,3.586-7.154,5.203   c-5.26,2.543-7.385,8.223-11.707,11.705c-0.217,0-0.434,0-0.65,0c-0.557-2.074,1.023-2.012,1.301-3.25c0-0.217,0-0.434,0-0.65   c2.893-2.525,5.174-5.666,7.805-8.455C194.685-169.165,194.362-171.223,195.896-171.424z"
                         fill="#9A0F0F"/>
@@ -5017,115 +5089,134 @@
                   type="measure"
                   ulx="111"
                   uly="219"
-                  xml:id="edirom_zone_7d0b30a3-25fa-4579-bbe6-66bf9556a67d"/>
+                  xml:id="edirom_zone_7d0b30a3-25fa-4579-bbe6-66bf9556a67d"
+                  rotate="0"/>
             <zone lrx="791"
                   lry="930"
                   type="measure"
                   ulx="470"
                   uly="216"
-                  xml:id="edirom_zone_575a79b3-26dc-4e33-9344-7c1c5757dbb6"/>
+                  xml:id="edirom_zone_575a79b3-26dc-4e33-9344-7c1c5757dbb6"
+                  rotate="0"/>
             <zone lrx="1093"
                   lry="935"
                   type="measure"
                   ulx="733"
                   uly="213"
-                  xml:id="edirom_zone_c7fef052-8131-427c-b92d-b27584843111"/>
+                  xml:id="edirom_zone_c7fef052-8131-427c-b92d-b27584843111"
+                  rotate="0"/>
             <zone lrx="1386"
                   lry="941"
                   type="measure"
                   ulx="1032"
                   uly="208"
-                  xml:id="edirom_zone_3f17ec65-f83e-44e6-b28c-d0d1b9abe6dc"/>
+                  xml:id="edirom_zone_3f17ec65-f83e-44e6-b28c-d0d1b9abe6dc"
+                  rotate="0"/>
             <zone lrx="1657"
                   lry="940"
                   type="measure"
                   ulx="1314"
                   uly="221"
-                  xml:id="edirom_zone_b775eb9b-f875-4043-a38d-265d2216cb25"/>
+                  xml:id="edirom_zone_b775eb9b-f875-4043-a38d-265d2216cb25"
+                  rotate="0"/>
             <zone lrx="1857"
                   lry="941"
                   type="measure"
                   ulx="1580"
                   uly="202"
-                  xml:id="edirom_zone_991c6c33-fa3f-4864-b385-700973ef7de4"/>
+                  xml:id="edirom_zone_991c6c33-fa3f-4864-b385-700973ef7de4"
+                  rotate="0"/>
             <zone lrx="493"
                   lry="1686"
                   type="measure"
                   ulx="122"
                   uly="897"
-                  xml:id="edirom_zone_9d434129-e44d-487b-a500-30c802ea27bc"/>
+                  xml:id="edirom_zone_9d434129-e44d-487b-a500-30c802ea27bc"
+                  rotate="0"/>
             <zone lrx="822"
                   lry="1689"
                   type="measure"
                   ulx="448"
                   uly="922"
-                  xml:id="edirom_zone_df5cd92b-aab7-48ad-894c-50b31ce890a9"/>
+                  xml:id="edirom_zone_df5cd92b-aab7-48ad-894c-50b31ce890a9"
+                  rotate="0"/>
             <zone lrx="1143"
                   lry="1704"
                   type="measure"
                   ulx="775"
                   uly="935"
-                  xml:id="edirom_zone_c3053595-8826-4b86-af1e-5aebb8822273"/>
+                  xml:id="edirom_zone_c3053595-8826-4b86-af1e-5aebb8822273"
+                  rotate="0"/>
             <zone lrx="1442"
                   lry="1702"
                   type="measure"
                   ulx="1082"
                   uly="974"
-                  xml:id="edirom_zone_28b93048-d6db-4182-aa6d-6cd973f8f2ca"/>
+                  xml:id="edirom_zone_28b93048-d6db-4182-aa6d-6cd973f8f2ca"
+                  rotate="0"/>
             <zone lrx="1779"
                   lry="1722"
                   type="measure"
                   ulx="1367"
                   uly="980"
-                  xml:id="edirom_zone_f59af887-2e59-4fcc-8d1f-58ec9ea34f33"/>
+                  xml:id="edirom_zone_f59af887-2e59-4fcc-8d1f-58ec9ea34f33"
+                  rotate="0"/>
             <zone lrx="498"
                   lry="2465"
                   type="measure"
                   ulx="100"
                   uly="1721"
-                  xml:id="edirom_zone_13d013a0-fe11-40c6-9ee0-f6b5603c877a"/>
+                  xml:id="edirom_zone_13d013a0-fe11-40c6-9ee0-f6b5603c877a"
+                  rotate="0"/>
             <zone lrx="752"
                   lry="2432"
                   type="measure"
                   ulx="448"
                   uly="1707"
-                  xml:id="edirom_zone_070aac9f-20bc-4049-aa40-fe0685bad907"/>
+                  xml:id="edirom_zone_070aac9f-20bc-4049-aa40-fe0685bad907"
+                  rotate="0"/>
             <zone lrx="1093"
                   lry="2444"
                   type="measure"
                   ulx="697"
                   uly="1647"
-                  xml:id="edirom_zone_1ec16cd7-788c-423c-b5c2-1df85f7ff62a"/>
+                  xml:id="edirom_zone_1ec16cd7-788c-423c-b5c2-1df85f7ff62a"
+                  rotate="0"/>
             <zone lrx="1387"
                   lry="2544"
                   type="measure"
                   ulx="1027"
                   uly="1694"
-                  xml:id="edirom_zone_7424370a-2b0b-4b45-a5ea-38a2717bab48"/>
+                  xml:id="edirom_zone_7424370a-2b0b-4b45-a5ea-38a2717bab48"
+                  rotate="0"/>
             <zone lrx="1622"
                   lry="2521"
                   type="measure"
                   ulx="1323"
                   uly="1696"
-                  xml:id="edirom_zone_43b665eb-5edc-4556-a97c-7bba3dcd86bd"/>
+                  xml:id="edirom_zone_43b665eb-5edc-4556-a97c-7bba3dcd86bd"
+                  rotate="0"/>
             <zone lrx="1774"
                   lry="2505"
                   type="measure"
                   ulx="1547"
                   uly="1694"
-                  xml:id="edirom_zone_e594b6d4-2279-4b8f-b885-bb51801bfaf8"/>
+                  xml:id="edirom_zone_e594b6d4-2279-4b8f-b885-bb51801bfaf8"
+                  rotate="0"/>
             <zone lrx="1898"
                   lry="2466"
                   type="measure"
                   ulx="1710"
                   uly="1691"
-                  xml:id="edirom_zone_2d1287df-d79f-4c65-a601-89120949faed"/>
+                  xml:id="edirom_zone_2d1287df-d79f-4c65-a601-89120949faed"
+                  rotate="0"/>
             <zone lrx="1998"
                   lry="2466"
                   type="measure"
                   ulx="1846"
                   uly="1699"
-                  xml:id="edirom_zone_46889dab-068b-4c66-834b-ab9a6dfae52c"/>
+                  xml:id="edirom_zone_46889dab-068b-4c66-834b-ab9a6dfae52c"
+                  rotate="0"/>
          </surface>
       </facsimile>
       <body>
