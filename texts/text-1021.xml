@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -10,7 +9,9 @@
         <authority>-</authority>
       </publicationStmt>
       <sourceDesc>
-        <p>Schmidt, Erich, „Storm, Hans Theodor“, in: Allgemeine Deutsche Biographie 36 (1893), S. 448–456 [Onlinefassung]; URL: http://www.deutsche-biographie.de/pnd118618725.html?anchor=adb </p>
+        <p>Schmidt, Erich, „Storm, Hans Theodor“, in: Allgemeine Deutsche Biographie 36 (1893), S.
+          448–456 [Onlinefassung]; URL:
+          http://www.deutsche-biographie.de/pnd118618725.html?anchor=adb </p>
         <p>http://www.storm-gesellschaft.de/index.php?seite=55555 </p>
       </sourceDesc>
     </fileDesc>
@@ -19,11 +20,21 @@
     <body>
       <div>
         <head type="main">Zur Biographie von Theodor Storm (1817-1888)</head>
-        <p>Hans Theodor Woldsen Storm (geboren 14. September 1817 in Husum, gestorben 4. Juli 1888 in Hanerau-Hademarschen) war zwar von Hause aus Jurist, wurde aber als Lyriker und Schriftsteller bekannt. Bereits während seiner Schulzeit verfasste und veröffentlichte er erste Gedichte. Als er
-          1835/36 das <name>Katharineum</name> in <name>Lübeck</name> besuchte, freundete er sich mit seinem Klassenkamerad <name><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-07.xml">Ferdinand Röse</ref></name> an, der ihn mit den sogenannten Klassikern der deutschen Literatur
-          vertraut machte. Nach dem Kieler Jurastudium kehrte Storm zunächst wieder nach Husum zurück, bevor er – nach der dänischen Machtübernahme – 1853 ins preußische Exil ging. Ein Jahr zuvor war ihm mit der zweiten Fassung von <title>Immensee</title> als Dichter der Durchbruch im
-          deutschsprachigen Raum gelungen. Bis zu seiner Rückkehr nach Husum, wo er zwischen 1864 und 1880 als Landvogt und Amtsrichter tätig war, schrieb er einige Novellen, Märchen und weitere Gedichte. In Husum und ab 1880 auf seinem Alterssitz in Hademarschen widmete er sich vermehrt den
-          Gattungen der Novelle und der Erzählung. Außerdem bemühte er sich bereits recht früh um die Gesamtausgaben seiner Werke. </p>
+        <p>Hans Theodor Woldsen Storm (geboren 14. September 1817 in Husum, gestorben 4. Juli 1888
+          in Hanerau-Hademarschen) war zwar von Hause aus Jurist, wurde aber als Lyriker und
+          Schriftsteller bekannt. Bereits während seiner Schulzeit verfasste und veröffentlichte er
+          erste Gedichte. Als er 1835/36 das <name>Katharineum</name> in <name>Lübeck</name>
+          besuchte, freundete er sich mit seinem Klassenkamerad <name><ref
+              target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-07.xml">Ferdinand
+              Röse</ref></name> an, der ihn mit den sogenannten Klassikern der deutschen Literatur
+          vertraut machte. Nach dem Kieler Jurastudium kehrte Storm zunächst wieder nach Husum
+          zurück, bevor er – nach der dänischen Machtübernahme – 1853 ins preußische Exil ging. Ein
+          Jahr zuvor war ihm mit der zweiten Fassung von <title>Immensee</title> als Dichter der
+          Durchbruch im deutschsprachigen Raum gelungen. Bis zu seiner Rückkehr nach Husum, wo er
+          zwischen 1864 und 1880 als Landvogt und Amtsrichter tätig war, schrieb er einige Novellen,
+          Märchen und weitere Gedichte. In Husum und ab 1880 auf seinem Alterssitz in Hademarschen
+          widmete er sich vermehrt den Gattungen der Novelle und der Erzählung. Außerdem bemühte er
+          sich bereits recht früh um die Gesamtausgaben seiner Werke. </p>
       </div>
     </body>
   </text>

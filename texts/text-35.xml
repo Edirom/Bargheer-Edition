@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<text xmlns="http://www.edirom.de/ns/1.2" xml:id="text-35" sortNo="35" id="text-35">
-                    <header>
-                                        <author>Frieda Bargheer an Schramm, 16. Okt. 1932</author>
-                    </header>
-                    <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-                                        <teiHeader>
-                                                            <fileDesc>
-                                                                                <titleStmt>
-                                                                                                    <title>Frieda Bargheer an Willi Schramm, Jena, 16. Oktober 1932</title>
-                                                                                </titleStmt>
-                                                                                <publicationStmt>
-                                                                                                    <p>Publication Information</p>
-                                                                                </publicationStmt>
-                                                                                <sourceDesc>
-                                                                                                    <p>LLB, Mus-h 1 B 170, 1 Bl. (2 b. S.)</p>
-                                                                                                    <p>komplett in lat. Schrift</p>
-                                                                                                    <p>mit Bleistift Bemerkungen Schramms am Briefkopf: "Bild von B.? <lb/>Hier in D. ein Oberregierungsrat Dr. B. <lb/>Veröffentlichungen? für 33 z. Offiz. Brahmsfeier der Stadt. <lb/>Andere Bilder aus
-                                                                                                                        der Detmolder Zeit. <lb/>Kalbeck einsehen."</p>
-                                                                                </sourceDesc>
-                                                            </fileDesc>
-                                                            <encodingDesc>
-                                                                                <p>Interne Text-Nr.: text-35</p>
-                                                            </encodingDesc>
-                                                            <revisionDesc>
-                                                                                <change when="2011-08-31" who="JV">erfasst und Korrekturgelesen</change>
-                                                            </revisionDesc>
-                                        </teiHeader>
-                                        <text>
-                                                            <body>
-                                                                                <div type="letter">
-                                                                                                    <head type="main">Frieda Bargheer an Willi Schramm, <lb/>Jena, 16. Oktober 1932</head>
-                                                                                                    <opener>
-                                                                                                                        <seg rend="left">Jena. Johannisplatz 22. <lb/> bei Frau <unclear>Sek</unclear>. Leist.</seg>
-                                                                                                                        <dateline rend="right">d. 16. Okt. 32.</dateline>
-                                                                                                                        <salute>Sehr verehrter Herr Studienrat.</salute>
-                                                                                                    </opener>
-                                                                                                    <p>Ihre Bitte um die Niederschrift meines Vaters kam, als ich gerade im Begriff war mich auf eine längere Urlaubsreise zu rüsten. Ich bitte deshalb um Entschuldigung, dass Sie dieselbe etwas spät
-                                                                                                                        erhalten. Ich fürchte, sie wird Ihnen nichts Neues bringen, da Kahlbeck ja wesentliches in seine Brahms'sche Biographie aufgenommen hat und auch Herr <unclear>Michelmann</unclear>
-                                                                                                                        einiges daraus benutzte. Mein Vater hat die kleine Skizze seinerzeit auf Kahlbecks Bitte um Material aus der Detmolder Zeit geschrieben.</p>
-                                                                                                    <p>Wenn ich vor meiner Abreise Zeit gehabt hätte, würde ich versucht haben aus alten Papieren noch einiges aus der Zeit, in der mein Vater Kapellmeister in Detmold war, hervorzusuchen.</p>
-                                                                                                    <p>Es würden sich wohl Programme oder <pb n="1v"/> Besprechungen über Concerte od. musikalische Veranstaltungen finden.</p>
-                                                                                                    <p>Sollten Sie dafür Interesse haben, so kann ich nach meiner Rückkehr Ende November danach sehen.</p>
-                                                                                                    <p>Darf ich Sie bitten, mir die kleine Schrift an meine augenblickliche Adresse zurückzusenden nachdem Sie sie nicht mehr brauchen.</p>
-                                                                                                    <closer>
-                                                                                                                        <seg rend="left">Mit vorzüglicher Hochachtung</seg>
-                                                                                                                        <lb/>
-                                                                                                                        <seg rend="center">Frieda Bargheer</seg>
-                                                                                                    </closer>
-                                                                                </div>
-                                                            </body>
-                                        </text>
-                    </TEI>
-</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Frieda Bargheer an Willi Schramm, Jena, 16. Oktober 1932</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>LLB, Mus-h 1 B 170, 1 Bl. (2 b. S.)</p>
+        <p>komplett in lat. Schrift</p>
+        <p>mit Bleistift Bemerkungen Schramms am Briefkopf: "Bild von B.? <lb/>Hier in D. ein
+          Oberregierungsrat Dr. B. <lb/>Veröffentlichungen? für 33 z. Offiz. Brahmsfeier der Stadt.
+          <lb/>Andere Bilder aus der Detmolder Zeit. <lb/>Kalbeck einsehen."</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Interne Text-Nr.: text-35</p>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2011-08-31" who="JV">erfasst und Korrekturgelesen</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <head type="main">Frieda Bargheer an Willi Schramm, <lb/>Jena, 16. Oktober 1932</head>
+        <opener>
+          <seg rend="left">Jena. Johannisplatz 22. <lb/> bei Frau <unclear>Sek</unclear>.
+            Leist.</seg>
+          <dateline rend="right">d. 16. Okt. 32.</dateline>
+          <salute>Sehr verehrter Herr Studienrat.</salute>
+        </opener>
+        <p>Ihre Bitte um die Niederschrift meines Vaters kam, als ich gerade im Begriff war mich auf
+          eine längere Urlaubsreise zu rüsten. Ich bitte deshalb um Entschuldigung, dass Sie
+          dieselbe etwas spät erhalten. Ich fürchte, sie wird Ihnen nichts Neues bringen, da
+          Kahlbeck ja wesentliches in seine Brahms'sche Biographie aufgenommen hat und auch Herr
+            <unclear>Michelmann</unclear> einiges daraus benutzte. Mein Vater hat die kleine Skizze
+          seinerzeit auf Kahlbecks Bitte um Material aus der Detmolder Zeit geschrieben.</p>
+        <p>Wenn ich vor meiner Abreise Zeit gehabt hätte, würde ich versucht haben aus alten
+          Papieren noch einiges aus der Zeit, in der mein Vater Kapellmeister in Detmold war,
+          hervorzusuchen.</p>
+        <p>Es würden sich wohl Programme oder <pb n="1v"/> Besprechungen über Concerte od.
+          musikalische Veranstaltungen finden.</p>
+        <p>Sollten Sie dafür Interesse haben, so kann ich nach meiner Rückkehr Ende November danach
+          sehen.</p>
+        <p>Darf ich Sie bitten, mir die kleine Schrift an meine augenblickliche Adresse
+          zurückzusenden nachdem Sie sie nicht mehr brauchen.</p>
+        <closer>
+          <seg rend="left">Mit vorzüglicher Hochachtung</seg>
+          <lb/>
+          <seg rend="center">Frieda Bargheer</seg>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
