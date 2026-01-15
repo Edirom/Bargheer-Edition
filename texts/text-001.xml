@@ -1,269 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-                    <teiHeader>
-                                        <fileDesc>
-                                                  <titleStmt>
-                                                  <title>Aktuelles</title>
-                                                  <respStmt>
-                                                  <name>Herausgeber</name>
-                                                  <resp>Kostadin Delinikolov, Andreas Fukerider,
-                                                  Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes
-                                                  Seipelt und Joachim Veit</resp>
-                                                  </respStmt>
-                                                  </titleStmt>
-                                                  <publicationStmt>
-                                                  <p>Publication information</p>
-                                                  </publicationStmt>
-                                                  <sourceDesc>
-                                                  <p>Information about the source</p>
-                                                  </sourceDesc>
-                                        </fileDesc>
-                                        <encodingDesc>
-                                                  <p>Interne Text-Nr: text-001</p>
-                                        </encodingDesc>
-                                        <revisionDesc>
-                                                  <change when="2025-11-13" who="JV">Hinweis auf neue Ausgabe Kostas ergänzt (noch ohne Bild)</change>
-                                                  <change when="2024-02-01" who="JV">Hinweis auf Kostas Notenausgabe mit Bild ergänzt</change>
-                                                   <change when="2019-01-08" who="JV">News Kosta-Aufsatz ergänzt</change>
-                                                  <change when="2012-12-05" who="JV"
-                                                  >Ersteinrichtung; provisorisch</change>
-                                        </revisionDesc>
-                    </teiHeader>
-                    <text>
-                                        <body>
-                                                  <div>
-                                                  <head type="main">Aktuelles</head>
-                                                  </div>
-                                          <div xml:id="Bargheer_A_2025-11-14">
-                                              <head>14. November 2025: Kostadin Delinikolov veröffentlicht Bargheers <hi rend="italic">Wanderlieder</hi></head> 
-                                            <p>Nach der Veröffentlichung der <hi rend="italic">IX
-            Lieder und Balladen</hi> Bargheers im vergangenen Jahr, die jetzt in einer korrigierten
-          2. Auflage über die Website der Lippischen Landesbibliothek -–Theologische Bibliothek
-          Detmold zugänglich sind (vgl. <ref
-            target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331671"
-            >https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331671</ref>), hat
-          Kostadin Delinikolov nun auch die umfangreiche Sammlung der <hi rend="italic">Wanderlieder
-            für eine Singstimme mit Begleitung des Pianoforte</hi> in derselben ansprechenden Form
-          vorgelegt. Zu den neun Lieder hat er auch in zwei Fällen ("Lebe wohl"/"Scheiden und
-          meiden" sowie "Winterreise") die in der Landesbibliothek überlieferten abweichenden
-          Fassungen mit publiziert und im Anhang auch die durch Überklebungen ersetzten Takte in der
-          Klavierbegleitung der Lieder Nr. 4 ("Morgenlied") und Nr. 7 ("Abreise") abgedruckt.
-          Sämtliche, zwischen 1806 und 1811 entstandenen Texte der Lieder stammen von Ludwig Uhland,
-          der sie nachträglich als Gedichtzyklus konzipierte. Ein ausführliches Vorwort mit
-          Informationen zur Biographie Bargheers und Erläuterungen zu dem Liederzyklus runden die
-          Veröffentlichung ab, die online zugänglich ist unter: <lb/>
-          <ref target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331749"
-            >https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331749</ref>.</p>
-                                            <p>Delinikolov bemüht sich zur Zeit auch um eine Einspielung der Lieder.</p>
-                                          </div>
-                                                  <div xml:id="Bargheer_A_2024-01-24">
-                                                    <head>24. Januar 2024: Edition weiterer Bargheer-Lieder über die Website der Lippischen Landesbibliothek veröffentlicht</head>
-                                                    <p><figure place="inline">
-                                                      <graphic url="images/9_Lieder_Delinikolov.png" height="300px"/>
-                                                    </figure>Die Lippische Landesbibliothek – Theologische Bibliothek Detmold hat jetzt innerhalb ihrer Rubrik <hi rend="italic">Digitale Sammlungen</hi> eine 61-seitige Sammlung von Liedern Carl Louis Bargheers veröffentlicht, die nun als Ergänzung der Veröffentlichung der <hi rend="italic">Fiedellieder</hi> das Liedschaffen des Geigers und Komponisten umfassender zugänglich machen. Den Notensatz und die Edition dieser Lieder hat <hi rend="bold">Kostadin Delinikolov</hi> erstellt, der seine Magisterarbeit über Bargheer geschrieben hatte und in diesem Kontext alle erhaltenen Lieder erfasste. Der Band enthält die <hi rend="italic">IX Lieder und Balladen</hi> für Singstimme und Klavier (in der Hamburger Fassung) und als Anhang zwei weitere Versionen des in der Edition veröffentlichten Liedes "Das Reh". Die Ausgabe basiert auf den Manuskripten der Lippischen Landesbibliothek und enthält Vertonungen von Texten Friedrich Rückerts, Ludwig Uhlands, Klaus Groths u.a. Die Edition ist als kostenloses Download verfügbar unter: </p>
-                                                   <p><ref target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/9859825">https://digitale-sammlungen.llb-detmold.de/content/titleinfo/9859825</ref></p>
-                                                  <p>Es ist zu hoffen, dass durch diese auch äußerlich ansprechende Veröffentlichung (u.a. mit einem Foto Bargheers auf der Titelseite und einem ausführlichen Vorwort Delinikolovs) zu weiteren Aufführungen Bargheerscher Werke anregt, so dass ggf. hier auch weitere Klangbeispiele bereitgestellt werden könnten.</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A_2019-01-08">
-                                                  <head>8. Januar 2019: Beitrag von K. Delinikolov in den Brahms-Studien</head>
-                                                  <p>In dem 2018 erschienenen Band 18 der von Beatrix Borchard und Kerstin Schüssler-Bach herausgegebenen <hi rend="italic">Brahms-Studien</hi> ist ein umfangreicher Aufsatz von Kostadin Delinikolov unter dem Titel "Carl Louis Bargheer – Violinist, Hofkapellmeister und Komponist. Zu Bargheers Liedernachlass in der Lippischen Landesbibliothek" erschienen, der auch zahlreiche Notenbeispiele enthält (Hildesheim: Olms, 2018, S. 227–264).</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A_2015-02-02">
-                                                  <head>2. Februar 2015: Neue Bargheer-Fotos</head>
-                                                  <p>Der Direktor der Lippischen Landesbibliothek,
-                                                  Dr. Joachim Eberhardt, fand kürzlich an
-                                                  unvermuteter Stelle in den Brahms-Beständen der
-                                                  Bibliothek zwei bislang noch unbekannte Fotos von
-                                                  Bargheer, die er freundlicherweise umgehend für
-                                                  die Bargheer-Website zur Verfügung stellte. Die
-                                                  Fotos sind jetzt in die Übersicht über das
-                                                  Bildmaterial als <ref
-                                                  target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-909.xml"
-                                                  >Fotografie C</ref> und <ref
-                                                  target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-910.xml"
-                                                  >Fotografie D</ref> aufgenommen und wurden am 2.
-                                                  Februar 2015 im Seminar "Theorie der Musikedition"
-                                                  von Shino Funayama und Chaoling Zhang
-                                                  eingefügt.</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A_2014-04-12">
-                                                  <head>12. April 2014: Magisterarbeit zu Bargheers
-                                                  Liedschaffen eingereicht</head>
-                                                  <p><hi rend="bold">Kostadin Delinikolov</hi>, der
-                                                  an dem studentischen Projekt zu Bargheers <hi
-                                                  rend="italic">Fiedelliedern</hi> mitgewirkt hatte,
-                                                  hat nun seine Magisterarbeit mit dem Titel <hi
-                                                  rend="italic">Der handschriftliche Lieder-Nachlass
-                                                  Carl Louis Bargheers in der Lippischen
-                                                  Landesbibliothek: Untersuchungen zu Quellen und
-                                                  Fassungen sowie Kritische Edition</hi> am
-                                                  Musikwissenschaftlichen Seminar der Hochschule für
-                                                  Musik und der Universität Paderborn vorgelegt. Die
-                                                  Arbeit enthält einen umfangreichen Notenanhang, in
-                                                  dem Delinikolov erstmals alle bislang noch nicht
-                                                  veröffentlichten Lieder Bargheers für Solostimme
-                                                  und Klavier in <hi rend="bold">Neuedition</hi>
-                                                  vorlegt.</p>
-                                                  <p>Es ist Delinikolov dabei gleichzeitig gelungen,
-                                                  eine relative Chronologie der Lieder zu
-                                                  erarbeiten, so dass die in der Lippischen
-                                                  Landesbibliothek überlieferten Quellen nun in
-                                                  einem veränderten Licht erscheinen. Besonders
-                                                  interessant erscheint der Vergleich der während
-                                                  Bargheers Detmolder Zeit entstandenen Lieder mit
-                                                  den späteren Überarbeitungen aus seiner Hamburger
-                                                  Zeit. Hier zeigt sich eine erstaunliche
-                                                  künstlerische Entwicklung des komponierenden
-                                                  Geigers. Es ist zu hoffen, dass nach dem Abschluss
-                                                  des Verfahrens diese Lieder möglichst bald in
-                                                  einem Konzert vorgestellt werden können.</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A-2013-09-07">
-                                                  <head>23. September 2013:
-                                                  Bargheer-Projektvorstellung während der
-                                                  Edirom-Summerschool</head>
-                                                  <p>Vom 23.–27. September 2013 findet die
-                                                  diesjährige <ref
-                                                  target="http://ess.uni-paderborn.de/"
-                                                  type="external">Edirom-Summerschool</ref> an der
-                                                  Universität Paderborn statt. Im Rahmen dieser
-                                                  Veranstaltung wird eine Reihe von Postern von
-                                                  Projekten präsentiert, die die Edirom-Software
-                                                  nutzen. Dazu zählt auch das Bargheer-Projekt, für
-                                                  das Ran Mo und Agnes Seipelt ein Poster
-                                                  vorbereitet haben. Beide werden das Projekt auch
-                                                  während des am 23. September stattfindenden <hi
-                                                  rend="italic">Edirom User Forums</hi>
-                                                  vorstellen.</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A-2013-03-23">
-                                                  <head>25. März 2013: Aufnahme der Fiedellieder
-                                                  jetzt auf dieser Website zugänglich</head>
-                                                  <p>Die in der Musikalisch-literarischen Matinee am
-                                                  10. Februar 2013 von Prof. Markus Köhler
-                                                  (Bariton), Julia Parusch (Violine) und Prof. Peter
-                                                  Kreutz (Klavier) erstmals nach der neuen Edition
-                                                  aufgeführten <hi rend="italic">Fiedelliedern</hi>
-                                                  sind nun in einer Aufnahme durch diese Künstler
-                                                  auf dieser Website zugänglich. Ebenfalls
-                                                  aufgenommen wurden die dem Fürsten zur Lippe
-                                                  gewidmeten <hi rend="italic">Lieder für Bariton
-                                                  und Klavier</hi>. Die Aufnahmen werden
-                                                  freigeschaltet anlässlich einer Radiosendung von
-                                                  Beate Depping am 25. März 2013 in WDR 3 TonArt.
-                                                  Eine Übersicht über die verfügbaren Aufnahmen
-                                                  finden Sie hier: <ref
-                                                  target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml"
-                                                  >➞ Zu den Aufnahmen</ref>.</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A-2012-12-16-02">
-                                                  <head>10. Februar 2013: Musikalisch-literarische
-                                                  Matinee mit Bargheers Fiedelliedern</head>
-                                                  <p><figure place="inline">
-                                                  <graphic url="images/Postkarte_Bargheer_vorne.jpg"
-                                                  height="400px"/>
-                                                  </figure>In einer Matinee, die <hi rend="bold">am
-                                                  10. Februar 2013 um 11:30 Uhr</hi> im Brahms-Saal
-                                                  der Hochschule für Musik Detmold stattfindet und
-                                                  die in Kooperation mit der Lippischen
-                                                  Landesbibliothek, dem Musikwissenschaftlichen
-                                                  Seminar Detmold/Paderborn und der Gesellschaft der
-                                                  Freunde und Förderer des Lippischen
-                                                  Landesbibliothek von der Hochschule für Musik
-                                                  Detmold veranstaltet wird, werden erstmals die <hi
-                                                  rend="italic">Fiedellieder</hi> von Carl Louis
-                                                  Bargheer auf Texte von Theodor Storm wieder
-                                                  öffentlich erklingen. Ausführende sind <hi
-                                                  rend="bold">Prof. Markus Köhler</hi> (Bariton),
-                                                  <hi rend="bold">Julia Parusch </hi>(Violine) und
-                                                  <hi rend="bold">Prof. Peter Kreutz</hi> (Klavier)
-                                                  sowie <hi rend="bold">Prof. Heiner Eckels</hi>
-                                                  (Rezitation).</p>
-                                                  <p>Neben den <hi rend="italic">Fiedelliedern</hi>
-                                                  werden auch die <hi rend="italic">Lieder für
-                                                  Bariton und Klavier</hi> erklingen, die Bargheer
-                                                  "Seiner Durchlaucht dem regierenden Fürsten zur
-                                                  Lippe unterthänigst gewidmet" hat. Prof. Heiner
-                                                  Eckels liest aus zeitgenössischen Erinnerungen an
-                                                  die Begegnungen zwischen Bargheer und Johannes
-                                                  Brahms in Detmold, ferner stellt er Auszüge aus
-                                                  dem skurrilen Märchens <hi rend="italic"><ref
-                                                  target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-03.xml"
-                                                  >Das Sonnenkind</ref></hi> von <ref
-                                                  target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-07.xml"
-                                                  >Ferdinand Röse</ref> vor, für das Theodor Storm
-                                                  seine <hi rend="italic">Fiedellieder</hi>-Texte
-                                                  ursprünglich verfasst hatte.</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A-2012-12-16-02A">
-                                                  <p>Mit dieser Matinee wird die vom Carus-Verlag
-                                                  (Stuttgart) publizierte Edition von Bargheers <hi
-                                                  rend="italic">Fiedelliedern</hi> präsentiert, die
-                                                  von Kostadin Delinikolov, Andreas Fukerider,
-                                                  Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes
-                                                  Seipelt und Joachim Veit auf der Basis der
-                                                  Handschriften der Lippischen Landesbibliothek am
-                                                  Musikwissenschaftlichen Seminar erarbeitet wurden.
-                                                  Zugleich wird die Website <hi rend="bold">Carl
-                                                  Louis Bargheer: Fiedellieder <hi rend="italic"
-                                                  >plus</hi></hi> offiziell mit ihrer Version 1.0
-                                                  freigeschaltet, die eine umfangreiche
-                                                  Dokumentation zu diesen Liedern, aber auch zu
-                                                  Bargheer selbst, zu seinen Kontakten mit Brahms
-                                                  und vieles andere mehr enthält. Damit werden Teile
-                                                  der Materialien, die zu diesem seinerzeit
-                                                  renommierten Violinvirtuosen (sowie Konzert- bzw.
-                                                  Kapellmeister der Detmolder Hofkapelle) in der
-                                                  Lippischen Landesbibliothek und im Landesarchiv
-                                                  Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe,
-                                                  erhalten sind, für die Forschung und die
-                                                  interessierte Öffentlichkeit zugänglich
-                                                  gemacht.</p>
-                                                  </div>
-                                                  <div xml:id="Bargheer_A-2012-12-16-01">
-                                                  <head>17. Dezember 2012: Carl Louis Bargheer:
-                                                  Fiedellieder <hi rend="italic">plus</hi>
-                                                  online</head>
-                                                  <p>Parallel zum Erscheinen der Printedition der
-                                                  <hi rend="italic">Fiedellieder</hi> im
-                                                  Carus-Verlag (Stuttgart) ist Mitte Dezember 2012
-                                                  eine erste Version dieser Website (Version 0.9)
-                                                  freigeschaltet worden. Sie enthält zunächst
-                                                  folgende Inhalte: <figure place="inline">
-                                                  <graphic url="images/Fiedellieder_Titelblatt.jpg"
-                                                  height="240px"/>
-                                                  </figure><list>
-                                                  <item>Sämtliche Quellen zu Bargheers <hi
-                                                  rend="italic">Fiedelliedern</hi></item>
-                                                  <item>Einen digitalen Kritischen Bericht zur
-                                                  Edition der <hi rend="italic"
-                                                  >Fiedellieder</hi></item>
-                                                  <item>Eine Beschreibung der Entstehung und
-                                                  Überlieferung von Textvorlage und Musik</item>
-                                                  <item>Eine Beschreibung und Bewertung der Quellen
-                                                  zu Text und Musik</item>
-                                                  <item>Materialien zur Biographie von Bargheer und
-                                                  zu den im Kontext der Lieder erwähnten Personen
-                                                  (mit einer Dokumentation von Briefen und
-                                                  Archivalien aus der Lippischen Landesbibliothek
-                                                  und aus dem Landesarchiv NRW, Abteilung
-                                                  Ostwestfalen-Lippe)</item>
-                                                  <item>Materialien zu den Kontakten zwischen
-                                                  Bargheer und Brahms</item>
-                                                  <item>Den kompletten Text des Märchens <hi
-                                                  rend="italic">Das Sonnenkind</hi> von Ferdinand
-                                                  Röse</item>
-                                                  <item>Bildmaterial zu Bargheer</item>
-                                                  </list></p>
-                                                  <p>Ausdrücklich sei darauf hingewiesen, dass es
-                                                  sich um eine erste, noch vorläufige Version der
-                                                  Edition handelt. Die Website ist optimiert für den
-                                                  Firefox-Browser. Näheres zu den Inhalten und zur
-                                                  Zielsetzung finden Sie unter der Rubrik <ref
-                                                  target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-01.xml"
-                                                  ><hi rend="italic">Zu dieser
-                                                  Website</hi></ref>.</p>
-                                                  </div>
-                                        </body>
-                    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aktuelles</title>
+        <respStmt>
+          <name>Herausgeber</name>
+          <resp>Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim Veit</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Interne Text-Nr: text-001</p>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2025-11-13" who="JV">Hinweis auf neue Ausgabe Kostas ergänzt (noch ohne Bild)</change>
+      <change when="2024-02-01" who="JV">Hinweis auf Kostas Notenausgabe mit Bild ergänzt</change>
+      <change when="2019-01-08" who="JV">News Kosta-Aufsatz ergänzt</change>
+      <change when="2012-12-05" who="JV">Ersteinrichtung; provisorisch</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head type="main">Aktuelles</head>
+      </div>
+      <div xml:id="Bargheer_A_2025-11-14">
+        <head>14. November 2025: Kostadin Delinikolov veröffentlicht Bargheers <hi rend="italic">Wanderlieder</hi></head>
+        <p>Nach der Veröffentlichung der <hi rend="italic">IX Lieder und Balladen</hi> Bargheers im vergangenen Jahr, die jetzt in einer korrigierten 2. Auflage über die Website der Lippischen Landesbibliothek -–Theologische Bibliothek Detmold zugänglich sind (vgl. <ref
+            target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331671">https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331671</ref>), hat Kostadin Delinikolov nun auch die umfangreiche Sammlung der <hi rend="italic">Wanderlieder für eine Singstimme mit Begleitung
+            des Pianoforte</hi> in derselben ansprechenden Form vorgelegt. Zu den neun Lieder hat er auch in zwei Fällen ("Lebe wohl"/"Scheiden und meiden" sowie "Winterreise") die in der Landesbibliothek überlieferten abweichenden Fassungen mit publiziert und im Anhang auch die durch Überklebungen
+          ersetzten Takte in der Klavierbegleitung der Lieder Nr. 4 ("Morgenlied") und Nr. 7 ("Abreise") abgedruckt. Sämtliche, zwischen 1806 und 1811 entstandenen Texte der Lieder stammen von Ludwig Uhland, der sie nachträglich als Gedichtzyklus konzipierte. Ein ausführliches Vorwort mit
+          Informationen zur Biographie Bargheers und Erläuterungen zu dem Liederzyklus runden die Veröffentlichung ab, die online zugänglich ist unter: <lb/>
+          <ref target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331749">https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331749</ref>.</p>
+        <p>Delinikolov bemüht sich zur Zeit auch um eine Einspielung der Lieder.</p>
+      </div>
+      <div xml:id="Bargheer_A_2024-01-24">
+        <head>24. Januar 2024: Edition weiterer Bargheer-Lieder über die Website der Lippischen Landesbibliothek veröffentlicht</head>
+        <p><figure place="inline">
+            <graphic url="images/9_Lieder_Delinikolov.png" height="300px"/>
+          </figure>Die Lippische Landesbibliothek – Theologische Bibliothek Detmold hat jetzt innerhalb ihrer Rubrik <hi rend="italic">Digitale Sammlungen</hi> eine 61-seitige Sammlung von Liedern Carl Louis Bargheers veröffentlicht, die nun als Ergänzung der Veröffentlichung der <hi rend="italic"
+            >Fiedellieder</hi> das Liedschaffen des Geigers und Komponisten umfassender zugänglich machen. Den Notensatz und die Edition dieser Lieder hat <hi rend="bold">Kostadin Delinikolov</hi> erstellt, der seine Magisterarbeit über Bargheer geschrieben hatte und in diesem Kontext alle
+          erhaltenen Lieder erfasste. Der Band enthält die <hi rend="italic">IX Lieder und Balladen</hi> für Singstimme und Klavier (in der Hamburger Fassung) und als Anhang zwei weitere Versionen des in der Edition veröffentlichten Liedes "Das Reh". Die Ausgabe basiert auf den Manuskripten der
+          Lippischen Landesbibliothek und enthält Vertonungen von Texten Friedrich Rückerts, Ludwig Uhlands, Klaus Groths u.a. Die Edition ist als kostenloses Download verfügbar unter: </p>
+        <p><ref target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/9859825">https://digitale-sammlungen.llb-detmold.de/content/titleinfo/9859825</ref></p>
+        <p>Es ist zu hoffen, dass durch diese auch äußerlich ansprechende Veröffentlichung (u.a. mit einem Foto Bargheers auf der Titelseite und einem ausführlichen Vorwort Delinikolovs) zu weiteren Aufführungen Bargheerscher Werke anregt, so dass ggf. hier auch weitere Klangbeispiele bereitgestellt
+          werden könnten.</p>
+      </div>
+      <div xml:id="Bargheer_A_2019-01-08">
+        <head>8. Januar 2019: Beitrag von K. Delinikolov in den Brahms-Studien</head>
+        <p>In dem 2018 erschienenen Band 18 der von Beatrix Borchard und Kerstin Schüssler-Bach herausgegebenen <hi rend="italic">Brahms-Studien</hi> ist ein umfangreicher Aufsatz von Kostadin Delinikolov unter dem Titel "Carl Louis Bargheer – Violinist, Hofkapellmeister und Komponist. Zu Bargheers
+          Liedernachlass in der Lippischen Landesbibliothek" erschienen, der auch zahlreiche Notenbeispiele enthält (Hildesheim: Olms, 2018, S. 227–264).</p>
+      </div>
+      <div xml:id="Bargheer_A_2015-02-02">
+        <head>2. Februar 2015: Neue Bargheer-Fotos</head>
+        <p>Der Direktor der Lippischen Landesbibliothek, Dr. Joachim Eberhardt, fand kürzlich an unvermuteter Stelle in den Brahms-Beständen der Bibliothek zwei bislang noch unbekannte Fotos von Bargheer, die er freundlicherweise umgehend für die Bargheer-Website zur Verfügung stellte. Die Fotos
+          sind jetzt in die Übersicht über das Bildmaterial als <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-909.xml">Fotografie C</ref> und <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-910.xml">Fotografie D</ref> aufgenommen und wurden am 2. Februar 2015 im
+          Seminar "Theorie der Musikedition" von Shino Funayama und Chaoling Zhang eingefügt.</p>
+      </div>
+      <div xml:id="Bargheer_A_2014-04-12">
+        <head>12. April 2014: Magisterarbeit zu Bargheers Liedschaffen eingereicht</head>
+        <p><hi rend="bold">Kostadin Delinikolov</hi>, der an dem studentischen Projekt zu Bargheers <hi rend="italic">Fiedelliedern</hi> mitgewirkt hatte, hat nun seine Magisterarbeit mit dem Titel <hi rend="italic">Der handschriftliche Lieder-Nachlass Carl Louis Bargheers in der Lippischen
+            Landesbibliothek: Untersuchungen zu Quellen und Fassungen sowie Kritische Edition</hi> am Musikwissenschaftlichen Seminar der Hochschule für Musik und der Universität Paderborn vorgelegt. Die Arbeit enthält einen umfangreichen Notenanhang, in dem Delinikolov erstmals alle bislang noch
+          nicht veröffentlichten Lieder Bargheers für Solostimme und Klavier in <hi rend="bold">Neuedition</hi> vorlegt.</p>
+        <p>Es ist Delinikolov dabei gleichzeitig gelungen, eine relative Chronologie der Lieder zu erarbeiten, so dass die in der Lippischen Landesbibliothek überlieferten Quellen nun in einem veränderten Licht erscheinen. Besonders interessant erscheint der Vergleich der während Bargheers Detmolder
+          Zeit entstandenen Lieder mit den späteren Überarbeitungen aus seiner Hamburger Zeit. Hier zeigt sich eine erstaunliche künstlerische Entwicklung des komponierenden Geigers. Es ist zu hoffen, dass nach dem Abschluss des Verfahrens diese Lieder möglichst bald in einem Konzert vorgestellt
+          werden können.</p>
+      </div>
+      <div xml:id="Bargheer_A-2013-09-07">
+        <head>23. September 2013: Bargheer-Projektvorstellung während der Edirom-Summerschool</head>
+        <p>Vom 23.–27. September 2013 findet die diesjährige <ref target="http://ess.uni-paderborn.de/" type="external">Edirom-Summerschool</ref> an der Universität Paderborn statt. Im Rahmen dieser Veranstaltung wird eine Reihe von Postern von Projekten präsentiert, die die Edirom-Software nutzen.
+          Dazu zählt auch das Bargheer-Projekt, für das Ran Mo und Agnes Seipelt ein Poster vorbereitet haben. Beide werden das Projekt auch während des am 23. September stattfindenden <hi rend="italic">Edirom User Forums</hi> vorstellen.</p>
+      </div>
+      <div xml:id="Bargheer_A-2013-03-23">
+        <head>25. März 2013: Aufnahme der Fiedellieder jetzt auf dieser Website zugänglich</head>
+        <p>Die in der Musikalisch-literarischen Matinee am 10. Februar 2013 von Prof. Markus Köhler (Bariton), Julia Parusch (Violine) und Prof. Peter Kreutz (Klavier) erstmals nach der neuen Edition aufgeführten <hi rend="italic">Fiedelliedern</hi> sind nun in einer Aufnahme durch diese Künstler
+          auf dieser Website zugänglich. Ebenfalls aufgenommen wurden die dem Fürsten zur Lippe gewidmeten <hi rend="italic">Lieder für Bariton und Klavier</hi>. Die Aufnahmen werden freigeschaltet anlässlich einer Radiosendung von Beate Depping am 25. März 2013 in WDR 3 TonArt. Eine Übersicht über
+          die verfügbaren Aufnahmen finden Sie hier: <ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml">➞ Zu den Aufnahmen</ref>.</p>
+      </div>
+      <div xml:id="Bargheer_A-2012-12-16-02">
+        <head>10. Februar 2013: Musikalisch-literarische Matinee mit Bargheers Fiedelliedern</head>
+        <p><figure place="inline">
+            <graphic url="images/Postkarte_Bargheer_vorne.jpg" height="400px"/>
+          </figure>In einer Matinee, die <hi rend="bold">am 10. Februar 2013 um 11:30 Uhr</hi> im Brahms-Saal der Hochschule für Musik Detmold stattfindet und die in Kooperation mit der Lippischen Landesbibliothek, dem Musikwissenschaftlichen Seminar Detmold/Paderborn und der Gesellschaft der
+          Freunde und Förderer des Lippischen Landesbibliothek von der Hochschule für Musik Detmold veranstaltet wird, werden erstmals die <hi rend="italic">Fiedellieder</hi> von Carl Louis Bargheer auf Texte von Theodor Storm wieder öffentlich erklingen. Ausführende sind <hi rend="bold">Prof.
+            Markus Köhler</hi> (Bariton), <hi rend="bold">Julia Parusch </hi>(Violine) und <hi rend="bold">Prof. Peter Kreutz</hi> (Klavier) sowie <hi rend="bold">Prof. Heiner Eckels</hi> (Rezitation).</p>
+        <p>Neben den <hi rend="italic">Fiedelliedern</hi> werden auch die <hi rend="italic">Lieder für Bariton und Klavier</hi> erklingen, die Bargheer "Seiner Durchlaucht dem regierenden Fürsten zur Lippe unterthänigst gewidmet" hat. Prof. Heiner Eckels liest aus zeitgenössischen Erinnerungen an
+          die Begegnungen zwischen Bargheer und Johannes Brahms in Detmold, ferner stellt er Auszüge aus dem skurrilen Märchens <hi rend="italic"><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-03.xml">Das Sonnenkind</ref></hi> von <ref
+            target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-07.xml">Ferdinand Röse</ref> vor, für das Theodor Storm seine <hi rend="italic">Fiedellieder</hi>-Texte ursprünglich verfasst hatte.</p>
+      </div>
+      <div xml:id="Bargheer_A-2012-12-16-02A">
+        <p>Mit dieser Matinee wird die vom Carus-Verlag (Stuttgart) publizierte Edition von Bargheers <hi rend="italic">Fiedelliedern</hi> präsentiert, die von Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim Veit auf der Basis der
+          Handschriften der Lippischen Landesbibliothek am Musikwissenschaftlichen Seminar erarbeitet wurden. Zugleich wird die Website <hi rend="bold">Carl Louis Bargheer: Fiedellieder <hi rend="italic">plus</hi></hi> offiziell mit ihrer Version 1.0 freigeschaltet, die eine umfangreiche
+          Dokumentation zu diesen Liedern, aber auch zu Bargheer selbst, zu seinen Kontakten mit Brahms und vieles andere mehr enthält. Damit werden Teile der Materialien, die zu diesem seinerzeit renommierten Violinvirtuosen (sowie Konzert- bzw. Kapellmeister der Detmolder Hofkapelle) in der
+          Lippischen Landesbibliothek und im Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, erhalten sind, für die Forschung und die interessierte Öffentlichkeit zugänglich gemacht.</p>
+      </div>
+      <div xml:id="Bargheer_A-2012-12-16-01">
+        <head>17. Dezember 2012: Carl Louis Bargheer: Fiedellieder <hi rend="italic">plus</hi> online</head>
+        <p>Parallel zum Erscheinen der Printedition der <hi rend="italic">Fiedellieder</hi> im Carus-Verlag (Stuttgart) ist Mitte Dezember 2012 eine erste Version dieser Website (Version 0.9) freigeschaltet worden. Sie enthält zunächst folgende Inhalte: <figure place="inline">
+            <graphic url="images/Fiedellieder_Titelblatt.jpg" height="240px"/>
+          </figure><list>
+            <item>Sämtliche Quellen zu Bargheers <hi rend="italic">Fiedelliedern</hi></item>
+            <item>Einen digitalen Kritischen Bericht zur Edition der <hi rend="italic">Fiedellieder</hi></item>
+            <item>Eine Beschreibung der Entstehung und Überlieferung von Textvorlage und Musik</item>
+            <item>Eine Beschreibung und Bewertung der Quellen zu Text und Musik</item>
+            <item>Materialien zur Biographie von Bargheer und zu den im Kontext der Lieder erwähnten Personen (mit einer Dokumentation von Briefen und Archivalien aus der Lippischen Landesbibliothek und aus dem Landesarchiv NRW, Abteilung Ostwestfalen-Lippe)</item>
+            <item>Materialien zu den Kontakten zwischen Bargheer und Brahms</item>
+            <item>Den kompletten Text des Märchens <hi rend="italic">Das Sonnenkind</hi> von Ferdinand Röse</item>
+            <item>Bildmaterial zu Bargheer</item>
+          </list></p>
+        <p>Ausdrücklich sei darauf hingewiesen, dass es sich um eine erste, noch vorläufige Version der Edition handelt. Die Website ist optimiert für den Firefox-Browser. Näheres zu den Inhalten und zur Zielsetzung finden Sie unter der Rubrik <ref
+            target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-01.xml"><hi rend="italic">Zu dieser Website</hi></ref>.</p>
+      </div>
+    </body>
+  </text>
 </TEI>

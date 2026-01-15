@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Theodor Storm an Gebrüder Paetel, Husum, 8. Mai 1872</title><author>Storm, Theodor</author></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><bibl>Theodor Storm – Gebrüder Paetel. Briefwechsel. Kritische Ausgabe, hg. von Roland Berbig, Berlin: Erich Schmidt, 2006 (Storm-Briefwechsel, Bd. 16) S. 43</bibl></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-092</p></encodingDesc><revisionDesc><change when="2011-08-06" who="AS">Brieftexteingabe</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Theodor Storm an die Gebrüder Paetel, Husum, 8. Mai 1872</head><opener><date when="1872-05-08" rend="right">Husum, 8 Mai 72</date><salute>Herrn Gebrüder Paetel<lb/>
-                        in Berlin.</salute></opener><p>Auf Ihr geehrtes Schreiben v. 3 dM. gestatte ich mir Nachstehendes.</p><p>Es handelt sich um ein Buch unter dem Titel <hi n="1" rend="underline">"Zerstreute Kapitel"</hi> v. <hi n="1" rend="underline">Th. St.</hi></p><p><hi n="1" rend="underline">Inhalt:</hi></p><p>I</p><p><hi n="1" rend="underline">Der Amtschirurgus</hi>. – <hi n="1" rend="underline">Heimkehr</hi>.
-                </p><p>(siehe Westerm. Monatsheft pr. Febr. 1871. S. 487)</p><p>II</p><p><hi n="1" rend="underline">Gedichte</hi>.</p><p>(8-10 Seiten, zu mindestens 1 Gedicht v. 8 Zeilen auf d. Seite)</p><p>III</p><p><hi n="1" rend="underline">Eine Halligfahrt</hi></p><p>(Westerm. Monatshefte 1871 Oktbr S. 81 Sp. 2 bis 94</p><p>IV</p><p><hi n="1" rend="underline">Die neuen Fiedellieder</hi></p><p>(Salon VIII. Hft. XI S. 534)</p><p>V</p><p><hi n="1" rend="underline">Draußen im Haidedorf</hi>.</p><p>(Salon)</p><p>VI</p><p><hi n="1" rend="underline">Zwei Kuchenesser der alten Zeit</hi></p><p>(Westerm. M.hfte pr. Oktbr. S. 78-81 Sp. 2)</p><p>Das Ganze wird (nach dem Druck der Westerm. Gesamtausgabe gerechnet) circa 11 Bogen ausmachen.</p><p>Die Sache ist nun die:</p><p>Westermann hat, <hi n="1" rend="underline">wenn er will</hi>, nach unserm Contract über die Gesammt.Ausgbe unter gleichen Bedingungen das Vorrecht.</p><p>Ich kann Ihnen also nur eventuell den Verlag des obenstehenden Buches anbieten, definitiv erst, wenn Westerm. abgelehnt hat. Meine Bedingungen sind.</p><p>1. Miniaturformat.</p><p>2. Erste Aufl. 2000 Exl.</p><p>3. Honorar dafür 440 rt, zahlbar in 5 gleichen monatlichen Raten zuerst 1 August 1872, u 24 Freiexl., die Hälfte gebunden.</p><p>4. Für jede folgende Auflage von 1000 odr 2000 Exl. dasselbe <hi n="1" rend="underline">nach Verhältniß</hi>.</p><p>5. Das Buch darf vor 1. Oktbr 1872 nicht erscheinen</p><p>6. Die Gedichte in dem Artikel "<hi n="1" rend="underline">Die neuen</hi> Fiedellieder kann der Verfasser v. 1 Oktbr 1876, die übrigen Gedichte v. 1. Oktbr 1873 an in die Sammlung seiner Gedichte veröffentlichen.</p><p>7. Das Recht des Verlegers der Gesammtausgabe, George Westermann in Braunschweig, das Buch vom 1 Oktbr 1873 an in die Gesammtausgabe aufzunehmen bleibt vorbehalten.</p><p>7. Der Verleger der Separatausgabe kann nach Belieben das obige Material auch in zwei Büchern erscheinen lassen. "<hi n="1" rend="underline">Zerstreute Kapitel</hi>" I, II, III, IV, u. VI (Honorar für 2000 Exl 240 r) und "<hi n="1" rend="underline">Draußen</hi> im Haidendorf (V) (Honorar 200r für 2000 Exl.) erscheinen lassen</p><p>Sie sind wohl so gütig mir <hi n="1" rend="underline">umgehend</hi> zu schreiben, ob die eventuell diese Bedingungen acceptiren. Ich werde dann sofort mit Westermann in's Reine zu kommen suchen.</p><closer>Wie steht es mit "St. <hi n="1" rend="underline">Jürgen</hi>" und "<hi n="1" rend="underline">Jenseits des Meers</hi>"?
-                    <signed rend="right">hochachtgsvoll<lb/>
-                        ThStorm.</signed></closer></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theodor Storm an Gebrüder Paetel, Husum, 8. Mai 1872</title>
+                <author>Storm, Theodor</author>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Theodor Storm – Gebrüder Paetel. Briefwechsel. Kritische Ausgabe, hg. von Roland Berbig, Berlin: Erich Schmidt, 2006 (Storm-Briefwechsel, Bd. 16) S. 43</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-092</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2011-08-06" who="AS">Brieftexteingabe</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">Theodor Storm an die Gebrüder Paetel, Husum, 8. Mai 1872</head>
+                <opener><date when="1872-05-08" rend="right">Husum, 8 Mai 72</date><salute>Herrn Gebrüder Paetel<lb/> in Berlin.</salute></opener>
+                <p>Auf Ihr geehrtes Schreiben v. 3 dM. gestatte ich mir Nachstehendes.</p>
+                <p>Es handelt sich um ein Buch unter dem Titel <hi n="1" rend="underline">"Zerstreute Kapitel"</hi> v. <hi n="1" rend="underline">Th. St.</hi></p>
+                <p><hi n="1" rend="underline">Inhalt:</hi></p>
+                <p>I</p>
+                <p><hi n="1" rend="underline">Der Amtschirurgus</hi>. – <hi n="1" rend="underline">Heimkehr</hi>. </p>
+                <p>(siehe Westerm. Monatsheft pr. Febr. 1871. S. 487)</p>
+                <p>II</p>
+                <p><hi n="1" rend="underline">Gedichte</hi>.</p>
+                <p>(8-10 Seiten, zu mindestens 1 Gedicht v. 8 Zeilen auf d. Seite)</p>
+                <p>III</p>
+                <p><hi n="1" rend="underline">Eine Halligfahrt</hi></p>
+                <p>(Westerm. Monatshefte 1871 Oktbr S. 81 Sp. 2 bis 94</p>
+                <p>IV</p>
+                <p><hi n="1" rend="underline">Die neuen Fiedellieder</hi></p>
+                <p>(Salon VIII. Hft. XI S. 534)</p>
+                <p>V</p>
+                <p><hi n="1" rend="underline">Draußen im Haidedorf</hi>.</p>
+                <p>(Salon)</p>
+                <p>VI</p>
+                <p><hi n="1" rend="underline">Zwei Kuchenesser der alten Zeit</hi></p>
+                <p>(Westerm. M.hfte pr. Oktbr. S. 78-81 Sp. 2)</p>
+                <p>Das Ganze wird (nach dem Druck der Westerm. Gesamtausgabe gerechnet) circa 11 Bogen ausmachen.</p>
+                <p>Die Sache ist nun die:</p>
+                <p>Westermann hat, <hi n="1" rend="underline">wenn er will</hi>, nach unserm Contract über die Gesammt.Ausgbe unter gleichen Bedingungen das Vorrecht.</p>
+                <p>Ich kann Ihnen also nur eventuell den Verlag des obenstehenden Buches anbieten, definitiv erst, wenn Westerm. abgelehnt hat. Meine Bedingungen sind.</p>
+                <p>1. Miniaturformat.</p>
+                <p>2. Erste Aufl. 2000 Exl.</p>
+                <p>3. Honorar dafür 440 rt, zahlbar in 5 gleichen monatlichen Raten zuerst 1 August 1872, u 24 Freiexl., die Hälfte gebunden.</p>
+                <p>4. Für jede folgende Auflage von 1000 odr 2000 Exl. dasselbe <hi n="1" rend="underline">nach Verhältniß</hi>.</p>
+                <p>5. Das Buch darf vor 1. Oktbr 1872 nicht erscheinen</p>
+                <p>6. Die Gedichte in dem Artikel "<hi n="1" rend="underline">Die neuen</hi> Fiedellieder kann der Verfasser v. 1 Oktbr 1876, die übrigen Gedichte v. 1. Oktbr 1873 an in die Sammlung seiner Gedichte veröffentlichen.</p>
+                <p>7. Das Recht des Verlegers der Gesammtausgabe, George Westermann in Braunschweig, das Buch vom 1 Oktbr 1873 an in die Gesammtausgabe aufzunehmen bleibt vorbehalten.</p>
+                <p>7. Der Verleger der Separatausgabe kann nach Belieben das obige Material auch in zwei Büchern erscheinen lassen. "<hi n="1" rend="underline">Zerstreute Kapitel</hi>" I, II, III, IV, u. VI (Honorar für 2000 Exl 240 r) und "<hi n="1" rend="underline">Draußen</hi> im Haidendorf (V)
+                    (Honorar 200r für 2000 Exl.) erscheinen lassen</p>
+                <p>Sie sind wohl so gütig mir <hi n="1" rend="underline">umgehend</hi> zu schreiben, ob die eventuell diese Bedingungen acceptiren. Ich werde dann sofort mit Westermann in's Reine zu kommen suchen.</p>
+                <closer>Wie steht es mit "St. <hi n="1" rend="underline">Jürgen</hi>" und "<hi n="1" rend="underline">Jenseits des Meers</hi>"? <signed rend="right">hochachtgsvoll<lb/> ThStorm.</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

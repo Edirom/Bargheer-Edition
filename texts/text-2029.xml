@@ -1,3 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Detmold, 8. Oktober 1856</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 8</idno></msIdentifier><physDesc><p>1 Bl., 2 b. S. o. Adr.</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2027</p></encodingDesc><revisionDesc><change when="2013-08-20" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 8. Oktober 1856
-                </head><opener><salute>Hochgeehrtester Herr Generalmusikdirector!</salute></opener><p>Ew: Hochwohlgebor: bitte ich um Verzeihung daß ich erst jetzt die Lieder azurücksende. Der Fürst ließ sich nach seiner Zurückkunft von der Reise die Lieder erst kopiren was sich bis vorgestern verzögert hatte. Dem Fürsten haben die letzten Lieder wo möglich noch besser gefallen als die ersteren und hat eine große Freude an diesn <hi rend="latintype">Compositionen</hi>, so wie Alle die sie hören; sie sind aber auch himmlisch schön. Der Fürst läßt Ihnen nochmals seinen wärmsten Dank sagen, udn wünscht daß der Druck dieser Lieder eifrig betrieben werden möge, damit er in den Stand gesetzt wird, Ihnen auch auf andere Weise seine Freude zu erkennen zu geben. Der Fürst hat den Brief gelesen, worin Sie schrieben, daß Sie bei Uebersendung der Lieder einige Zeilen an ihn richten wollten, worüber er sehr erfreut war. Daß von Ihrer Hand geschriebene Heft wünscht der Fürst wieder <pb n="1v"/>zu erhalten. Ich machte ihn darauf aufmerksam, daß der Notenstecher nicht besonders säuberlich damit umginge, allein trotz dem möchte er es wieder haben. Wir sind jetzt beim Einstudiren der <hi rend="latintype">Litzt</hi>schen Symphonischen Dichtungen. Ich weiß bei Gott nicht, was ich zu diesen Ausgeburten einer Hirn verbrannten Phantasie sagen soll. Hektor <hi rend="latintype">Berlioz</hi> erscheint mir nach diesen gräßlichen musikalischen Dichtungen als ein <hi rend="latintype">Mozart</hi> an Klarheit. Wo soll das noch hinaus? Es ist nicht möglich noch mehr des Unsinns und der Verworrenheit zu erfinden. Tempobezeichnungen wie: <hi rend="latintype">Allegro con fuoco</hi> c/ 6/4 = 2 x 3/4 sind gar nichts seltenes und natürlich nur darum angebracht um den Musikern Sand in die Augen zu werfen. Für das Orchester sind diese Sachen in einer Art recht gut; da auch das schwerste was wir bis jetzt in dieser Art gehabt haben, hiergegen wahre Kinderei ist. Wenn ich nach einer solchen Probe aus dem Saale komme, so bin ich dem Blödsinn nahe. Gott bessere es. Auf dem Schlosse singen wir jetzt <hi rend="latintype">Schumanns</hi> "<hi rend="latintype">Paradies und Peri</hi>". Es sind in diesem Werke einige wirklich schöne Sachen. </p><closer>Ew: Hochwohlgeboren<lb/><seg rend="right">ganz gehorsamster und dankbarster</seg><signed><hi rend="latintype">AugKiel</hi></signed><dateline>Detmold den 8<hi rend="superscript">t</hi><hi rend="latintype">Octbr:</hi> 1856.</dateline></closer></div><div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348752664297/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 8 <!-- noch unter 1856 --></ref></p></div></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title><lb/>August Kiel an Louis Spohr, Detmold, 8. Oktober 1856</title>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p>Publication Information</p>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <msDesc>
+                                                                                <msIdentifier>
+                                                                                                <institution>Universitätsbibliothek Kassel</institution>
+                                                                                                <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 8</idno>
+                                                                                </msIdentifier>
+                                                                                <physDesc>
+                                                                                                <p>1 Bl., 2 b. S. o. Adr.</p>
+                                                                                </physDesc>
+                                                                                <additional/>
+                                                                </msDesc>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr. text-2027</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2013-08-20" who="JV">Übertragen und erstmals angelegt</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div type="letter">
+                                                                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 8. Oktober 1856 </head>
+                                                                <opener><salute>Hochgeehrtester Herr Generalmusikdirector!</salute></opener>
+                                                                <p>Ew: Hochwohlgebor: bitte ich um Verzeihung daß ich erst jetzt die Lieder azurücksende. Der Fürst ließ sich nach seiner Zurückkunft von der Reise die Lieder erst kopiren was sich bis vorgestern verzögert hatte. Dem Fürsten haben die
+                                                                                letzten Lieder wo möglich noch besser gefallen als die ersteren und hat eine große Freude an diesn <hi rend="latintype">Compositionen</hi>, so wie Alle die sie hören; sie sind aber auch himmlisch schön. Der Fürst läßt
+                                                                                Ihnen nochmals seinen wärmsten Dank sagen, udn wünscht daß der Druck dieser Lieder eifrig betrieben werden möge, damit er in den Stand gesetzt wird, Ihnen auch auf andere Weise seine Freude zu erkennen zu geben. Der
+                                                                                Fürst hat den Brief gelesen, worin Sie schrieben, daß Sie bei Uebersendung der Lieder einige Zeilen an ihn richten wollten, worüber er sehr erfreut war. Daß von Ihrer Hand geschriebene Heft wünscht der Fürst wieder <pb
+                                                                                                n="1v"/>zu erhalten. Ich machte ihn darauf aufmerksam, daß der Notenstecher nicht besonders säuberlich damit umginge, allein trotz dem möchte er es wieder haben. Wir sind jetzt beim Einstudiren der <hi
+                                                                                                rend="latintype">Litzt</hi>schen Symphonischen Dichtungen. Ich weiß bei Gott nicht, was ich zu diesen Ausgeburten einer Hirn verbrannten Phantasie sagen soll. Hektor <hi rend="latintype">Berlioz</hi>
+                                                                                erscheint mir nach diesen gräßlichen musikalischen Dichtungen als ein <hi rend="latintype">Mozart</hi> an Klarheit. Wo soll das noch hinaus? Es ist nicht möglich noch mehr des Unsinns und der Verworrenheit zu erfinden.
+                                                                                Tempobezeichnungen wie: <hi rend="latintype">Allegro con fuoco</hi> c/ 6/4 = 2 x 3/4 sind gar nichts seltenes und natürlich nur darum angebracht um den Musikern Sand in die Augen zu werfen. Für das Orchester sind diese
+                                                                                Sachen in einer Art recht gut; da auch das schwerste was wir bis jetzt in dieser Art gehabt haben, hiergegen wahre Kinderei ist. Wenn ich nach einer solchen Probe aus dem Saale komme, so bin ich dem Blödsinn nahe. Gott
+                                                                                bessere es. Auf dem Schlosse singen wir jetzt <hi rend="latintype">Schumanns</hi> "<hi rend="latintype">Paradies und Peri</hi>". Es sind in diesem Werke einige wirklich schöne Sachen. </p>
+                                                                <closer>Ew: Hochwohlgeboren<lb/><seg rend="right">ganz gehorsamster und dankbarster</seg><signed><hi rend="latintype">AugKiel</hi></signed><dateline>Detmold den 8<hi rend="superscript">t</hi><hi rend="latintype">Octbr:</hi>
+                                                                                                1856.</dateline></closer>
+                                                </div>
+                                                <div>
+                                                                <div type="letter" subtype="facsimile">
+                                                                                <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348752664297/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 8
+                                                                                                <!-- noch unter 1856 --></ref></p>
+                                                                </div>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

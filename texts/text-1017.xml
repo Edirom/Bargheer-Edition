@@ -1,4 +1,218 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Fiedellieder</title><author role="poet">Storm, Theodor</author><author role="poet">Mommsen, Theodor</author></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listWit><witness n="1" xml:id="Liederbuch1843">Liederbuch | dreier Freunde. | Theodor Momsen. Theodor Storm. | Tycho Mommsen. | Kiel. | Schwers’sche Buchhandlung. | 1843.</witness></listWit><bibl n="1"/></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-1017</p></encodingDesc><revisionDesc><change when="2013-01-06" who="JV">Ersteingabe, noch ohne Kommentar</change></revisionDesc></teiHeader><text><body><div type="front"><head type="main">Fiedellieder<lb/>
-                in: Liederbuch dreier Freunde.<lb/>
-                Theodor Mommsen. Theodor Storm. Tycho Mommsen. <lb/>Kiel: Schwers’sche Buchhandlung, 1843</head><head/><div decls="#Liederbuch1843"><head>Inhaltsverzeichnis: </head><head>Erstes Buch.</head><p>[...]</p><p>Gute Nacht, von Storm ..........<supplied>[S.]</supplied> 46</p><p>Fiedellieder, 1. 3. 4. 6. 7. von Theodor M. ..........  <supplied>[S.]</supplied> 47</p><p>     2.5. von Storm</p><p>[...]</p></div></div><div type="body"><div><head>[Gedichttexte:]</head><head>Erstes Buch</head><p>[...]</p></div><pb n="46"/><div xml:id="LdF_1017_1"><head>Gute Nacht.</head><lg><l>Nun geht der Mond durch Wolkennacht,</l><l>Nun ist der Tag herum;</l><l>Da schweigen alle Vögel bald</l><l>Im Walde um und um.</l></lg><lg><l>Die Drossel pfeift ihr letztes Stück,</l><l>Ein Stück zu allerbest;</l><l>Die Amsel schlägt den letzten Ton,</l><l>Und fliegt zu Nest, zu Nest.</l></lg></div><pb n="47"/><div decls="Liederbuch1843"><head rend="spaced_out">Fiedellieder.</head><div type="motto" xml:id="LdF_1017_2"><note>nach rechts versetzt als Motto:</note><lg rend="right"><l>Wenn uns unterm Fiedelbogen</l><l>Manche Saite auch zersprang:</l><l>Neue werden aufgezogen</l><l>Und sie geben frischen Klang.</l></lg><div n="1" type="Lied"><head>1. <note>von Theodor Mommsen</note></head><lg><l>Meine Laute nehm’ ich wieder</l><l>Laute mit dem grünen Band;</l><l>Alte Lieder, neue Lieder –</l><l>Und die Leute stehn gebannt.</l></lg><lg><l>Klingen fort und fort die Saiten</l><l>Und den Knaben glänzt das Aug’</l><l>Und ein leiser Hauch der Zeiten</l><l>Streift durch meine Saiten auch.</l></lg></div><div n="2" type="Lied" xml:id="LdF_1017_4"><head>2. <note>von Theodor Storm</note></head><lg><l>Musikanten wollen wandern –</l><l>Durch die Saiten streift der Wind,</l><l>Und er weht die leichten Lieder</l><l>In die weite Welt geschwind.</l></lg><lg><l>Musikanten wollen wandern –</l><l>Auf die Neige geht der Wein;</l><l>Ziehn die Lieder in die Weite,</l><l>Muß der Spielmann hinterdrein.</l></lg><pb n="48"/></div><div n="3" type="Lied"><head>3. <note>von Theodor Mommsen</note></head><lg><l>Im Walde, im Walde,</l><l>Im tiefgrünen Wald,</l><l>O wie es da klinget,</l><l>O wie es da schallt!</l></lg><lg><l>Da streicht man die Fiedel</l><l>Und musizirt –</l><l>Ist das nicht ein Liedel,</l><l>Ein Lidel von mir?</l></lg></div><div n="4" type="Lied"><head>4. <note>von Theodor Mommsen</note></head><lg><l>Und so laßt mich weiter wandern –</l><l>Kind, mein Kind, ich muß von hier,</l><l>Von der Einen zu der Andern –&#160;</l><l>Meine Stätte ist nicht hier.</l></lg><lg><l>Ist nicht hier und ist nicht dorten,</l><l>Nach dem alten Handwerksbrauch!</l><l>Mädchen giebt’s an allen Orten,</l><l>Rosen jeder Rosenstrauch,</l></lg><lg><l>Mädchen und von allen Sorten,</l><l>Blaues Auge, braunes Aug’,</l><l>Find’ ich hier und find’ ich dorten,</l><l>Und da drüben küßt man auch.</l></lg><pb n="49"/><lg><l>Hörst du nicht die Morgenglocken?</l><l>Fort denn, fort aus diesem Nest</l><l>Lieder könnt ihr mir entlocken,</l><l>Doch ihr haltet mich nicht fest.</l></lg></div><div n="5." type="Lied" xml:id="LdF_1017_7"><head>5. <note>von Theodor Storm</note></head><lg><l>Nun ein Scherflein in die Runde,</l><l>Von den Cavalieren allen</l><l>Für mein Lied, und ganz besonders</l><l>Weil’s den Frauen so gefallen.</l></lg><lg><l>Daß sie alle mit einander</l><l>Lustig klingen in der Tasche!</l><l>Und, Herr Wirth, vom besten Elfer</l><l>Eine wohlgezogne Flasche!</l></lg><lg><l>Nun ein Lied, und nun ein Humpen</l><l>Schwer von lieblichen Getränken!</l><l>Ewig, ewig, unermüdlich</l><l>Will ich meinen Bogen schwenken!</l></lg></div><div n="6" type="Lied"><head>6. <note>von Theodor Mommsen</note></head><lg><l>Die Saiten weiß ich zu rühren,</l><l>D behieltet ihr mich gern,</l><l>Ihr möchtet mich exploitiren –&#160;</l><l>Guten Morgen, meine Herrn!</l></lg><pb n="50"/><lg><l>Ihr seid so nudelnüchtern,</l><l>Ich bin euch ein pauvrer Wicht –</l><l>Zu den hiesigen Gesichtern</l><l>Passen meine Verse nicht.</l></lg><lg><l>Ich klagte sonst adagio,</l><l>Und begann adagio;</l><l>Doch da sprach mir das Echo vom Agio</l><l>Und ich fluchte fortissimo.</l></lg><lg><l>Daß euch der Herrgott beschütze</l><l>Vor jedem dummen Streich!</l><l>Ich hol’ mir für meine Mütze</l><l>Einen frischen Epheuzweig.</l></lg></div><div n="7" type="Lied"><head>7. <note>von Theodor Mommsen</note></head><lg><l>Wiederum lebt wohl, ihr Brüder!</l><l>Noch ist’s nicht zum letzten Mal.</l><l>Meine Lieder klingen wieder</l><l>Aus dem Wald wie aus dem Saal.</l></lg><lg><l>Dieser Straßen, dieser Gassen</l><l>Pflaster ist mir zu bekannt,</l><l>Und ich hab’ mir schenken lassen</l><l>Wiederum ein grünes Band.</l></lg></div></div></div></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title>Fiedellieder</title>
+                                                                <author role="poet">Storm, Theodor</author>
+                                                                <author role="poet">Mommsen, Theodor</author>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p/>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <listWit>
+                                                                                <witness n="1" xml:id="Liederbuch1843">Liederbuch | dreier Freunde. | Theodor Momsen. Theodor Storm. | Tycho Mommsen. | Kiel. | Schwers’sche Buchhandlung. | 1843.</witness>
+                                                                </listWit>
+                                                                <bibl n="1"/>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr.: text-1017</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2013-01-06" who="JV">Ersteingabe, noch ohne Kommentar</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div type="front">
+                                                                <head type="main">Fiedellieder<lb/> in: Liederbuch dreier Freunde.<lb/> Theodor Mommsen. Theodor Storm. Tycho Mommsen. <lb/>Kiel: Schwers’sche Buchhandlung, 1843</head>
+                                                                <head/>
+                                                                <div decls="#Liederbuch1843">
+                                                                                <head>Inhaltsverzeichnis: </head>
+                                                                                <head>Erstes Buch.</head>
+                                                                                <p>[...]</p>
+                                                                                <p>Gute Nacht, von Storm ..........<supplied>[S.]</supplied> 46</p>
+                                                                                <p>Fiedellieder, 1. 3. 4. 6. 7. von Theodor M. .......... <supplied>[S.]</supplied> 47</p>
+                                                                                <p> 2.5. von Storm</p>
+                                                                                <p>[...]</p>
+                                                                </div>
+                                                </div>
+                                                <div type="body">
+                                                                <div>
+                                                                                <head>[Gedichttexte:]</head>
+                                                                                <head>Erstes Buch</head>
+                                                                                <p>[...]</p>
+                                                                </div>
+                                                                <pb n="46"/>
+                                                                <div xml:id="LdF_1017_1">
+                                                                                <head>Gute Nacht.</head>
+                                                                                <lg>
+                                                                                                <l>Nun geht der Mond durch Wolkennacht,</l>
+                                                                                                <l>Nun ist der Tag herum;</l>
+                                                                                                <l>Da schweigen alle Vögel bald</l>
+                                                                                                <l>Im Walde um und um.</l>
+                                                                                </lg>
+                                                                                <lg>
+                                                                                                <l>Die Drossel pfeift ihr letztes Stück,</l>
+                                                                                                <l>Ein Stück zu allerbest;</l>
+                                                                                                <l>Die Amsel schlägt den letzten Ton,</l>
+                                                                                                <l>Und fliegt zu Nest, zu Nest.</l>
+                                                                                </lg>
+                                                                </div>
+                                                                <pb n="47"/>
+                                                                <div decls="Liederbuch1843">
+                                                                                <head rend="spaced_out">Fiedellieder.</head>
+                                                                                <div type="motto" xml:id="LdF_1017_2">
+                                                                                                <note>nach rechts versetzt als Motto:</note>
+                                                                                                <lg rend="right">
+                                                                                                                <l>Wenn uns unterm Fiedelbogen</l>
+                                                                                                                <l>Manche Saite auch zersprang:</l>
+                                                                                                                <l>Neue werden aufgezogen</l>
+                                                                                                                <l>Und sie geben frischen Klang.</l>
+                                                                                                </lg>
+                                                                                                <div n="1" type="Lied">
+                                                                                                                <head>1. <note>von Theodor Mommsen</note></head>
+                                                                                                                <lg>
+                                                                                                                                <l>Meine Laute nehm’ ich wieder</l>
+                                                                                                                                <l>Laute mit dem grünen Band;</l>
+                                                                                                                                <l>Alte Lieder, neue Lieder –</l>
+                                                                                                                                <l>Und die Leute stehn gebannt.</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Klingen fort und fort die Saiten</l>
+                                                                                                                                <l>Und den Knaben glänzt das Aug’</l>
+                                                                                                                                <l>Und ein leiser Hauch der Zeiten</l>
+                                                                                                                                <l>Streift durch meine Saiten auch.</l>
+                                                                                                                </lg>
+                                                                                                </div>
+                                                                                                <div n="2" type="Lied" xml:id="LdF_1017_4">
+                                                                                                                <head>2. <note>von Theodor Storm</note></head>
+                                                                                                                <lg>
+                                                                                                                                <l>Musikanten wollen wandern –</l>
+                                                                                                                                <l>Durch die Saiten streift der Wind,</l>
+                                                                                                                                <l>Und er weht die leichten Lieder</l>
+                                                                                                                                <l>In die weite Welt geschwind.</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Musikanten wollen wandern –</l>
+                                                                                                                                <l>Auf die Neige geht der Wein;</l>
+                                                                                                                                <l>Ziehn die Lieder in die Weite,</l>
+                                                                                                                                <l>Muß der Spielmann hinterdrein.</l>
+                                                                                                                </lg>
+                                                                                                                <pb n="48"/>
+                                                                                                </div>
+                                                                                                <div n="3" type="Lied">
+                                                                                                                <head>3. <note>von Theodor Mommsen</note></head>
+                                                                                                                <lg>
+                                                                                                                                <l>Im Walde, im Walde,</l>
+                                                                                                                                <l>Im tiefgrünen Wald,</l>
+                                                                                                                                <l>O wie es da klinget,</l>
+                                                                                                                                <l>O wie es da schallt!</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Da streicht man die Fiedel</l>
+                                                                                                                                <l>Und musizirt –</l>
+                                                                                                                                <l>Ist das nicht ein Liedel,</l>
+                                                                                                                                <l>Ein Lidel von mir?</l>
+                                                                                                                </lg>
+                                                                                                </div>
+                                                                                                <div n="4" type="Lied">
+                                                                                                                <head>4. <note>von Theodor Mommsen</note></head>
+                                                                                                                <lg>
+                                                                                                                                <l>Und so laßt mich weiter wandern –</l>
+                                                                                                                                <l>Kind, mein Kind, ich muß von hier,</l>
+                                                                                                                                <l>Von der Einen zu der Andern –&#160;</l>
+                                                                                                                                <l>Meine Stätte ist nicht hier.</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Ist nicht hier und ist nicht dorten,</l>
+                                                                                                                                <l>Nach dem alten Handwerksbrauch!</l>
+                                                                                                                                <l>Mädchen giebt’s an allen Orten,</l>
+                                                                                                                                <l>Rosen jeder Rosenstrauch,</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Mädchen und von allen Sorten,</l>
+                                                                                                                                <l>Blaues Auge, braunes Aug’,</l>
+                                                                                                                                <l>Find’ ich hier und find’ ich dorten,</l>
+                                                                                                                                <l>Und da drüben küßt man auch.</l>
+                                                                                                                </lg>
+                                                                                                                <pb n="49"/>
+                                                                                                                <lg>
+                                                                                                                                <l>Hörst du nicht die Morgenglocken?</l>
+                                                                                                                                <l>Fort denn, fort aus diesem Nest</l>
+                                                                                                                                <l>Lieder könnt ihr mir entlocken,</l>
+                                                                                                                                <l>Doch ihr haltet mich nicht fest.</l>
+                                                                                                                </lg>
+                                                                                                </div>
+                                                                                                <div n="5." type="Lied" xml:id="LdF_1017_7">
+                                                                                                                <head>5. <note>von Theodor Storm</note></head>
+                                                                                                                <lg>
+                                                                                                                                <l>Nun ein Scherflein in die Runde,</l>
+                                                                                                                                <l>Von den Cavalieren allen</l>
+                                                                                                                                <l>Für mein Lied, und ganz besonders</l>
+                                                                                                                                <l>Weil’s den Frauen so gefallen.</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Daß sie alle mit einander</l>
+                                                                                                                                <l>Lustig klingen in der Tasche!</l>
+                                                                                                                                <l>Und, Herr Wirth, vom besten Elfer</l>
+                                                                                                                                <l>Eine wohlgezogne Flasche!</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Nun ein Lied, und nun ein Humpen</l>
+                                                                                                                                <l>Schwer von lieblichen Getränken!</l>
+                                                                                                                                <l>Ewig, ewig, unermüdlich</l>
+                                                                                                                                <l>Will ich meinen Bogen schwenken!</l>
+                                                                                                                </lg>
+                                                                                                </div>
+                                                                                                <div n="6" type="Lied">
+                                                                                                                <head>6. <note>von Theodor Mommsen</note></head>
+                                                                                                                <lg>
+                                                                                                                                <l>Die Saiten weiß ich zu rühren,</l>
+                                                                                                                                <l>D behieltet ihr mich gern,</l>
+                                                                                                                                <l>Ihr möchtet mich exploitiren –&#160;</l>
+                                                                                                                                <l>Guten Morgen, meine Herrn!</l>
+                                                                                                                </lg>
+                                                                                                                <pb n="50"/>
+                                                                                                                <lg>
+                                                                                                                                <l>Ihr seid so nudelnüchtern,</l>
+                                                                                                                                <l>Ich bin euch ein pauvrer Wicht –</l>
+                                                                                                                                <l>Zu den hiesigen Gesichtern</l>
+                                                                                                                                <l>Passen meine Verse nicht.</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Ich klagte sonst adagio,</l>
+                                                                                                                                <l>Und begann adagio;</l>
+                                                                                                                                <l>Doch da sprach mir das Echo vom Agio</l>
+                                                                                                                                <l>Und ich fluchte fortissimo.</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Daß euch der Herrgott beschütze</l>
+                                                                                                                                <l>Vor jedem dummen Streich!</l>
+                                                                                                                                <l>Ich hol’ mir für meine Mütze</l>
+                                                                                                                                <l>Einen frischen Epheuzweig.</l>
+                                                                                                                </lg>
+                                                                                                </div>
+                                                                                                <div n="7" type="Lied">
+                                                                                                                <head>7. <note>von Theodor Mommsen</note></head>
+                                                                                                                <lg>
+                                                                                                                                <l>Wiederum lebt wohl, ihr Brüder!</l>
+                                                                                                                                <l>Noch ist’s nicht zum letzten Mal.</l>
+                                                                                                                                <l>Meine Lieder klingen wieder</l>
+                                                                                                                                <l>Aus dem Wald wie aus dem Saal.</l>
+                                                                                                                </lg>
+                                                                                                                <lg>
+                                                                                                                                <l>Dieser Straßen, dieser Gassen</l>
+                                                                                                                                <l>Pflaster ist mir zu bekannt,</l>
+                                                                                                                                <l>Und ich hab’ mir schenken lassen</l>
+                                                                                                                                <l>Wiederum ein grünes Band.</l>
+                                                                                                                </lg>
+                                                                                                </div>
+                                                                                </div>
+                                                                </div>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

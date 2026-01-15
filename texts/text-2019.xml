@@ -1,4 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>Carl Louis Bargheer an Hans von Bülow, Detmold, 23. Mai 1871</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</institution><idno>Mus. ep. Karl Louis Bargheer 1</idno></msIdentifier><physDesc><p>1 Bl., 2 b. S. o. Adr.</p><p>Eingangsvermerk vom 26. Mai (als "Nr. 194."), Antwortvermerk vom 27. Mai 1871</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2019</p></encodingDesc><revisionDesc><change when="2013-01-17" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Carl Louis Bargheer an Hans von Bülow, <lb/>Detmold, 23. Mai 1871</head><opener><dateline>Detmold 23. V. 71.</dateline><salute>Geehrter Herr!</salute></opener><p>Von Herrn Rechtsanwalt <persName>H. Niemeyer</persName> in <placeName>Warburg</placeName> erhalte ich soeben Ihre beiden Briefe vom 10. April und 14. May zugeschickt und beeile mich, Ihnen in Folge dessen das von Niemeyer hier zurückgelassene <persName>Mozart’sche</persName> C moll-Concert hiermit zu senden. Zugleich empfangen Sie durch Postanweisung vom heutigen Datum für Leihgebühren und 4 Stimmen in Abschrift 1 Thlr. 20 Sgt. Da diese Ausgabe Angelegenheit der Hofkapelle ist, so ersuche ich Sie, mir über den kleinen Betrag gef. eine Quittung zu senden.</p><p>Sie legen der alten Typenausgabe der Mozartschen Concerte grossen Werth bei. Sollten Sie vielleicht von einigen andern <add hand="author" place="above">completten, wohlerhaltenen Concerten</add> derselben Ausgabe Gebrauch machen können; so <pb n="1v"/>erlaube ich mir, Ihnen mithzutheilen dass ich N<hi rend="sup"/> 1, 4, 6, 9, 15 14, 18 u 20 besitze und gern bereit sein würde, sie abzugeben.</p><closer><seg>Achtungsvoll ergebenst</seg><lb/><seg rend="right">
-                    Carl Bargheer<lb/>
-                    Hofkapellmeister.</seg><lb/></closer></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                    <teiHeader>
+                                        <fileDesc>
+                                                            <titleStmt>
+                                                                                <title><lb/>Carl Louis Bargheer an Hans von Bülow, Detmold, 23. Mai 1871</title>
+                                                            </titleStmt>
+                                                            <publicationStmt>
+                                                                                <p>Publication Information</p>
+                                                            </publicationStmt>
+                                                            <sourceDesc>
+                                                                                <msDesc>
+                                                                                                    <msIdentifier>
+                                                                                                                        <institution>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</institution>
+                                                                                                                        <idno>Mus. ep. Karl Louis Bargheer 1</idno>
+                                                                                                    </msIdentifier>
+                                                                                                    <physDesc>
+                                                                                                                        <p>1 Bl., 2 b. S. o. Adr.</p>
+                                                                                                                        <p>Eingangsvermerk vom 26. Mai (als "Nr. 194."), Antwortvermerk vom 27. Mai 1871</p>
+                                                                                                    </physDesc>
+                                                                                                    <additional/>
+                                                                                </msDesc>
+                                                            </sourceDesc>
+                                        </fileDesc>
+                                        <encodingDesc>
+                                                            <p>Interne Text-Nr. text-2019</p>
+                                        </encodingDesc>
+                                        <revisionDesc>
+                                                            <change when="2013-01-17" who="JV">Übertragen und erstmals angelegt</change>
+                                        </revisionDesc>
+                    </teiHeader>
+                    <text>
+                                        <body>
+                                                            <div type="letter">
+                                                                                <head type="main">Carl Louis Bargheer an Hans von Bülow, <lb/>Detmold, 23. Mai 1871</head>
+                                                                                <opener><dateline>Detmold 23. V. 71.</dateline><salute>Geehrter Herr!</salute></opener>
+                                                                                <p>Von Herrn Rechtsanwalt <persName>H. Niemeyer</persName> in <placeName>Warburg</placeName> erhalte ich soeben Ihre beiden Briefe vom 10. April und 14. May zugeschickt und beeile mich, Ihnen in Folge dessen das von
+                                                                                                    Niemeyer hier zurückgelassene <persName>Mozart’sche</persName> C moll-Concert hiermit zu senden. Zugleich empfangen Sie durch Postanweisung vom heutigen Datum für Leihgebühren und 4 Stimmen in
+                                                                                                    Abschrift 1 Thlr. 20 Sgt. Da diese Ausgabe Angelegenheit der Hofkapelle ist, so ersuche ich Sie, mir über den kleinen Betrag gef. eine Quittung zu senden.</p>
+                                                                                <p>Sie legen der alten Typenausgabe der Mozartschen Concerte grossen Werth bei. Sollten Sie vielleicht von einigen andern <add hand="author" place="above">completten, wohlerhaltenen Concerten</add> derselben Ausgabe
+                                                                                                    Gebrauch machen können; so <pb n="1v"/>erlaube ich mir, Ihnen mithzutheilen dass ich N<hi rend="sup"/> 1, 4, 6, 9, 15 14, 18 u 20 besitze und gern bereit sein würde, sie abzugeben.</p>
+                                                                                <closer><seg>Achtungsvoll ergebenst</seg><lb/><seg rend="right"> Carl Bargheer<lb/> Hofkapellmeister.</seg><lb/></closer>
+                                                            </div>
+                                        </body>
+                    </text>
+</TEI>

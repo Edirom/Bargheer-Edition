@@ -1,2 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Detmold, 19. Mai 1856</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 28</idno></msIdentifier><physDesc><p>1 Bl., 2 b. S. o. Adr.</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2012</p></encodingDesc><revisionDesc><change when="2013-08-11" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 19. Mai 1856</head><opener><salute>Hochgeehrtester Herr General-Musikdirektor!</salute></opener><p>Unser durchlauchtigster <rs type="persName">Fürst</rs> hat mit wahrer Freude Ihre schönen Lieder aufgenommen, und läßt Ihnen verehrter Herr vorläufig seinen lebhaftesten Dank durch mich aussprechen. Der Fürst ist mit allem Fleiß beim Einüben der <name type="work">Lieder</name>. Unser Fürst der wirklich <sic>eingesundes</sic> Urtheil über ächte, wahre Musik hat, liebt Ihre <hi rend="latintype">Compositionen</hi> außerordentlich. Schon vor längerer Zeit äußerte sich der Fürst gegen mich, daß er sich sehr geehrt fühlen würde, wenn Sie ihm einige Lieder <hi rend="latintype">componiren</hi> möchten, deßhalb erlaubte ich mir in dieser Angelegenheit bei Ihnen anzufragen, und freue mich herzlich, daß Sie des Fürsten Wunsch erfüllt haben. Unser gnädigster Herr trug mir ferner <pb n="1v"/> auf, daß Sie wegen der übrigen Lieder, ganz Ihrem eigenen Ermessen folgen möchten und hat nur den Wunsch recht bald in den Besitz derselben zu kommen. Wegen der <hi rend="latintype">Dedication</hi> erlaube ich mir zu bemerken daß der Titel des Fürsten ist:</p><p><persName><hi rend="latintype">Paul, Friedrich, Emil, Leopold</hi> regierender Fürst zur Lippe</persName>. Sie würden dem Fürsten eine außerordentliche Freude bereiten, wenn Sie die nächsten Lieder mit einigen Zeilen an ihn begleiteten worin Sie seiner wirklich großen Liebe zur Tonkunst gedächten. Mein sehnlichster Wunsch wäre Sie selbst verehrter Meister einmal hier in <settlement>Detmold</settlement> zu sehen, Sie würden sich selbst überzeugen wie sehr die fürstl: Familie und das Publikum Sie verehren. Der <persName>Hofmarschall <hi rend="latintype">von Meysenbug</hi></persName> läßt sich Ihnen ergebenst empfehlen.</p><closer>Mit wahrer Hochachtung<lb/><seg rend="right">Ew: Hochwohlgebohren</seg><seg rend="right">ganz ergebenster</seg><signed><hi rend="latintype">AugKiel</hi></signed><dateline>Detmold den 19<hi rend="superscript">ten</hi><hi rend="latintype">Mai</hi> 1856.</dateline></closer></div><div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348829150972/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 28</ref></p></div></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><lb/>August Kiel an Louis Spohr, Detmold, 19. Mai 1856</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Universitätsbibliothek Kassel</institution>
+                        <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 28</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 2 b. S. o. Adr.</p>
+                    </physDesc>
+                    <additional/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr. text-2012</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-08-11" who="JV">Übertragen und erstmals angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 19. Mai 1856</head>
+                <opener><salute>Hochgeehrtester Herr General-Musikdirektor!</salute></opener>
+                <p>Unser durchlauchtigster <rs type="persName">Fürst</rs> hat mit wahrer Freude Ihre schönen Lieder aufgenommen, und läßt Ihnen verehrter Herr vorläufig seinen lebhaftesten Dank durch mich aussprechen. Der Fürst ist mit allem Fleiß beim Einüben der <name type="work">Lieder</name>.
+                    Unser Fürst der wirklich <sic>eingesundes</sic> Urtheil über ächte, wahre Musik hat, liebt Ihre <hi rend="latintype">Compositionen</hi> außerordentlich. Schon vor längerer Zeit äußerte sich der Fürst gegen mich, daß er sich sehr geehrt fühlen würde, wenn Sie ihm einige Lieder <hi
+                        rend="latintype">componiren</hi> möchten, deßhalb erlaubte ich mir in dieser Angelegenheit bei Ihnen anzufragen, und freue mich herzlich, daß Sie des Fürsten Wunsch erfüllt haben. Unser gnädigster Herr trug mir ferner <pb n="1v"/> auf, daß Sie wegen der übrigen Lieder, ganz
+                    Ihrem eigenen Ermessen folgen möchten und hat nur den Wunsch recht bald in den Besitz derselben zu kommen. Wegen der <hi rend="latintype">Dedication</hi> erlaube ich mir zu bemerken daß der Titel des Fürsten ist:</p>
+                <p><persName><hi rend="latintype">Paul, Friedrich, Emil, Leopold</hi> regierender Fürst zur Lippe</persName>. Sie würden dem Fürsten eine außerordentliche Freude bereiten, wenn Sie die nächsten Lieder mit einigen Zeilen an ihn begleiteten worin Sie seiner wirklich großen Liebe zur
+                    Tonkunst gedächten. Mein sehnlichster Wunsch wäre Sie selbst verehrter Meister einmal hier in <settlement>Detmold</settlement> zu sehen, Sie würden sich selbst überzeugen wie sehr die fürstl: Familie und das Publikum Sie verehren. Der <persName>Hofmarschall <hi rend="latintype"
+                            >von Meysenbug</hi></persName> läßt sich Ihnen ergebenst empfehlen.</p>
+                <closer>Mit wahrer Hochachtung<lb/><seg rend="right">Ew: Hochwohlgebohren</seg><seg rend="right">ganz ergebenster</seg><signed><hi rend="latintype">AugKiel</hi></signed><dateline>Detmold den 19<hi rend="superscript">ten</hi><hi rend="latintype">Mai</hi> 1856.</dateline></closer>
+            </div>
+            <div>
+                <div type="letter" subtype="facsimile">
+                    <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348829150972/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 28</ref></p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

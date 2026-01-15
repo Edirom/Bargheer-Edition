@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Detmold, 7. Januar 1840</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 10</idno></msIdentifier><physDesc><p>1 Bl., 1 b. S. o.. Adr.</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2040</p></encodingDesc><revisionDesc><change when="2013-09-15" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 7. Januar 1840
-                </head><opener><lb/><salute>Hochgeehrtester Herr <hi rend="latintype">Capellmeister</hi>!</salute></opener><p>Ew: Wohlgebor: haben mich dadurch, daß Sie sich meiner erinnerten, auf das angenehmste überrascht. Es hat so etwas herrliches, von der Gedächtnißtafel eines so großen, vielgeliebten Meisters seinen Namen nicht verlöscht zu finden. Meinen herzlichsten Dank dafür! Bleiben Ew: Wohlgebor: mir ferner gewogen, und genehmigen Sie die Versicherung meiner unwandelbaren Liebe und Verehrung,</p><closer><seg rend="right">Ihr dankbarster</seg><lb/><seg rend="right">Schüler</seg><signed><hi rend="latintype">AugKiel.</hi></signed><dateline><hi rend="latintype">Detmold</hi> d 7<hi rend="superscript">ten</hi><hi rend="latintype">Januar</hi> 1840.</dateline></closer></div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348753712401/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 10</ref></p></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title><lb/>August Kiel an Louis Spohr, Detmold, 7. Januar 1840</title>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p>Publication Information</p>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <msDesc>
+                                                                                <msIdentifier>
+                                                                                                <institution>Universitätsbibliothek Kassel</institution>
+                                                                                                <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 10</idno>
+                                                                                </msIdentifier>
+                                                                                <physDesc>
+                                                                                                <p>1 Bl., 1 b. S. o.. Adr.</p>
+                                                                                </physDesc>
+                                                                                <additional/>
+                                                                </msDesc>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr. text-2040</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2013-09-15" who="JV">Übertragen und erstmals angelegt</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div type="letter">
+                                                                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 7. Januar 1840 </head>
+                                                                <opener><lb/><salute>Hochgeehrtester Herr <hi rend="latintype">Capellmeister</hi>!</salute></opener>
+                                                                <p>Ew: Wohlgebor: haben mich dadurch, daß Sie sich meiner erinnerten, auf das angenehmste überrascht. Es hat so etwas herrliches, von der Gedächtnißtafel eines so großen, vielgeliebten Meisters seinen Namen nicht verlöscht zu finden.
+                                                                                Meinen herzlichsten Dank dafür! Bleiben Ew: Wohlgebor: mir ferner gewogen, und genehmigen Sie die Versicherung meiner unwandelbaren Liebe und Verehrung,</p>
+                                                                <closer><seg rend="right">Ihr dankbarster</seg><lb/><seg rend="right">Schüler</seg><signed><hi rend="latintype">AugKiel.</hi></signed><dateline><hi rend="latintype">Detmold</hi> d 7<hi rend="superscript">ten</hi><hi rend="latintype"
+                                                                                                                >Januar</hi> 1840.</dateline></closer>
+                                                </div>
+                                                <div type="letter" subtype="facsimile">
+                                                                <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348753712401/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 10</ref></p>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title>Frieda Bargheer an Willi Schramm, Timmendorferstrand, 29. November 1932</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>LLB, Mus-h 1 B 171, 1 DBl. (1 b. S.)</p><p>Achtung: Schrift gleicht Bargheer; durchgängig latein</p><p>Notizen in Bleistift von Schramm am Briefkopf 1r: "<sic>Phototos</sic>: C. Bargheer (Hof-Photogr. Georg Eering - Detmold). B. jung, ohne Bart. <lb/>
-                ? ( do.) – – – mit Bart.<lb/>
-                L. Bargheer (groß): Photgr. Schmidt u. Wegener – Kiel. <lb/>
-                Ida. / Ilo? v. Meysenburg: Photogr. Th. Kliem, Detmold, Lange Str.</p></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-36</p></encodingDesc><revisionDesc><change when="2011-08-31" who="JV">erfasst und Korrekturgelesen</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Frieda Bargheer an Willi Schramm, <lb/>Timmendorferstrand, 29. November 1932</head><opener><dateline rend="left">Timmendorferstrand <lb/>Olgaheim.</dateline><dateline rend="right">d. 29. Nov. 32.</dateline><salute>Sehr verehrter Herr Direktor!</salute></opener><p>Für Ihr so freundliches, ausführliches Schreiben vom 16. Nov. danke ich Ihnen sehr herzlich! Es ist mir eine grosse Freude, dass Ihnen das kleine Manuskript wertvoll für Ihre Arbeit war und es würde mich besonders freuen, wenn Sie es bei einer Denkschrift verwerten wollen.</p><p>Gern hätte ich Ihnen mehr zur Verfügung gestellt, aber als ich jetzt alte Papiere daraufhin durchsah, fand ich Programme und Besprechungen fast nur aus der Hamburger Zeit und aus den Jahren 60 – 76 über die sehr häufigen Concertreisen meines Vaters in deutschen Städten, Holland, England und Russland, merkwürdigerweise fast alle ohne Jahreszahlen. So geht es auch mit Noticen, die mein Vater über Detmolder Concerte gemacht hat. Da ich dachte, es wäre vielleicht von Interesse für Sie zu sehen welche grössere Werke in den Jahren in Detmold zur Aufführung kamen, habe ich danach gesucht, doch wenig gefunden, allenfalls könnte ich die kurzen <pb n="1v"/> Aufzeichnungen noch abschreiben, doch denke ich Sie ersehen allerlei aus der beigefügten Besprechung über das Detmolder Musikleben von 1865. 2 Programe v. Kammermusikabenden lege ich noch bei, doch sind die aus späteren Jahren.</p><p>Ausser den Bildern meines Vaters habe ich leider nur noch die von Hofmarschall v. Meysenbug und seiner Frau, die sehr befreundet waren mit meinen Eltern. Von meinem Onkel Adolph und Ernst Bargheer sind leider keine Bilder da, <hi n="1" rend="underline">vielleicht</hi> könnte meine Cousine Frl. Lilly Bargheeer-Hannover-Kirchrode, Neu-Bethesda Ihnen diese verschaffen.</p><p>Ich bin Ihnen dankbar, dass Sie alte Zeiten erstehen lassen, da Sie nun ein gütiges Interesse für meinen Vater haben, <del rend="strike-through">hab</del> denke ich, es interessiert Sie vielleicht ein Bild aus seinen alten Tagen und einen Nachruf zu lesen, deshalb legte ich diese dazu.</p><p>Ihre freundliche Mitteilung über den Verwandten Herrn Dr. Bargheer hat mich <hi n="1" rend="unterline">sehr</hi> ineressiert, ich hoffe später noch Genaueres von ihm zu hören.</p><closer><salute>Es grüsst Sie, sehr verehrter Herr Direktor mit vorzüglicher Hochachtung</salute><lb/><seg rend="center">Ihre Ergebene Frieda Bargheer</seg></closer></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title>Frieda Bargheer an Willi Schramm, Timmendorferstrand, 29. November 1932</title>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p>Publication Information</p>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <p>LLB, Mus-h 1 B 171, 1 DBl. (1 b. S.)</p>
+                                                                <p>Achtung: Schrift gleicht Bargheer; durchgängig latein</p>
+                                                                <p>Notizen in Bleistift von Schramm am Briefkopf 1r: "<sic>Phototos</sic>: C. Bargheer (Hof-Photogr. Georg Eering - Detmold). B. jung, ohne Bart. <lb/> ? ( do.) – – – mit Bart.<lb/> L. Bargheer (groß): Photgr. Schmidt u. Wegener – Kiel.
+                                                                                <lb/> Ida. / Ilo? v. Meysenburg: Photogr. Th. Kliem, Detmold, Lange Str.</p>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr.: text-36</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2011-08-31" who="JV">erfasst und Korrekturgelesen</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div type="letter">
+                                                                <head type="main">Frieda Bargheer an Willi Schramm, <lb/>Timmendorferstrand, 29. November 1932</head>
+                                                                <opener><dateline rend="left">Timmendorferstrand <lb/>Olgaheim.</dateline><dateline rend="right">d. 29. Nov. 32.</dateline><salute>Sehr verehrter Herr Direktor!</salute></opener>
+                                                                <p>Für Ihr so freundliches, ausführliches Schreiben vom 16. Nov. danke ich Ihnen sehr herzlich! Es ist mir eine grosse Freude, dass Ihnen das kleine Manuskript wertvoll für Ihre Arbeit war und es würde mich besonders freuen, wenn Sie es
+                                                                                bei einer Denkschrift verwerten wollen.</p>
+                                                                <p>Gern hätte ich Ihnen mehr zur Verfügung gestellt, aber als ich jetzt alte Papiere daraufhin durchsah, fand ich Programme und Besprechungen fast nur aus der Hamburger Zeit und aus den Jahren 60 – 76 über die sehr häufigen
+                                                                                Concertreisen meines Vaters in deutschen Städten, Holland, England und Russland, merkwürdigerweise fast alle ohne Jahreszahlen. So geht es auch mit Noticen, die mein Vater über Detmolder Concerte gemacht hat. Da ich
+                                                                                dachte, es wäre vielleicht von Interesse für Sie zu sehen welche grössere Werke in den Jahren in Detmold zur Aufführung kamen, habe ich danach gesucht, doch wenig gefunden, allenfalls könnte ich die kurzen <pb n="1v"/>
+                                                                                Aufzeichnungen noch abschreiben, doch denke ich Sie ersehen allerlei aus der beigefügten Besprechung über das Detmolder Musikleben von 1865. 2 Programe v. Kammermusikabenden lege ich noch bei, doch sind die aus späteren
+                                                                                Jahren.</p>
+                                                                <p>Ausser den Bildern meines Vaters habe ich leider nur noch die von Hofmarschall v. Meysenbug und seiner Frau, die sehr befreundet waren mit meinen Eltern. Von meinem Onkel Adolph und Ernst Bargheer sind leider keine Bilder da, <hi
+                                                                                                n="1" rend="underline">vielleicht</hi> könnte meine Cousine Frl. Lilly Bargheeer-Hannover-Kirchrode, Neu-Bethesda Ihnen diese verschaffen.</p>
+                                                                <p>Ich bin Ihnen dankbar, dass Sie alte Zeiten erstehen lassen, da Sie nun ein gütiges Interesse für meinen Vater haben, <del rend="strike-through">hab</del> denke ich, es interessiert Sie vielleicht ein Bild aus seinen alten Tagen und
+                                                                                einen Nachruf zu lesen, deshalb legte ich diese dazu.</p>
+                                                                <p>Ihre freundliche Mitteilung über den Verwandten Herrn Dr. Bargheer hat mich <hi n="1" rend="unterline">sehr</hi> ineressiert, ich hoffe später noch Genaueres von ihm zu hören.</p>
+                                                                <closer><salute>Es grüsst Sie, sehr verehrter Herr Direktor mit vorzüglicher Hochachtung</salute><lb/><seg rend="center">Ihre Ergebene Frieda Bargheer</seg></closer>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

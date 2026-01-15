@@ -1,2 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc><titleStmt><title type="main">Übersicht über die Materialien aus anderen Institutionen</title><respStmt><name>Herausgeber</name><resp>Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim Veit</resp></respStmt></titleStmt><publicationStmt><p>Publication information</p></publicationStmt><sourceDesc><p>Information about the source</p></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr: text-010</p></encodingDesc><revisionDesc><change when="2013-01-08" who="JV">Ersteinrichtung; provisorisch</change></revisionDesc></teiHeader><text><body><div><head type="main">Materialien zu Carl Louis Bargheer und Umkreis in anderen Institutionen</head><div><head type="sub">Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</head><p><list><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2019.xml">*1871-05-23 Carl Louis Bargheer an Hans von Bülow, Detmold, 23. Mai 1871</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2020.xml">*1873-08-26 Carl Louis Bargheer an Hans von Bülow, Detmold, 26. August 1873</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2022.xml">*1885-01-18 Carl Louis Bargheer an Hans von Bülow, Hamburg, 18. Januar 1885</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2025.xml">*1885-07-14 Carl Louis Bargheer an Hans von Bülow, Kassel-Wilhelmshöhe, 14. Juli 1885</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2023.xml">*1889-01-09 Carl Louis Bargheer an Hans von Bülow, Hamburg, 9. Januar 1889</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2021.xml">*1889-02-22 Carl Louis Bargheer an Hans von Bülow, Hamburg, 22. Februar 1889</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2024.xml">*1889-11-05 Carl Louis Bargheer an Hans von Bülow, o. O., 5. November 1889</ref></item></list></p><lb/></div><div><head type="sub">Hamburg, Staats- und Universitätsbibliothek</head><p><list><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2001.xml">*1895-11-05 Carl Louis Bargheer an den Musikverlag A. Payne in Leipzig, Hamburg, 5. Nov. 1895</ref></item></list></p><lb/></div><div><head type="sub">Kassel, Universitätsbibliothek Kassel Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel</head><p><list><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2028.xml">*1835-06-29 August Kiel an Louis Spohr in Kassel, Sondershausen, 29. Juni 1835</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2016.xml">*1835-10-26 August Kiel an Louis Spohr in Kassel, Detmold, 26. Oktober 1835</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2031.xml">*1837-02-08 August Kiel an Louis Spohr in Kassel, Detmold, 8. Februar 1837</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2030.xml">*1837-02-15 August Kiel an Louis Spohr in Kassel, Detmold, 15. Februar 1837</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2032.xml">*1837-04-14 August Kiel an Louis Spohr in Kassel, Detmold, 14. April 1837</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2033.xml">*1837-06-25 August Kiel an Louis Spohr in Kassel, Detmold, 25. Juni 1837</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2041.xml">*1837-00-00 August Kiel an Louis Spohr in Kassel, Detmold, o. D. [Sommer/Herbst 1837]</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2034.xml">*1838-05-30 August Kiel an Louis Spohr in Kassel, Detmold, 30. Mai 1838</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2040.xml">*1840-01-07 August Kiel an Louis Spohr in Kassel, Detmold, 7. Januar 1840</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2035.xml">*1841-05-10 August Kiel an Louis Spohr in Kassel, Detmold, 10. Mai 1841</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2036.xml">*1842-05-29 August Kiel an Louis Spohr in Kassel, Detmold, 29. Mai 1842</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2038.xml">*1845-01-20 August Kiel an Louis Spohr in Kassel, Detmold, 20. Januar 1845</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2037.xml">*1845-01-30 August Kiel an Louis Spohr in Kassel, Detmold, 30. Januar 1845</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2039.xml">*1845-12-23 August Kiel an Louis Spohr in Kassel, Detmold, 23. Dezember 1845</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2042.xml">*1847-03-13 August Kiel an Louis Spohr in Kassel, Detmold, o. D. [13. März 1847]</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2006.xml">*1850-05-05 August Kiel an Louis Spohr in Kassel, Detmold, 5. Mai 1850</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2007.xml">*1850-05-09 August Kiel an Louis Spohr in Kassel, Detmold, 9. Mai 1850</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2008.xml">*1853-12-15 August Kiel an Louis Spohr in Kassel, Detmold, 15. Dezember 1853</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2009.xml">*1854-01-10 August Kiel an Louis Spohr in Kassel, Detmold, 10. Januar 1854</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2010.xml">*1856-04-01 August Kiel an Louis Spohr in Kassel, Detmold, 1. April 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2011.xml">*1856-04-10 August Kiel an Louis Spohr in Kassel, Detmold, 10. April 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2013.xml">*1856-04-22 August Kiel an Louis Spohr in Kassel, Detmold, 22. April 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2012.xml">*1856-05-19 August Kiel an Louis Spohr in Kassel, Detmold, 19. Mai 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2017.xml">*1856-06-06 August Kiel an Louis Spohr in Kassel, Detmold, 6. Juni 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2018.xml">*1856-06-16 August Kiel an Louis Spohr in Kassel, Detmold, 16. Juni 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2026.xml">*1856-07-12 August Kiel an Louis Spohr in Kassel, Detmold, 12. Juli 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2027.xml">*1856-08-27 August Kiel an Louis Spohr in Kassel, Detmold, 27. August 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2029.xml">*1856-10-08 August Kiel an Louis Spohr in Kassel, Detmold, 8. Oktober 1856</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2014.xml">*1857-01-04 August Kiel an Louis Spohr in Kassel, Detmold, 4. Januar 1857</ref></item><item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2015.xml">*1859-04-19 August Kiel an Louis Spohr in Kassel, Detmold, 19. April 1859</ref></item></list></p></div></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Übersicht über die Materialien aus anderen Institutionen</title>
+                <respStmt>
+                    <name>Herausgeber</name>
+                    <resp>Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim Veit</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr: text-010</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-01-08" who="JV">Ersteinrichtung; provisorisch</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head type="main">Materialien zu Carl Louis Bargheer und Umkreis in anderen Institutionen</head>
+                <div>
+                    <head type="sub">Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</head>
+                    <p><list>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2019.xml">*1871-05-23 Carl Louis Bargheer an Hans von Bülow, Detmold, 23. Mai 1871</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2020.xml">*1873-08-26 Carl Louis Bargheer an Hans von Bülow, Detmold, 26. August 1873</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2022.xml">*1885-01-18 Carl Louis Bargheer an Hans von Bülow, Hamburg, 18. Januar 1885</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2025.xml">*1885-07-14 Carl Louis Bargheer an Hans von Bülow, Kassel-Wilhelmshöhe, 14. Juli 1885</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2023.xml">*1889-01-09 Carl Louis Bargheer an Hans von Bülow, Hamburg, 9. Januar 1889</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2021.xml">*1889-02-22 Carl Louis Bargheer an Hans von Bülow, Hamburg, 22. Februar 1889</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2024.xml">*1889-11-05 Carl Louis Bargheer an Hans von Bülow, o. O., 5. November 1889</ref></item>
+                        </list></p>
+                    <lb/>
+                </div>
+                <div>
+                    <head type="sub">Hamburg, Staats- und Universitätsbibliothek</head>
+                    <p><list>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2001.xml">*1895-11-05 Carl Louis Bargheer an den Musikverlag A. Payne in Leipzig, Hamburg, 5. Nov. 1895</ref></item>
+                        </list></p>
+                    <lb/>
+                </div>
+                <div>
+                    <head type="sub">Kassel, Universitätsbibliothek Kassel Landesbibliothek und Murhardsche Bibliothek der Stadt Kassel</head>
+                    <p><list>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2028.xml">*1835-06-29 August Kiel an Louis Spohr in Kassel, Sondershausen, 29. Juni 1835</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2016.xml">*1835-10-26 August Kiel an Louis Spohr in Kassel, Detmold, 26. Oktober 1835</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2031.xml">*1837-02-08 August Kiel an Louis Spohr in Kassel, Detmold, 8. Februar 1837</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2030.xml">*1837-02-15 August Kiel an Louis Spohr in Kassel, Detmold, 15. Februar 1837</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2032.xml">*1837-04-14 August Kiel an Louis Spohr in Kassel, Detmold, 14. April 1837</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2033.xml">*1837-06-25 August Kiel an Louis Spohr in Kassel, Detmold, 25. Juni 1837</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2041.xml">*1837-00-00 August Kiel an Louis Spohr in Kassel, Detmold, o. D. [Sommer/Herbst 1837]</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2034.xml">*1838-05-30 August Kiel an Louis Spohr in Kassel, Detmold, 30. Mai 1838</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2040.xml">*1840-01-07 August Kiel an Louis Spohr in Kassel, Detmold, 7. Januar 1840</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2035.xml">*1841-05-10 August Kiel an Louis Spohr in Kassel, Detmold, 10. Mai 1841</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2036.xml">*1842-05-29 August Kiel an Louis Spohr in Kassel, Detmold, 29. Mai 1842</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2038.xml">*1845-01-20 August Kiel an Louis Spohr in Kassel, Detmold, 20. Januar 1845</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2037.xml">*1845-01-30 August Kiel an Louis Spohr in Kassel, Detmold, 30. Januar 1845</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2039.xml">*1845-12-23 August Kiel an Louis Spohr in Kassel, Detmold, 23. Dezember 1845</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2042.xml">*1847-03-13 August Kiel an Louis Spohr in Kassel, Detmold, o. D. [13. März 1847]</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2006.xml">*1850-05-05 August Kiel an Louis Spohr in Kassel, Detmold, 5. Mai 1850</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2007.xml">*1850-05-09 August Kiel an Louis Spohr in Kassel, Detmold, 9. Mai 1850</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2008.xml">*1853-12-15 August Kiel an Louis Spohr in Kassel, Detmold, 15. Dezember 1853</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2009.xml">*1854-01-10 August Kiel an Louis Spohr in Kassel, Detmold, 10. Januar 1854</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2010.xml">*1856-04-01 August Kiel an Louis Spohr in Kassel, Detmold, 1. April 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2011.xml">*1856-04-10 August Kiel an Louis Spohr in Kassel, Detmold, 10. April 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2013.xml">*1856-04-22 August Kiel an Louis Spohr in Kassel, Detmold, 22. April 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2012.xml">*1856-05-19 August Kiel an Louis Spohr in Kassel, Detmold, 19. Mai 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2017.xml">*1856-06-06 August Kiel an Louis Spohr in Kassel, Detmold, 6. Juni 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2018.xml">*1856-06-16 August Kiel an Louis Spohr in Kassel, Detmold, 16. Juni 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2026.xml">*1856-07-12 August Kiel an Louis Spohr in Kassel, Detmold, 12. Juli 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2027.xml">*1856-08-27 August Kiel an Louis Spohr in Kassel, Detmold, 27. August 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2029.xml">*1856-10-08 August Kiel an Louis Spohr in Kassel, Detmold, 8. Oktober 1856</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2014.xml">*1857-01-04 August Kiel an Louis Spohr in Kassel, Detmold, 4. Januar 1857</ref></item>
+                            <item><ref target="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-2015.xml">*1859-04-19 August Kiel an Louis Spohr in Kassel, Detmold, 19. April 1859</ref></item>
+                        </list></p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

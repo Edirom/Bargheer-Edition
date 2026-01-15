@@ -1,2 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Detmold, 15. Dezember 1854</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 25</idno></msIdentifier><physDesc><p>1 Bl., 2 b. S. o. Adr.</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2009</p></encodingDesc><revisionDesc><change when="2013-08-08" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 10. Januar 1854</head><opener><salute>Hochverehrtester Herr!</salute></opener><p>Ich bitte tausendmal um Verzeihung, daß ich erst jetzt Ihren geehrten Brief beantworte. Allein ich habe diese 14 Tage mit dem Propheten, welche Oper in 8 Tagen gegeben werden soll, so viel Plage gehabt, daß ich an nichts Vernünftiges habe denken können. Leider habe ich Ihr herrliches Oratorium im vorigen Sommer (wegen meiner Kränklichkeit) mit dem Singverein nicht studiren können und haben wir dasselbe im Herbst nur theilweise bei Hofe aufgeführt. Der <rs type="persName">Fürst</rs> wünscht jedoch das Ganze diesen Sommer zu hören.Ich werde im <hi rend="latintype">Mai</hi> wenn unsre Schauspieler wieder fort sind mit neuem Eifer einstudiren, so daß die Aufführung im Anfange September statt finden kann. Bei Hofe studiren wir jetzt <persName>Glucks</persName> "Armide", so daß ich jetzt mit dem Schulmeister im Wildschütz sagen kann: "Morgens <hi rend="latintype">a b c</hi> und Abends Sophocles.<supplied>"</supplied> Ich danke meinem Schöpfer daß ich den Musiktumult von <hi rend="latintype"><persName>Berlioz</persName> Romeo</hi> und <hi rend="latintype">Juli</hi> hinter mir habe. Das ist Thierquälerei. Ein solches <hi rend="latintype">Chaos</hi> von guten und schlechten Gedanken ist mir noch nicht vorgekommen. Dieser Wirrwarr dauert ununterbrochen <pb n="1v"/> gute 2 Stunden. Wir gute Deu<supplied>t</supplied>sche müssen uns doch viel gefallen lassen! Ich nehme mir die Freiheit Ew: Wohlgeb an Ihr gütiges Versprechen hinsichtlich der Aufführung des Tannhäuser zu erinnern. Da diese Oper auch hier in Aussicht steht, so wird es mir von großem Nutzen sein, diese Oper unter Ihrer <hi rend="latintype">Direction</hi> anhören zu können. Die Fürstl. Familie ist so gnädig mich mitnehmen zu wollen. Gleichzeitig ersuche ich Ew: Wohlgeb: mir die gütigst versprochenen Musikstücke zum Faust, wofür ich im voraus herzlichst danke, senden zu wollen. Den Betrag dafür bitte ich von der Post zu entnehmen. Ich gestehe daß mir schon längst der Gedancke aufgetaucht ist, daß in dieser Oper kein Dialog sein möchte, und freue ich mich sehr die Oper mit dieser neuen Zierde genießen zu können. Unsere diesjährigen Opernmitglieder sind ziemlich gut und läßt sich mit diesen Leuten, weil sie bescheiden sind und gute Lehren willig annehmen manches Gute ausrichten. <hi rend="latintype"><persName>Bargher</persName></hi> lebte der süßen Täuschung, als wenn Ew: Wohlgeb: das Potpourri vergessen hätten.</p><closer>In der Hoffnung Ihnen hochverehrter Meister bald persönlich meine unwandelbare Hochachtung versichern zu können bleibe ich <lb/><seg rend="right">Ew: Wohlgebohren</seg><seg rend="right">dankbarster</seg><signed><hi rend="latintype">AugKiel</hi></signed><dateline>Detmold d 10 <hi rend="latintype">Januar</hi> 1854.</dateline></closer></div><div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348826096907/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 25</ref></p></div></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><lb/>August Kiel an Louis Spohr, Detmold, 15. Dezember 1854</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Universitätsbibliothek Kassel</institution>
+                        <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 25</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 2 b. S. o. Adr.</p>
+                    </physDesc>
+                    <additional/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr. text-2009</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-08-08" who="JV">Übertragen und erstmals angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 10. Januar 1854</head>
+                <opener><salute>Hochverehrtester Herr!</salute></opener>
+                <p>Ich bitte tausendmal um Verzeihung, daß ich erst jetzt Ihren geehrten Brief beantworte. Allein ich habe diese 14 Tage mit dem Propheten, welche Oper in 8 Tagen gegeben werden soll, so viel Plage gehabt, daß ich an nichts Vernünftiges habe denken können. Leider habe ich Ihr
+                    herrliches Oratorium im vorigen Sommer (wegen meiner Kränklichkeit) mit dem Singverein nicht studiren können und haben wir dasselbe im Herbst nur theilweise bei Hofe aufgeführt. Der <rs type="persName">Fürst</rs> wünscht jedoch das Ganze diesen Sommer zu hören.Ich werde im <hi
+                        rend="latintype">Mai</hi> wenn unsre Schauspieler wieder fort sind mit neuem Eifer einstudiren, so daß die Aufführung im Anfange September statt finden kann. Bei Hofe studiren wir jetzt <persName>Glucks</persName> "Armide", so daß ich jetzt mit dem Schulmeister im Wildschütz
+                    sagen kann: "Morgens <hi rend="latintype">a b c</hi> und Abends Sophocles.<supplied>"</supplied> Ich danke meinem Schöpfer daß ich den Musiktumult von <hi rend="latintype"><persName>Berlioz</persName> Romeo</hi> und <hi rend="latintype">Juli</hi> hinter mir habe. Das ist
+                    Thierquälerei. Ein solches <hi rend="latintype">Chaos</hi> von guten und schlechten Gedanken ist mir noch nicht vorgekommen. Dieser Wirrwarr dauert ununterbrochen <pb n="1v"/> gute 2 Stunden. Wir gute Deu<supplied>t</supplied>sche müssen uns doch viel gefallen lassen! Ich nehme
+                    mir die Freiheit Ew: Wohlgeb an Ihr gütiges Versprechen hinsichtlich der Aufführung des Tannhäuser zu erinnern. Da diese Oper auch hier in Aussicht steht, so wird es mir von großem Nutzen sein, diese Oper unter Ihrer <hi rend="latintype">Direction</hi> anhören zu können. Die
+                    Fürstl. Familie ist so gnädig mich mitnehmen zu wollen. Gleichzeitig ersuche ich Ew: Wohlgeb: mir die gütigst versprochenen Musikstücke zum Faust, wofür ich im voraus herzlichst danke, senden zu wollen. Den Betrag dafür bitte ich von der Post zu entnehmen. Ich gestehe daß mir
+                    schon längst der Gedancke aufgetaucht ist, daß in dieser Oper kein Dialog sein möchte, und freue ich mich sehr die Oper mit dieser neuen Zierde genießen zu können. Unsere diesjährigen Opernmitglieder sind ziemlich gut und läßt sich mit diesen Leuten, weil sie bescheiden sind und
+                    gute Lehren willig annehmen manches Gute ausrichten. <hi rend="latintype"><persName>Bargher</persName></hi> lebte der süßen Täuschung, als wenn Ew: Wohlgeb: das Potpourri vergessen hätten.</p>
+                <closer>In der Hoffnung Ihnen hochverehrter Meister bald persönlich meine unwandelbare Hochachtung versichern zu können bleibe ich <lb/><seg rend="right">Ew: Wohlgebohren</seg><seg rend="right">dankbarster</seg><signed><hi rend="latintype">AugKiel</hi></signed><dateline>Detmold d 10
+                            <hi rend="latintype">Januar</hi> 1854.</dateline></closer>
+            </div>
+            <div>
+                <div type="letter" subtype="facsimile">
+                    <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348826096907/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 25</ref></p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

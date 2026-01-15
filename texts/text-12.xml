@@ -1,42 +1,814 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"><teiHeader><fileDesc><titleStmt><title>Carl Louis Bargheer, Tagebuchnotizen 27. August 1848 bis November 1849 [lückenhaft]</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><country>D</country><settlement>Detmold</settlement><repository n="D-DT">Lippische Landesbibliothek</repository><idno>Mus-h 1 B 36</idno></msIdentifier><physDesc><p>24 Seiten, am Ende mehrere Bl. herausgerissen</p><p>Zeitraum: 27. August 1848 bis Februar 1849 in Bückeburg; Sprung vom 22. Februar (S. 8) auf den 15. August 1849 in Kassel</p></physDesc></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-12</p></encodingDesc><revisionDesc><change when="2013-10-02" who="JV">bis 1848-10-27 ausgezeichnet</change><change when="2013-04-25" who="JV">bis 1848-09-09 ausgezeichnet</change><change when="2012-12-07" who="JV">Anfang bis Beginn 1848-08-30 ausgezeichnet (reine Textauszeichnung, noch ohne Personen und Werke)</change><change when="2012-11-25" who="JV">Die aktuelle Fassung einkopiert; ist ab sofort nur noch hier zu ändern!</change></revisionDesc></teiHeader><text><body><!-- Achtung: neuere Einträge noch ohne Auszeichnung --><div type="diary_year"><head type="main">Carl Louis Bargheer, Tagebuchnotizen <lb/>27. August 1848 bis November 1849</head><div type="diary_month"><head>August 1848.</head><div n="1848-08-27"><head><date>1848-08-27</date>, Sonntag</head><p>ich spielte für <persName>Witting</persName> in Eilsen. Im Saale wurden dort gespielt: 1. <hi rend="latintype">Ouverture</hi> zu <hi rend="latintype">Zampa v. Herold</hi>; sie ging ziemlich gut, die Stimmung der Instrumente gegen einander war nicht rein.<lb/>2. <hi rend="latintype">Cäcilien Walzer v. <persName>Strauss</persName></hi>, ging sehr gut und gefiel allgem. <lb/>3. <hi rend="latintype">Hiazinten Polka v. <persName>Labitzky</persName></hi> gut. 4. <hi rend="latintype">Gnaden Galopp</hi> u. <lb/>5. [offen] <hi rend="latintype">v. <persName>Kückenmeister</persName></hi> gt. – . . . . . .</p><p>Auf dem Balkon wurde gespielt: 1. <hi rend="latintype">Ouverture</hi> zu <hi rend="latintype">Norma</hi> gt. 2. <hi rend="latintype">Lichtensteiner</hi> Walzer v. <persName>Labitzky</persName> gt. 3. <hi rend="latintype">Studentenpolka v. <persName>Lumlie</persName></hi>  4. 3<hi rend="superscript">te</hi> Concertouvertüre von <hi rend="latintype"><persName>Kalliwoda</persName></hi> recht gut u. 5. <hi rend="latintype">Ouverture</hi> v. <hi rend="latintype"><persName>Paer</persName></hi> beide Ouvert. wurden zum 2<hi rend="superscript">ten</hi> Male in Eils. gespielt. – 6. <hi rend="latintype">Ouvert</hi>. zu <hi rend="latintype">Zampa</hi> sehr gut. 7. "Die Nächtlichen Wanderer" <hi rend="latintype">Walzer</hi> v. <hi rend="latintype"><persName>Lanner</persName></hi> ging ebenfalls sehr gut. . . . . . </p></div><div n="1848-08-29"><head><date>1848-08-29</date>, Dienstag</head><p>In Eilsen gespielt: 1, <hi rend="latintype">Ouvert</hi>. zum Freischütz, mit Schöning die 1<hi rend="superscript">ste</hi> Vle. Violine, ging gut. 2, spielte Franz Schönig ein <hi rend="latintype">Concert</hi> v. <hi rend="latintype"><persName>Mayseder</persName></hi>, sehr langweilig. 3, <hi rend="latintype">Potpourri v. <persName>Küffner</persName></hi> ziemlich gt. – 4, "<hi rend="latintype">Liebesträume</hi>" Walzer v. <hi rend="latintype"><persName>Lanner</persName></hi> ziemlich gut. 5, <hi rend="latintype">Hiazinten</hi> Polka v. <hi rend="latintype"><persName>Labitzky</persName></hi> gut. 6, <hi rend="latintype">Schneider</hi>walzer v. <persName>Labitzky</persName> ziemlich gut. – Im Ganzen giengen die Sachen heute nicht gut. . . . . </p></div><div n="1848-08-30"><head><date>1848-08-30</date>, Mittwoch</head><p>In Eilsen gespielt: 1, <hi rend="latintype">Ouvert</hi>. zu <hi rend="latintype">Moses v. <persName>Lindpaintner</persName></hi> sehr gt. 2, <hi rend="latintype">Tanzrezepte</hi> Walzer v. <hi rend="latintype"><persName>Strauss</persName> dto</hi>. 3, Ouvert. z. Unbekannten v. Bellini gut. 5, Cavatine aus der dibischen Elster. gt. 5, Jenny Lind’s Lieblingspolka (auf Verlangen gespielt.) – 6, Liebesträume Walzer v. Lanner gut, weit besser als gestern. 7, Kikrikki Galopp gut (zum ersten male dort gespielt) 8, Militärpolka gt. – Die Musik ging im Ganzen heute recht gut . . . . </p></div><div n="1848-08-31"><head><date>1848-08-31</date>, Donnerstag</head><p>Clavierunterricht bei <hi rend="latintype">VSchmidt</hi>. Von da ging ich nach Eilsen, wo wir folgende Stücke spielten: 1, <hi rend="latintype">Ouvert</hi>. zum Vaudeville "<hi rend="latintype">Rataplan</hi>, der kleine Tambour, 2, <hi rend="latintype">Ouvert</hi>. v. <hi rend="latintype">Schneider</hi> über "<hi rend="latintype">God save the King</hi>." recht gut. 3, <hi rend="latintype">Walzer</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 7 aus der neuen Partie (12 Tänze) 4, <hi rend="latintype">Po<supplied>l</supplied>ka</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 7 rechtgt. 5, <hi rend="latintype">Walzer</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 4 rechtgt. – 6, <hi rend="latintype">Cäcilien</hi> Walzer sehr gt. </p><pb n="1v"/><p>7, Kikrikki <hi rend="latintype">Galopp</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 12. gt. 8, Die nächtlichen Wanderer v. <hi rend="latintype">Lanner</hi> sehr gut. Im Ganzen ging Alles d recht gut.</p></div></div><!-- Hier eine dünne Linie vor dem nächsten Tag eingefügt; der Kopf "September" steht aber über dem vorigen Text --><div type="diary_month"><head type="editorial"><lb/>September 1848</head><div n="1848-09-01"><head><date>1848-09-01</date>, Freitag</head><p>Bei Langerfeld für Vater Stunde gegeben. Nachher spielte ich auf einer Hochzeit zur <unclear>Bancke</unclear> für Vater bis Sonnabend Morgen halb 4.</p></div><div n="1848-09-03"><head><date>1848-09-03</date>, Sonntag</head><p>In Eilsen gespielt, wo unter andren die <hi rend="latintype">Ouverture</hi> zu <hi rend="latintype">Wilh: Tell v. Rossini</hi>, der bekannte <hi rend="latintype">Polka</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 7 und der <hi rend="latintype">Caecilien-walzer</hi> v. <hi rend="latintype">Strauss</hi> recht gut gingen. Nach 6 wurde auf dem Balcon aufgehört zu spielen und im gr. Saale zu Tanz gespielt bis halb 12 (3 r 8 <unclear>ngr</unclear> verdient)</p></div><div n="1848-09-09"><head><date>1848-09-09</date>, Sonnabend</head><p>Am Morgen von halb elf – zwölf hatte ich die 4<hi rend="superscript">te</hi> Stunde beim H Conzertmeister <hi rend="latintype">Lübcke</hi>. Ich spielte zuerst die <hi rend="latintype">Variat</hi>. von <hi rend="latintype">David</hi><hi rend="latintype">Op</hi>. II, welche <hi rend="latintype">Lübcke</hi> sehr gut gefielen. Darauf spielten wir ein <hi rend="latintype">Duett</hi> v. <hi rend="latintype">Krommer</hi> in <hi rend="latintype">A dur</hi>, welches mir ganz außerordentlich gefiel. Dieses Duett ist erst die 2<hi rend="superscript">te</hi> Piece die ich von <hi rend="latintype">Krommer</hi> gespielt habe.</p></div><div n="1848-09-12"><head><date>1848-09-12</date>, Dienstag  </head><p>Vater, <hi rend="latintype">Klosterm</hi>. u. ich spielten am Nachmittage bei uns Quartette, da Grahl keine Zeit mußte die Bratsche ausgelassen werden. Wir sp. 2 <hi rend="latintype">Quartette v. A. Romberg</hi><hi rend="latintype">Op</hi>. 16. (5<hi rend="latintype"><hi rend="superscript">me</hi></hi><hi rend="latintype">Suite de Quatuors</hi>.) Das erste <hi rend="latintype">Qart</hi>. in <hi rend="latintype">F</hi>., d. 2<hi rend="superscript">te</hi> in <hi rend="latintype">G m</hi>. gefielen sehr; die erste Violine <subst><del rend="overwritten"/><add rend="inline">sticht</add></subst> in diesen Quartetten sehr hervor. – Darauf probirten wir "<hi rend="latintype">La jota aragonesa</hi>" von <hi rend="latintype">St. Lubin</hi>, die sich mit der unvollständigen Begleitung schon ganz gut machten, so daß ich sehr gespannt <hi rend="strikethrough">darauf</hi> bin, <del rend="strikethrough">sie</del> welchen Effect sie vollständig ausgeführt machen wird. – Am Abende las ich in der musikalischen Zeitung den Lebenslauf des verschiedenen <hi rend="latintype">F. M. Bartholdy</hi>, welcher d. 3<hi rend="superscript">ten</hi> Febr. 1809 zu Hamburg geb. wurde. Seit 1835 in Leipzig Musikdirektor beim Gewandhause, wo durch seine Vermittlung sein Jugend-<pb n="3r"/>freund <hi rend="latintype">F. David</hi> Conzertmeister wurde, an dem das Orchester einen ausgezeichneten Virtuosen u. Componisten gewann. <hi rend="latintype">M. B</hi>. starb dort den 4 Nov. Abends 9 Uhr 24 Min. 1847. überall betrauert, was die Totenfeiern in so vielen Städten Deutschlands nicht allein, sondern auch des Auslandes beweisen. – </p><p><hi rend="latintype">Hector Berlioz</hi> d. 11<hi rend="superscript">ten</hi> December 1803 zu <hi rend="latintype">Côte St_ André</hi>, einem Städtchen des
-                            <hi rend="latintype">Isère-Departements</hi> geb., wurde von seinem Vater einem ausgezeichneten Arzte nach
-                    Paris geschikt, die Medicin zu studiren; statt dessen widmet er sich nur der
-                    Musik, wesshalb ihm seine Eltern jegliche Unterstützung entziehen. Er muß sich
-                    kümmerlich sein Leben fristen<supplied>.</supplied> Als er zuerst mit seinen Compositionen in Paris
-                    auftrat, wurde vom groß. Theile der Zuhörer verlacht, für ein aller Schule u.
-                    Ästhetik baares Monstrum erklärt u. bemitleidet <hi rend="latintype">etc</hi>. Ein kleiner Theil staunte
-                    über die durchgängige Neuheit u. Kühnheit seiner Tonbilder, fühlte sich
-                    angezogen; aber auch verwirrt zugleich u. schwankte zwischen Genuß u. Mißfallen.
-                    Auf Wenige machte seine Musik eine eigentliche Kunstwirkung, unter denen war
-                    besonders einer der i<supplied>h</supplied>n wohl trösten konnte: <hi rend="latintype">Paganini</hi>.
-                    Dieser fühlte sich von des Franzosen Musik auf das Wunderbarste ergriffen u.
-                    schrieb ihm: "Da Beethoven todt ist, konnte ihn Berlioz allein wieder aufleben
-                    machen; ich habe ihre göttlichen Compositionen genossen, die eines Genius, wie des
-                    Ihrigen würdig ist," – u. schickte ihm als Geschenk – 20'000 <hi rend="latintype">Francs</hi>.</p></div><div n="1848-09-16"><head><date>1848-09-16</date>, Sonn<supplied>a</supplied>ab<supplied>en</supplied>d. 16</head><p>Unterricht bei <hi rend="latintype">Lübcke</hi>. Ich spielte d. Var. von <hi rend="latintype">David</hi> noch einmal dann spielten wir d. 2<hi rend="superscript">te</hi> Duett v. <hi rend="latintype">Krommer</hi>. Œ 20 in <hi rend="latintype">C</hi>, was aber nicht besonders gut. Ich hatte nicht viel daran geübt (es kamen doch einige schwierige Passage vor.) <hi rend="latintype">Lübcke</hi> gab mir <hi rend="latintype">Var. v. Hauser</hi> mit.</p><pb n="2r"/></div><div n="1848-09-19"><head><date>1848-09-19</date>, Dienstag</head><p>Wir spielten am Nachmittage bei uns <hi rend="latintype">Quartette</hi>, da Grahl wieder fehlte, ohne <hi rend="latintype">Viola</hi>. 1, <hi rend="latintype">Op</hi>. 16 v. <hi rend="latintype">A. Romberg</hi>, <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 3 ein sehr schönes Qt. darauf spielten wir 2, eine <hi rend="latintype">Beethoven’sche Sonate v. N. Galitzin</hi> als <hi rend="latintype">Quartt</hi> arrangt. welche nicht besonders gefiel. Zuletz<supplied>t</supplied> sp. wir 3, das 2<hi rend="superscript">te</hi><hi rend="latintype">Quartt</hi> aus der selben <hi rend="latintype">Romberg’schen</hi> Partie noch einmal.</p></div><div n="1848-09-23"><head><date>1848-09-23</date>, Sonnabend</head><p><hi rend="latintype">Lübcke</hi> war durch Kranksein verhindert, mit mir zu spielen.</p></div><div n="1848-09-24"><head><date>1848-09-24</date>, Sonntag</head><p>War ich mit Vater, Hörnemeier, Schöning, <unclear>Dokhorn</unclear>, Klosterm. u. Ed. Meuter nach <hi rend="latintype">Sülbeck</hi>, u. verdiente dort 2 rh 12 ngr.</p></div><div n="1848-09-25"><head><date>1848-09-25</date>, Montag</head><p>Der Instrumentenmacher <hi rend="latintype">Weber</hi> war hier in Bbg. Ich kaufte ihm die Violine, welche ich schon einige Monate im Hause gehabt u. darauf gespielt hatte, für <hi rend="underline" n="1">7 rh</hi> ab. Das Geld hatte ich mir selbst auf derselben Violine verdient.</p><p>Vater kaufte noch 3 <hi rend="latintype">G</hi> Saiten u. 1/2 Stock <hi rend="latintype">E</hi> Seiten; so daß uns die ganze Sache auf <hi rend="underline" n="1">8 rh 18 ngr</hi>. kam. H. Weber nahm den Bogen v. <hi rend="latintype">Gulomy</hi> mit um den Frosch anzustückeln und ihn zu behaaren</p></div><div n="1848-09-29"><head><date>1848-09-29</date>, Freitag</head><p><hi rend="latintype">Quartett</hi> (mit Grahl) <hi rend="latintype">A Romberg</hi> Œ. 16. <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 102 noch einmal, die erste <hi rend="latintype">Polonaise</hi> v. <hi rend="latintype">Rbg</hi>. "<hi rend="latintype">La jota aragonesa<supplied>"</supplied> v. St. Lubin</hi>, welche mir sehr gut gefiel u. <hi rend="latintype">Variationen</hi> v. <hi rend="latintype">Hauser</hi>.</p></div><div n="1848-09-30"><head><date>1848-09-30</date>, Sonnabend</head><p>Am Morgen hatte ich Stunde bei <hi rend="latintype">Lübcke</hi>, bei dem ich die Variationen v. <hi rend="latintype">Hauser</hi> spielte, die
-                            ihm sehr gut gefielen, an denen ich aber noch tüchtig zu üben habe. <hi rend="latintype">Lübcke</hi> sagte
-                            mir auch, ich sollte doch anfangen den <hi rend="latintype">Carnaval</hi> zu üben, den er mir schon seit
-                    längerer Zeit gegeben. – Gleich nach Mittag ging ich nach Sülbeck zum Erndtebier
-                    (überflüßig) wo ich bis zum andern Morgen um 6, 2 rh 15 ngr bekam.</p></div></div><pb n="3r"/><div type="diary_month"><head><lb/>Oktober 1848</head><div n="1848-10-03"><head><hi rend="underline" n="1"><hi rend="latintype">October</hi></hi>.</head><head><date>1848-10-03</date>, Dienstag</head><p>Wir sp. <hi rend="latintype">Quartette</hi> am Nachmittag um 3, nachdem ich am Morgen angefangen den <hi rend="latintype">Carnaval</hi> z. üben. <hi rend="latintype">A Romberg</hi><hi rend="latintype">Op</hi>. 16 <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 3, welches ganz gut und <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 1 v. <hi rend="latintype">Mozart</hi> in <hi rend="latintype">es</hi>, welches mich ganz entzückt. Wir nahmen uns vor, die <hi rend="latintype">Quartette</hi> v. <hi rend="latintype">Mozart</hi> recht fleißig z. sp.</p></div><div n="1848-10-05"><head><date>1848-10-05</date>, Donnerstag</head><p>Ich war im Conzerte des Violinisten <hi rend="latintype">Otto v. Königslöw</hi>, welcher die Elegie v. Ernst, "<hi rend="latintype">Souvenir de Haydn</hi>" v. <hi rend="latintype">Léonard</hi>, <hi rend="latintype">Mélancolie e le Carneval de Venise</hi> spielte. Sein Spiel gefiel mir im Ganzen sehr gut. (H <unclear>Brüll<!-- Krull?? --></unclear>? spielte einige Solos).</p></div><div n="1848-10-10"><head><date>1848-10-10</date>, Dienstag</head><p><hi rend="latintype">Quartett</hi>. Wir spielten <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 2 &amp; <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 3 v. <hi rend="latintype">N<hi rend="superscript">o </hi></hi>Mozart.</p></div><div n="1848-10-13"><head><date>1848-10-13</date>, Freitag</head><p><hi rend="latintype">Quartett</hi>. Wir spielten ein <hi rend="latintype">Quart</hi>. <hi rend="latintype">v. Jansa</hi> (welche Vater gestern Abend vom H. Konzertmstr <hi rend="latintype">Lübcke</hi> geholt) <hi rend="latintpye">N<hi rend="superscript">o</hi></hi> 1 in <hi rend="latintype">A</hi><hi rend="latintype">moll</hi>. darauf <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 3 <hi rend="latintype">v. Mozart</hi> in <hi rend="latintype">C dur</hi>, dann <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 1 v. Jansa noch einmal, dies <hi rend="latintype">Quartt</hi>. gefiel uns sehr; auch das <hi rend="latintype">p</hi>. <hi rend="latintype">Mozart</hi>, ein prächtiges <hi rend="latintype">Quartt</hi>., ging heute schon besser als am Dienstage.</p></div><div n="1848-10-14"><head><date>1848-10-14</date>, Sonnabend</head><p>Stunde bei <hi rend="latintype">Lübcke</hi>. ich spielte dort den Carneval (nicht alle Variationen) welcher ganz gut ging, dann d. Var. v. <hi rend="latintype">Hauser</hi> ziemlich gut. Dann spielten wir <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 3 <hi rend="latintype">p. Krommer</hi>. <hi rend="latintype">Lübcke</hi> gab mir eine andere Partie <hi rend="latintype">Krommersche Duos</hi> mit.</p></div><div n="1848-10-17"><head><date>1848-10-17</date>, Dienstag</head><p><hi rend="latintype">Quartt</hi>. Wir spielten 2 4<hi rend="superscript">ors</hi> v. Jansa <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 1. in <hi rend="latintype">A mol</hi>, <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 2 in <hi rend="latintype">D dur</hi> und 2 4<hi rend="superscript">ors</hi> v. <hi rend="latintype">Mozart </hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 4 in    u. <hi rend="latintype">N<hi rend="latintype">o</hi></hi> 1 in <hi rend="latintype">Es dur</hi>.</p></div><div n="1848-10-20"><head><date>1848-10-20</date>, Sbd.&#160;[recte: Freitag]</head><p><hi rend="latintype">Lübcke</hi> spielte mit mir den <hi rend="latintype">Karneval</hi> durch und zeigte mir mehres darin, was zu verändern sei. Dann spielten wir von den <hi rend="latintype">Duos</hi> v. <hi rend="latintype">Krommer </hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 1.</p></div><div n="1848-10-22"><head><date>1848-10-22</date>, Sonntag</head><p>Ich spiele auf dem Klubballe im deutschen Hause.</p></div><div n="1848-10-27"><head><date>1848-10-27</date>, Freitag</head><p>Am Nachmittage war Probe in d. Kirche woselbst eine <hi rend="latintype">Motette v. Rink</hi> u. eine <hi rend="latintype">v. Schicht</hi> probirt wurden. Nachher spielten wir <hi rend="latintype">Qaurtt</hi>. u. zwar das 3<hi rend="superscript">te</hi> v. <hi rend="latintype">Jansa</hi> in <hi rend="latintype">H moll</hi> u. <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 2 <hi rend="latintype">v. Mozart</hi> in <hi rend="latintype">A dur</hi>. Das 3<hi rend="superscript">t</hi><hi rend="latintype">Jansa’sche</hi> ist mehr Solo für die 1<hi rend="superscript">ste</hi><hi rend="latintype">Violine</hi>, als die beiden ersten; es ging ziemlich gut Darauf spielte ich die<hi rend="latintype"> Variat. v. Hause in E</hi>, welche Vater (nicht aber Grahl) sehr gut gefielen, und welche ich gleich noch einmal spielen mußte. Mir gefällt diese <hi rend="latintype">Pièce</hi>, auch ganz gut; obgleich es wohl bessre gibt.</p></div><!--[e.Anm.: ab hier noch ohne Auszeichnung und Korrektur]--><pb n="3v"/><div n="1848-10-28"><head><date>1848-10-28</date>, Sonnabend</head><p>Ich hatte am Morgen Unterricht bei Lübecke, bei dem ich die Var. von Hauser sp, mit
-                    welchen L. ganz gut zufriedn. Er sagte mir ich solle sie nur noch zuweilen
-                    wiederholen, damit Einiges noch mit mehr Leichtigkeit u. Sicherheit herauskäme.
-                    –&#160;Darauf spielten wir ein Duo p. Krommer, ein sehr nettes Duett, welches nicht
-                    ganz leicht war.</p></div><div n="1848-10-29"><head><date>1848-10-29</date>, Sonntag</head><p>Unsre Liedertafel sang am Nachmittag auf d. Kolonien, es ging ganz gut, wir waren alle so voll Freuden, daß wir dem H Professor Burchard ein Ständchen brachten.</p></div><div n="1848-10-31"><head><date>1848-10-31</date>, Dienstag</head><p>Die beiden Kantaten von Rink &amp; von Schicht wurden in der Kirche vor einem geringen Auditorium aufgeführt.</p></div></div><div type="diary_month"><head><lb/>November 1848</head><div n="1848-11-03"><head>November.</head><head><date>1848-11-03</date>, Freitag</head><p>Wir spielten bei uns am Nachmittage Quartett u. zwar das von Jansa No 1 in A moll (welches ganz gut ging u. v. Mozart, No 4 in D dur nachher spielte ich die Variat. von Haumann in C dur welche zum erstenmale nicht ganz gut, zum 2ten male aber weit beßer gingen – Abends um 6 kam unsre Liedertafel mit der Gymnasial Liedertafel zusammen, und die Vereinigung beider Liedertafeln, worüber schon länger unterhandelt war wurde beschloßen. Unser früherer Liedervater E Lellmann??, wurde wieder zum Liedervater gewählt u. ich zum Gesangmeister. Abends halb 9 brachte die verein.? Liedert. dem alten Kammerdiener Collmann zur Feier seines 88jährigen Geburtstages ein Ständchen, bei dem sich der erste Tenor, besonders beim letzten Liede: Singet dem Gesang zu Ehren" schlecht machte. (Erhal... in zu ... Aco. Stille, u. Singet dem Ges.)</p></div><pb n="4r"/><div n="1848-11-04"><head><date>1848-11-04</date>, Sonnabend</head><p>Ich spielte bei Lübecke die Variationen v. Haumann in C nachher ein Krommer’sches Duett (No 3 à vista.)</p></div><div n="1848-11-11"><head><date>1848-11-11</date>, Sonnabend</head><p>Unterricht bei Lübecke. Ich sp. die Mélancolie v. F Prume. und d. 2te Krommersche Duett, dann noch einen Satz vom 3t.</p></div><div n="1848-11-14"><head><date>1848-11-14</date>, Dienstag</head><p>Quartett. Mozart No. 6 in     und No. 1 in Es. Auch probirten wir die Mélancolie zwei mal.</p></div><div n="1848-11-17"><head><date>1848-11-17</date>, Freitag</head><p>Conzert im Rathhaussaale für die Wittwe Ritterbusch. Es wurden in demselben die? aufgeführt: die Ouverturen zu König von Yvetot u. zu Zampa; ein Finale aus den Lombarden von Werdi und mehre andre Sachen für Militärmusik. Ich spielte die Mélancolie (mit Quintett-Begleitung) welche gut gefiel. Der große Saal war überfüllt, <hi rend="strikethrough">und</hi> jedoch der Ton von meiner neuen Violine drang durch und gefiel. Außer mir blies noch H. Finhold ein. Auch sang d. Liederkranz.</p></div><div n="1848-11-18"><head><date>1848-11-18</date>, Sonnabend</head><p>Quartett. Frahl brachte einige Mozartsche Quartette (vom Prbt. Hartmann) mit, von denen wir das 1ste u. 2t spielten; beide Quartt. spielten wir 2 mal.</p></div><div n="1848-11-21"><head><date>1848-11-21</date>, Dienstag</head><p>Quartett. Jansa No 1 A moll. Dann spielten wir da Grahl Abhaltung bekommen hatte ein 4tt von Rode in Es, Variationen von Beriot Op 2, und Variat. von Lipinsky über ein Thema aus Cenerentola. Zuletzt spielten wir ein Allegro u. Menuett aus d. 6ten 4o v. Mozart. in </p></div><div n="1848-11-23"><head><date>1848-11-23</date>, Donnerstag</head><p>H. Eschmann, Vater u. ich spielten am Abend, um uns auf das 4o das beim H. Hofmarschall Stadt finden sollte einzuüben, das erste Quart. von L Jansa in A moll. Dann die Varit. von Beriot A. 2de in D. und die Mélancolie.</p></div><div n="1848-11-24"><head><date>1848-11-24</date>, Freitag</head><p>Quartt. Mozart No 3 in     (v. Hartmann.) und No 2 u. 3 von unsern Noten. Es ging heute im Ganzen schlecht. –</p></div><div n="1848-11-25"><head><date>1848-11-25</date>, Sonnabend</head><p>Unterricht bei H. Lübecke. Ich spielte die Vart. von Beriot. Op. 2, welche dem H Conzertmeister sehr gefielen und dann ein Duett von Viotti in A. Am Abende spielten wir bei bei uns Quartette (Rabloff, Eschm. Vat. u. ich) und zwar von Jansa No 1 A moll, welches mir sehr gut gefiel und auch gut ging. Wir spielten dieses 2 mal und </p><pb n="4v"/><p>dann das Quat. v. Mozart in Es dur. Am Sonn. den 11 Nov. <hi rend="strikethrough">gab</hi> lieh mir Lübecke ein Buch über Paganini in dem manche schöne Stellen fand und andre Beh.. Göthe:</p><lg><l>Je mehr als sich ein Künstler plagt,</l><l>Je mehr er sich zum Fleiße zwingt,</l><l>Um desto mehr es ihm gelingt.</l><l>Drum übe dich nur Tag für Tag,</l><l>Und du wirst sehn, was das vermag!</l><l>Dadurch wird jeder Zweck erreicht</l><l>Dadurch wird jedes Schwere leicht,</l><l>Und nach und nach kommt der Verstand</l><l>Unmittelbar dir in die Hand.</l></lg><p>La genie c'est la patience Buffoi??</p><p>Ferner sagt Göthe an einer andren Stelle:</p><lg><l>Dem glücklichsten Genie wird’s kaum einmal gelingen</l><l>Sich durch Natur und durch Instinkt allein</l><l>Zum Ungemeinen aufzuschwingen.</l><l>Die Kunst bleibt Kunst! Wer sie nicht durchgedacht,</l><l>Der darf sich keinen KÜnstler nennen;</l><l>Hier hilft das Tappen nicht: Eh man was Gutes macht,</l><l>Muß man es erst recht sicher können.</l></lg></div><div n="1848-11-28"><head><date>1848-11-28</date>, Dienstag</head><p>Quartett. A Romberg Oe. 16 No 1 F dur. Mozart No 2 D moll in dem uns die Menuett mit einem Trio in D dur ganz vorzüglich gefiel. A Romberg. No 2 in G moll. Dann spielte ich noch die Variationen von C de Bériot in D Op 2, welche mir sehr stark begleitet wurde.</p></div><div n="1848-11-29"><head><date>1848-11-29</date>, Mittwoch</head><p>Abends um 7 spielten wir (Radloff &amp; Eschmann) das 1ste Quartett von Jansa. Dann die Mélancolie und die Variationen v. Bériot Oe 2.</p></div><div n="1848-11-30"><head><date>1848-11-30</date>, Donnerstag</head><p>Es war wieder, nachdem in langer Zeit weder Conzerte noch Proben gewesen waren, eine Orchesterprobe auf d. Schloße, in welcher eine Ouverture und Scherzo &amp; Allo vivace (Finale) im Simphoniestyle von Schumann probirt wurde, welche ehrlich schlecht</p><pb n="5r"/><p>ging. Dann wurde eine Ouverture v. Lindpaintner probirt, welche weit beßer ging und sehr gut gefiel; während über das Schmannsche von den Schmidts und ihren Anhängern furchtbar raisonnirt wurde. –&#160;Am Abend war Soirée beim H. Hofmarschall v. Marthille. In welcher zuerst von Radloff, Eschm. Vater u. mir das erste Quartett v. Jansa in A moll gespielt wurde. Es gefiel sehr gut, es kannt auch niemand aus der Gesellschaft weder dieses Quartett, noch den Componisten. Das Quartt ging <hi rend="strikethrough">auch sehr gut u.</hi> bis auf das Finale noch in welchem Radloff aus dem Tacte zu kommen drohte, <hi rend="strikethrough">ging es</hi> wirklich vorzüglich; besonders da wir nur erst zweimal zusammen gespielt hatten.</p><p>Nach Beendigung des Quartett’s wurden einige Lieder gesungen, unter denen mir besonders eines von H Dr Legermann gesungenes sehr gefiel. Dann spielte ich die Mélancolie v. Prume auf meiner alten Violine. <hi rend="strikethrough">Sie ging sehr gut.</hi> Ich spielte sehr glücklich und diese Piece gefiel sehr. Dann wurden wieder einige Lieder gesungen u. nachher spielte ich d. Var. v. Bériot Oe. 2 in D, in welchen meine neue Violine sehr brillirte. Langerfeld rieht mir doch ja immer auf dieser Violine zu spielen. Dies Var. gefielen sehr gut und man meinte wunder, was es wäre. Es ist freilich eine ganz niedliche Pièce, Schwierigkeiten sind aber nicht darin. –&#160;Man freute sich allgemein, daß einmal wieder Musik u. einer sagte, dieser Zustand könne ja noch mehrere Jahre dauren; solle man denn nun die ganze Zeit hindurch ohne Musik bleiben.</p></div></div><pb n="5v"/><div type="diary_month"><head><lb/>Dezember 1848</head><div n="1848-12-02"><head><date>1848-12-02</date>, Sonnabend</head><p>Unterricht beim H. Conzertmeister Lübecke, bei dem ich die Variatt. über ein Thema aus Cenerentola von Lipinsky spielte.</p></div><div n="1848-12-05"><head><date>1848-12-05</date>, Dienstag</head><p>Quartett. 2 kleine 4tte von J. Haydn das erste in B, das 2te in Es dur, Jedes Quartt. enthielt kleine kurze Sätze und 2 Menuetts. Wahrscheinlich sind dieses die ersten Haydn’schen Quartette. dann 2tes Quartt. von Jansa in D dur und das 2te Mozart’sche in D moll.</p></div><div n="1848-12-07"><head><date>1848-12-07</date>, Donnerstag</head><p>Orchesterprobe. Es wurde wieder die Symphonie von Schumann probirt. dann die Ouvertüre zur Oper: <!-- offen --><space/> von Lindpaintner welche mir sehr gut gefiel und zuletzt eine Ouvertüre von Marcardante über Motive aus dem Stabat mater von Rossini, welche mir ebenfalls außerordentlich gefiel. (Ich brachte eine Partie Onslowsche Quartett. mit.)</p></div><div n="1848-12-08"><head><date>1848-12-08</date>, Freitag</head><p>Quartt. Wir sp. das 4te Quartt. von Onslow in Es, welches mir sehr künstlich durchgearbeitete aber keineswegs Gesangreiche Musik ist. Dann sp. wir das 2te Jansasche in D u. zuletzt die Var. von Lipinsky (Cenerentola) welche mir sehr schlecht begleitet wurden. </p></div><div n="1848-12-09"><head><date>1848-12-09</date>, Sonnabend</head><p>Unterricht beim H. Concermstr Lübekce, bei dem ich die Var. über die Cenerentola v.
-                    Lipinsky spielte. Sie gingen weit beßer als am vorigen Abende und Lübecke gab
-                    mir 2 neuen Solostücke die er von Hannover geschickt bekommen mit. (La Cascade
-                    par Apoll. de Kontski &amp; Fantasie par Li-<pb n="6r"/>pinski. Am Nachmittage
-                    gab mir H Dr. Meier ein neues Artt. von Goedecke, um es einmal anzusehen.</p></div><div n="1848-12-12"><head><date>1848-12-12</date>, Dienstag</head><p>Quartett. Goedecke (Pastor in Detmold) Quartett in A moll. <hi rend="strikethrough">Kromm</hi> Onslow 4tes Quartt. in Es, welches ich sehr schlecht spielte. 1stes Quartt v. Jansa a moll ging sehr gut.</p></div><div n="1848-12-13"><head><date>1848-12-13</date>, Mittwoch</head><p>Wir spielten am Abend bei uns Quartt. (Radlf. Eschmann, Vater ud. ich) v. Goedecke Quartt. in A welches heut weit beßer als gestern ging und das 2te Quartt. v. Jansa in D welches sehr gefiel.</p></div><div n="1848-12-14"><head><date>1848-12-14</date>, Donnerstag</head><p>Orchesterprobe. Es wurde eine neue Ouvert. von Kalliwoda und eine von Litolff, dann noch die schon früher probirte Ouvert. von Lindpaintner.</p></div><div n="1848-12-16"><head><date>1848-12-16</date>, Sonnabend</head><p>Unterricht beim H C. Lübecke, dem ich die neuen Fanta von Lipinsky / Über Themas aus d. Oper Ernandi de Verdi) vorspielte. Sie ist, wie alle, mir von Lipinsky bekannten Sachen, <hi rend="strikethrough">eine</hi> ausgezeichnet gut. Dann spielte ich die Cascade von Kontsky (eine Caprice für den Tremolo-Strich.) Lübekce gab mir ein neues (das 6te) Conzert von Mollique welches er ebenfalls geschikt bekommen hatte.</p></div><div n="1848-12-21"><head><date>1848-12-21</date>, Donnerstag</head><p>Probe. Es wurde die 4te Symphonie von Onslow (neu) jedoch nur vom Streichquartette probirt.</p></div><div n="1848-12-23"><head><date>1848-12-23</date>, Sonnabend</head><p>Untercht. beim H ConzMstr. Lübecke, welchem ich das erste Allo von dem neuen Conzerte von Molique das sehr schwer u. eine sehr gute Übung für mich zu spielen ist, sich aber wohl nicht besonders zum öffentlichen Spiel paßen wird. Dann spielte ich die Fantasie von Lipinsky und zuletzt nahm Lbcke noch mit mir einige Stellen von der, vergangenen Donnerstag probirten Symphonie von Onslow, durch, <hi rend="strikethrough">welche</hi> von der er mir die erste Violin Stimme auch noch mit gab.</p></div></div><pb n="6v"/><!-- leer --><pb n="7r"/></div><div type="diary_year"><div type="diary_month"><head type="main">1849</head><head>Januar 1849</head><div n="1849-01-01"><head>Januar. 1849.</head><head><date>1849-01-01</date>, Montag</head><p>Ich spielte auf dem Bürgerballe mit H Schulze 1mo??</p></div><div n="1849-01-04"><head><date>1849-01-04</date>, Donnerstag</head><p>Orchesterprobe 4te Symphonie v. Onslow. Zschoke.</p></div><div n="1849-01-05"><head><date>1849-01-05</date>, Freitag</head><p>Ich fuhr am Mittage nach Minden u. kaufte mir von Stümpel einen Bogen für 2 rh. Am Abende war Conzert auf der Resourse, in dem die 2te Symphonie v. Beethoven und die Wüste v. David (zum ersten Male) aufgeführt wurde.</p></div><div n="1849-01-06"><head><date>1849-01-06</date>, Sonnabend</head><p>Unterricht beim H. Conzertmster Lübecke, dem ich die Variationen v. Lipinsky vorspielte Abends spielten wir mit Theodor Langerfeldt ein Quartett v. Leon de Call darauf die Variationen v. Lipinsky.</p></div><div n="1849-01-09"><head><date>1849-01-09</date>, Dienstag</head><p>Quartett. von Onslow das 5te in F. u. v. Mozart in Es.</p></div><div n="1849-01-12"><head><date>1849-01-12</date>, Freitag</head><p>Quartett. Wir sp. das 6te von Onslow in D., das 2te von Mozart und das 2te von Jansa in D dur.</p></div><div n="1849-01-13"><head><date>1849-01-13</date>, Sonnabend</head><p>Conzertmeister Lübecke das 6te Conzert von Spohr.</p></div><div n="1849-01-18"><head><date>1849-01-18</date>, Donnerstag</head><p>Concert auf dem Schloße; nach dem seit einem Jahr kein Conzert dort gewesen war. Es wurde die 2te Symphonie von Beethoven in D und die Ouverture zur Oper Lichtenstein (z. ersten Male) von Lindpaintner aufgeführt. J. Schmidt spielte sein 1stes Concertino u. Vater blies Variationen von Berr.</p></div><div n="1849-01-21"><head><date>1849-01-21</date>, Sonntag</head><p>Club-concert, in welchem verschiedene Bruchstücke aus Oratorien aufgeführt wurde, Victor Schmidt eine Polonaise von Mayseder spielte u. Finhold? nebst seiner Frau sich hören ließen.</p></div><div n="1849-01-23"><head><date>1849-01-23</date>, Dienstag</head><p>Concert des H Radloff auf dem Rathhause, in dem die Ouverturen zur Zauberflöte v. Mozart &amp; zu Faust v. Lindpaintner aufgeführt wurden. Victor Schmidt spielte eine Polonaise von Mayseder u. s. w.</p></div><div n="1849-01-25"><head><date>1849-01-25</date>, Donnerstag</head><p>Concert auf dem Schloße. 4te Symphonie von Onslow, Ouverture zu Faniska von Cherubini, Concertino von Fuchs vorgetragen u. H Finhold und Variationen von Lipinsky (Cenerentola.)</p></div><div n="1849-01-26"><head><date>1849-01-26</date>, Freitag</head><p>Quartett. Wir spielten das 4te von Mozart, das 4te von Onslow und das 1ste von Hummel.</p></div><div n="1849-01-27"><head><date>1849-01-27</date>, Sonnabend</head><p>Beim H Conzertmeister Lübecke spielte ich das erste Allo von dem 6ten Sporschen Conzerte.</p></div><div n="1849-01-28"><head><date>1849-01-28</date>, Sonntag</head><p>Am Nachmittage ließ mich der H Hofmarschall von Martville zu sich rufen und gab mir eine Louis d’or vom Fürsten. und eine von ihm eigenhändig geschriebene Suplik an S. Durchlaucht.</p></div><div n="1849-01-29"><head><date>1849-01-29</date>, Montag</head><p>Am Morgen ging ich zum Fürsten, welcher mir sagte, daß ich die Riepienist-Zulage von Jährlich 36 rh bekommen sollte und für mich eine von seinen Violinen suchen laßen wolle.</p></div><div n="1849-01-30"><head><date>1849-01-30</date>, Dienstag</head><p>Quartett</p></div></div><div type="diary_month"><head><lb/>Februar 1849</head><div n="1849-02-01"><head>Februar</head><head><date>1849-02-01</date>, Donnerstag</head><p>3tes Concert auf dem Schloße. Symphonie militaire von Haydn, Ouverture von Böhner. Zschocke spielte einen Blumenkranz auf dem Violoncello. Madame Finhold sang einige mal und begleitete H Finhold eine Piece für Cornet.</p></div><div n="1849-02-03"><head><date>1849-02-03</date>, Sonnabend</head><p>Abendunterhaltung des Liederkranzes auf d. Rathhause. Ouverture v. Hamm, Ouverture z. d. Freischütz von C. M. v. Weber. Außer mehren Chor- und Sologesängen <pb n="7r"/> spielte H. Schulze &amp; Sohn ein Duett für 2 Flöten, Luise und Anna Becker Variationen von Herz und ich die Lipinsky’sche Cenerentola, welche hier gut ging. Nach dem Conzerte war ein Ball.</p></div></div><div type="diary_month"><head><lb/>August 1849</head><div n="1849-08-15"><head><date>1849-08-15</date></head><head>August 1849   Cassel</head><p>Mittw. 15</p><p>Morgens um 10 Uhr kam ich in <hi rend="latintype">Cassel</hi> an und ging mit H. <hi rend="latintype">Schultz</hi> Nachmittags um 3 Uhr zu <hi rend="latintype">Spohr</hi>, der mich am andern Morgen spielen hören wollte.</p></div><div n="1849-08-16"><head><date>1849-08-16</date></head><p>Donnst. 16</p><p>Ging ich M. um 8 zum Kapellmeister und spielte ihm die <hi rend="latintype">Lipinsky</hi>’schen Variationen über d. Thema aus <hi rend="latintype">Cenerentola</hi> vor. Er sagte mir, daß ich viele Mühe angewandt hätte, einzelne Schwierigkeiten zu lernen, dafür aber manches Wesentliche vernachlässigte, was ich jetzt nachholen müßte. Er setzte mir Dienstags u. Sonnabends eine Stunde fest u. brachte mich am Abend ins Theater, in dem ich ein Schauspiel "Fluch und Segen" u. ein Lustspiel u. dazwischen ein Ballet sah.</p></div><div n="1849-08-17"><head><date>1849-08-17</date></head><p>Ich ging des Morgens mit H. <hi rend="latintype">Schultz</hi> zum
-                    Instrumentenmacher <hi rend="latintype">Schonger</hi>, um einen Teller zu der
-                        <hi rend="latintype">Guarneri</hi> zu bestellen; dann nach dem Postbürau u.
-                    darauf noch einem Puzzarbeiter der mich einen Puzzkasten machen wollte. Es
-                    regnete den Morgen ziemlich stark, als es gegen 11 etwas aufgehört hatte, zog
-                    ich mit meiner Violine (der Koffer <hi rend="latintype">etc.</hi> war schon am
-                    Abend vorher hingetragen) in meine Wohnung nach d. [...] fensterstraße. Hier aß
-                    ich zu Mittag u. übte am Nachmittag aus der <hi rend="latintype">Spohr</hi>'schen Schule.</p></div><div n="1849-08-18"><head><date>1849-08-18</date></head><p>Sonn.<supplied>abend</supplied> 18</p><p>Am Morgen tüchtig geübt, Nachmittags um 3 hatte ich die 1<hi rend="sup">ste</hi> Violinstunde beim H Kapellmeister, in der <pb n="9r"/>ich die 6 <hi rend="latintype">Etuden</hi><del rend="strike-through">au</del> der 2<hi rend="sup">ten</hi> und 3<hi rend="sup">ten</hi><hi rend="latintype">Position</hi><del rend="strike-through">üb</del> spielte, mit welchen <hi rend="latintype">Spohr</hi> zufrieden war, ausgenommen die Intonation. Ich sp. d. die die <hi rend="latintype">Guarneri</hi> noch beim <hi rend="latintype">Schonger</hi> vor, auf meiner Amati und intonirte ihm immer zu hoch. Am Abend war ich im Theater und hörte <hi rend="latintype"><hi rend="underline" n="1">Norma</hi></hi>.</p></div><div n="1849-08-19"><head><date>1849-08-19</date></head><p>Sonntg 19</p><p>Morgens schrieb ich einen Brief an meine Eltern u. hörte in der lutherischen Kirche den Pastor Meier predigen. Nachmittag ging ich zu <hi rend="latintype">Schonger</hi> <!-- Joseph Schonger, Geigenbauer -->darauf übte ich in der Sporschen Schule, wurde aber von Schulz nach dem Theater abgerufen, in dem die Musiker von d. Garde, da großer Zapfenstreich war, nicht mitspielen konnten. So war denn für mich ein Platz leer u. ich spiele zum erstenmale hier im Orchester mit. Es wurde das Trauerspiel <hi rend="latintype">Othello</hi> gegeben u. in den Zwischenakten einige Stücke von <hi rend="latintype">Kummer</hi> und <hi rend="latintype">Lindpaintner</hi> unter <hi rend="latintype">Botts</hi> Leitung gespielt.</p></div><div n="1849-08-20"><head><date>1849-08-20</date></head><p>Mont 20</p><p>Am Morgen übte ich u. holte am Nachmittag d. <hi rend="latintype">Guarneri</hi> wieder von <hi rend="latintype">Schonger</hi> kaufte mir auch gleich eine <hi rend="latintype">G</hi> und zwei <hi rend="latintype">E</hi> Saiten. Am Abend hörte ich das <hi rend="latintype">Diamantkreuz</hi> von <hi rend="latintype">Salomann</hi> zum ersten Male zum Geburtstag des Kurfürsten gegeben.</p></div><div n="1849-08-21"><head><date>1849-08-21</date></head><p>Diestg 21</p><p>Morgens auf der <hi rend="latintype">Guarneri</hi> geübt Nachmittag die 2<hi rend="sup">te</hi> Stunde bei <hi rend="latintype">Spohr</hi> in der er weit besser mit der Intonation zufrieden war. Ich spielte von 38 bis 46. Am Abend Theater amüsirte ich mich sehr an d. Lustspiel <hi rend="latintype">Peter im Frack</hi>.</p><pb n="9v"/></div><pb n="9v"/><div n="1849-08-22"><head><date>1849-08-22</date></head><p>Mittw. 22</p><p>Am Morgen übte ich und ging am Nachmittage in die Probe zu "Der Gott und die Bayadere" von <hi rend="latintype">Auber</hi></p><p>Nach der Probe badete ich in der Fulda mit <hi rend="latintype">Zeiss</hi>.</p></div><div n="1849-08-23"><head><date>1849-08-23</date></head><p>Donnerst. 23</p><p>Am Morgen übte ich aus Spohr's Schule, am Nachmittage aus der Orchesterstimme zur Bayadere. Abends wurde diese Oper aber nicht gegeben, da plötzlich einer der Sänger erkrankt war. Ich blieb, da ichs erst im Theater erfuhr dort u. sah ein Lustspiel und d. Liederspiel "Das Fest der Handwerker."</p></div><div n="1849-08-24"><head><date>1849-08-24</date></head><p>Freitg 24</p><p>Am Morgen übte ich aus Sp. Schule No. 47, 48 &amp; 49</p><p>Am Abende sah ich den 2ten Akt der Regimentstochter von Donizetti.</p></div><div n="1849-08-25"><head><date>1849-08-25</date></head><p>Sonnb. 25.</p><p>Am Morgen übte ich u. darauf um 11 die 3<hi rend="sup">te</hi> Stunde beim Kapellmeister. Nachmittags um 3 war ich in der Probe zum Diamantkreuz von <hi rend="latintype">Salomann</hi> Am Abend übte ich die Stimmen zum Diamantkrz.</p><pb n="10r"/></div><div n="1849-08-26"><head><date>1849-08-26</date></head><p>Sonntg 26</p><p>Am Morgen um halb 9 ging ich nachdem ich ein wenig geübt in die Probe zu Faust von Lindpaintner und zum schwarzen Domino von Auber. Nach Mittag ging ich mit Schultzen nach Wagner’s Garten und am Abend spielte ich die Oper "Der schwarze Domino" v. Auber mit.</p></div><div n="1849-08-27"><head><date>1849-08-27</date></head><p>Montg 27</p><p>Nachdem ich am Morgen zwei Stunden aus Spohr’s Vschle geübt ging ich um 10 in die Probe zu Jessonda bis halb 1 Nachmittags und Abends übte ich wieder.</p></div><pb n="10r"/><div n="1849-08-28"><head><date>1849-08-28</date></head><p>Diest. 28</p><p>In <sic>Spor's</sic> Schule geübt. Nachmittag keine Stunde beim Herrn Kapellmeister, (Göthefeier). Am Abend spielte ich in Göthes Faust mit (<hi rend="latintype">Entreacts v. Lindpaintner</hi>.)</p></div><div n="1849-08-29"><head><date>1849-08-29</date></head><p>Mittw 29</p><p>Am Abend <hi rend="latintype">Jessonda</hi> gehört. Von allen Opern, die ich bis jetzt hier gehört habe, gefällt mir diese am besten.</p></div><div n="1849-08-30"><head><date>1849-08-30</date></head><p>Donnstg 30</p><p>Aus Spohr’s Schule geübt. Brief von meinen Eltern und von Adolph <unclear>Haspe</unclear> bekommen.</p></div><div n="1849-08-31"><head><date>1849-08-31</date></head><p>Frtg 31</p><p>In der Oper "Der Gott u. die Bayadere" mitgespielt</p></div></div><div type="diary_month"><head><lb/>September 1849</head><div n="1849-09-01"><head><date>1849-09-01</date></head><head><hi rend="latintype">September</hi>.</head><p>Sonnab. 1.</p><p>Am Morgen geübt und die Probe zu <hi rend="latintype">Fra Diavolo</hi> mitgemacht, Nachmittags hatte ich die 4<hi rend="sup">te</hi> Stunde beim Herrn Kapellmeister. Er war mit der Intonation etwas besser zufrieden als die vorigen Stunden.</p></div><div n="1849-09-02"><head><date>1849-09-02</date></head><p>Sonntg 2</p><p>Am Morgen schrieb ich einen Brief an P. Adelheid u. beendigte d. Brief an meine Eltern. Nachmittags ging ich mit Schulzens spazieren und spielte am Abend in der Oper Fra Diavolo 2te Violine mit.</p></div><div n="1849-09-03"><head><date>1849-09-03</date></head><p>Montag 3</p><p>Heute Mittag von 12 bis 1 hatte ich zum ersten Mal bei Herrn Kraushaar Generalbaßunterricht</p></div><div n="1849-09-04"><head><date>1849-09-04</date></head><p>Diestg 4</p><p>5<hi rend="sup">te</hi> Stunde bei Herrn Kapellmeister. Am Abend Nachtwandlerin v. <hi rend="latintype">Bellini</hi> mitgespielt.</p><pb n="10v"/></div><pb n="10v"/><div n="1849-09-06"><head><date>1849-09-06</date></head><p>Donnstg 6</p><p>2<hi rend="sup">te</hi> Stunde bei Herrn <hi rend="latintype">Kraushaar</hi>.</p></div><div n="1849-09-08"><head><date>1849-09-08</date></head><p>Sonnb. 8</p><p>6<hi rend="sup">te</hi> Stunde bei H <hi rend="latintype">Spohr</hi>, der heute <del rend="strike-through">zufrie</del> mit meinem Spiel zufrieden war.</p></div><div n="1849-09-09"><head><date>1849-09-09</date></head><p>Sonntg 9</p><p>Heute Nachmittag machte ich mit <unclear>Hüni</unclear>, einem Schüler von <hi rend="latintype">Spohr</hi> einen Spaziergang nach Wilhelmshöhe, wo mir die herrlichen Wasserkünste und das schöne Schloß sehr gefielen. Am Abend hörte ich <hi rend="latintype">Oberon</hi> von <hi rend="latintype">C. M. v. Weber</hi>.</p></div><div n="1849-09-10"><head><date>1849-09-10</date></head><p>Montg 10</p><p>3te Stunde bei Kraushaar, <hi rend="strike-through">die Ersten Ar</hi> der mir heute zum ersten Male einige Beispiele auszuarbeiten aufgabe.</p></div><div n="1849-09-11"><head><date>1849-09-11</date></head><p>Diestg 11</p><p>7te Stunde bei H Dr Spohr.</p></div><div n="1849-09-13"><head><date>1849-09-13</date></head><p>Donnst 13</p><p>4te Stunde bei h Kraushaar, der mit meinen Ausarbeitungen sehr zufrieden war und mir neue Aufgaben dictirte.</p></div><div n="1849-09-15"><head><date>1849-09-15</date></head><p>Sonnbd. 15</p><p>8te Violinstunde der H. K. Spohr war im Ganzen zufrieden. Am Abend hörte ich die herrliche Oper "die Entführung" von Mozart.</p></div><div n="1849-09-16"><head><date>1849-09-16</date></head><p>Sonntg. 16</p><p>Der arthesische Brunnen, den ich heute Abend zum 1sten Male sah amüsirte mich sehr.</p></div><div n="1849-09-20"><head><date>1849-09-20</date></head><p>Sonnbd. [recte: Do] 20</p><p>10<hi rend="sup">t</hi> Stunde bei Herrn Kapellmeister <hi rend="latintype">Spohr</hi>. der mit den Variationen, die ich ihm ganz vorspielte zufrieden war und das 7<hi rend="sup">te</hi> Conzert von <hi rend="latintype">Rode</hi> mit mir vornahm.</p></div><pb n="11r"/><div n="1849-09-23"><head><date>1849-09-23</date></head><p>Sonntg 23</p><p>Im <hi rend="latintype">Freischütz</hi> mitgespielt, welcher im Ganzen nicht gut ging. Herr <hi rend="latintype"><unclear>Veriag</unclear></hi> sang die Partie des Kaspar.</p></div><div n="1849-09-26"><head><date>1849-09-26</date></head><p>Mitt 26</p><p>Karl Schultz kam heute Morgen von Bückeburg hier an u. brachte mir 2 Spohr’sche Conzerte aus d. Bbgr Kapelle mit.</p></div></div><div type="diary_month"><head><lb/>Oktober 1849</head><div n="1849-10-02"><head><date>1849-10-02</date></head><head>October.</head><p>Diestg 2</p><p>Heute Morgen wurde ein <hi rend="latintype">Sextett</hi> u. ein Quartett von <hi rend="latintype">Spohr</hi> im Theater probirt, zu denen ich 2<hi rend="sup">te</hi> Geige spielte. Das Quartett ging von meiner Seite sehr schlecht. Nachmittags in der Stunde spielte es der Herr Kapellmeister noch einmal mit mir durch. Am Abend war Quartettsoirée bei Herrn Kapellmeister in der zuerst ein <hi rend="latintype">Beethoven</hi>'sches Quartett vorgetragen wurde von: <hi rend="latintype">Bott, Spohr, Jacobi</hi> u. <hi rend="latintype">Knoop</hi>. Darauf spielte <hi rend="latintype">Spohr</hi> sein 31<hi rend="sup">stes</hi> Quartett zu der ich die 2<hi rend="sup">te</hi> Violinstimme nicht gut spielte. Zum Schluß wurde ein sehr schönes <hi rend="latintype">Sextett</hi> von <hi rend="latintype">Spohr</hi> gespielt, welches sehr gut ging.</p><pb n="11v"/></div><div n="1849-10-03"><head><date>1849-10-03</date></head><p>Mitt 3</p><p>Ich spielte heute Abend zum ersten Male mit H Hilf?? Quartette, von Mozart, Haydn u. Beethoven <!-- durch zahlen 1 und 2 Reihenfolge Mozart und Haydn vertauscht -->, die mir sehr gut gefielen. Aeolsharfe</p><pb n="11v"/><div n="1849-10-04"><head><date>1849-10-04</date></head><p>Donnstg 4</p><p>Maurer und Schlosser von Auber mitgspt.</p></div><div n="1849-10-09"><head><date>1849-10-09</date></head><p>Dienstg 9</p><p>Die Ballnacht von Auber mitgespielt.</p></div><div n="1849-10-15"><head><date>1849-10-15</date></head><!-- Datum unklar!! --><p>Sonnab. 15?</p><p>Der Herr Kapellmeister war heute, in der 13<hi rend="sup">ten</hi> Stunde, die ich bei ihm hatte mit dem <hi rend="latintype">Rode'schen Conzerte</hi>, das ich ihm ganz vorspielte zufrieden u. nahm das 9<hi rend="sup">te</hi> Conzert von seiner Composition mit mir durch. Es ist bedeutend schwieriger als d. <hi rend="latintype">Rode</hi>'sche, <del rend="strike-through">und</del> es macht mir aber schon jetzt viel Vergnügen zu üben, da es sehr schön zu sein scheint.</p></div><div n="1849-10-11"><head><date>1849-10-11</date></head><p>Donnerstag 11</p><p>12<hi rend="sup">te</hi> Stunde bei Herrn <hi rend="latintype">Kraushaar</hi> Ich bekam heute zu erste Bässe ohn Bezeichnung der Grundaccorde auszuarbeiten. Bei meinen früheren <del rend="strike-through">beurteilten</del> Aufgaben, waren die Grundaccorde u. d. Bezifferung stets bemerkt.</p></div><div n="1849-10-14"><head><date>1849-10-14</date></head><p>Sonntg 14</p><p>Die Oper Martha von Flotow mitgespielt.</p></div><div n="1849-10-18"><head><date>1849-10-18</date></head><p>Donnstg 18</p><p>Heute Abend hörte ich die <hi rend="strike-through">schöne Oper</hi> "die Entführung" v. Mozart zum eten Male. Jedesmal wenn ich diese wundervolle Oper höre, gefällt sie mir besser.</p></div><div n="1849-10-23"><head><date>1849-10-23</date></head><p>Dienstg 23</p><p>Aloise von Maurer</p></div><pb n="12r"/><div n="1849-10-25"><head><date>1849-10-25</date></head><p>Donnstg 24</p><p>16<hi rend="sup">te</hi> Stunde bei Herrn <hi rend="latintype">Kraushaar</hi>, der mir heute einige <hi rend="latintype">Choralmelodien</hi> zu harmonisiren aufgab.</p></div><div n="1849-10-27"><head><date>1849-10-27</date></head><p>Sonnab. 27</p><p>Ferdinand Cortez von Spontini mitgespielt</p></div><div n="1849-10-31"><head><date>1849-10-31</date></head><p>Mittw 31</p><p>Figaros Hochzeit von Mozart.</p></div></div><div type="diary_month"><head><lb/>November 1849</head><div n="1849-11-04"><head><date>1849-11-04</date></head><head>November</head><p>Sonntag 4</p><p>Heute morgen in der 19<hi rend="sup">ten</hi> Stunde, die ich beim Herrn Capellmeister hatte spielte ich ihm sein 9<hi rend="sup">tes</hi> Conzert ganz vor. Ich hatte viel daran geübt so daß <hi rend="latintype">Spohr</hi> zufrieden war und die Gesangscene (sein 8<hi rend="sup">tes</hi> Conzert) mit mir anfing. Am Abend spielte ich in der Oper "Das Diamantkreuz" von <hi rend="latintype">Solomann</hi> mit; die Oper ging heute nicht gut und fand wenig Beifall.</p></div><div n="1849-11-10"><head><date>1849-11-10</date></head><p>Sonnbd 10</p><p>In "Adlers Horst" von Glaeser mitgespielt.</p></div></div><div n="1849-11-13"><head><date>1849-11-13</date></head><p>Dienstg 13</p><p>Heute hatte ich bei Herrn <hi rend="latintype">Kraushaar</hi> die 20<hi rend="sup">te</hi> Generalbaßstunde, in der er mit mir die <hi rend="latintype">Modulationen</hi> anfing, nebenbei muß ich noch immer Choralmelodien harmonisiren. Welches für mich eine sehr gute Übung ist und mir auch viele Freude macht. Es wird mir jetzt schon leichter als im Anfang.</p></div><div n="1849-11-15"><head><date>1849-11-15</date></head><p>Donnstg 15</p><p>Martha v. Flotow zum 2ten Male</p></div><div n="1849-11-22"><head><date>1849-11-22</date></head><p>Donnstg 22</p><p>Heute spielte ich in d. 24<hi rend="sup">sten</hi> Stunde beim H Kapellmeister das schöne 8<hi rend="sup">te</hi> Conzert ganz, <pb n="12v"/> zu seiner Zufriedenheit, worauf er sein 1<hi rend="sup">stes</hi> Concertino in <hi rend="latintype">A</hi> mit mir vornahm.</p></div><div n="1849-11-24"><head><date>1849-11-24</date></head><p>Sonnbd 24</p><p>Heute Abend hatte ich das Vergnügen in <hi rend="latintype">Spohr's</hi> herrlicher Oper <hi rend="latintype">Jessonda</hi> mitzuspielen.</p></div><div n="1849-11-27"><head><date>1849-11-27</date></head><p>Diest 27.</p><p>Die Ballnacht v. Auber zum 2ten Male gehört.</p></div></div><div><head>December.</head></div></div><pb/><div><p>[...]</p></div>
+<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Louis Bargheer, Tagebuchnotizen 27. August 1848 bis November 1849 [lückenhaft]</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>D</country>
+                        <settlement>Detmold</settlement>
+                        <repository n="D-DT">Lippische Landesbibliothek</repository>
+                        <idno>Mus-h 1 B 36</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>24 Seiten, am Ende mehrere Bl. herausgerissen</p>
+                        <p>Zeitraum: 27. August 1848 bis Februar 1849 in Bückeburg; Sprung vom 22. Februar (S. 8) auf den 15. August 1849 in Kassel</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-12</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-10-02" who="JV">bis 1848-10-27 ausgezeichnet</change>
+            <change when="2013-04-25" who="JV">bis 1848-09-09 ausgezeichnet</change>
+            <change when="2012-12-07" who="JV">Anfang bis Beginn 1848-08-30 ausgezeichnet (reine Textauszeichnung, noch ohne Personen und Werke)</change>
+            <change when="2012-11-25" who="JV">Die aktuelle Fassung einkopiert; ist ab sofort nur noch hier zu ändern!</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Achtung: neuere Einträge noch ohne Auszeichnung -->
+            <div type="diary_year">
+                <head type="main">Carl Louis Bargheer, Tagebuchnotizen <lb/>27. August 1848 bis November 1849</head>
+                <div type="diary_month">
+                    <head>August 1848.</head>
+                    <div n="1848-08-27">
+                        <head><date>1848-08-27</date>, Sonntag</head>
+                        <p>ich spielte für <persName>Witting</persName> in Eilsen. Im Saale wurden dort gespielt: 1. <hi rend="latintype">Ouverture</hi> zu <hi rend="latintype">Zampa v. Herold</hi>; sie ging ziemlich gut, die Stimmung der Instrumente gegen einander war nicht rein.<lb/>2. <hi
+                                rend="latintype">Cäcilien Walzer v. <persName>Strauss</persName></hi>, ging sehr gut und gefiel allgem. <lb/>3. <hi rend="latintype">Hiazinten Polka v. <persName>Labitzky</persName></hi> gut. 4. <hi rend="latintype">Gnaden Galopp</hi> u. <lb/>5. [offen] <hi
+                                rend="latintype">v. <persName>Kückenmeister</persName></hi> gt. – . . . . . .</p>
+                        <p>Auf dem Balkon wurde gespielt: 1. <hi rend="latintype">Ouverture</hi> zu <hi rend="latintype">Norma</hi> gt. 2. <hi rend="latintype">Lichtensteiner</hi> Walzer v. <persName>Labitzky</persName> gt. 3. <hi rend="latintype">Studentenpolka v. <persName>Lumlie</persName></hi>
+                            4. 3<hi rend="superscript">te</hi> Concertouvertüre von <hi rend="latintype"><persName>Kalliwoda</persName></hi> recht gut u. 5. <hi rend="latintype">Ouverture</hi> v. <hi rend="latintype"><persName>Paer</persName></hi> beide Ouvert. wurden zum 2<hi rend="superscript"
+                                >ten</hi> Male in Eils. gespielt. – 6. <hi rend="latintype">Ouvert</hi>. zu <hi rend="latintype">Zampa</hi> sehr gut. 7. "Die Nächtlichen Wanderer" <hi rend="latintype">Walzer</hi> v. <hi rend="latintype"><persName>Lanner</persName></hi> ging ebenfalls sehr gut. . . .
+                            . . </p>
+                    </div>
+                    <div n="1848-08-29">
+                        <head><date>1848-08-29</date>, Dienstag</head>
+                        <p>In Eilsen gespielt: 1, <hi rend="latintype">Ouvert</hi>. zum Freischütz, mit Schöning die 1<hi rend="superscript">ste</hi> Vle. Violine, ging gut. 2, spielte Franz Schönig ein <hi rend="latintype">Concert</hi> v. <hi rend="latintype"><persName>Mayseder</persName></hi>,
+                            sehr langweilig. 3, <hi rend="latintype">Potpourri v. <persName>Küffner</persName></hi> ziemlich gt. – 4, "<hi rend="latintype">Liebesträume</hi>" Walzer v. <hi rend="latintype"><persName>Lanner</persName></hi> ziemlich gut. 5, <hi rend="latintype">Hiazinten</hi> Polka v.
+                                <hi rend="latintype"><persName>Labitzky</persName></hi> gut. 6, <hi rend="latintype">Schneider</hi>walzer v. <persName>Labitzky</persName> ziemlich gut. – Im Ganzen giengen die Sachen heute nicht gut. . . . . </p>
+                    </div>
+                    <div n="1848-08-30">
+                        <head><date>1848-08-30</date>, Mittwoch</head>
+                        <p>In Eilsen gespielt: 1, <hi rend="latintype">Ouvert</hi>. zu <hi rend="latintype">Moses v. <persName>Lindpaintner</persName></hi> sehr gt. 2, <hi rend="latintype">Tanzrezepte</hi> Walzer v. <hi rend="latintype"><persName>Strauss</persName> dto</hi>. 3, Ouvert. z.
+                            Unbekannten v. Bellini gut. 5, Cavatine aus der dibischen Elster. gt. 5, Jenny Lind’s Lieblingspolka (auf Verlangen gespielt.) – 6, Liebesträume Walzer v. Lanner gut, weit besser als gestern. 7, Kikrikki Galopp gut (zum ersten male dort gespielt) 8, Militärpolka gt. – Die
+                            Musik ging im Ganzen heute recht gut . . . . </p>
+                    </div>
+                    <div n="1848-08-31">
+                        <head><date>1848-08-31</date>, Donnerstag</head>
+                        <p>Clavierunterricht bei <hi rend="latintype">VSchmidt</hi>. Von da ging ich nach Eilsen, wo wir folgende Stücke spielten: 1, <hi rend="latintype">Ouvert</hi>. zum Vaudeville "<hi rend="latintype">Rataplan</hi>, der kleine Tambour, 2, <hi rend="latintype">Ouvert</hi>. v. <hi
+                                rend="latintype">Schneider</hi> über "<hi rend="latintype">God save the King</hi>." recht gut. 3, <hi rend="latintype">Walzer</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 7 aus der neuen Partie (12 Tänze) 4, <hi rend="latintype"
+                                    >Po<supplied>l</supplied>ka</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 7 rechtgt. 5, <hi rend="latintype">Walzer</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 4 rechtgt. – 6, <hi rend="latintype">Cäcilien</hi> Walzer sehr gt. </p>
+                        <pb n="1v"/>
+                        <p>7, Kikrikki <hi rend="latintype">Galopp</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 12. gt. 8, Die nächtlichen Wanderer v. <hi rend="latintype">Lanner</hi> sehr gut. Im Ganzen ging Alles d recht gut.</p>
+                    </div>
+                </div>
+                <!-- Hier eine dünne Linie vor dem nächsten Tag eingefügt; der Kopf "September" steht aber über dem vorigen Text -->
+                <div type="diary_month">
+                    <head type="editorial"><lb/>September 1848</head>
+                    <div n="1848-09-01">
+                        <head><date>1848-09-01</date>, Freitag</head>
+                        <p>Bei Langerfeld für Vater Stunde gegeben. Nachher spielte ich auf einer Hochzeit zur <unclear>Bancke</unclear> für Vater bis Sonnabend Morgen halb 4.</p>
+                    </div>
+                    <div n="1848-09-03">
+                        <head><date>1848-09-03</date>, Sonntag</head>
+                        <p>In Eilsen gespielt, wo unter andren die <hi rend="latintype">Ouverture</hi> zu <hi rend="latintype">Wilh: Tell v. Rossini</hi>, der bekannte <hi rend="latintype">Polka</hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 7 und der <hi rend="latintype"
+                                >Caecilien-walzer</hi> v. <hi rend="latintype">Strauss</hi> recht gut gingen. Nach 6 wurde auf dem Balcon aufgehört zu spielen und im gr. Saale zu Tanz gespielt bis halb 12 (3 r 8 <unclear>ngr</unclear> verdient)</p>
+                    </div>
+                    <div n="1848-09-09">
+                        <head><date>1848-09-09</date>, Sonnabend</head>
+                        <p>Am Morgen von halb elf – zwölf hatte ich die 4<hi rend="superscript">te</hi> Stunde beim H Conzertmeister <hi rend="latintype">Lübcke</hi>. Ich spielte zuerst die <hi rend="latintype">Variat</hi>. von <hi rend="latintype">David</hi><hi rend="latintype">Op</hi>. II, welche
+                                <hi rend="latintype">Lübcke</hi> sehr gut gefielen. Darauf spielten wir ein <hi rend="latintype">Duett</hi> v. <hi rend="latintype">Krommer</hi> in <hi rend="latintype">A dur</hi>, welches mir ganz außerordentlich gefiel. Dieses Duett ist erst die 2<hi
+                                rend="superscript">te</hi> Piece die ich von <hi rend="latintype">Krommer</hi> gespielt habe.</p>
+                    </div>
+                    <div n="1848-09-12">
+                        <head><date>1848-09-12</date>, Dienstag </head>
+                        <p>Vater, <hi rend="latintype">Klosterm</hi>. u. ich spielten am Nachmittage bei uns Quartette, da Grahl keine Zeit mußte die Bratsche ausgelassen werden. Wir sp. 2 <hi rend="latintype">Quartette v. A. Romberg</hi><hi rend="latintype">Op</hi>. 16. (5<hi rend="latintype"><hi
+                                    rend="superscript">me</hi></hi><hi rend="latintype">Suite de Quatuors</hi>.) Das erste <hi rend="latintype">Qart</hi>. in <hi rend="latintype">F</hi>., d. 2<hi rend="superscript">te</hi> in <hi rend="latintype">G m</hi>. gefielen sehr; die erste Violine <subst>
+                                <del rend="overwritten"/>
+                                <add rend="inline">sticht</add>
+                            </subst> in diesen Quartetten sehr hervor. – Darauf probirten wir "<hi rend="latintype">La jota aragonesa</hi>" von <hi rend="latintype">St. Lubin</hi>, die sich mit der unvollständigen Begleitung schon ganz gut machten, so daß ich sehr gespannt <hi rend="strikethrough"
+                                >darauf</hi> bin, <del rend="strikethrough">sie</del> welchen Effect sie vollständig ausgeführt machen wird. – Am Abende las ich in der musikalischen Zeitung den Lebenslauf des verschiedenen <hi rend="latintype">F. M. Bartholdy</hi>, welcher d. 3<hi rend="superscript"
+                                >ten</hi> Febr. 1809 zu Hamburg geb. wurde. Seit 1835 in Leipzig Musikdirektor beim Gewandhause, wo durch seine Vermittlung sein Jugend-<pb n="3r"/>freund <hi rend="latintype">F. David</hi> Conzertmeister wurde, an dem das Orchester einen ausgezeichneten Virtuosen u.
+                            Componisten gewann. <hi rend="latintype">M. B</hi>. starb dort den 4 Nov. Abends 9 Uhr 24 Min. 1847. überall betrauert, was die Totenfeiern in so vielen Städten Deutschlands nicht allein, sondern auch des Auslandes beweisen. – </p>
+                        <p><hi rend="latintype">Hector Berlioz</hi> d. 11<hi rend="superscript">ten</hi> December 1803 zu <hi rend="latintype">Côte St_ André</hi>, einem Städtchen des <hi rend="latintype">Isère-Departements</hi> geb., wurde von seinem Vater einem ausgezeichneten Arzte nach Paris
+                            geschikt, die Medicin zu studiren; statt dessen widmet er sich nur der Musik, wesshalb ihm seine Eltern jegliche Unterstützung entziehen. Er muß sich kümmerlich sein Leben fristen<supplied>.</supplied> Als er zuerst mit seinen Compositionen in Paris auftrat, wurde vom
+                            groß. Theile der Zuhörer verlacht, für ein aller Schule u. Ästhetik baares Monstrum erklärt u. bemitleidet <hi rend="latintype">etc</hi>. Ein kleiner Theil staunte über die durchgängige Neuheit u. Kühnheit seiner Tonbilder, fühlte sich angezogen; aber auch verwirrt
+                            zugleich u. schwankte zwischen Genuß u. Mißfallen. Auf Wenige machte seine Musik eine eigentliche Kunstwirkung, unter denen war besonders einer der i<supplied>h</supplied>n wohl trösten konnte: <hi rend="latintype">Paganini</hi>. Dieser fühlte sich von des Franzosen Musik
+                            auf das Wunderbarste ergriffen u. schrieb ihm: "Da Beethoven todt ist, konnte ihn Berlioz allein wieder aufleben machen; ich habe ihre göttlichen Compositionen genossen, die eines Genius, wie des Ihrigen würdig ist," – u. schickte ihm als Geschenk – 20'000 <hi
+                                rend="latintype">Francs</hi>.</p>
+                    </div>
+                    <div n="1848-09-16">
+                        <head><date>1848-09-16</date>, Sonn<supplied>a</supplied>ab<supplied>en</supplied>d. 16</head>
+                        <p>Unterricht bei <hi rend="latintype">Lübcke</hi>. Ich spielte d. Var. von <hi rend="latintype">David</hi> noch einmal dann spielten wir d. 2<hi rend="superscript">te</hi> Duett v. <hi rend="latintype">Krommer</hi>. Œ 20 in <hi rend="latintype">C</hi>, was aber nicht
+                            besonders gut. Ich hatte nicht viel daran geübt (es kamen doch einige schwierige Passage vor.) <hi rend="latintype">Lübcke</hi> gab mir <hi rend="latintype">Var. v. Hauser</hi> mit.</p>
+                        <pb n="2r"/>
+                    </div>
+                    <div n="1848-09-19">
+                        <head><date>1848-09-19</date>, Dienstag</head>
+                        <p>Wir spielten am Nachmittage bei uns <hi rend="latintype">Quartette</hi>, da Grahl wieder fehlte, ohne <hi rend="latintype">Viola</hi>. 1, <hi rend="latintype">Op</hi>. 16 v. <hi rend="latintype">A. Romberg</hi>, <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 3
+                            ein sehr schönes Qt. darauf spielten wir 2, eine <hi rend="latintype">Beethoven’sche Sonate v. N. Galitzin</hi> als <hi rend="latintype">Quartt</hi> arrangt. welche nicht besonders gefiel. Zuletz<supplied>t</supplied> sp. wir 3, das 2<hi rend="superscript">te</hi><hi
+                                rend="latintype">Quartt</hi> aus der selben <hi rend="latintype">Romberg’schen</hi> Partie noch einmal.</p>
+                    </div>
+                    <div n="1848-09-23">
+                        <head><date>1848-09-23</date>, Sonnabend</head>
+                        <p><hi rend="latintype">Lübcke</hi> war durch Kranksein verhindert, mit mir zu spielen.</p>
+                    </div>
+                    <div n="1848-09-24">
+                        <head><date>1848-09-24</date>, Sonntag</head>
+                        <p>War ich mit Vater, Hörnemeier, Schöning, <unclear>Dokhorn</unclear>, Klosterm. u. Ed. Meuter nach <hi rend="latintype">Sülbeck</hi>, u. verdiente dort 2 rh 12 ngr.</p>
+                    </div>
+                    <div n="1848-09-25">
+                        <head><date>1848-09-25</date>, Montag</head>
+                        <p>Der Instrumentenmacher <hi rend="latintype">Weber</hi> war hier in Bbg. Ich kaufte ihm die Violine, welche ich schon einige Monate im Hause gehabt u. darauf gespielt hatte, für <hi rend="underline" n="1">7 rh</hi> ab. Das Geld hatte ich mir selbst auf derselben Violine
+                            verdient.</p>
+                        <p>Vater kaufte noch 3 <hi rend="latintype">G</hi> Saiten u. 1/2 Stock <hi rend="latintype">E</hi> Seiten; so daß uns die ganze Sache auf <hi rend="underline" n="1">8 rh 18 ngr</hi>. kam. H. Weber nahm den Bogen v. <hi rend="latintype">Gulomy</hi> mit um den Frosch
+                            anzustückeln und ihn zu behaaren</p>
+                    </div>
+                    <div n="1848-09-29">
+                        <head><date>1848-09-29</date>, Freitag</head>
+                        <p><hi rend="latintype">Quartett</hi> (mit Grahl) <hi rend="latintype">A Romberg</hi> Œ. 16. <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 102 noch einmal, die erste <hi rend="latintype">Polonaise</hi> v. <hi rend="latintype">Rbg</hi>. "<hi rend="latintype">La jota
+                                    aragonesa<supplied>"</supplied> v. St. Lubin</hi>, welche mir sehr gut gefiel u. <hi rend="latintype">Variationen</hi> v. <hi rend="latintype">Hauser</hi>.</p>
+                    </div>
+                    <div n="1848-09-30">
+                        <head><date>1848-09-30</date>, Sonnabend</head>
+                        <p>Am Morgen hatte ich Stunde bei <hi rend="latintype">Lübcke</hi>, bei dem ich die Variationen v. <hi rend="latintype">Hauser</hi> spielte, die ihm sehr gut gefielen, an denen ich aber noch tüchtig zu üben habe. <hi rend="latintype">Lübcke</hi> sagte mir auch, ich sollte
+                            doch anfangen den <hi rend="latintype">Carnaval</hi> zu üben, den er mir schon seit längerer Zeit gegeben. – Gleich nach Mittag ging ich nach Sülbeck zum Erndtebier (überflüßig) wo ich bis zum andern Morgen um 6, 2 rh 15 ngr bekam.</p>
+                    </div>
+                </div>
+                <pb n="3r"/>
+                <div type="diary_month">
+                    <head><lb/>Oktober 1848</head>
+                    <div n="1848-10-03">
+                        <head><hi rend="underline" n="1"><hi rend="latintype">October</hi></hi>.</head>
+                        <head><date>1848-10-03</date>, Dienstag</head>
+                        <p>Wir sp. <hi rend="latintype">Quartette</hi> am Nachmittag um 3, nachdem ich am Morgen angefangen den <hi rend="latintype">Carnaval</hi> z. üben. <hi rend="latintype">A Romberg</hi><hi rend="latintype">Op</hi>. 16 <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 3,
+                            welches ganz gut und <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 1 v. <hi rend="latintype">Mozart</hi> in <hi rend="latintype">es</hi>, welches mich ganz entzückt. Wir nahmen uns vor, die <hi rend="latintype">Quartette</hi> v. <hi rend="latintype">Mozart</hi>
+                            recht fleißig z. sp.</p>
+                    </div>
+                    <div n="1848-10-05">
+                        <head><date>1848-10-05</date>, Donnerstag</head>
+                        <p>Ich war im Conzerte des Violinisten <hi rend="latintype">Otto v. Königslöw</hi>, welcher die Elegie v. Ernst, "<hi rend="latintype">Souvenir de Haydn</hi>" v. <hi rend="latintype">Léonard</hi>, <hi rend="latintype">Mélancolie e le Carneval de Venise</hi> spielte. Sein
+                            Spiel gefiel mir im Ganzen sehr gut. (H <unclear>Brüll<!-- Krull?? --></unclear>? spielte einige Solos).</p>
+                    </div>
+                    <div n="1848-10-10">
+                        <head><date>1848-10-10</date>, Dienstag</head>
+                        <p><hi rend="latintype">Quartett</hi>. Wir spielten <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 2 &amp; <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 3 v. <hi rend="latintype">N<hi rend="superscript">o </hi></hi>Mozart.</p>
+                    </div>
+                    <div n="1848-10-13">
+                        <head><date>1848-10-13</date>, Freitag</head>
+                        <p><hi rend="latintype">Quartett</hi>. Wir spielten ein <hi rend="latintype">Quart</hi>. <hi rend="latintype">v. Jansa</hi> (welche Vater gestern Abend vom H. Konzertmstr <hi rend="latintype">Lübcke</hi> geholt) <hi rend="latintpye">N<hi rend="superscript">o</hi></hi> 1 in
+                                <hi rend="latintype">A</hi><hi rend="latintype">moll</hi>. darauf <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 3 <hi rend="latintype">v. Mozart</hi> in <hi rend="latintype">C dur</hi>, dann <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 1 v.
+                            Jansa noch einmal, dies <hi rend="latintype">Quartt</hi>. gefiel uns sehr; auch das <hi rend="latintype">p</hi>. <hi rend="latintype">Mozart</hi>, ein prächtiges <hi rend="latintype">Quartt</hi>., ging heute schon besser als am Dienstage.</p>
+                    </div>
+                    <div n="1848-10-14">
+                        <head><date>1848-10-14</date>, Sonnabend</head>
+                        <p>Stunde bei <hi rend="latintype">Lübcke</hi>. ich spielte dort den Carneval (nicht alle Variationen) welcher ganz gut ging, dann d. Var. v. <hi rend="latintype">Hauser</hi> ziemlich gut. Dann spielten wir <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 3 <hi
+                                rend="latintype">p. Krommer</hi>. <hi rend="latintype">Lübcke</hi> gab mir eine andere Partie <hi rend="latintype">Krommersche Duos</hi> mit.</p>
+                    </div>
+                    <div n="1848-10-17">
+                        <head><date>1848-10-17</date>, Dienstag</head>
+                        <p><hi rend="latintype">Quartt</hi>. Wir spielten 2 4<hi rend="superscript">ors</hi> v. Jansa <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 1. in <hi rend="latintype">A mol</hi>, <hi rend="latintype">N<hi rend="superscript">o</hi></hi> 2 in <hi rend="latintype">D
+                                dur</hi> und 2 4<hi rend="superscript">ors</hi> v. <hi rend="latintype">Mozart </hi><hi rend="latintype">N<hi rend="superscript">o</hi></hi> 4 in u. <hi rend="latintype">N<hi rend="latintype">o</hi></hi> 1 in <hi rend="latintype">Es dur</hi>.</p>
+                    </div>
+                    <div n="1848-10-20">
+                        <head><date>1848-10-20</date>, Sbd.&#160;[recte: Freitag]</head>
+                        <p><hi rend="latintype">Lübcke</hi> spielte mit mir den <hi rend="latintype">Karneval</hi> durch und zeigte mir mehres darin, was zu verändern sei. Dann spielten wir von den <hi rend="latintype">Duos</hi> v. <hi rend="latintype">Krommer </hi><hi rend="latintype">N<hi
+                                    rend="superscript">o</hi></hi>. 1.</p>
+                    </div>
+                    <div n="1848-10-22">
+                        <head><date>1848-10-22</date>, Sonntag</head>
+                        <p>Ich spiele auf dem Klubballe im deutschen Hause.</p>
+                    </div>
+                    <div n="1848-10-27">
+                        <head><date>1848-10-27</date>, Freitag</head>
+                        <p>Am Nachmittage war Probe in d. Kirche woselbst eine <hi rend="latintype">Motette v. Rink</hi> u. eine <hi rend="latintype">v. Schicht</hi> probirt wurden. Nachher spielten wir <hi rend="latintype">Qaurtt</hi>. u. zwar das 3<hi rend="superscript">te</hi> v. <hi
+                                rend="latintype">Jansa</hi> in <hi rend="latintype">H moll</hi> u. <hi rend="latintype">N<hi rend="superscript">o</hi></hi>. 2 <hi rend="latintype">v. Mozart</hi> in <hi rend="latintype">A dur</hi>. Das 3<hi rend="superscript">t</hi><hi rend="latintype"
+                                >Jansa’sche</hi> ist mehr Solo für die 1<hi rend="superscript">ste</hi><hi rend="latintype">Violine</hi>, als die beiden ersten; es ging ziemlich gut Darauf spielte ich die<hi rend="latintype"> Variat. v. Hause in E</hi>, welche Vater (nicht aber Grahl) sehr gut
+                            gefielen, und welche ich gleich noch einmal spielen mußte. Mir gefällt diese <hi rend="latintype">Pièce</hi>, auch ganz gut; obgleich es wohl bessre gibt.</p>
+                    </div>
+                    <!--[e.Anm.: ab hier noch ohne Auszeichnung und Korrektur]-->
+                    <pb n="3v"/>
+                    <div n="1848-10-28">
+                        <head><date>1848-10-28</date>, Sonnabend</head>
+                        <p>Ich hatte am Morgen Unterricht bei Lübecke, bei dem ich die Var. von Hauser sp, mit welchen L. ganz gut zufriedn. Er sagte mir ich solle sie nur noch zuweilen wiederholen, damit Einiges noch mit mehr Leichtigkeit u. Sicherheit herauskäme. –&#160;Darauf spielten wir ein Duo
+                            p. Krommer, ein sehr nettes Duett, welches nicht ganz leicht war.</p>
+                    </div>
+                    <div n="1848-10-29">
+                        <head><date>1848-10-29</date>, Sonntag</head>
+                        <p>Unsre Liedertafel sang am Nachmittag auf d. Kolonien, es ging ganz gut, wir waren alle so voll Freuden, daß wir dem H Professor Burchard ein Ständchen brachten.</p>
+                    </div>
+                    <div n="1848-10-31">
+                        <head><date>1848-10-31</date>, Dienstag</head>
+                        <p>Die beiden Kantaten von Rink &amp; von Schicht wurden in der Kirche vor einem geringen Auditorium aufgeführt.</p>
+                    </div>
+                </div>
+                <div type="diary_month">
+                    <head><lb/>November 1848</head>
+                    <div n="1848-11-03">
+                        <head>November.</head>
+                        <head><date>1848-11-03</date>, Freitag</head>
+                        <p>Wir spielten bei uns am Nachmittage Quartett u. zwar das von Jansa No 1 in A moll (welches ganz gut ging u. v. Mozart, No 4 in D dur nachher spielte ich die Variat. von Haumann in C dur welche zum erstenmale nicht ganz gut, zum 2ten male aber weit beßer gingen – Abends um
+                            6 kam unsre Liedertafel mit der Gymnasial Liedertafel zusammen, und die Vereinigung beider Liedertafeln, worüber schon länger unterhandelt war wurde beschloßen. Unser früherer Liedervater E Lellmann??, wurde wieder zum Liedervater gewählt u. ich zum Gesangmeister. Abends
+                            halb 9 brachte die verein.? Liedert. dem alten Kammerdiener Collmann zur Feier seines 88jährigen Geburtstages ein Ständchen, bei dem sich der erste Tenor, besonders beim letzten Liede: Singet dem Gesang zu Ehren" schlecht machte. (Erhal... in zu ... Aco. Stille, u. Singet
+                            dem Ges.)</p>
+                    </div>
+                    <pb n="4r"/>
+                    <div n="1848-11-04">
+                        <head><date>1848-11-04</date>, Sonnabend</head>
+                        <p>Ich spielte bei Lübecke die Variationen v. Haumann in C nachher ein Krommer’sches Duett (No 3 à vista.)</p>
+                    </div>
+                    <div n="1848-11-11">
+                        <head><date>1848-11-11</date>, Sonnabend</head>
+                        <p>Unterricht bei Lübecke. Ich sp. die Mélancolie v. F Prume. und d. 2te Krommersche Duett, dann noch einen Satz vom 3t.</p>
+                    </div>
+                    <div n="1848-11-14">
+                        <head><date>1848-11-14</date>, Dienstag</head>
+                        <p>Quartett. Mozart No. 6 in und No. 1 in Es. Auch probirten wir die Mélancolie zwei mal.</p>
+                    </div>
+                    <div n="1848-11-17">
+                        <head><date>1848-11-17</date>, Freitag</head>
+                        <p>Conzert im Rathhaussaale für die Wittwe Ritterbusch. Es wurden in demselben die? aufgeführt: die Ouverturen zu König von Yvetot u. zu Zampa; ein Finale aus den Lombarden von Werdi und mehre andre Sachen für Militärmusik. Ich spielte die Mélancolie (mit Quintett-Begleitung)
+                            welche gut gefiel. Der große Saal war überfüllt, <hi rend="strikethrough">und</hi> jedoch der Ton von meiner neuen Violine drang durch und gefiel. Außer mir blies noch H. Finhold ein. Auch sang d. Liederkranz.</p>
+                    </div>
+                    <div n="1848-11-18">
+                        <head><date>1848-11-18</date>, Sonnabend</head>
+                        <p>Quartett. Frahl brachte einige Mozartsche Quartette (vom Prbt. Hartmann) mit, von denen wir das 1ste u. 2t spielten; beide Quartt. spielten wir 2 mal.</p>
+                    </div>
+                    <div n="1848-11-21">
+                        <head><date>1848-11-21</date>, Dienstag</head>
+                        <p>Quartett. Jansa No 1 A moll. Dann spielten wir da Grahl Abhaltung bekommen hatte ein 4tt von Rode in Es, Variationen von Beriot Op 2, und Variat. von Lipinsky über ein Thema aus Cenerentola. Zuletzt spielten wir ein Allegro u. Menuett aus d. 6ten 4o v. Mozart. in </p>
+                    </div>
+                    <div n="1848-11-23">
+                        <head><date>1848-11-23</date>, Donnerstag</head>
+                        <p>H. Eschmann, Vater u. ich spielten am Abend, um uns auf das 4o das beim H. Hofmarschall Stadt finden sollte einzuüben, das erste Quart. von L Jansa in A moll. Dann die Varit. von Beriot A. 2de in D. und die Mélancolie.</p>
+                    </div>
+                    <div n="1848-11-24">
+                        <head><date>1848-11-24</date>, Freitag</head>
+                        <p>Quartt. Mozart No 3 in (v. Hartmann.) und No 2 u. 3 von unsern Noten. Es ging heute im Ganzen schlecht. –</p>
+                    </div>
+                    <div n="1848-11-25">
+                        <head><date>1848-11-25</date>, Sonnabend</head>
+                        <p>Unterricht bei H. Lübecke. Ich spielte die Vart. von Beriot. Op. 2, welche dem H Conzertmeister sehr gefielen und dann ein Duett von Viotti in A. Am Abende spielten wir bei bei uns Quartette (Rabloff, Eschm. Vat. u. ich) und zwar von Jansa No 1 A moll, welches mir sehr gut
+                            gefiel und auch gut ging. Wir spielten dieses 2 mal und </p>
+                        <pb n="4v"/>
+                        <p>dann das Quat. v. Mozart in Es dur. Am Sonn. den 11 Nov. <hi rend="strikethrough">gab</hi> lieh mir Lübecke ein Buch über Paganini in dem manche schöne Stellen fand und andre Beh.. Göthe:</p>
+                        <lg>
+                            <l>Je mehr als sich ein Künstler plagt,</l>
+                            <l>Je mehr er sich zum Fleiße zwingt,</l>
+                            <l>Um desto mehr es ihm gelingt.</l>
+                            <l>Drum übe dich nur Tag für Tag,</l>
+                            <l>Und du wirst sehn, was das vermag!</l>
+                            <l>Dadurch wird jeder Zweck erreicht</l>
+                            <l>Dadurch wird jedes Schwere leicht,</l>
+                            <l>Und nach und nach kommt der Verstand</l>
+                            <l>Unmittelbar dir in die Hand.</l>
+                        </lg>
+                        <p>La genie c'est la patience Buffoi??</p>
+                        <p>Ferner sagt Göthe an einer andren Stelle:</p>
+                        <lg>
+                            <l>Dem glücklichsten Genie wird’s kaum einmal gelingen</l>
+                            <l>Sich durch Natur und durch Instinkt allein</l>
+                            <l>Zum Ungemeinen aufzuschwingen.</l>
+                            <l>Die Kunst bleibt Kunst! Wer sie nicht durchgedacht,</l>
+                            <l>Der darf sich keinen KÜnstler nennen;</l>
+                            <l>Hier hilft das Tappen nicht: Eh man was Gutes macht,</l>
+                            <l>Muß man es erst recht sicher können.</l>
+                        </lg>
+                    </div>
+                    <div n="1848-11-28">
+                        <head><date>1848-11-28</date>, Dienstag</head>
+                        <p>Quartett. A Romberg Oe. 16 No 1 F dur. Mozart No 2 D moll in dem uns die Menuett mit einem Trio in D dur ganz vorzüglich gefiel. A Romberg. No 2 in G moll. Dann spielte ich noch die Variationen von C de Bériot in D Op 2, welche mir sehr stark begleitet wurde.</p>
+                    </div>
+                    <div n="1848-11-29">
+                        <head><date>1848-11-29</date>, Mittwoch</head>
+                        <p>Abends um 7 spielten wir (Radloff &amp; Eschmann) das 1ste Quartett von Jansa. Dann die Mélancolie und die Variationen v. Bériot Oe 2.</p>
+                    </div>
+                    <div n="1848-11-30">
+                        <head><date>1848-11-30</date>, Donnerstag</head>
+                        <p>Es war wieder, nachdem in langer Zeit weder Conzerte noch Proben gewesen waren, eine Orchesterprobe auf d. Schloße, in welcher eine Ouverture und Scherzo &amp; Allo vivace (Finale) im Simphoniestyle von Schumann probirt wurde, welche ehrlich schlecht</p>
+                        <pb n="5r"/>
+                        <p>ging. Dann wurde eine Ouverture v. Lindpaintner probirt, welche weit beßer ging und sehr gut gefiel; während über das Schmannsche von den Schmidts und ihren Anhängern furchtbar raisonnirt wurde. –&#160;Am Abend war Soirée beim H. Hofmarschall v. Marthille. In welcher
+                            zuerst von Radloff, Eschm. Vater u. mir das erste Quartett v. Jansa in A moll gespielt wurde. Es gefiel sehr gut, es kannt auch niemand aus der Gesellschaft weder dieses Quartett, noch den Componisten. Das Quartt ging <hi rend="strikethrough">auch sehr gut u.</hi> bis auf
+                            das Finale noch in welchem Radloff aus dem Tacte zu kommen drohte, <hi rend="strikethrough">ging es</hi> wirklich vorzüglich; besonders da wir nur erst zweimal zusammen gespielt hatten.</p>
+                        <p>Nach Beendigung des Quartett’s wurden einige Lieder gesungen, unter denen mir besonders eines von H Dr Legermann gesungenes sehr gefiel. Dann spielte ich die Mélancolie v. Prume auf meiner alten Violine. <hi rend="strikethrough">Sie ging sehr gut.</hi> Ich spielte sehr
+                            glücklich und diese Piece gefiel sehr. Dann wurden wieder einige Lieder gesungen u. nachher spielte ich d. Var. v. Bériot Oe. 2 in D, in welchen meine neue Violine sehr brillirte. Langerfeld rieht mir doch ja immer auf dieser Violine zu spielen. Dies Var. gefielen sehr
+                            gut und man meinte wunder, was es wäre. Es ist freilich eine ganz niedliche Pièce, Schwierigkeiten sind aber nicht darin. –&#160;Man freute sich allgemein, daß einmal wieder Musik u. einer sagte, dieser Zustand könne ja noch mehrere Jahre dauren; solle man denn nun die
+                            ganze Zeit hindurch ohne Musik bleiben.</p>
+                    </div>
+                </div>
+                <pb n="5v"/>
+                <div type="diary_month">
+                    <head><lb/>Dezember 1848</head>
+                    <div n="1848-12-02">
+                        <head><date>1848-12-02</date>, Sonnabend</head>
+                        <p>Unterricht beim H. Conzertmeister Lübecke, bei dem ich die Variatt. über ein Thema aus Cenerentola von Lipinsky spielte.</p>
+                    </div>
+                    <div n="1848-12-05">
+                        <head><date>1848-12-05</date>, Dienstag</head>
+                        <p>Quartett. 2 kleine 4tte von J. Haydn das erste in B, das 2te in Es dur, Jedes Quartt. enthielt kleine kurze Sätze und 2 Menuetts. Wahrscheinlich sind dieses die ersten Haydn’schen Quartette. dann 2tes Quartt. von Jansa in D dur und das 2te Mozart’sche in D moll.</p>
+                    </div>
+                    <div n="1848-12-07">
+                        <head><date>1848-12-07</date>, Donnerstag</head>
+                        <p>Orchesterprobe. Es wurde wieder die Symphonie von Schumann probirt. dann die Ouvertüre zur Oper: <!-- offen --><space/> von Lindpaintner welche mir sehr gut gefiel und zuletzt eine Ouvertüre von Marcardante über Motive aus dem Stabat mater von Rossini, welche mir ebenfalls
+                            außerordentlich gefiel. (Ich brachte eine Partie Onslowsche Quartett. mit.)</p>
+                    </div>
+                    <div n="1848-12-08">
+                        <head><date>1848-12-08</date>, Freitag</head>
+                        <p>Quartt. Wir sp. das 4te Quartt. von Onslow in Es, welches mir sehr künstlich durchgearbeitete aber keineswegs Gesangreiche Musik ist. Dann sp. wir das 2te Jansasche in D u. zuletzt die Var. von Lipinsky (Cenerentola) welche mir sehr schlecht begleitet wurden. </p>
+                    </div>
+                    <div n="1848-12-09">
+                        <head><date>1848-12-09</date>, Sonnabend</head>
+                        <p>Unterricht beim H. Concermstr Lübekce, bei dem ich die Var. über die Cenerentola v. Lipinsky spielte. Sie gingen weit beßer als am vorigen Abende und Lübecke gab mir 2 neuen Solostücke die er von Hannover geschickt bekommen mit. (La Cascade par Apoll. de Kontski &amp;
+                            Fantasie par Li-<pb n="6r"/>pinski. Am Nachmittage gab mir H Dr. Meier ein neues Artt. von Goedecke, um es einmal anzusehen.</p>
+                    </div>
+                    <div n="1848-12-12">
+                        <head><date>1848-12-12</date>, Dienstag</head>
+                        <p>Quartett. Goedecke (Pastor in Detmold) Quartett in A moll. <hi rend="strikethrough">Kromm</hi> Onslow 4tes Quartt. in Es, welches ich sehr schlecht spielte. 1stes Quartt v. Jansa a moll ging sehr gut.</p>
+                    </div>
+                    <div n="1848-12-13">
+                        <head><date>1848-12-13</date>, Mittwoch</head>
+                        <p>Wir spielten am Abend bei uns Quartt. (Radlf. Eschmann, Vater ud. ich) v. Goedecke Quartt. in A welches heut weit beßer als gestern ging und das 2te Quartt. v. Jansa in D welches sehr gefiel.</p>
+                    </div>
+                    <div n="1848-12-14">
+                        <head><date>1848-12-14</date>, Donnerstag</head>
+                        <p>Orchesterprobe. Es wurde eine neue Ouvert. von Kalliwoda und eine von Litolff, dann noch die schon früher probirte Ouvert. von Lindpaintner.</p>
+                    </div>
+                    <div n="1848-12-16">
+                        <head><date>1848-12-16</date>, Sonnabend</head>
+                        <p>Unterricht beim H C. Lübecke, dem ich die neuen Fanta von Lipinsky / Über Themas aus d. Oper Ernandi de Verdi) vorspielte. Sie ist, wie alle, mir von Lipinsky bekannten Sachen, <hi rend="strikethrough">eine</hi> ausgezeichnet gut. Dann spielte ich die Cascade von Kontsky
+                            (eine Caprice für den Tremolo-Strich.) Lübekce gab mir ein neues (das 6te) Conzert von Mollique welches er ebenfalls geschikt bekommen hatte.</p>
+                    </div>
+                    <div n="1848-12-21">
+                        <head><date>1848-12-21</date>, Donnerstag</head>
+                        <p>Probe. Es wurde die 4te Symphonie von Onslow (neu) jedoch nur vom Streichquartette probirt.</p>
+                    </div>
+                    <div n="1848-12-23">
+                        <head><date>1848-12-23</date>, Sonnabend</head>
+                        <p>Untercht. beim H ConzMstr. Lübecke, welchem ich das erste Allo von dem neuen Conzerte von Molique das sehr schwer u. eine sehr gute Übung für mich zu spielen ist, sich aber wohl nicht besonders zum öffentlichen Spiel paßen wird. Dann spielte ich die Fantasie von Lipinsky
+                            und zuletzt nahm Lbcke noch mit mir einige Stellen von der, vergangenen Donnerstag probirten Symphonie von Onslow, durch, <hi rend="strikethrough">welche</hi> von der er mir die erste Violin Stimme auch noch mit gab.</p>
+                    </div>
+                </div>
+                <pb n="6v"/>
+                <!-- leer -->
+                <pb n="7r"/>
+            </div>
+            <div type="diary_year">
+                <div type="diary_month">
+                    <head type="main">1849</head>
+                    <head>Januar 1849</head>
+                    <div n="1849-01-01">
+                        <head>Januar. 1849.</head>
+                        <head><date>1849-01-01</date>, Montag</head>
+                        <p>Ich spielte auf dem Bürgerballe mit H Schulze 1mo??</p>
+                    </div>
+                    <div n="1849-01-04">
+                        <head><date>1849-01-04</date>, Donnerstag</head>
+                        <p>Orchesterprobe 4te Symphonie v. Onslow. Zschoke.</p>
+                    </div>
+                    <div n="1849-01-05">
+                        <head><date>1849-01-05</date>, Freitag</head>
+                        <p>Ich fuhr am Mittage nach Minden u. kaufte mir von Stümpel einen Bogen für 2 rh. Am Abende war Conzert auf der Resourse, in dem die 2te Symphonie v. Beethoven und die Wüste v. David (zum ersten Male) aufgeführt wurde.</p>
+                    </div>
+                    <div n="1849-01-06">
+                        <head><date>1849-01-06</date>, Sonnabend</head>
+                        <p>Unterricht beim H. Conzertmster Lübecke, dem ich die Variationen v. Lipinsky vorspielte Abends spielten wir mit Theodor Langerfeldt ein Quartett v. Leon de Call darauf die Variationen v. Lipinsky.</p>
+                    </div>
+                    <div n="1849-01-09">
+                        <head><date>1849-01-09</date>, Dienstag</head>
+                        <p>Quartett. von Onslow das 5te in F. u. v. Mozart in Es.</p>
+                    </div>
+                    <div n="1849-01-12">
+                        <head><date>1849-01-12</date>, Freitag</head>
+                        <p>Quartett. Wir sp. das 6te von Onslow in D., das 2te von Mozart und das 2te von Jansa in D dur.</p>
+                    </div>
+                    <div n="1849-01-13">
+                        <head><date>1849-01-13</date>, Sonnabend</head>
+                        <p>Conzertmeister Lübecke das 6te Conzert von Spohr.</p>
+                    </div>
+                    <div n="1849-01-18">
+                        <head><date>1849-01-18</date>, Donnerstag</head>
+                        <p>Concert auf dem Schloße; nach dem seit einem Jahr kein Conzert dort gewesen war. Es wurde die 2te Symphonie von Beethoven in D und die Ouverture zur Oper Lichtenstein (z. ersten Male) von Lindpaintner aufgeführt. J. Schmidt spielte sein 1stes Concertino u. Vater blies
+                            Variationen von Berr.</p>
+                    </div>
+                    <div n="1849-01-21">
+                        <head><date>1849-01-21</date>, Sonntag</head>
+                        <p>Club-concert, in welchem verschiedene Bruchstücke aus Oratorien aufgeführt wurde, Victor Schmidt eine Polonaise von Mayseder spielte u. Finhold? nebst seiner Frau sich hören ließen.</p>
+                    </div>
+                    <div n="1849-01-23">
+                        <head><date>1849-01-23</date>, Dienstag</head>
+                        <p>Concert des H Radloff auf dem Rathhause, in dem die Ouverturen zur Zauberflöte v. Mozart &amp; zu Faust v. Lindpaintner aufgeführt wurden. Victor Schmidt spielte eine Polonaise von Mayseder u. s. w.</p>
+                    </div>
+                    <div n="1849-01-25">
+                        <head><date>1849-01-25</date>, Donnerstag</head>
+                        <p>Concert auf dem Schloße. 4te Symphonie von Onslow, Ouverture zu Faniska von Cherubini, Concertino von Fuchs vorgetragen u. H Finhold und Variationen von Lipinsky (Cenerentola.)</p>
+                    </div>
+                    <div n="1849-01-26">
+                        <head><date>1849-01-26</date>, Freitag</head>
+                        <p>Quartett. Wir spielten das 4te von Mozart, das 4te von Onslow und das 1ste von Hummel.</p>
+                    </div>
+                    <div n="1849-01-27">
+                        <head><date>1849-01-27</date>, Sonnabend</head>
+                        <p>Beim H Conzertmeister Lübecke spielte ich das erste Allo von dem 6ten Sporschen Conzerte.</p>
+                    </div>
+                    <div n="1849-01-28">
+                        <head><date>1849-01-28</date>, Sonntag</head>
+                        <p>Am Nachmittage ließ mich der H Hofmarschall von Martville zu sich rufen und gab mir eine Louis d’or vom Fürsten. und eine von ihm eigenhändig geschriebene Suplik an S. Durchlaucht.</p>
+                    </div>
+                    <div n="1849-01-29">
+                        <head><date>1849-01-29</date>, Montag</head>
+                        <p>Am Morgen ging ich zum Fürsten, welcher mir sagte, daß ich die Riepienist-Zulage von Jährlich 36 rh bekommen sollte und für mich eine von seinen Violinen suchen laßen wolle.</p>
+                    </div>
+                    <div n="1849-01-30">
+                        <head><date>1849-01-30</date>, Dienstag</head>
+                        <p>Quartett</p>
+                    </div>
+                </div>
+                <div type="diary_month">
+                    <head><lb/>Februar 1849</head>
+                    <div n="1849-02-01">
+                        <head>Februar</head>
+                        <head><date>1849-02-01</date>, Donnerstag</head>
+                        <p>3tes Concert auf dem Schloße. Symphonie militaire von Haydn, Ouverture von Böhner. Zschocke spielte einen Blumenkranz auf dem Violoncello. Madame Finhold sang einige mal und begleitete H Finhold eine Piece für Cornet.</p>
+                    </div>
+                    <div n="1849-02-03">
+                        <head><date>1849-02-03</date>, Sonnabend</head>
+                        <p>Abendunterhaltung des Liederkranzes auf d. Rathhause. Ouverture v. Hamm, Ouverture z. d. Freischütz von C. M. v. Weber. Außer mehren Chor- und Sologesängen <pb n="7r"/> spielte H. Schulze &amp; Sohn ein Duett für 2 Flöten, Luise und Anna Becker Variationen von Herz und ich
+                            die Lipinsky’sche Cenerentola, welche hier gut ging. Nach dem Conzerte war ein Ball.</p>
+                    </div>
+                </div>
+                <div type="diary_month">
+                    <head><lb/>August 1849</head>
+                    <div n="1849-08-15">
+                        <head><date>1849-08-15</date></head>
+                        <head>August 1849 Cassel</head>
+                        <p>Mittw. 15</p>
+                        <p>Morgens um 10 Uhr kam ich in <hi rend="latintype">Cassel</hi> an und ging mit H. <hi rend="latintype">Schultz</hi> Nachmittags um 3 Uhr zu <hi rend="latintype">Spohr</hi>, der mich am andern Morgen spielen hören wollte.</p>
+                    </div>
+                    <div n="1849-08-16">
+                        <head><date>1849-08-16</date></head>
+                        <p>Donnst. 16</p>
+                        <p>Ging ich M. um 8 zum Kapellmeister und spielte ihm die <hi rend="latintype">Lipinsky</hi>’schen Variationen über d. Thema aus <hi rend="latintype">Cenerentola</hi> vor. Er sagte mir, daß ich viele Mühe angewandt hätte, einzelne Schwierigkeiten zu lernen, dafür aber manches
+                            Wesentliche vernachlässigte, was ich jetzt nachholen müßte. Er setzte mir Dienstags u. Sonnabends eine Stunde fest u. brachte mich am Abend ins Theater, in dem ich ein Schauspiel "Fluch und Segen" u. ein Lustspiel u. dazwischen ein Ballet sah.</p>
+                    </div>
+                    <div n="1849-08-17">
+                        <head><date>1849-08-17</date></head>
+                        <p>Ich ging des Morgens mit H. <hi rend="latintype">Schultz</hi> zum Instrumentenmacher <hi rend="latintype">Schonger</hi>, um einen Teller zu der <hi rend="latintype">Guarneri</hi> zu bestellen; dann nach dem Postbürau u. darauf noch einem Puzzarbeiter der mich einen
+                            Puzzkasten machen wollte. Es regnete den Morgen ziemlich stark, als es gegen 11 etwas aufgehört hatte, zog ich mit meiner Violine (der Koffer <hi rend="latintype">etc.</hi> war schon am Abend vorher hingetragen) in meine Wohnung nach d. [...] fensterstraße. Hier aß ich zu
+                            Mittag u. übte am Nachmittag aus der <hi rend="latintype">Spohr</hi>'schen Schule.</p>
+                    </div>
+                    <div n="1849-08-18">
+                        <head><date>1849-08-18</date></head>
+                        <p>Sonn.<supplied>abend</supplied> 18</p>
+                        <p>Am Morgen tüchtig geübt, Nachmittags um 3 hatte ich die 1<hi rend="sup">ste</hi> Violinstunde beim H Kapellmeister, in der <pb n="9r"/>ich die 6 <hi rend="latintype">Etuden</hi><del rend="strike-through">au</del> der 2<hi rend="sup">ten</hi> und 3<hi rend="sup">ten</hi><hi
+                                rend="latintype">Position</hi><del rend="strike-through">üb</del> spielte, mit welchen <hi rend="latintype">Spohr</hi> zufrieden war, ausgenommen die Intonation. Ich sp. d. die die <hi rend="latintype">Guarneri</hi> noch beim <hi rend="latintype">Schonger</hi> vor,
+                            auf meiner Amati und intonirte ihm immer zu hoch. Am Abend war ich im Theater und hörte <hi rend="latintype"><hi rend="underline" n="1">Norma</hi></hi>.</p>
+                    </div>
+                    <div n="1849-08-19">
+                        <head><date>1849-08-19</date></head>
+                        <p>Sonntg 19</p>
+                        <p>Morgens schrieb ich einen Brief an meine Eltern u. hörte in der lutherischen Kirche den Pastor Meier predigen. Nachmittag ging ich zu <hi rend="latintype">Schonger</hi>
+                            <!-- Joseph Schonger, Geigenbauer -->darauf übte ich in der Sporschen Schule, wurde aber von Schulz nach dem Theater abgerufen, in dem die Musiker von d. Garde, da großer Zapfenstreich war, nicht mitspielen konnten. So war denn für mich ein Platz leer u. ich spiele zum
+                            erstenmale hier im Orchester mit. Es wurde das Trauerspiel <hi rend="latintype">Othello</hi> gegeben u. in den Zwischenakten einige Stücke von <hi rend="latintype">Kummer</hi> und <hi rend="latintype">Lindpaintner</hi> unter <hi rend="latintype">Botts</hi> Leitung
+                            gespielt.</p>
+                    </div>
+                    <div n="1849-08-20">
+                        <head><date>1849-08-20</date></head>
+                        <p>Mont 20</p>
+                        <p>Am Morgen übte ich u. holte am Nachmittag d. <hi rend="latintype">Guarneri</hi> wieder von <hi rend="latintype">Schonger</hi> kaufte mir auch gleich eine <hi rend="latintype">G</hi> und zwei <hi rend="latintype">E</hi> Saiten. Am Abend hörte ich das <hi rend="latintype"
+                                >Diamantkreuz</hi> von <hi rend="latintype">Salomann</hi> zum ersten Male zum Geburtstag des Kurfürsten gegeben.</p>
+                    </div>
+                    <div n="1849-08-21">
+                        <head><date>1849-08-21</date></head>
+                        <p>Diestg 21</p>
+                        <p>Morgens auf der <hi rend="latintype">Guarneri</hi> geübt Nachmittag die 2<hi rend="sup">te</hi> Stunde bei <hi rend="latintype">Spohr</hi> in der er weit besser mit der Intonation zufrieden war. Ich spielte von 38 bis 46. Am Abend Theater amüsirte ich mich sehr an d.
+                            Lustspiel <hi rend="latintype">Peter im Frack</hi>.</p>
+                        <pb n="9v"/>
+                    </div>
+                    <pb n="9v"/>
+                    <div n="1849-08-22">
+                        <head><date>1849-08-22</date></head>
+                        <p>Mittw. 22</p>
+                        <p>Am Morgen übte ich und ging am Nachmittage in die Probe zu "Der Gott und die Bayadere" von <hi rend="latintype">Auber</hi></p>
+                        <p>Nach der Probe badete ich in der Fulda mit <hi rend="latintype">Zeiss</hi>.</p>
+                    </div>
+                    <div n="1849-08-23">
+                        <head><date>1849-08-23</date></head>
+                        <p>Donnerst. 23</p>
+                        <p>Am Morgen übte ich aus Spohr's Schule, am Nachmittage aus der Orchesterstimme zur Bayadere. Abends wurde diese Oper aber nicht gegeben, da plötzlich einer der Sänger erkrankt war. Ich blieb, da ichs erst im Theater erfuhr dort u. sah ein Lustspiel und d. Liederspiel "Das
+                            Fest der Handwerker."</p>
+                    </div>
+                    <div n="1849-08-24">
+                        <head><date>1849-08-24</date></head>
+                        <p>Freitg 24</p>
+                        <p>Am Morgen übte ich aus Sp. Schule No. 47, 48 &amp; 49</p>
+                        <p>Am Abende sah ich den 2ten Akt der Regimentstochter von Donizetti.</p>
+                    </div>
+                    <div n="1849-08-25">
+                        <head><date>1849-08-25</date></head>
+                        <p>Sonnb. 25.</p>
+                        <p>Am Morgen übte ich u. darauf um 11 die 3<hi rend="sup">te</hi> Stunde beim Kapellmeister. Nachmittags um 3 war ich in der Probe zum Diamantkreuz von <hi rend="latintype">Salomann</hi> Am Abend übte ich die Stimmen zum Diamantkrz.</p>
+                        <pb n="10r"/>
+                    </div>
+                    <div n="1849-08-26">
+                        <head><date>1849-08-26</date></head>
+                        <p>Sonntg 26</p>
+                        <p>Am Morgen um halb 9 ging ich nachdem ich ein wenig geübt in die Probe zu Faust von Lindpaintner und zum schwarzen Domino von Auber. Nach Mittag ging ich mit Schultzen nach Wagner’s Garten und am Abend spielte ich die Oper "Der schwarze Domino" v. Auber mit.</p>
+                    </div>
+                    <div n="1849-08-27">
+                        <head><date>1849-08-27</date></head>
+                        <p>Montg 27</p>
+                        <p>Nachdem ich am Morgen zwei Stunden aus Spohr’s Vschle geübt ging ich um 10 in die Probe zu Jessonda bis halb 1 Nachmittags und Abends übte ich wieder.</p>
+                    </div>
+                    <pb n="10r"/>
+                    <div n="1849-08-28">
+                        <head><date>1849-08-28</date></head>
+                        <p>Diest. 28</p>
+                        <p>In <sic>Spor's</sic> Schule geübt. Nachmittag keine Stunde beim Herrn Kapellmeister, (Göthefeier). Am Abend spielte ich in Göthes Faust mit (<hi rend="latintype">Entreacts v. Lindpaintner</hi>.)</p>
+                    </div>
+                    <div n="1849-08-29">
+                        <head><date>1849-08-29</date></head>
+                        <p>Mittw 29</p>
+                        <p>Am Abend <hi rend="latintype">Jessonda</hi> gehört. Von allen Opern, die ich bis jetzt hier gehört habe, gefällt mir diese am besten.</p>
+                    </div>
+                    <div n="1849-08-30">
+                        <head><date>1849-08-30</date></head>
+                        <p>Donnstg 30</p>
+                        <p>Aus Spohr’s Schule geübt. Brief von meinen Eltern und von Adolph <unclear>Haspe</unclear> bekommen.</p>
+                    </div>
+                    <div n="1849-08-31">
+                        <head><date>1849-08-31</date></head>
+                        <p>Frtg 31</p>
+                        <p>In der Oper "Der Gott u. die Bayadere" mitgespielt</p>
+                    </div>
+                </div>
+                <div type="diary_month">
+                    <head><lb/>September 1849</head>
+                    <div n="1849-09-01">
+                        <head><date>1849-09-01</date></head>
+                        <head><hi rend="latintype">September</hi>.</head>
+                        <p>Sonnab. 1.</p>
+                        <p>Am Morgen geübt und die Probe zu <hi rend="latintype">Fra Diavolo</hi> mitgemacht, Nachmittags hatte ich die 4<hi rend="sup">te</hi> Stunde beim Herrn Kapellmeister. Er war mit der Intonation etwas besser zufrieden als die vorigen Stunden.</p>
+                    </div>
+                    <div n="1849-09-02">
+                        <head><date>1849-09-02</date></head>
+                        <p>Sonntg 2</p>
+                        <p>Am Morgen schrieb ich einen Brief an P. Adelheid u. beendigte d. Brief an meine Eltern. Nachmittags ging ich mit Schulzens spazieren und spielte am Abend in der Oper Fra Diavolo 2te Violine mit.</p>
+                    </div>
+                    <div n="1849-09-03">
+                        <head><date>1849-09-03</date></head>
+                        <p>Montag 3</p>
+                        <p>Heute Mittag von 12 bis 1 hatte ich zum ersten Mal bei Herrn Kraushaar Generalbaßunterricht</p>
+                    </div>
+                    <div n="1849-09-04">
+                        <head><date>1849-09-04</date></head>
+                        <p>Diestg 4</p>
+                        <p>5<hi rend="sup">te</hi> Stunde bei Herrn Kapellmeister. Am Abend Nachtwandlerin v. <hi rend="latintype">Bellini</hi> mitgespielt.</p>
+                        <pb n="10v"/>
+                    </div>
+                    <pb n="10v"/>
+                    <div n="1849-09-06">
+                        <head><date>1849-09-06</date></head>
+                        <p>Donnstg 6</p>
+                        <p>2<hi rend="sup">te</hi> Stunde bei Herrn <hi rend="latintype">Kraushaar</hi>.</p>
+                    </div>
+                    <div n="1849-09-08">
+                        <head><date>1849-09-08</date></head>
+                        <p>Sonnb. 8</p>
+                        <p>6<hi rend="sup">te</hi> Stunde bei H <hi rend="latintype">Spohr</hi>, der heute <del rend="strike-through">zufrie</del> mit meinem Spiel zufrieden war.</p>
+                    </div>
+                    <div n="1849-09-09">
+                        <head><date>1849-09-09</date></head>
+                        <p>Sonntg 9</p>
+                        <p>Heute Nachmittag machte ich mit <unclear>Hüni</unclear>, einem Schüler von <hi rend="latintype">Spohr</hi> einen Spaziergang nach Wilhelmshöhe, wo mir die herrlichen Wasserkünste und das schöne Schloß sehr gefielen. Am Abend hörte ich <hi rend="latintype">Oberon</hi> von
+                                <hi rend="latintype">C. M. v. Weber</hi>.</p>
+                    </div>
+                    <div n="1849-09-10">
+                        <head><date>1849-09-10</date></head>
+                        <p>Montg 10</p>
+                        <p>3te Stunde bei Kraushaar, <hi rend="strike-through">die Ersten Ar</hi> der mir heute zum ersten Male einige Beispiele auszuarbeiten aufgabe.</p>
+                    </div>
+                    <div n="1849-09-11">
+                        <head><date>1849-09-11</date></head>
+                        <p>Diestg 11</p>
+                        <p>7te Stunde bei H Dr Spohr.</p>
+                    </div>
+                    <div n="1849-09-13">
+                        <head><date>1849-09-13</date></head>
+                        <p>Donnst 13</p>
+                        <p>4te Stunde bei h Kraushaar, der mit meinen Ausarbeitungen sehr zufrieden war und mir neue Aufgaben dictirte.</p>
+                    </div>
+                    <div n="1849-09-15">
+                        <head><date>1849-09-15</date></head>
+                        <p>Sonnbd. 15</p>
+                        <p>8te Violinstunde der H. K. Spohr war im Ganzen zufrieden. Am Abend hörte ich die herrliche Oper "die Entführung" von Mozart.</p>
+                    </div>
+                    <div n="1849-09-16">
+                        <head><date>1849-09-16</date></head>
+                        <p>Sonntg. 16</p>
+                        <p>Der arthesische Brunnen, den ich heute Abend zum 1sten Male sah amüsirte mich sehr.</p>
+                    </div>
+                    <div n="1849-09-20">
+                        <head><date>1849-09-20</date></head>
+                        <p>Sonnbd. [recte: Do] 20</p>
+                        <p>10<hi rend="sup">t</hi> Stunde bei Herrn Kapellmeister <hi rend="latintype">Spohr</hi>. der mit den Variationen, die ich ihm ganz vorspielte zufrieden war und das 7<hi rend="sup">te</hi> Conzert von <hi rend="latintype">Rode</hi> mit mir vornahm.</p>
+                    </div>
+                    <pb n="11r"/>
+                    <div n="1849-09-23">
+                        <head><date>1849-09-23</date></head>
+                        <p>Sonntg 23</p>
+                        <p>Im <hi rend="latintype">Freischütz</hi> mitgespielt, welcher im Ganzen nicht gut ging. Herr <hi rend="latintype"><unclear>Veriag</unclear></hi> sang die Partie des Kaspar.</p>
+                    </div>
+                    <div n="1849-09-26">
+                        <head><date>1849-09-26</date></head>
+                        <p>Mitt 26</p>
+                        <p>Karl Schultz kam heute Morgen von Bückeburg hier an u. brachte mir 2 Spohr’sche Conzerte aus d. Bbgr Kapelle mit.</p>
+                    </div>
+                </div>
+                <div type="diary_month">
+                    <head><lb/>Oktober 1849</head>
+                    <div n="1849-10-02">
+                        <head><date>1849-10-02</date></head>
+                        <head>October.</head>
+                        <p>Diestg 2</p>
+                        <p>Heute Morgen wurde ein <hi rend="latintype">Sextett</hi> u. ein Quartett von <hi rend="latintype">Spohr</hi> im Theater probirt, zu denen ich 2<hi rend="sup">te</hi> Geige spielte. Das Quartett ging von meiner Seite sehr schlecht. Nachmittags in der Stunde spielte es der
+                            Herr Kapellmeister noch einmal mit mir durch. Am Abend war Quartettsoirée bei Herrn Kapellmeister in der zuerst ein <hi rend="latintype">Beethoven</hi>'sches Quartett vorgetragen wurde von: <hi rend="latintype">Bott, Spohr, Jacobi</hi> u. <hi rend="latintype">Knoop</hi>.
+                            Darauf spielte <hi rend="latintype">Spohr</hi> sein 31<hi rend="sup">stes</hi> Quartett zu der ich die 2<hi rend="sup">te</hi> Violinstimme nicht gut spielte. Zum Schluß wurde ein sehr schönes <hi rend="latintype">Sextett</hi> von <hi rend="latintype">Spohr</hi> gespielt,
+                            welches sehr gut ging.</p>
+                        <pb n="11v"/>
+                    </div>
+                    <div n="1849-10-03">
+                        <head><date>1849-10-03</date></head>
+                        <p>Mitt 3</p>
+                        <p>Ich spielte heute Abend zum ersten Male mit H Hilf?? Quartette, von Mozart, Haydn u. Beethoven <!-- durch zahlen 1 und 2 Reihenfolge Mozart und Haydn vertauscht -->, die mir sehr gut gefielen. Aeolsharfe</p>
+                        <pb n="11v"/>
+                        <div n="1849-10-04">
+                            <head><date>1849-10-04</date></head>
+                            <p>Donnstg 4</p>
+                            <p>Maurer und Schlosser von Auber mitgspt.</p>
+                        </div>
+                        <div n="1849-10-09">
+                            <head><date>1849-10-09</date></head>
+                            <p>Dienstg 9</p>
+                            <p>Die Ballnacht von Auber mitgespielt.</p>
+                        </div>
+                        <div n="1849-10-15">
+                            <head><date>1849-10-15</date></head>
+                            <!-- Datum unklar!! -->
+                            <p>Sonnab. 15?</p>
+                            <p>Der Herr Kapellmeister war heute, in der 13<hi rend="sup">ten</hi> Stunde, die ich bei ihm hatte mit dem <hi rend="latintype">Rode'schen Conzerte</hi>, das ich ihm ganz vorspielte zufrieden u. nahm das 9<hi rend="sup">te</hi> Conzert von seiner Composition mit mir
+                                durch. Es ist bedeutend schwieriger als d. <hi rend="latintype">Rode</hi>'sche, <del rend="strike-through">und</del> es macht mir aber schon jetzt viel Vergnügen zu üben, da es sehr schön zu sein scheint.</p>
+                        </div>
+                        <div n="1849-10-11">
+                            <head><date>1849-10-11</date></head>
+                            <p>Donnerstag 11</p>
+                            <p>12<hi rend="sup">te</hi> Stunde bei Herrn <hi rend="latintype">Kraushaar</hi> Ich bekam heute zu erste Bässe ohn Bezeichnung der Grundaccorde auszuarbeiten. Bei meinen früheren <del rend="strike-through">beurteilten</del> Aufgaben, waren die Grundaccorde u. d.
+                                Bezifferung stets bemerkt.</p>
+                        </div>
+                        <div n="1849-10-14">
+                            <head><date>1849-10-14</date></head>
+                            <p>Sonntg 14</p>
+                            <p>Die Oper Martha von Flotow mitgespielt.</p>
+                        </div>
+                        <div n="1849-10-18">
+                            <head><date>1849-10-18</date></head>
+                            <p>Donnstg 18</p>
+                            <p>Heute Abend hörte ich die <hi rend="strike-through">schöne Oper</hi> "die Entführung" v. Mozart zum eten Male. Jedesmal wenn ich diese wundervolle Oper höre, gefällt sie mir besser.</p>
+                        </div>
+                        <div n="1849-10-23">
+                            <head><date>1849-10-23</date></head>
+                            <p>Dienstg 23</p>
+                            <p>Aloise von Maurer</p>
+                        </div>
+                        <pb n="12r"/>
+                        <div n="1849-10-25">
+                            <head><date>1849-10-25</date></head>
+                            <p>Donnstg 24</p>
+                            <p>16<hi rend="sup">te</hi> Stunde bei Herrn <hi rend="latintype">Kraushaar</hi>, der mir heute einige <hi rend="latintype">Choralmelodien</hi> zu harmonisiren aufgab.</p>
+                        </div>
+                        <div n="1849-10-27">
+                            <head><date>1849-10-27</date></head>
+                            <p>Sonnab. 27</p>
+                            <p>Ferdinand Cortez von Spontini mitgespielt</p>
+                        </div>
+                        <div n="1849-10-31">
+                            <head><date>1849-10-31</date></head>
+                            <p>Mittw 31</p>
+                            <p>Figaros Hochzeit von Mozart.</p>
+                        </div>
+                    </div>
+                    <div type="diary_month">
+                        <head><lb/>November 1849</head>
+                        <div n="1849-11-04">
+                            <head><date>1849-11-04</date></head>
+                            <head>November</head>
+                            <p>Sonntag 4</p>
+                            <p>Heute morgen in der 19<hi rend="sup">ten</hi> Stunde, die ich beim Herrn Capellmeister hatte spielte ich ihm sein 9<hi rend="sup">tes</hi> Conzert ganz vor. Ich hatte viel daran geübt so daß <hi rend="latintype">Spohr</hi> zufrieden war und die Gesangscene (sein 8<hi
+                                    rend="sup">tes</hi> Conzert) mit mir anfing. Am Abend spielte ich in der Oper "Das Diamantkreuz" von <hi rend="latintype">Solomann</hi> mit; die Oper ging heute nicht gut und fand wenig Beifall.</p>
+                        </div>
+                        <div n="1849-11-10">
+                            <head><date>1849-11-10</date></head>
+                            <p>Sonnbd 10</p>
+                            <p>In "Adlers Horst" von Glaeser mitgespielt.</p>
+                        </div>
+                    </div>
+                    <div n="1849-11-13">
+                        <head><date>1849-11-13</date></head>
+                        <p>Dienstg 13</p>
+                        <p>Heute hatte ich bei Herrn <hi rend="latintype">Kraushaar</hi> die 20<hi rend="sup">te</hi> Generalbaßstunde, in der er mit mir die <hi rend="latintype">Modulationen</hi> anfing, nebenbei muß ich noch immer Choralmelodien harmonisiren. Welches für mich eine sehr gute Übung
+                            ist und mir auch viele Freude macht. Es wird mir jetzt schon leichter als im Anfang.</p>
+                    </div>
+                    <div n="1849-11-15">
+                        <head><date>1849-11-15</date></head>
+                        <p>Donnstg 15</p>
+                        <p>Martha v. Flotow zum 2ten Male</p>
+                    </div>
+                    <div n="1849-11-22">
+                        <head><date>1849-11-22</date></head>
+                        <p>Donnstg 22</p>
+                        <p>Heute spielte ich in d. 24<hi rend="sup">sten</hi> Stunde beim H Kapellmeister das schöne 8<hi rend="sup">te</hi> Conzert ganz, <pb n="12v"/> zu seiner Zufriedenheit, worauf er sein 1<hi rend="sup">stes</hi> Concertino in <hi rend="latintype">A</hi> mit mir vornahm.</p>
+                    </div>
+                    <div n="1849-11-24">
+                        <head><date>1849-11-24</date></head>
+                        <p>Sonnbd 24</p>
+                        <p>Heute Abend hatte ich das Vergnügen in <hi rend="latintype">Spohr's</hi> herrlicher Oper <hi rend="latintype">Jessonda</hi> mitzuspielen.</p>
+                    </div>
+                    <div n="1849-11-27">
+                        <head><date>1849-11-27</date></head>
+                        <p>Diest 27.</p>
+                        <p>Die Ballnacht v. Auber zum 2ten Male gehört.</p>
+                    </div>
+                </div>
+                <div>
+                    <head>December.</head>
+                </div>
+            </div>
+            <pb/>
+            <div>
+                <p>[...]</p>
+            </div>
             <!-- ab Dezember auf der Seite nichts mehr eingetragen, es geht dann gleich weiter mit "Für die HofstaatsCasse  -->
             <!-- Auf Bl. 13r ff. folgen Ausgabenlisten (u.a. "Geige und Viola nach Cassel",  -->
- <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX --><div type="unkown"><head type="main">Notizen-Fragment zu den Erinnerungen an Johannes Brahms in Detmold</head><head><note resp="JV"> Notizen zu den späteren Erinnerungen an Brahms</note></head><!-- Achtung: nachfolgend eher alles latintype, nicht alle Streichungen erfasst --><head type="sub">Datierung: nach 1857</head><div n="19v"><!-- gehört inhaltlich zu Bl. 20r --><p>Er wohnte damals bei Frau Ministerin <hi rend="latintype">von Meysenbug</hi> deren Tochter <hi rend="latintype">Laura v. Meysenbug</hi> das Jahr zuvor <hi rend="strike-through">Schülerin</hi> in Düsseldorf ClavierUnterricht von ihm gehabt hatte.</p><p>welche ihn in der</p><lb/><!-- = alles --><pb n="20r"/></div>
-            <!-- Die folgenden Notizen am Ende (nach leeren Seiten) auf Bl. 20r, hier nur Teilweise abgeschrieben --><div n="20r"><p><unclear>Br.</unclear> kam zum 1. male nach <hi rend="latintype">Detmold </hi><subst><del rend="strike-through">im Sommer</del><add place="above">zu Anfang des Sommer 1857 </add></subst>, wo er eingeladen war in einem Hofconcerte Solo zu spielen <add place="above">und bei der Ministerin v Meysenbug wohnte, deren Tochter Frl. <hi rend="latintype">Laura v. M.</hi><unclear>drei Jahre</unclear> ..?.. in Düsseldorf ..?..</add>. Nach dem Concerte, in welchem Br. <del rend="strike-through">Alles</del> durch sein wundervolles Spiel <add place="above">Alles</add> entzückt hatte, ging noch ein Theil seiner Zuhörer mit</p><p>Ich erinnere noch, <del>daß die</del> die Ministerin<!-- durch Zahl 1 vorgesetzt --> <!-- Zahl 2: --><add>noch <unclear>ihre</unclear></add> alte Köchin kurz vor dem Concerte <subst><del>in aller Eile zu mir kam</del><add place="above"> zu mir schickte</add></subst>, <subst><del>...</del><add>um</add></subst> von mir <del rend="strike-through">der ich damals so</del> einige Garderobestücke zu leihen, da der <del>...Denen Herrschaften </del>nicht hoffähig erschienen war. <del>Es glükte auch, daß meine weisse Weste <unclear>etc</unclear> passte</del> Glücklicherweise passten die Sachen. </p><p><subst><del>?</del><add>Nach</add></subst> dem Concerte <unclear>...</unclear><add>in A. auch der damalige Hofkapellm. A. Kiel</add> mit ihm in eine Conditorei, wo eine höchst fidele Nachfeier gehalten wurde. Die animierte Gesellschaft konnte sich nicht trennen bis der <del>?</del> Hofk. Kiel, sonst einer der sesshaftesten Nacht<subst><del><unclear>schwärmer</unclear></del><add>wächter</add></subst> selber zum Aufbruch mahnte. Br. aber konnte noch nicht zu Haus finden und bat <subst><del>....</del><add>verlockte noch <unclear>zwei </unclear><unclear>junge</unclear> Leute</add></subst> die herrliche Sommernacht <subst><del>?</del><add>mit</add></subst> einem Spaziergang in den Wald zu <del>machen</del> beschl<subst><del>o</del><add>ie</add></subst>ssen. Endlich wurde <del>aber</del> er selber auch müde und suchte mit seinen Begleitern ein <del>sanftes&gt;</del> Ruheplätzchen in der <unclear>Kegelbahn</unclear> des</p>
-               
-               
-                <!-- Am Ende ca. 20 Seiten herausgerissen, Textreste erkennbar, aber Inhalt nicht zu entnehmen; Bd. hat insgesamt 4 Lagen à 8 Bl. zu Anfang, dann 12 Bl. Rest schwer zu bestimmen --></div></div></body></text></TEI>
+            <!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+            <div type="unkown">
+                <head type="main">Notizen-Fragment zu den Erinnerungen an Johannes Brahms in Detmold</head>
+                <head><note resp="JV"> Notizen zu den späteren Erinnerungen an Brahms</note></head>
+                <!-- Achtung: nachfolgend eher alles latintype, nicht alle Streichungen erfasst -->
+                <head type="sub">Datierung: nach 1857</head>
+                <div n="19v">
+                    <!-- gehört inhaltlich zu Bl. 20r -->
+                    <p>Er wohnte damals bei Frau Ministerin <hi rend="latintype">von Meysenbug</hi> deren Tochter <hi rend="latintype">Laura v. Meysenbug</hi> das Jahr zuvor <hi rend="strike-through">Schülerin</hi> in Düsseldorf ClavierUnterricht von ihm gehabt hatte.</p>
+                    <p>welche ihn in der</p>
+                    <lb/>
+                    <!-- = alles -->
+                    <pb n="20r"/>
+                </div>
+                <!-- Die folgenden Notizen am Ende (nach leeren Seiten) auf Bl. 20r, hier nur Teilweise abgeschrieben -->
+                <div n="20r">
+                    <p><unclear>Br.</unclear> kam zum 1. male nach <hi rend="latintype">Detmold </hi><subst>
+                            <del rend="strike-through">im Sommer</del>
+                            <add place="above">zu Anfang des Sommer 1857 </add>
+                        </subst>, wo er eingeladen war in einem Hofconcerte Solo zu spielen <add place="above">und bei der Ministerin v Meysenbug wohnte, deren Tochter Frl. <hi rend="latintype">Laura v. M.</hi><unclear>drei Jahre</unclear> ..?.. in Düsseldorf ..?..</add>. Nach dem Concerte, in
+                        welchem Br. <del rend="strike-through">Alles</del> durch sein wundervolles Spiel <add place="above">Alles</add> entzückt hatte, ging noch ein Theil seiner Zuhörer mit</p>
+                    <p>Ich erinnere noch, <del>daß die</del> die Ministerin<!-- durch Zahl 1 vorgesetzt -->
+                        <!-- Zahl 2: --><add>noch <unclear>ihre</unclear></add> alte Köchin kurz vor dem Concerte <subst>
+                            <del>in aller Eile zu mir kam</del>
+                            <add place="above"> zu mir schickte</add>
+                        </subst>, <subst>
+                            <del>...</del>
+                            <add>um</add>
+                        </subst> von mir <del rend="strike-through">der ich damals so</del> einige Garderobestücke zu leihen, da der <del>...Denen Herrschaften </del>nicht hoffähig erschienen war. <del>Es glükte auch, daß meine weisse Weste <unclear>etc</unclear> passte</del> Glücklicherweise
+                        passten die Sachen. </p>
+                    <p><subst>
+                            <del>?</del>
+                            <add>Nach</add>
+                        </subst> dem Concerte <unclear>...</unclear><add>in A. auch der damalige Hofkapellm. A. Kiel</add> mit ihm in eine Conditorei, wo eine höchst fidele Nachfeier gehalten wurde. Die animierte Gesellschaft konnte sich nicht trennen bis der <del>?</del> Hofk. Kiel, sonst einer der
+                        sesshaftesten Nacht<subst>
+                            <del><unclear>schwärmer</unclear></del>
+                            <add>wächter</add>
+                        </subst> selber zum Aufbruch mahnte. Br. aber konnte noch nicht zu Haus finden und bat <subst>
+                            <del>....</del>
+                            <add>verlockte noch <unclear>zwei </unclear><unclear>junge</unclear> Leute</add>
+                        </subst> die herrliche Sommernacht <subst>
+                            <del>?</del>
+                            <add>mit</add>
+                        </subst> einem Spaziergang in den Wald zu <del>machen</del> beschl<subst>
+                            <del>o</del>
+                            <add>ie</add>
+                        </subst>ssen. Endlich wurde <del>aber</del> er selber auch müde und suchte mit seinen Begleitern ein <del>sanftes&gt;</del> Ruheplätzchen in der <unclear>Kegelbahn</unclear> des</p>
+
+
+                    <!-- Am Ende ca. 20 Seiten herausgerissen, Textreste erkennbar, aber Inhalt nicht zu entnehmen; Bd. hat insgesamt 4 Lagen à 8 Bl. zu Anfang, dann 12 Bl. Rest schwer zu bestimmen -->
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

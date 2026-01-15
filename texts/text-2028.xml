@@ -1,4 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Sondershausen, 29. Juni 1835</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 5</idno></msIdentifier><physDesc><p>1 Bl., 1 b. S. o. Adr.</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2027</p></encodingDesc><revisionDesc><change when="2013-08-20" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Sondershausen, 29. Juni 1835
-                </head><opener><dateline rend="right"><hi rend="latintype">Sondershausen</hi>, d 29 / 6 35</dateline><salute>Hochzuverehrender Herr!</salute></opener><p>Ihrem Wunsche gemäß, ließ ich die mir gütigst zugeschickte Subscription in <hi rend="latintype">Detmold</hi> zirkuliren, und bin so frei, Ew: Wohlgebor: das Resultat, dieser von mir mit Freuden übernommenen kleinen Bemühung zuzusenden.</p><closer>Indem ich mich Ihrer Wohlgewogenheit fernerhin empfehle, erlauben Sie mir, Sie meiner innigsten Hochachtung versichern zu dürfen<lb/>Ew: Hochwohlgebor:<lb/><seg rend="right">Eregebenst</seg><signed><hi rend="latintype">Aug: Kiel</hi>.
-                    </signed></closer><postscript><p>Meine Eltern lassen sich Ew: Wohlgebor: bestens empfehlen.</p></postscript></div><div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348750472315/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 5</ref></p></div></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><lb/>August Kiel an Louis Spohr, Sondershausen, 29. Juni 1835</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Universitätsbibliothek Kassel</institution>
+                        <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 5</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 1 b. S. o. Adr.</p>
+                    </physDesc>
+                    <additional/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr. text-2027</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2013-08-20" who="JV">Übertragen und erstmals angelegt</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Sondershausen, 29. Juni 1835 </head>
+                <opener><dateline rend="right"><hi rend="latintype">Sondershausen</hi>, d 29 / 6 35</dateline><salute>Hochzuverehrender Herr!</salute></opener>
+                <p>Ihrem Wunsche gemäß, ließ ich die mir gütigst zugeschickte Subscription in <hi rend="latintype">Detmold</hi> zirkuliren, und bin so frei, Ew: Wohlgebor: das Resultat, dieser von mir mit Freuden übernommenen kleinen Bemühung zuzusenden.</p>
+                <closer>Indem ich mich Ihrer Wohlgewogenheit fernerhin empfehle, erlauben Sie mir, Sie meiner innigsten Hochachtung versichern zu dürfen<lb/>Ew: Hochwohlgebor:<lb/><seg rend="right">Eregebenst</seg><signed><hi rend="latintype">Aug: Kiel</hi>. </signed></closer>
+                <postscript>
+                    <p>Meine Eltern lassen sich Ew: Wohlgebor: bestens empfehlen.</p>
+                </postscript>
+            </div>
+            <div>
+                <div type="letter" subtype="facsimile">
+                    <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348750472315/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 5</ref></p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,3 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Detmold, 26. Oktober 1835</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 2</idno></msIdentifier><physDesc><p>1 Bl., 1 b. S. o. Adr.</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2016</p></encodingDesc><revisionDesc><change when="2013-08-14" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 26. Oktober 1835</head><opener><dateline><hi rend="latintype">Detmold</hi> den 26/10 35.</dateline><salute>Hochgeehrtester Herr!</salute></opener><p>Ew: Wohlgeboren erlaube ich mir, 32 rh <unclear>p: c:</unclear><note type="commentary">Preußisch Courant?</note> für 8 <hi rend="latintype">Exemplare</hi><name type="work">"des Heilands letzte Stunden"</name> zu übersenden.</p><p>Auch hier, wie überall, verehrt und liebt man in Ihnen den großen Meister. Mein herzlichster Wunsch ist, daß Sie mir immerfort Gelegenheit geben mögten, Ihnen dienen zu können, um Ihnen zu beweisen, wie sehr ich von Dankbarkeit für Sie durchdrungen bin.</p><closer>Mit der ausgezeichnetsten Hochachtung<lb/> verharre ich <lb/><seg rend="right">als Ew: Wohlgebor:</seg><seg rend="right">ergebenster</seg><signed><hi rend="latintype">Aug. Kiel.</hi>.
-                    </signed></closer></div><div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348749134278/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 2</ref></p></div></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                    <teiHeader>
+                                        <fileDesc>
+                                                            <titleStmt>
+                                                                                <title><lb/>August Kiel an Louis Spohr, Detmold, 26. Oktober 1835</title>
+                                                            </titleStmt>
+                                                            <publicationStmt>
+                                                                                <p>Publication Information</p>
+                                                            </publicationStmt>
+                                                            <sourceDesc>
+                                                                                <msDesc>
+                                                                                                    <msIdentifier>
+                                                                                                                        <institution>Universitätsbibliothek Kassel</institution>
+                                                                                                                        <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 2</idno>
+                                                                                                    </msIdentifier>
+                                                                                                    <physDesc>
+                                                                                                                        <p>1 Bl., 1 b. S. o. Adr.</p>
+                                                                                                    </physDesc>
+                                                                                                    <additional/>
+                                                                                </msDesc>
+                                                            </sourceDesc>
+                                        </fileDesc>
+                                        <encodingDesc>
+                                                            <p>Interne Text-Nr. text-2016</p>
+                                        </encodingDesc>
+                                        <revisionDesc>
+                                                            <change when="2013-08-14" who="JV">Übertragen und erstmals angelegt</change>
+                                        </revisionDesc>
+                    </teiHeader>
+                    <text>
+                                        <body>
+                                                            <div type="letter">
+                                                                                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 26. Oktober 1835</head>
+                                                                                <opener><dateline><hi rend="latintype">Detmold</hi> den 26/10 35.</dateline><salute>Hochgeehrtester Herr!</salute></opener>
+                                                                                <p>Ew: Wohlgeboren erlaube ich mir, 32 rh <unclear>p: c:</unclear><note type="commentary">Preußisch Courant?</note> für 8 <hi rend="latintype">Exemplare</hi><name type="work">"des Heilands letzte Stunden"</name> zu
+                                                                                                    übersenden.</p>
+                                                                                <p>Auch hier, wie überall, verehrt und liebt man in Ihnen den großen Meister. Mein herzlichster Wunsch ist, daß Sie mir immerfort Gelegenheit geben mögten, Ihnen dienen zu können, um Ihnen zu beweisen, wie sehr ich von
+                                                                                                    Dankbarkeit für Sie durchdrungen bin.</p>
+                                                                                <closer>Mit der ausgezeichnetsten Hochachtung<lb/> verharre ich <lb/><seg rend="right">als Ew: Wohlgebor:</seg><seg rend="right">ergebenster</seg><signed><hi rend="latintype">Aug. Kiel.</hi>. </signed></closer>
+                                                            </div>
+                                                            <div>
+                                                                                <div type="letter" subtype="facsimile">
+                                                                                                    <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348749134278/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 2</ref></p>
+                                                                                </div>
+                                                            </div>
+                                        </body>
+                    </text>
+</TEI>

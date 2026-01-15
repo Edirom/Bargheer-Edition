@@ -1,3 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title><lb/>August Kiel an Louis Spohr, Detmold, 30. Mai 1838</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>Universitätsbibliothek Kassel</institution><idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 17</idno></msIdentifier><physDesc><p>1 Bl., 2 b. S. o. Adr.</p></physDesc><additional/></msDesc></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr. text-2034</p></encodingDesc><revisionDesc><change when="2013-09-07" who="JV">Übertragen und erstmals angelegt</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 30. Mai 1838
-                </head><opener><lb/><salute>Hochverehrter Herr Kapellmeister!</salute></opener><p>Ueberbringer dieser Zeilen, ein junger sehr talentvoller schauspieler, auch ein talentvoller Musiker wünscht auf seiner Durchreise nach Weimar Ihnen verehrter Meister seine Hochachtung zu beweisen. Sein Name ist <hi rend="latintype">Haeser</hi>, dessen Vater, Musikdirektor in Weimar in der musikalischen Welt nicht unbekannt ist. Sein Wunsch Sie persönlich kennen zu lernen, war so glühend, daß ich mit Freuden ihm die Gelegenheit an die Hand gab. Mein gegenwärtiges Schreiben beabsichtigt gleichzeitig Ihnen ein Mitglied unserer Bühne vorzuführen, welches ich mit Recht Ew: Wohlgeboren empfehlen kann. Herr <hi rend="latintype">Otto</hi> begabt mit einem ausgezeichneten musikalischen Talent, und im Besitz einer Baßstimme die man höchst ausgezeichnet nennen darf. Umfang [Notenbeispiel tiefes Es, g1, gis1]<!-- noch ergänzen --> sehr metallreich. Sein Alter 28 Jahr. Was seine körperliche Bildung anbetrifft, so ist dieselbe groß und kräftig. Seine Parthien sind <hi rend="latintype">Dandau</hi>, <hi rend="latintype">Bertram</hi> in R. d. Teufe<supplied>l</supplied>, <hi rend="latintype">Osmin</hi>, <hi rend="latintype">Sarastro</hi>, <hi rend="latintype">Mephisto</hi>, <hi rend="latintype">Pontifex</hi>, <hi rend="latintype">Seneschall</hi>, <hi rend="latintype">Hieros</hi>, <hi rend="latintype">Leporello</hi> und <hi rend="latintype">Comthur</hi>, <hi rend="latintype">Podesta</hi>, <hi rend="latintype">Caspar</hi>, <hi rend="latintype">Orovist</hi> (<hi rend="latintype">Norma</hi>) nebst wenigstens 40 anderen (größeren und kleineren Parthien) in den gangbarsten Opern. Sollte es möglich sein daß Sie ihm Ende Juni, wo hier 14 Tage Ferien sind, einigemal auftreten lassen wollten, so würde er gewiß meiner Empfehlung Ehre machen. Wiedrigenfalls, wollte er, <!-- wenn --><pb n="1v"/>wenn Sie es erlaubten, in dieser Zeit die kleine Reise nach <hi rend="latintype">Cassel</hi> machen, um Ihnen etwas vorzusingen. Vielleicht, würde es für ihn in Zukunft nützlich sein.</p><closer>Mit wahrhaft tiefgefühlter Verehrung ergreife ich jede Gelegenheit, mich Ihnen theuerster Lehrer zu nähern; ich darf wohl sagen, daß es mein höchstes Vergnügen ist, Ihnen immerfort sagen zu können, wie sehr mein Herz für Sie in Dankbarkeit und Verehrung schlägt. Vielleicht bin ich so glücklich Ihnen diesen Sommer wiederum persönlich sagen zu können, wie sehr ich bin<lb/><seg>Ew: Wohlgeboren:</seg><seg rend="right">dankbarster und ergebenster</seg><signed><hi rend="latintype">AugKiel.</hi></signed><dateline><hi rend="latintype">Detmold</hi> den 30<hi rend="superscript">ten</hi><hi rend="latintype">Mai</hi> 1838</dateline></closer></div><div type="letter" subtype="facsimile"><p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348817860766/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 17</ref></p></div></body></text></TEI>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+                <teiHeader>
+                                <fileDesc>
+                                                <titleStmt>
+                                                                <title><lb/>August Kiel an Louis Spohr, Detmold, 30. Mai 1838</title>
+                                                </titleStmt>
+                                                <publicationStmt>
+                                                                <p>Publication Information</p>
+                                                </publicationStmt>
+                                                <sourceDesc>
+                                                                <msDesc>
+                                                                                <msIdentifier>
+                                                                                                <institution>Universitätsbibliothek Kassel</institution>
+                                                                                                <idno>Nachlass Spohr, 4° Ms. Hass. 287, fol. 17</idno>
+                                                                                </msIdentifier>
+                                                                                <physDesc>
+                                                                                                <p>1 Bl., 2 b. S. o. Adr.</p>
+                                                                                </physDesc>
+                                                                                <additional/>
+                                                                </msDesc>
+                                                </sourceDesc>
+                                </fileDesc>
+                                <encodingDesc>
+                                                <p>Interne Text-Nr. text-2034</p>
+                                </encodingDesc>
+                                <revisionDesc>
+                                                <change when="2013-09-07" who="JV">Übertragen und erstmals angelegt</change>
+                                </revisionDesc>
+                </teiHeader>
+                <text>
+                                <body>
+                                                <div type="letter">
+                                                                <head type="main">August Kiel an Louis Spohr in Kassel, <lb/>Detmold, 30. Mai 1838 </head>
+                                                                <opener><lb/><salute>Hochverehrter Herr Kapellmeister!</salute></opener>
+                                                                <p>Ueberbringer dieser Zeilen, ein junger sehr talentvoller schauspieler, auch ein talentvoller Musiker wünscht auf seiner Durchreise nach Weimar Ihnen verehrter Meister seine Hochachtung zu beweisen. Sein Name ist <hi rend="latintype"
+                                                                                                >Haeser</hi>, dessen Vater, Musikdirektor in Weimar in der musikalischen Welt nicht unbekannt ist. Sein Wunsch Sie persönlich kennen zu lernen, war so glühend, daß ich mit Freuden ihm die Gelegenheit an
+                                                                                die Hand gab. Mein gegenwärtiges Schreiben beabsichtigt gleichzeitig Ihnen ein Mitglied unserer Bühne vorzuführen, welches ich mit Recht Ew: Wohlgeboren empfehlen kann. Herr <hi rend="latintype">Otto</hi> begabt mit
+                                                                                einem ausgezeichneten musikalischen Talent, und im Besitz einer Baßstimme die man höchst ausgezeichnet nennen darf. Umfang [Notenbeispiel tiefes Es, g1, gis1]<!-- noch ergänzen --> sehr metallreich. Sein Alter 28 Jahr.
+                                                                                Was seine körperliche Bildung anbetrifft, so ist dieselbe groß und kräftig. Seine Parthien sind <hi rend="latintype">Dandau</hi>, <hi rend="latintype">Bertram</hi> in R. d. Teufe<supplied>l</supplied>, <hi
+                                                                                                rend="latintype">Osmin</hi>, <hi rend="latintype">Sarastro</hi>, <hi rend="latintype">Mephisto</hi>, <hi rend="latintype">Pontifex</hi>, <hi rend="latintype">Seneschall</hi>, <hi rend="latintype"
+                                                                                                >Hieros</hi>, <hi rend="latintype">Leporello</hi> und <hi rend="latintype">Comthur</hi>, <hi rend="latintype">Podesta</hi>, <hi rend="latintype">Caspar</hi>, <hi rend="latintype">Orovist</hi> (<hi
+                                                                                                rend="latintype">Norma</hi>) nebst wenigstens 40 anderen (größeren und kleineren Parthien) in den gangbarsten Opern. Sollte es möglich sein daß Sie ihm Ende Juni, wo hier 14 Tage Ferien sind, einigemal
+                                                                                auftreten lassen wollten, so würde er gewiß meiner Empfehlung Ehre machen. Wiedrigenfalls, wollte er, <!-- wenn --><pb n="1v"/>wenn Sie es erlaubten, in dieser Zeit die kleine Reise nach <hi rend="latintype">Cassel</hi>
+                                                                                machen, um Ihnen etwas vorzusingen. Vielleicht, würde es für ihn in Zukunft nützlich sein.</p>
+                                                                <closer>Mit wahrhaft tiefgefühlter Verehrung ergreife ich jede Gelegenheit, mich Ihnen theuerster Lehrer zu nähern; ich darf wohl sagen, daß es mein höchstes Vergnügen ist, Ihnen immerfort sagen zu können, wie sehr mein Herz für Sie in
+                                                                                Dankbarkeit und Verehrung schlägt. Vielleicht bin ich so glücklich Ihnen diesen Sommer wiederum persönlich sagen zu können, wie sehr ich bin<lb/><seg>Ew: Wohlgeboren:</seg><seg rend="right">dankbarster und
+                                                                                                ergebenster</seg><signed><hi rend="latintype">AugKiel.</hi></signed><dateline><hi rend="latintype">Detmold</hi> den 30<hi rend="superscript">ten</hi><hi rend="latintype">Mai</hi> 1838</dateline></closer>
+                                                </div>
+                                                <div type="letter" subtype="facsimile">
+                                                                <p><lb/>Faksimile: <ref target="http://orka.bibliothek.uni-kassel.de/viewer/image/1348817860766/1/" type="external">Universitätsbibliothek Kassel, Nachlass Spohr, 4° Ms. Hass. 287, fol. 17</ref></p>
+                                                </div>
+                                </body>
+                </text>
+</TEI>

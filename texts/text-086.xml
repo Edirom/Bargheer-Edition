@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd"><teiHeader><fileDesc><titleStmt><title>Theodor Storm an Constanze Storm, Berlin, 24. November 1853</title><author>Storm, Theodor</author></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><bibl>Theodor Storm – Constanze Storm. Briefwechsel. Kritische Ausgabe, hg. von Regina Fasold, Berlin: Erich Schmidt, 2009 (= Storm-Briefwechsel, Bd. 18)</bibl></sourceDesc></fileDesc><encodingDesc><p>Interne Text-Nr.: text-086</p></encodingDesc><revisionDesc><change when="2011-07-30" who="AS">Brieftexteingabe</change></revisionDesc></teiHeader><text><body><div type="letter"><head type="main">Theodor Storm an Constanze Storm, Berlin, 24. November 1853</head><opener><date when="1853-11-24" rend="right">Berlin, d. 24 Novb. 1853.</date><salute>Meine Constanze,</salute></opener><p>Lies diesen Brief wieder einmal allein, wie vor Zeiten, wenn Du meinen Brief [...]</p><p>[...] </p><p>Auch bitte ich Dich das Rösesche Manuskript<note>Ferdinand Röse, St.s Jugendfreund aus der Lübecker Gymnasialzeit, war Anfang 1853 nach "zwölfjähriger, gänzlicher Entfremdung" wieder in Verbindung mit St. getreten. Wahrscheinlich war das Erscheinen St.s erster Gedichtausgabe der Anlass (vgl. Carl T. Litzmann: Emanuel Geibel. Aus Erinnerungen, Briefen und Tagebüchern. Berlin 1887, S. 89). Röse arbeitete zu dieser Zeit intensiv an seinem Hauptwerk, der "Individualitätsphilosophie", deren Einleitung, die "Psychologie", 1856 in Göttingen bei Wigand erschien [...].</note> von der Wendebornsch. Buchhandlg holen zu lassen; an Beccau hast Du der Hilmers gegenüber wohl gedacht.</p><p>Grüße Scherffs, und sage Ihnen, nach Deiner Ankunft hier, würde meinerseits eine hübsche Sendg an sie abgehen.</p><closer><salute>
-                    Und nun komm, komm, daß ich wieder Ruhe finde.
-                </salute><signed rend="right">ewig Dein<lb/>
-                        Theodor.</signed></closer></div></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="tei_all.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Theodor Storm an Constanze Storm, Berlin, 24. November 1853</title>
+                <author>Storm, Theodor</author>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Theodor Storm – Constanze Storm. Briefwechsel. Kritische Ausgabe, hg. von Regina Fasold, Berlin: Erich Schmidt, 2009 (= Storm-Briefwechsel, Bd. 18)</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Interne Text-Nr.: text-086</p>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2011-07-30" who="AS">Brieftexteingabe</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="letter">
+                <head type="main">Theodor Storm an Constanze Storm, Berlin, 24. November 1853</head>
+                <opener><date when="1853-11-24" rend="right">Berlin, d. 24 Novb. 1853.</date><salute>Meine Constanze,</salute></opener>
+                <p>Lies diesen Brief wieder einmal allein, wie vor Zeiten, wenn Du meinen Brief [...]</p>
+                <p>[...] </p>
+                <p>Auch bitte ich Dich das Rösesche Manuskript<note>Ferdinand Röse, St.s Jugendfreund aus der Lübecker Gymnasialzeit, war Anfang 1853 nach "zwölfjähriger, gänzlicher Entfremdung" wieder in Verbindung mit St. getreten. Wahrscheinlich war das Erscheinen St.s erster Gedichtausgabe der
+                        Anlass (vgl. Carl T. Litzmann: Emanuel Geibel. Aus Erinnerungen, Briefen und Tagebüchern. Berlin 1887, S. 89). Röse arbeitete zu dieser Zeit intensiv an seinem Hauptwerk, der "Individualitätsphilosophie", deren Einleitung, die "Psychologie", 1856 in Göttingen bei Wigand
+                        erschien [...].</note> von der Wendebornsch. Buchhandlg holen zu lassen; an Beccau hast Du der Hilmers gegenüber wohl gedacht.</p>
+                <p>Grüße Scherffs, und sage Ihnen, nach Deiner Ankunft hier, würde meinerseits eine hübsche Sendg an sie abgehen.</p>
+                <closer><salute> Und nun komm, komm, daß ich wieder Ruhe finde. </salute><signed rend="right">ewig Dein<lb/> Theodor.</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
