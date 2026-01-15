@@ -29,7 +29,7 @@ RUN ant
 # Now running the eXist-db
 # and adding our freshly built xar-packages
 #########################
-FROM stadlerpeter/existdb:4
+FROM stadlerpeter/existdb:5
 
 # add specific settings for this app 
 # For more details about the options see  
