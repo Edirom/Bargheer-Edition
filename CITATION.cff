@@ -1,0 +1,67 @@
+cff-version: 1.2.0
+title: Edition der Bargheer Fiedellieder
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Kostadin
+    family-names: Delinikolov
+  - given-names: Andreas
+    family-names: Fukerider
+  - given-names: Joachim
+    family-names: Iffland
+  - given-names: Ran
+    family-names: Mo
+    orcid: 'https://orcid.org/0000-0002-4087-0161'
+  - given-names: Stefanie
+    family-names: Rauch
+  - given-names: Agnes
+    family-names: Seipelt
+    orcid: 'https://orcid.org/0000-0002-4250-6937'
+  - given-names: Joachim
+    family-names: Veit
+    orcid: 'https://orcid.org/0000-0003-2657-4072'
+  - given-names: Johannes
+    family-names: Kepper
+    orcid: 'https://orcid.org/0000-0003-4891-260X'
+  - given-names: Daniel
+    family-names: Röwenstrunk
+    orcid: 'https://orcid.org/0000-0001-6271-2095'
+  - given-names: Benjamin Wolff
+    family-names: Bohl
+    orcid: 'https://orcid.org/0000-0001-7217-9167'
+  - given-names: Maja
+    family-names: Hartwig
+  - given-names: Kristina
+    family-names: Richts
+    orcid: 'https://orcid.org/0000-0001-8569-1995'
+identifiers:
+  - type: doi
+    value: https://doi.org/10.5281/zenodo.18315234
+repository-code: 'https://github.com/Edirom/Bargheer-Edition'
+url: 'https://bargheer.edirom.de/'
+abstract: >-
+  Die vorliegende Edition der Bargheer Fiedellieder entstand
+  aus einer Zusammenarbeit des Musikwissenschaftlichen
+  Seminars Detmold/Paderborn mit der Lippischen
+  Landesbibliothek Detmold und dem Landesarchiv NRW,
+  Abteilung Ostwestfalen-Lippe. Sie wurde mit Hilfe von
+  TextGrid vorbereitet und in der technischen Konzeption und
+  Umsetzung vom DFG-Projekt Edirom betreut.
+
+  Die digitale Edition der Bargheer Fiedellieder beinhaltet
+  einen ausführlichen Kritischen Bericht, der auch die
+  komplizierte Genese bzw. den Überarbeitungsprozess dieser
+  Lieder im Detail verdeutlichen will. Darüber hinaus werden
+  zahlreiche Informationen und Dokumente bereitgestellt, die
+  über den engeren Gegenstand dieser Fiedellieder
+  hinausgehen und Bargheers Biographie, aber auch seine
+  Rolle im Musikleben, speziell seine Zeit in der Detmolder
+  Hofkapelle und die Kontakte zu Johannes Brahms,
+  beleuchten. Dabei sind in erster Linie Briefe und
+  Archivalien, aber auch bildliche Zeugnisse aufgenommen.
+license: CC-BY-4.0
+commit: abcdef
+version: 'v2026.2'
+date-released: '2026-02-28'
