@@ -1999,7 +1999,7 @@
                      <title xml:lang="en"></title>
                      <p>In A2 hat Bargheer das Akzidens vor der 5. Note der lH aus KA-en nicht übernommen; es wurde - vermutlich nicht von Bargheer - mit Bleistift ergänzt und von den Hg. in den Edierten Text übernommen.</p>
                   </annot>
-                  <annot class="#ediromAnnotPrio2 ##annotation.category.Harmony annotation.category.Correction"
+                  <annot class="#ediromAnnotPrio2 #annotation.category.Harmony #annotation.category.Correction"
                          type="editorialComment"
                          xml:id="Lied5_011"
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_c8f9ec4c-1003-4baa-bc4f-5dfbc3ec1edb xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_fb1d957b-5478-4c46-ab64-3e055a5503f4 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv5Measure8">
