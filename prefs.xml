@@ -1,22 +1,7 @@
 <!--
- *  Edirom Edition Example
+ *  Bargheer-Edition
  *  Copyright (C) 2026 Virtueller Forschungsverbund Edirom <info@edirom.de>
  *  http://www.edirom.de
- *
- *  Edirom Online is free software: you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation, either version 3 of the License, or
- *  (at your option) any later version.
- *
- *  Edirom Online is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *  GNU General Public License for more details.
- *
- *  You should have received a copy of the GNU General Public License
- *  along with Edirom Online.  If not, see <http://www.gnu.org/licenses/>.
- *
- *  ID: $Id$
  -->
 <?xml-model href="https://raw.githubusercontent.com/Edirom/edirom-edition-schema/develop/prefs/v1.0/prefs.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/Edirom/edirom-edition-schema/develop/prefs/v1.0/prefs.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -27,7 +12,6 @@
         <entry key="annotation_layout" value="EdiromOnline.view.window.annotationLayouts.AnnotationLayout1"/>
         <entry key="image_server" value="openseadragon"/>
         <entry key="image_prefix" value="https://bargheer.edirom.de/Scaler/IIIF/"/>
-        <!-- <entry key="edition_path" value="/db/apps/edirom/edition-example/content/ediromEditions/"/> -->
         <entry key="edition_path" value="/db/apps/Bargheer-Edition/"/>
     </entries>
 
