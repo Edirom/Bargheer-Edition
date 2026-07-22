@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei"
      xmlns:xlink="http://www.w3.org/1999/xlink"
      xml:id="edirom_work_2c574d8e-fbb7-44b6-bc73-f1b5715621e8"
-     meiversion="2012">
+     meiversion="5.0">
    <meiHead>
       <fileDesc>
          <titleStmt>
-                <!-- am 8. 12. 2012 Revision angefangen, Lied 1, 2, 3 in der hier angegebenen Reihenfolge komplett korrigiert, veit: Unbedingt noch Regeln: Auszeichnung, Notensymbole -->
-            <title/>
+               <title xml:lang="de">Werkdatei zu Bargheer Edition</title>
+               <title xml:lang="en">Work file for Bargheer Edition</title>
          </titleStmt>
+         <editionStmt>
+               <edition>Bargheer Edition mit Edirom Online</edition>
+         </editionStmt>
          <pubStmt/>
+         <!--
+            Change history:
+            * 2024-06-10 Joachim Veit: Korrektur der Kategorie-IDs in den Anmerkungen
+            * 2026-07-22 Daniel Jettka: Korrekturen der Annotationskategorien; Ergänzung von lokalisierten Titeln
+         -->
       </fileDesc>
       <encodingDesc>
          <classDecls>
@@ -113,17 +123,19 @@
       </encodingDesc>
       <workList>
          <work>
-            <titleStmt>
-               <title xml:lang="de">Fiedellieder für Bariton, Violine und Klavier nach Texten von Theodor Storm<!-- (alt: test2)--></title>
-               <title xml:lang="en">Fiedellieder for Baritone, Violin and Piano after texts by Theodor Storm<!-- (alt: test2)--></title>
-               <respStmt>
-                  <persName role="composer">Carl Louis Bargheer</persName>
-                  <persName role="poet">Theodor Storm</persName>
-                  <persName role="editors">Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie Rauch, Agnes Seipelt und Joachim Veit</persName>
-                  <persName role="publisher">Print-Edition des Notentextes: Carus-Verlag, Stuttgart CV-Nr. 05.303/00 (2012)</persName>
-               </respStmt>
-            </titleStmt>
-            <notesStmt>
+            <title xml:lang="de">Fiedellieder für Bariton, Violine und Klavier nach Texten von Theodor Storm<!-- (alt: test2)--></title>
+            <title xml:lang="en">Fiedellieder for Baritone, Violin and Piano after texts by Theodor Storm<!-- (alt: test2)--></title>
+            <composer>Carl Louis Bargheer</composer>
+            <author>Theodor Storm</author>
+            <editor>Kostadin Delinikolov</editor>
+            <editor>Andreas Fukerider</editor>
+            <editor>Joachim Iffland</editor>
+            <editor>Ran Mo</editor>
+            <editor>Stefanie Rauch</editor>
+            <editor>Agnes Seipelt</editor>
+            <editor>Joachim Veit</editor>
+            <sponsor>Print-Edition des Notentextes: Carus-Verlag, Stuttgart CV-Nr. 05.303/00 (2012)</sponsor>
+             <notesStmt>
                <annot type="criticalCommentary">
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction #annotation.category.Music"
                          type="editorialComment"
@@ -133,7 +145,7 @@
                      <title xml:lang="en"></title>
                      <p>In K_s2 standen ursprünglich auf Zählzeit 4 <rend fontfam="musicFont">𝅘𝅥</rend>
                         <!--Hexadezimalcodes mit A bis F brauchen ein x -->
-                        <rend fontstyle="ital">D</rend>-<rend fontstyle="ital">d</rend>, die jedoch ausrasiert und durch <rend fontstyle="ital">G</rend>-<rend fontstyle="ital">g</rend> überschrieben wurden.</p>
+                        <rend fontstyle="italic">D</rend>-<rend fontstyle="italic">d</rend>, die jedoch ausrasiert und durch <rend fontstyle="italic">G</rend>-<rend fontstyle="italic">g</rend> überschrieben wurden.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction #annotation.category.Music"
                          type="editorialComment"
@@ -141,10 +153,10 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_0ffe6651-e5b8-4b92-a59a-54ba93c8395c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_96b30b2e-6126-4bcb-948c-5ca68c7921b7 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure11">
                      <title xml:lang="de">Korrekturen in T. 11 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 standen ursprünglich auf Zählzeit 1 und 4 jeweils zwei 16-tel <rend fontfam="musicFont"></rend> (<rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend>, <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">2</rend> bzw. <rend fontstyle="ital">a</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">h</rend>
+                     <p>In K_s2 standen ursprünglich auf Zählzeit 1 und 4 jeweils zwei 16-tel <rend fontfam="musicFont"></rend> (<rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend>, <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">2</rend> bzw. <rend fontstyle="italic">a</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">h</rend>
                         <rend rend="sup">1</rend>), die jedoch ausrasiert wurden. Offensichtlich wurden in diesem Zuge auch die über je 3 Noten reichenden Bögen mit Bleistift durch die spätere Artikulation ersetzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction"
@@ -270,9 +282,9 @@
                      <title xml:lang="de">Notensatz in T. 41 Vl und rH</title>
                      <title xml:lang="en"></title>
                      <p>In K_s2 sind in beiden Stimmen mit Bleistift Noten ergänzt worden. Während die Violinpartie noch mit der ursprünglichen Fassung in die separate Solostimme A3 übernommen wurde und dort die gleichen Bleistiftergänzungen aufweist, sind diese in A2 als ausgeschriebener
-                                Notentext zu finden. Außerdem wurde die Bogensetzung gegenüber K_s2 verändert und der Fingersatz nicht übernommen.<lb/> Die Bleistiftänderungen im Pf rH (übergebundenes <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">2</rend> plus <rend fontstyle="ital">cis</rend>
-                        <rend rend="sup">2</rend> erst auf der letzten Achtel) von K_s2 wurden in A2 nicht übernommen, ebensowenig aber der ursprüngliche Notentext aus zwei punktierten Viertel. Stattdessen wurde nun eine punktierten Halbe <rend fontstyle="ital">d</rend>
+                                Notentext zu finden. Außerdem wurde die Bogensetzung gegenüber K_s2 verändert und der Fingersatz nicht übernommen.<lb/> Die Bleistiftänderungen im Pf rH (übergebundenes <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">2</rend> plus <rend fontstyle="italic">cis</rend>
+                        <rend rend="sup">2</rend> erst auf der letzten Achtel) von K_s2 wurden in A2 nicht übernommen, ebensowenig aber der ursprüngliche Notentext aus zwei punktierten Viertel. Stattdessen wurde nun eine punktierten Halbe <rend fontstyle="italic">d</rend>
                         <rend rend="sup">2</rend> notiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Dynamics"
@@ -292,13 +304,13 @@
                      <p>In K_s2 ist der ursprüngliche Notentext von K_s1 großflächig überklebt und der gesamte Schlussabschnitt (der in K_s1 als "animato" bezeichnet ist und im letzten Takt der Wiederholung keine zweite Version enthält) von Bargheer grundlegend überarbeitet.<lb/> Während die
                                 Gerüstharmonien in der Version K_s2 im wesentlichen identisch sind, wurde insbesondere in den Mittelstimmen und in der Violinstimme erheblich eingegriffen. Dabei machen etliche Korrekturspuren in der Überklebung deutlich, dass Bargheer offensichtlich mehrfach
                                 revidierte bis er zur endgültigen Version fand.<lb/> Verändert sind im einzelnen: In K_s2: Die erste Note der Vl in T. 46 und 48 war ursprünglich als Achtelnote notiert und wurde dann erst zu einem Vorschlag zur eingefügten Note der höheren Oktave verändert. Im
-                                vorletzten Takt der Vl sind die ursprünglichen Noten nicht mehr eindeutig entzifferbar, in Klammer 1 und 2 stand zunächst jeweils Viertelnote <rend fontstyle="ital">g</rend> gefolgt von 2 Viertelpausen. In T. 46 Pf ist der ursprüngliche Notentext nicht mehr zu
-                                erkennen, ebenso in T. 48. In T. 49 lH standen zunächst halbe Noten, die zu Vierteln überschrieben sind (die Pausen sind entsprechend ergänzt). In T. 51 lauteten die ersten beiden Noten der Oberstimme zunächst <rend fontstyle="ital">d</rend>
+                                vorletzten Takt der Vl sind die ursprünglichen Noten nicht mehr eindeutig entzifferbar, in Klammer 1 und 2 stand zunächst jeweils Viertelnote <rend fontstyle="italic">g</rend> gefolgt von 2 Viertelpausen. In T. 46 Pf ist der ursprüngliche Notentext nicht mehr zu
+                                erkennen, ebenso in T. 48. In T. 49 lH standen zunächst halbe Noten, die zu Vierteln überschrieben sind (die Pausen sind entsprechend ergänzt). In T. 51 lauteten die ersten beiden Noten der Oberstimme zunächst <rend fontstyle="italic">d</rend>
                         <rend rend="sup">1</rend>,
-                                    <rend fontstyle="ital">g</rend>
+                                    <rend fontstyle="italic">g</rend>
                         <rend rend="sup">1</rend> (vgl. K_s1). In Klammer 1 und 2 waren in der rH zunächst mit Bleistift Einträge vorgenommen, die nicht mehr eindeutig entzifferbar sind, nach dem zweiten Doppeltaktstrich ist ein weiterer Takt skizziert, der
                                 so nicht übernommen wurde.<lb/> Zusätzlich finden sich in beiden Quellen (K_s2 und A2) in T. 51 im Klavier Fingersätze mit Bleistift nachgetragen. In T. 52 1mo ist in A2 im Klavier mit Bleistift die Anweisung "ruhig" ergänzt. Bei der Übertragung nach A2 wurde außerdem
-                                in T. 50 in der linken Hand der Punkt hinter dem <rend fontstyle="ital">e</rend> vergessen, dieser wurde in der Edition ohne Kennzeichnung ergänzt. Im Zuge der Überarbeitung sind in K_s2 in T. 49-52 auch Dynamikangaben eingefügt worden, die dann nach A2 übernommen
+                                in T. 50 in der linken Hand der Punkt hinter dem <rend fontstyle="italic">e</rend> vergessen, dieser wurde in der Edition ohne Kennzeichnung ergänzt. Im Zuge der Überarbeitung sind in K_s2 in T. 49-52 auch Dynamikangaben eingefügt worden, die dann nach A2 übernommen
                                 wurden.<lb/> In T. 45 sind in A2 mit Tinte ein "f" in der im oberen System notierten Vl sowie mit Bleistift ein "mf" im Klavier ergänzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Correction"
@@ -374,8 +386,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_f78b91e9-910d-4a76-8277-eaee36b20447 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_0ffe6651-e5b8-4b92-a59a-54ba93c8395c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8a71f124-4168-47e1-ae23-032918a674dd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_96b30b2e-6126-4bcb-948c-5ca68c7921b7 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure10 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure11">
                      <title xml:lang="de">Korrektur in T. 10-11 Pf rH von K_s2</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 standen ursprünglich als obere Noten in T. 10b und 11a <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend> und <rend fontstyle="ital">c</rend>
+                     <p>In K_s2 standen ursprünglich als obere Noten in T. 10b und 11a <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend> und <rend fontstyle="italic">c</rend>
                         <rend rend="sup">2</rend>; die Noten sind Bleistift gestrichen und nach unten oktaviert, so wie sie dann auch in
                                 A2 übernommen wurden (vgl. auch die Korrekturen der Vl T. 11)</p>
                   </annot>
@@ -385,8 +397,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_c0519bb0-bdfa-4e2a-99c5-8c7f484b20c5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_aa133a16-3fe5-4e22-9bc3-26467c60f28e xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure20">
                      <title xml:lang="de">Notensatz T. 20 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 sind in der Mittelstimme die Noten <rend fontstyle="ital">g</rend>
-                        <rend rend="sup">1</rend> und <rend fontstyle="ital">fis</rend>
+                     <p>In K_s2 sind in der Mittelstimme die Noten <rend fontstyle="italic">g</rend>
+                        <rend rend="sup">1</rend> und <rend fontstyle="italic">fis</rend>
                         <rend rend="sup">1</rend> noch nicht vorhanden. Außerdem wurde in A2 in der linken Hand ein Haltebogen ergänzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction"
@@ -395,7 +407,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_aa133a16-3fe5-4e22-9bc3-26467c60f28e xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure20">
                      <title xml:lang="de">Bleistifteintragung T. 20 Pf von A2</title>
                      <title xml:lang="en"></title>
-                     <p>Über dem System der rH ist in A2 mit Bleistift undeutlich der Buchstabe "<rend fontstyle="ital">h</rend>" eingetragen. Möglicherweise sollte der Grundton des H-Dur-Septnon-Akkords hier eingefügt werden.</p>
+                     <p>Über dem System der rH ist in A2 mit Bleistift undeutlich der Buchstabe "<rend fontstyle="italic">h</rend>" eingetragen. Möglicherweise sollte der Grundton des H-Dur-Septnon-Akkords hier eingefügt werden.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction"
                          type="editorialComment"
@@ -403,8 +415,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_6ca830a8-064f-441a-88d8-d9fb0e7a04ed xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure27">
                      <title xml:lang="de">Korrektur in T. 27 Pf rH in K_s1 (= A2 T. 23)</title>
                      <title xml:lang="en"></title>
-                     <p>Die untere Note der rH von K_s1 war ursprünglich <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">1</rend> notiert; sie ist gelöscht und durch <rend fontstyle="ital">dis</rend>
+                     <p>Die untere Note der rH von K_s1 war ursprünglich <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">1</rend> notiert; sie ist gelöscht und durch <rend fontstyle="italic">dis</rend>
                         <rend rend="sup">1</rend> ersetzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Dynamics"
@@ -469,10 +481,10 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_4b54ee17-80b3-4869-af7f-3cfa779d8571 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_9101c072-c01b-4a46-bdef-38ed0c3cb0e2 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure1">
                      <title xml:lang="de">Rhythmus, Rasur T. 1 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 ist der Rhythmus der rH am Ende von T. 1 abweichend notiert (<rend fontstyle="ital">e</rend>
+                     <p>In K_s2 ist der Rhythmus der rH am Ende von T. 1 abweichend notiert (<rend fontstyle="italic">e</rend>
                         <rend rend="sup">1</rend> zweistimmig und zu T. 2 übergebunden, so dass dort zusätzlich die Akkordquinte erklingt).In K_s2 waren in der Oberstimme der rH am Taktende
-                                zwei Achtel (<rend fontstyle="ital">g</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">h</rend>
+                                zwei Achtel (<rend fontstyle="italic">g</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">h</rend>
                         <rend rend="sup">1</rend>) notiert und sind ausradiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Bogensetzung #annotation.category.Correction #annotation.category.Harmony"
@@ -482,10 +494,10 @@
                      <title xml:lang="de">Tonsatz, Bogensetzung, Rasur T. 2</title>
                      <title xml:lang="en"></title>
                      <p>Vier Stufen der Überarbeitung sind hier in den Manuskripten zu erkennen:<lb/> 1. Die Ersetzung des ursprünglichen Taktes aus K_s1 in K_s2 (Vl und rH), dabei Vl ohne Artikulationsangaben<lb/> 2. Die Übertragung dieser Version nach A2<lb/> 3. Die Rasur der 3. und 4. Note
-                                    (<rend fontstyle="ital">a</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend>) und deren Ersetzung durch <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend> und <rend fontstyle="ital">d</rend>
+                                    (<rend fontstyle="italic">a</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend>) und deren Ersetzung durch <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend> und <rend fontstyle="italic">d</rend>
                         <rend rend="sup">2</rend>
                                 sowie die Ergänzung der Bögen.<lb/> 4. Die Übernahme dieser Version in die separate Violinstimme A3 und die Zufügung des äußeren Bogens mit Punkt. </p>
                   </annot>
@@ -496,8 +508,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_19766c8c-28aa-4ac0-9aed-b913b5a4d025 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8c6b0bc0-a525-4ca0-bdf9-c22eba1fe3ef xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure2">
                      <title xml:lang="de">Rasur, Überschreibung T. 2 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 in der rH Rasur am Beginn des Taktes in der Oberstimme (ursprünglich wohl <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend>): das offeinsichtlich als Ersatz eingetragene <rend fontstyle="ital">c</rend>
+                     <p>In K_s2 in der rH Rasur am Beginn des Taktes in der Oberstimme (ursprünglich wohl <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend>): das offeinsichtlich als Ersatz eingetragene <rend fontstyle="italic">c</rend>
                         <rend rend="sup">1</rend> war zunächst mit Bleistift
                                 notiert und ist in Tinte überschrieben.</p>
                   </annot>
@@ -514,11 +526,11 @@
                      <title xml:lang="de">Tonsatz, Rasur T. 4 Vl</title>
                      <title xml:lang="en"></title>
                      <p>Wiederum sind mehrere Stufen der Überarbeitung dieses Taktes in den Quellen dokumentiert:<lb/> Die ursprünglicher Version in K_s1 weicht deutlich ab; auch in Bargheers Überklebung in K_s2 sind die ersten 6 Noten der Vl abweichend notiert (ohne Vorschlag) und zu den
-                                16tel-Noten ist kein Bogen gesetzt. In A3 standen wohl zunächst vier 16tel: <rend fontstyle="ital">dis</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">fis</rend>
-                        <rend rend="sup">2</rend>, <rend fontstyle="ital">dis</rend>
-                        <rend rend="sup">2</rend>, <rend fontstyle="ital">h</rend>, die 2. Note und Teile des Balkens sind ausradiert, <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend> und <rend fontstyle="ital">fis</rend>
+                                16tel-Noten ist kein Bogen gesetzt. In A3 standen wohl zunächst vier 16tel: <rend fontstyle="italic">dis</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">fis</rend>
+                        <rend rend="sup">2</rend>, <rend fontstyle="italic">dis</rend>
+                        <rend rend="sup">2</rend>, <rend fontstyle="italic">h</rend>, die 2. Note und Teile des Balkens sind ausradiert, <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend> und <rend fontstyle="italic">fis</rend>
                         <rend rend="sup">2</rend> auf der ersten Zählzeit sind zugesetzt (die obere Note scheint mit
                                 Bleistift verdeutlicht, die Ziffern 2 2 1 und die portato-Bezeichnung sind ebenfalls in Bleistift zugefügt.</p>
                   </annot>
@@ -528,11 +540,11 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_8b72c39f-9724-4502-8e3f-53b24466e25a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_25d35f3b-e373-47bf-96af-d082bc05cee3 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure4">
                      <title xml:lang="de">Tonsatz, Rasur, Bogensetzung T. 4 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 ist der Takt in der rH zweistimmig notiert. Das als Viertel notierte <rend fontstyle="ital">fis</rend>
-                        <rend rend="sup">2</rend> war ursprünglich als <rend fontstyle="ital">h</rend>
+                     <p>In K_s2 ist der Takt in der rH zweistimmig notiert. Das als Viertel notierte <rend fontstyle="italic">fis</rend>
+                        <rend rend="sup">2</rend> war ursprünglich als <rend fontstyle="italic">h</rend>
                         <rend rend="sup">2</rend> notiert, ist aber mit Bleistift gestrichen und radiert.
-                                Der Akzent war zunächst mit Bleistift gesetzt und ist dann in Tinte überschrieben. In K_s2 ist zusätzlich ein Bogen <rend fontstyle="ital">dis</rend>
-                        <rend rend="sup">1</rend>-<rend fontstyle="ital">h</rend> eingetragen. Die p-Angaben in A2 sind von anderer Hand mit
+                                Der Akzent war zunächst mit Bleistift gesetzt und ist dann in Tinte überschrieben. In K_s2 ist zusätzlich ein Bogen <rend fontstyle="italic">dis</rend>
+                        <rend rend="sup">1</rend>-<rend fontstyle="italic">h</rend> eingetragen. Die p-Angaben in A2 sind von anderer Hand mit
                                 Bleistift nachgetragen.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Bogensetzung #annotation.category.Articulation"
@@ -557,12 +569,12 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_727abd04-b1ba-416e-b287-9b0f2632a32a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_63206b22-6d8a-4b8b-b733-94c43266f87f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_87e1a09f-8bb5-4657-b122-d30043fbbe50 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_b4ee7fdb-d107-40b9-a961-34b1bb8c988c xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure5 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure6">
                      <title xml:lang="de">Tonsatz, Bogensetzung, Korrektur T. 5-6 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In Bargheers Überklebung K_s2 weicht die rH in T. 5-6 hinsichtlich Rhythmus und Verteilung der Stimmen ab (vgl. Überbindung zu T. 6). Außerdem zeigen beide Takte hier Rasuren in der rH: Zu Ende von T. 5 waren zunächst zwei Achtel <rend fontstyle="ital">a</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend> notiert, die vermutlich in T. 6 in <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend> mündeten. Dort war die zweite Note vermutlich eine Achtel <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">1</rend>, über der 4. Note <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">1</rend> war auch <rend fontstyle="ital">a</rend>
+                     <p>In Bargheers Überklebung K_s2 weicht die rH in T. 5-6 hinsichtlich Rhythmus und Verteilung der Stimmen ab (vgl. Überbindung zu T. 6). Außerdem zeigen beide Takte hier Rasuren in der rH: Zu Ende von T. 5 waren zunächst zwei Achtel <rend fontstyle="italic">a</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend> notiert, die vermutlich in T. 6 in <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend> mündeten. Dort war die zweite Note vermutlich eine Achtel <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">1</rend>, über der 4. Note <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">1</rend> war auch <rend fontstyle="italic">a</rend>
                         <rend rend="sup">1</rend> notiert. Die Legato-Bögen in beiden Takten von K_s2 (rH und lH) waren offensichtlich zunächst mit
                                 Bleistift notiert und sind in Tinte überschrieben.</p>
                   </annot>
@@ -572,8 +584,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_9f4a52c0-a500-42ba-8051-d48ae4d0f9cc xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_ebc5bc49-24db-423b-8481-e3f304fa5cca xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_90ea1f62-92f6-4dd1-aca3-2acb55b9fed4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_0646766b-034b-4fff-a16c-afdac22fd73b xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure8">
                      <title xml:lang="de">Rhythmus, Akzidentien in T. 8 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In allen Quellen ist die Sextole der Vl ohne Ziffer notiert. In A3 ist von fremder Hand zur 10. Note (<rend fontstyle="ital">g</rend>
-                        <rend rend="sup">2</rend>) mit Bleistift ein Auflöser unter und über dem System zugesetzt (da <rend fontstyle="ital">g</rend>
+                     <p>In allen Quellen ist die Sextole der Vl ohne Ziffer notiert. In A3 ist von fremder Hand zur 10. Note (<rend fontstyle="italic">g</rend>
+                        <rend rend="sup">2</rend>) mit Bleistift ein Auflöser unter und über dem System zugesetzt (da <rend fontstyle="italic">g</rend>
                                 vorausgeht, ist dieses Warnungsakzidens überflüssig).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Lyrics"
@@ -606,8 +618,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_a5b04a72-5bfb-403b-9be9-d6e00eeae1fb xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6a322d29-d105-44e1-84aa-90fce87b8025 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure9">
                      <title xml:lang="de">Korrekturen Tonsatz T. 9 rH</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 war ursprünglich als 1. obere Note <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">2</rend> notiert (wohl als Viertel), die 2. Note <rend fontstyle="ital">h</rend>
+                     <p>In K_s2 war ursprünglich als 1. obere Note <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">2</rend> notiert (wohl als Viertel), die 2. Note <rend fontstyle="italic">h</rend>
                         <rend rend="sup">1</rend> (ebenfalls Viertel) erklang offensichtlich bereits auf Zählzeit 2.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Articulation #annotation.category.Dynamics"
@@ -616,7 +628,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_672ea2b2-339f-4d4d-9bf9-2328b89984e4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_d1705736-ab31-44dc-bf32-dafe1499fdae xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_082ec9d1-0911-41ed-862d-e03b99e793fd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_385a069d-96d3-47ed-9e7c-a61fc4759e94 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure10">
                      <title xml:lang="de">Artikulation bzw. Dynamik T. 10 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 wirkt der Akzent unter dem <rend fontstyle="ital">fis</rend>
+                     <p>In K_s2 wirkt der Akzent unter dem <rend fontstyle="italic">fis</rend>
                         <rend rend="sup">1</rend> der rH eher wie eine kleine decrescendo-Gabel (noch deutlicher in K_s1).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction"
@@ -625,7 +637,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_ba61512b-8cce-4218-8e48-44fa3b177a57 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6432ddff-63bd-424e-90b7-1c31b5bc35a4 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure11">
                      <title xml:lang="de">Korrektur Tonsatz T. 11 Vl in K_s2</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 stand als 2. Note der Vl <rend fontstyle="ital">g</rend>
+                     <p>In K_s2 stand als 2. Note der Vl <rend fontstyle="italic">g</rend>
                         <rend rend="sup">2</rend>, die Note ist offensichtlich schon im Schreibvorgang gelöscht und ersetzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Music #annotation.category.Correction #annotation.category.Rhythm"
@@ -634,9 +646,9 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_ba61512b-8cce-4218-8e48-44fa3b177a57 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6432ddff-63bd-424e-90b7-1c31b5bc35a4 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure11">
                      <title xml:lang="de">Tonsatz, Rhythmus, Korrekturen T. 11 rH</title>
                      <title xml:lang="en"></title>
-                     <p>In Bargheers Überklebung K_s2 ist die rH noch streng zweistimmig notiert, d.h. die erste obere Note als Viertel, gefolgt von 2 Viertelpausen. Ursprünglich stand in K_s2 als erste obere Note vermutlich <rend fontstyle="ital">fis</rend>
+                     <p>In Bargheers Überklebung K_s2 ist die rH noch streng zweistimmig notiert, d.h. die erste obere Note als Viertel, gefolgt von 2 Viertelpausen. Ursprünglich stand in K_s2 als erste obere Note vermutlich <rend fontstyle="italic">fis</rend>
                         <rend rend="sup">2</rend>, ist aber
-                                ausradiert; die erste untere Note war <rend fontstyle="ital">fis</rend>
+                                ausradiert; die erste untere Note war <rend fontstyle="italic">fis</rend>
                         <rend rend="sup">1</rend>, auch die übrigen Noten waren andere, sind aber so ausradiert, dass die ursprüngliche Gestalt dieses Taktes nicht mehr erkennbar ist.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Harmony"
@@ -663,9 +675,9 @@
                      <title xml:lang="de">Tonsatz, Rhythums, Bogensetzung, Korrekturen T. 13-14 rH</title>
                      <title xml:lang="en"></title>
                      <p>In Bargheers Überklebung K_s2 ist die rH in T. 13-14 wie in T. 1-2 abweichend notiert und in T. 13 ein zusätzlicher Bogen von der 1. bis zur 4. Note gesetzt (dieser war zunächst in Bleistift notiert und ist in Tinte überschrieben). Die beiden letzten Noten in T. 13
-                                waren in K_s2 offensichtlich zunächst <rend fontstyle="ital">g</rend>
-                        <rend rend="sup">1</rend> und <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend> (als Achtel), sie sind ausradiert. Als erste Note in T. 14 war entsprechend <rend fontstyle="ital">c</rend>
+                                waren in K_s2 offensichtlich zunächst <rend fontstyle="italic">g</rend>
+                        <rend rend="sup">1</rend> und <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend> (als Achtel), sie sind ausradiert. Als erste Note in T. 14 war entsprechend <rend fontstyle="italic">c</rend>
                         <rend rend="sup">2</rend> notiert und ist ebenfalls ausradiert. Die beiden Haltebögen in T. 14 (3. zur 4. Note) sind nur mit Bleistift notiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Articulation"
@@ -706,7 +718,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_b39b4f07-935d-4c0d-ba94-7057aa46a04f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_aebe9db6-a926-4ccf-ae9e-7bcf668ba4fc xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_bd8dd768-af5d-49b9-b6b1-fc4a46f97a17 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure16">
                      <title xml:lang="de">Tonsatz, Bogensetzung, Korrektur T. 16 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 und A3 sind zu Taktbeginn Sechzehntel notiert. (Die 2. Note der 2. Zählzeit lautet in K_s2 abweichend <rend fontstyle="ital">c</rend>
+                     <p>In K_s2 und A3 sind zu Taktbeginn Sechzehntel notiert. (Die 2. Note der 2. Zählzeit lautet in K_s2 abweichend <rend fontstyle="italic">c</rend>
                         <rend rend="sup">2</rend>). A2 hatte offensichtlich zunächst zu Taktbeginn die Notierung aus K_s2 übernommen, Noten und Balken
                                 sind aber radiert und in die Version des Edierten Textes verändert. In A3 ist auch zur 1. Sechzehntelgruppe ein Bogen notiert, in K_s2 stehen in diesem Takt keinerlei Bögen.</p>
                   </annot>
@@ -716,10 +728,10 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_b39b4f07-935d-4c0d-ba94-7057aa46a04f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_aebe9db6-a926-4ccf-ae9e-7bcf668ba4fc xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure16">
                      <title xml:lang="de">Rhythmus, Korrektur T. 16 rH</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 ist der Takt in der rH noch streng zweistimmig notiert: <rend fontstyle="ital">fis</rend>
+                     <p>In K_s2 ist der Takt in der rH noch streng zweistimmig notiert: <rend fontstyle="italic">fis</rend>
                         <rend rend="sup">1</rend> auf der 1. und 2. Zählzeit als Viertel, zur 3. Zählzeit entsprechend eine zusätzliche Viertel-Pause. In K_s2 war dieses 2. notierte Viertel in der
-                                Oberstimme zunächst als <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend> notiert und ist ausradiert und durch <rend fontstyle="ital">fis</rend>
+                                Oberstimme zunächst als <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend> notiert und ist ausradiert und durch <rend fontstyle="italic">fis</rend>
                         <rend rend="sup">1</rend> ersetzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Harmony"
@@ -728,8 +740,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2023b8a6-e409-47ce-af04-b6b52c8b63e9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7153502e-c1a8-4c1b-a9b4-9514a3470cc9 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure17">
                      <title xml:lang="de">Tonsatz T. 17 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 sind <rend fontstyle="ital">a</rend>
-                        <rend rend="sup">2</rend> und <rend fontstyle="ital">h</rend>
+                     <p>In K_s2 sind <rend fontstyle="italic">a</rend>
+                        <rend rend="sup">2</rend> und <rend fontstyle="italic">h</rend>
                         <rend rend="sup">2</rend> mit zusätzlicher tieferer Oktave notiert, was nicht nach A2 übernommen wurde.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Music #annotation.category.Bogensetzung #annotation.category.Correction"
@@ -738,9 +750,9 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2023b8a6-e409-47ce-af04-b6b52c8b63e9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_f1bd6c8c-6187-49f1-a5ff-fd295078fd80 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7153502e-c1a8-4c1b-a9b4-9514a3470cc9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6c31e9f7-3283-464b-9972-ec1aadaac2cb xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure17 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure18">
                      <title xml:lang="de">Tonsatz, Bogensetzung, Korrekturen T. 17-18 rH</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 ist ein zusätzlicher Bogen zur 1.-3. Note von T. 17 der rH notiert. Die Takte weichen wiederum (wie T. 5-6) von der Version von A2 ab; wie dort, waren beim Übergang von T. 17 zu T. 18 die Töne <rend fontstyle="ital">g</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">c</rend>
+                     <p>In K_s2 ist ein zusätzlicher Bogen zur 1.-3. Note von T. 17 der rH notiert. Die Takte weichen wiederum (wie T. 5-6) von der Version von A2 ab; wie dort, waren beim Übergang von T. 17 zu T. 18 die Töne <rend fontstyle="italic">g</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">c</rend>
                         <rend rend="sup">2</rend> notiert, sind ausradiert und durch die tieferen Töne ersetzt (offensichtlich zunächst in Bleistift). In T. 18 sind ebenfalls Korrekturen vorgenommen, der
                                 ursprüngliche Notentext ist jedoch nicht mehr zu erkennen. Die durch die Rasuren in T. 17-18 mit ausradierten Notenlinien sind nachgezogen.</p>
                   </annot>
@@ -750,8 +762,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2023b8a6-e409-47ce-af04-b6b52c8b63e9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_f1bd6c8c-6187-49f1-a5ff-fd295078fd80 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7153502e-c1a8-4c1b-a9b4-9514a3470cc9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6c31e9f7-3283-464b-9972-ec1aadaac2cb xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure17 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure18">
                      <title xml:lang="de">Artikulation, Bogensetzung T. 17-18 lH</title>
                      <title xml:lang="en"></title>
-                     <p>Die Ergänzungen von Artikulation bzw. Bogensetzung in T. 17-18 lH wurden vom Hg. nach K_s2 übernommen. In K-s2 wurde ein zusätzlicher Bogen von <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">1</rend>-<rend fontstyle="ital">a</rend> bis T 18 gesetzt.</p>
+                     <p>Die Ergänzungen von Artikulation bzw. Bogensetzung in T. 17-18 lH wurden vom Hg. nach K_s2 übernommen. In K-s2 wurde ein zusätzlicher Bogen von <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">1</rend>-<rend fontstyle="italic">a</rend> bis T 18 gesetzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Harmony #annotation.category.Bogensetzung"
                          type="editorialComment"
@@ -759,8 +771,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_56c6b59c-a47a-44d9-b259-74bbafe1367c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_c919fcec-747c-44ce-b2ad-49f9df05f0e1 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure19">
                      <title xml:lang="de">Tonsatz, Bogensetzung T. 19 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 steht vor dem <rend fontstyle="ital">g</rend>
-                        <rend rend="sup">2</rend> der zweiten Vorschlagsgruppe der Vl kein Auflöser. Die drittletzte Note des Taktes ist in K_s2 als <rend fontstyle="ital">h</rend>
+                     <p>In K_s2 steht vor dem <rend fontstyle="italic">g</rend>
+                        <rend rend="sup">2</rend> der zweiten Vorschlagsgruppe der Vl kein Auflöser. Die drittletzte Note des Taktes ist in K_s2 als <rend fontstyle="italic">h</rend>
                         <rend rend="sup">2</rend> notiert, entsprechend steht kein
                                 Bogen.</p>
                   </annot>
@@ -770,7 +782,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_56c6b59c-a47a-44d9-b259-74bbafe1367c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_c919fcec-747c-44ce-b2ad-49f9df05f0e1 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure19">
                      <title xml:lang="de">Rhythmus T. 19 rH</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 sind zu Taktanfang zwei Sechzehntel <rend fontstyle="ital">h</rend> statt der Achtelnote notiert, dabei ist das 2. Sechzehntel an die folgende Note angebunden.</p>
+                     <p>In K_s2 sind zu Taktanfang zwei Sechzehntel <rend fontstyle="italic">h</rend> statt der Achtelnote notiert, dabei ist das 2. Sechzehntel an die folgende Note angebunden.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Rhythm #annotation.category.Bogensetzung #annotation.category.Harmony"
                          type="editorialComment"
@@ -818,10 +830,10 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_ddbc9944-71b2-4d6a-a118-f8b580c87080 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6b7bc261-50f5-4115-b59a-fe0954a87475 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure22">
                      <title xml:lang="de">Tonsatz, Rhythmus T. 22 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>Die Sextolen der Vl sind in den Quellen wieder ohne Ziffer notiert. In K_s1 steht statt der ersten Sextole eine Variante: zwei Achtel <rend fontstyle="ital">g</rend>
+                     <p>Die Sextolen der Vl sind in den Quellen wieder ohne Ziffer notiert. In K_s1 steht statt der ersten Sextole eine Variante: zwei Achtel <rend fontstyle="italic">g</rend>
                         <rend rend="sup">2</rend> mit Vorschlasfiguren, ferner sind vor der 3. Sextole zwei Vorschlagsnoten
-                                    <rend fontstyle="ital">fis</rend>
-                        <rend rend="sup">2</rend>, <rend fontstyle="ital">g</rend>
+                                    <rend fontstyle="italic">fis</rend>
+                        <rend rend="sup">2</rend>, <rend fontstyle="italic">g</rend>
                         <rend rend="sup">2</rend> eingefügt. Alle Vorschläge sind ohne Bogen notiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Accidentals"
@@ -830,7 +842,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_3d99f44b-7036-488e-bfc1-76402adeb62e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_082c524f-5af3-404d-87c9-ae2f7b15f6a0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_551706aa-b525-42e8-98cd-141d1fdd1590 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_99d07790-7d6d-4e4a-a254-8abcf8ffc84e xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure23">
                      <title xml:lang="de">Akzidentien T. 23 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>in K_s1 ist in der Vl <rend fontstyle="ital">c</rend>
+                     <p>in K_s1 ist in der Vl <rend fontstyle="italic">c</rend>
                         <rend rend="sup">2</rend> im Gegensatz zu A2 und A3 erst beim zweiten Auftreten (8. Note) erhöht. Da sowohl A2 als auch A3 hier ein Erhöhungszeichen notieren, ist das Vorzeichen trotz der querständigen Wirkung
                                 beibehalten worden. (Der Bleistiftnachtrag eines Akzidens vor der 9. Note von A3 ist durch den Zeilenwechsel bedingt.)</p>
                   </annot>
@@ -914,7 +926,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_761540d3-f582-454e-afb6-ddb913524d4b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_9a1a1684-9656-46ce-aad6-f81190d16946 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure29">
                      <title xml:lang="de">Dynamik, Korrektur T. 29 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In A2 bleibt unklar, ob zu Taktbeginn in der rH ein Decresendo (analog T. 27) oder ein Akzent gemeint ist, in K_s1 ist eindeutig ein Akzent notiert. In K_s1 war ursprünglich zu Taktbeginn statt des Kontra-<rend fontstyle="ital">A</rend> zusätzlich <rend fontstyle="ital">a</rend> notiert, ist aber ausradiert.</p>
+                     <p>In A2 bleibt unklar, ob zu Taktbeginn in der rH ein Decresendo (analog T. 27) oder ein Akzent gemeint ist, in K_s1 ist eindeutig ein Akzent notiert. In K_s1 war ursprünglich zu Taktbeginn statt des Kontra-<rend fontstyle="italic">A</rend> zusätzlich <rend fontstyle="italic">a</rend> notiert, ist aber ausradiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Bogensetzung"
                          type="editorialComment"
@@ -947,8 +959,8 @@
                      <title xml:lang="de">Tonsatz, Dynamik, Artikulation, Korrektur T. 32 Pf</title>
                      <title xml:lang="en"></title>
                      <p>In K_s1 war ursprünglich in der rH der Akkord am Taktende als Viertel notiert, ist zur Achtel korrigiert und eine Achtelpause nachgetragen. <lb/>Zu den drei Achteln der lH am Taktende ist mit Bleistift "p" notiert, in A2 ist die Angabe in Tinte und zusätzlich nochmals
-                                in Bleistift eingetragen. In K_s1 war zur drittletzten Note ursprünglich die tiefere Oktave mitnotiert, statt der vorletzten stand dort <rend fontstyle="ital">E</rend>-<rend fontstyle="ital">H</rend> (als Viertel), beide Noten sind ausradiert. Die beiden erst dann
-                                eingetragenen Achtelnoten <rend fontstyle="ital">e</rend> und <rend fontstyle="ital">g</rend> sind hier mit zusätzlichen Staccato-Strichen versehen</p>
+                                in Bleistift eingetragen. In K_s1 war zur drittletzten Note ursprünglich die tiefere Oktave mitnotiert, statt der vorletzten stand dort <rend fontstyle="italic">E</rend>-<rend fontstyle="italic">H</rend> (als Viertel), beide Noten sind ausradiert. Die beiden erst dann
+                                eingetragenen Achtelnoten <rend fontstyle="italic">e</rend> und <rend fontstyle="italic">g</rend> sind hier mit zusätzlichen Staccato-Strichen versehen</p>
                   </annot>
                   <!-- kann weg! <annot type="editorialComment" xml:id="Lied_2_073" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_ac7ada2e-a56d-4228-8a35-fc814a20c421 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_caadf802-9ab9-4f1f-9855-5ca81ba11bc1">
                             <title xml:lang="de">Tonsatz, Dynamik, Artikulation, Korrektur T. 32 </title>
@@ -971,12 +983,12 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_caadf802-9ab9-4f1f-9855-5ca81ba11bc1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_56a13625-36ad-4b63-9074-753cce8a7b06 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_c4e09156-c0f8-44a7-b74e-baa519c6bac8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1ed883d0-6842-4298-b2ff-53f0a1fedd67 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_efc0caee-3a16-4e06-9428-5f168737ef25 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_ac7ada2e-a56d-4228-8a35-fc814a20c421 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_fc5c06e7-a1d4-42e5-be4d-6671aa07b546 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_15bf0c3a-6431-4399-be0d-dbbdf91e17cd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_b1eccea8-0a2d-4bc9-af00-5d1c75cee0cd xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure32 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure33 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure34">
                      <title xml:lang="de">Tonsatz, Korrekturen, T. 32-34 Singstimme</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 war usprünglich ein abweichender Melodieverlauf notiert, wobei mehrere Stufen der weiteren Transformation zu unterscheiden sind: <lb/> – Stufe 1: In Tinte zu Beginn T. 33 (unter der Rasur erkennbar) punktierte Achtelnote <rend fontstyle="ital">dis</rend>
-                        <rend rend="sup">1</rend>(?), 16-tel <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">1</rend>, Achtel <rend fontstyle="ital">fis</rend>
-                        <rend rend="sup">1</rend> (auf den Text: "Nun ein Lied"), in T. 34 punktierte Viertel <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">1</rend>, Achtel <rend fontstyle="ital">fis</rend>
-                        <rend rend="sup">1</rend>, Viertel <rend fontstyle="ital">g</rend>
+                     <p>In K_s1 war usprünglich ein abweichender Melodieverlauf notiert, wobei mehrere Stufen der weiteren Transformation zu unterscheiden sind: <lb/> – Stufe 1: In Tinte zu Beginn T. 33 (unter der Rasur erkennbar) punktierte Achtelnote <rend fontstyle="italic">dis</rend>
+                        <rend rend="sup">1</rend>(?), 16-tel <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">1</rend>, Achtel <rend fontstyle="italic">fis</rend>
+                        <rend rend="sup">1</rend> (auf den Text: "Nun ein Lied"), in T. 34 punktierte Viertel <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">1</rend>, Achtel <rend fontstyle="italic">fis</rend>
+                        <rend rend="sup">1</rend>, Viertel <rend fontstyle="italic">g</rend>
                         <rend rend="sup">1</rend>
                         <lb/> – Stufe 2: Die erste Note T. 33 wurde zur punktierten Viertel verändert, die 2./3. Note ausradiert, ebenso der Text,
                                 dann ein Auftakt in T. 32 eingefügt ("Nun ein") und die Silbe "Lied" zu Beginn von T. 33 als Überschreibung des vorigen ausradierten Textes eingetragen.<lb/> – Stufe 3: In A2 ist zunächst die Version von Stufe 2 übernommen, Bargheer hat die beiden Takte dann der
@@ -1039,7 +1051,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f4d866b1-2ce7-43c1-a033-60b16ae5f4cf xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure37">
                      <title xml:lang="de">Korrektur T. 37 Singstimme</title>
                      <title xml:lang="en"></title>
-                     <p>In A2 hatte Bargheer ursprünglich in der Singstimme den ersten Akkord der rH eingetragen, den Fehler beim Schreiben der 2. unteren Note (<rend fontstyle="ital">f</rend>
+                     <p>In A2 hatte Bargheer ursprünglich in der Singstimme den ersten Akkord der rH eingetragen, den Fehler beim Schreiben der 2. unteren Note (<rend fontstyle="italic">f</rend>
                         <rend rend="sup">1</rend>) bemerkt und die Noten ausradiert und ersetzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Articulation #annotation.category.Accidentals"
@@ -1056,7 +1068,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_360aa6f7-0c2b-4cf9-818c-967a154760f7 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f4d866b1-2ce7-43c1-a033-60b16ae5f4cf xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure37">
                      <title xml:lang="de">Artikulation, Korrektur T. 37 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 steht statt des "fz" ein Akzent zur 1. Note. In K_s1 war ursprünglich in der lH statt des Kontra-<rend fontstyle="ital">A</rend> die höhere Oktave <rend fontstyle="ital">a</rend> mitnotiert, ist radiert und ersetzt (vgl. ebenso T. 29).<lb/> In K_s1 ist
+                     <p>In K_s1 steht statt des "fz" ein Akzent zur 1. Note. In K_s1 war ursprünglich in der lH statt des Kontra-<rend fontstyle="italic">A</rend> die höhere Oktave <rend fontstyle="italic">a</rend> mitnotiert, ist radiert und ersetzt (vgl. ebenso T. 29).<lb/> In K_s1 ist
                                 nachträglich im Pf in der rH und lH mit Bleistift eine Markierung eingetragen, die zu Beginn von T. 41 wiederholt ist, vermutlich ist hier nachträglich eine Kürzungsmöglichkeit bezeichnet.</p>
                   </annot>
                   <!--<annot type="editorialComment" xml:id="Lied_2_092" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f4d866b1-2ce7-43c1-a033-60b16ae5f4cf xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_360aa6f7-0c2b-4cf9-818c-967a154760f7">
@@ -1071,7 +1083,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4857e327-e393-497c-bb93-38f4e62ad0f4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_449c2575-ccda-4fe3-bc29-3d0789565e34 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure38">
                      <title xml:lang="de">Korrektur T. 38 Singstimme in A2</title>
                      <title xml:lang="en"></title>
-                     <p>In A2 waren am Taktende zunächst zwei Achtelnoten notiert (<rend fontstyle="ital">ais</rend>, <rend fontstyle="ital">g</rend>), die 2. ist ausradiert und die erste in ein Viertel verwandelt (dies stimmt mit K_s1 überein).</p>
+                     <p>In A2 waren am Taktende zunächst zwei Achtelnoten notiert (<rend fontstyle="italic">ais</rend>, <rend fontstyle="italic">g</rend>), die 2. ist ausradiert und die erste in ein Viertel verwandelt (dies stimmt mit K_s1 überein).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Bogensetzung #annotation.category.Articulation"
                          type="editorialComment"
@@ -1095,10 +1107,10 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_800f1b4a-0e67-49c8-872e-688267b7744f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_575e96e0-d086-4a50-883b-70718f984a28 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure40">
                      <title xml:lang="de">Notation T. 40 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 ist die letzte 16-tel-Gruppe zunächst mit <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">2</rend>, <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">g</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">e</rend>
+                     <p>In K_s1 ist die letzte 16-tel-Gruppe zunächst mit <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">2</rend>, <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">g</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">e</rend>
                         <rend rend="sup">1</rend> notiert, über den drei letzten Noten ist eine Klammer mit "8va"-Vermerk nachgetragen.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Music #annotation.category.Correction"
@@ -1107,7 +1119,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_800f1b4a-0e67-49c8-872e-688267b7744f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_f07af48b-0aef-4ca3-9964-03ec75626939 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_575e96e0-d086-4a50-883b-70718f984a28 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7b5d6204-5888-4e0f-bafb-5602506fa7fa xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure40 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure41">
                      <title xml:lang="de">Tonsatz, Korrektur T. 40-41 lH</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 stand am Ende von T. 40 in der lH zunächst ein Achtel <rend fontstyle="ital">h</rend> und zu Beginn T. 41 eine Halbe <rend fontstyle="ital">a</rend>, beide Noten sind ausradiert und durch <rend fontstyle="ital">E</rend> bzw. Kontra-<rend fontstyle="ital">A</rend> ersetzt (zu T. 40 vgl. auch die Parallelstellen in T. 29 und 37).</p>
+                     <p>In K_s1 stand am Ende von T. 40 in der lH zunächst ein Achtel <rend fontstyle="italic">h</rend> und zu Beginn T. 41 eine Halbe <rend fontstyle="italic">a</rend>, beide Noten sind ausradiert und durch <rend fontstyle="italic">E</rend> bzw. Kontra-<rend fontstyle="italic">A</rend> ersetzt (zu T. 40 vgl. auch die Parallelstellen in T. 29 und 37).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Articulation #annotation.category.Accidentals"
                          type="editorialComment"
@@ -1123,7 +1135,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_f07af48b-0aef-4ca3-9964-03ec75626939 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7b5d6204-5888-4e0f-bafb-5602506fa7fa xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure41">
                      <title xml:lang="de">Artikulation, Korrektur T. 41 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 ist zu Taktbeginn kein Akzent eingetragen. Dort war in der lH zunächst als obere Note <rend fontstyle="ital">a</rend> notiert, die gelöscht und durch Kontra-<rend fontstyle="ital">A</rend> ersetzt wurde (vl. T. 29 und 37).</p>
+                     <p>In K_s1 ist zu Taktbeginn kein Akzent eingetragen. Dort war in der lH zunächst als obere Note <rend fontstyle="italic">a</rend> notiert, die gelöscht und durch Kontra-<rend fontstyle="italic">A</rend> ersetzt wurde (vl. T. 29 und 37).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Dynamics"
                          type="editorialComment"
@@ -1140,8 +1152,8 @@
                      <title xml:lang="de">Tonsatz, Bogensetzung, Korrektur T. 42-43 Vl</title>
                      <title xml:lang="en"></title>
                      <p>Die Bögen zum zweiten und dritten Vorschlag der Vl in T. 42 sind nach K_s1 ergänzt. In K_s1 waren die letzte 16-tel-Gruppe von T. 42 und die ersten drei 16tel von T. 43 zunächst eine Oktave höher notiert, sind aber durch ein darunter notiertes "8va" korrigiert. Die 3.
-                                Note in T. 43 ist dabei (wohl irrtümlich) als <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">2</rend> (statt <rend fontstyle="ital">e</rend>
+                                Note in T. 43 ist dabei (wohl irrtümlich) als <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">2</rend> (statt <rend fontstyle="italic">e</rend>
                         <rend rend="sup">2</rend>) notiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Harmony"
@@ -1150,8 +1162,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_82432d74-c310-4b93-bffc-d5d85ac7b74e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_45d87993-0f1c-4ce8-baff-278025098fdf xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_ce768042-fa13-48bb-884e-908142d9657a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_41a836a0-7faa-4bd6-8ba8-d9049ab5b6ad xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_d4dbdf6c-a547-428e-93e1-425ddba79e5c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_e94a945f-d6b0-4a93-b2dd-f6f0653f13a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_23a9f7b4-53e9-4e3f-a851-3a0dcf6e1d3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_8ab374db-9d9d-4167-84e2-1e27d27ca061 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_6a74e6c5-1d9c-45af-9bb3-bb4f14f94cf1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_ac4c2030-2323-4267-a2e4-22d6e266698b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_51cac7bf-0719-46d1-8466-4ca980d99c18 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cf8c036a-9005-4359-b086-14790517ca3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2e39e978-50a7-4322-b556-646e78bc2626 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_0ae0501f-b8b1-4612-94c4-994a38164d3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_b48dd686-b055-4a00-b123-53a2b8923b45 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_a4d244e6-f1ee-4927-9c80-b7705f2c9767 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_0a12b51f-e5b3-431f-bffc-10a4c4b598ff xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_57927706-5ef9-4fe1-9493-c84500fe9473 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_dc5f33cb-70ad-40f7-b5db-e87066ff9398 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_883ba69f-10ab-4a02-a109-d87f2f47de1b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_18c858ae-1e2d-45b9-904c-b6c9f2240971 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_2d6d5f28-b80b-4460-8bb4-70748082e1a5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_70d37af1-9cad-404f-8e89-0e73473589eb xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3dad7f4a-3b55-47b2-841d-6707a30ebe39 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure43 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure44 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure45 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure46 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure47 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure48">
                      <title xml:lang="de">Korrektur T. 43-48 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>Bargheers erste Überklebung (K_s2a) der T. 43-48 in K_s1 weicht nur marginal von der 2. Überklebung (K_s2b) ab: In T. 44 ist zur 3. Zählzeit der rH ein "sf" notiert, die 1. Zählzeit von T. 44 ist in der lH mit einem zusätzlichen <rend fontstyle="ital">H</rend> notiert,
-                                das "<rend fontstyle="ital">f</rend>" in diesem Takt fehlt noch, ebenso der Bogen zu den 16teln der rH in T. 44 und 45. [genauere Beschreibung folgt]</p>
+                     <p>Bargheers erste Überklebung (K_s2a) der T. 43-48 in K_s1 weicht nur marginal von der 2. Überklebung (K_s2b) ab: In T. 44 ist zur 3. Zählzeit der rH ein "sf" notiert, die 1. Zählzeit von T. 44 ist in der lH mit einem zusätzlichen <rend fontstyle="italic">H</rend> notiert,
+                                das "<rend fontstyle="italic">f</rend>" in diesem Takt fehlt noch, ebenso der Bogen zu den 16teln der rH in T. 44 und 45. [genauere Beschreibung folgt]</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Harmony"
                          type="editorialComment"
@@ -1201,9 +1213,9 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_f3559195-c118-4872-8fcf-aa8e1e181664 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_d42c0e11-7013-43c3-add7-fe97dd235c66 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_434ef075-05b2-45c1-84c0-6196edf3eae7 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_9fe144f2-3f61-4ff4-b429-f4a6097a1611 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_714c8930-3815-49ee-b46b-8644baa57968 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_b964bf6c-5e53-40ae-b1c4-2ba9acfe5171 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure5 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure6 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure7">
                      <title xml:lang="de">Korrekturen in K_s1, T. 5-7 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 sind mehrere ursprünglich notierte Noten vom Kopisten gelöscht und ersetzt bzw. überschrieben: T. 5b rH ursprünglich untere Note <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">1</rend>(?), lH <rend fontstyle="ital">d</rend> (ebenso in T. 8b); in T. 6 lH erste
-                                Note ursprünglich <rend fontstyle="ital">g</rend>, 3. Note <rend fontstyle="ital">G</rend>.</p>
+                     <p>In K_s1 sind mehrere ursprünglich notierte Noten vom Kopisten gelöscht und ersetzt bzw. überschrieben: T. 5b rH ursprünglich untere Note <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">1</rend>(?), lH <rend fontstyle="italic">d</rend> (ebenso in T. 8b); in T. 6 lH erste
+                                Note ursprünglich <rend fontstyle="italic">g</rend>, 3. Note <rend fontstyle="italic">G</rend>.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Bogensetzung"
                          type="editorialComment"
@@ -1228,7 +1240,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4487da9e-f3ab-440d-995f-28cd4e31a809 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_b5b4d39c-2458-45ca-a6e4-a336951eb371 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure8">
                      <title xml:lang="de">Rhythmik T. 8 Singstimme</title>
                      <title xml:lang="en"></title>
-                     <p>Die zweite Note <rend fontstyle="ital">g</rend>
+                     <p>Die zweite Note <rend fontstyle="italic">g</rend>
                         <rend rend="sup">1</rend> in A2 war in K_s1 noch als Viertelnote mit nachfolgender Pause notiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Bogensetzung #annotation.category.Articulation"
@@ -1255,8 +1267,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_d23792e1-4b31-4c95-8667-a0fbfa8c56b8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_ac5dbb13-9cef-45a7-ba12-8ce91932da26 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure12">
                      <title xml:lang="de">Tonsatz / Bogensetzung in T. 12 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>Wie in Lied 1, T. 20 sind in K_s1 in der rH die Töne <rend fontstyle="ital">g</rend>
-                        <rend rend="sup">1</rend> und <rend fontstyle="ital">f</rend>
+                     <p>Wie in Lied 1, T. 20 sind in K_s1 in der rH die Töne <rend fontstyle="italic">g</rend>
+                        <rend rend="sup">1</rend> und <rend fontstyle="italic">f</rend>
                         <rend rend="sup">1</rend> noch nicht vorhanden. Dort stehen in rH und lH auch keine ganztaktigen Bögen.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Correction"
@@ -1265,8 +1277,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_ba52fe19-ca40-43c2-b88b-99226af03ab8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_29190278-447e-4485-a01b-256773d536ba xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_98992b6a-b6a8-42ed-a017-9fae1a2b2abf xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_ddf2b3ec-f723-429b-893e-8fa511f98b13 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_df5f1f77-8d42-4d29-8789-6082cbda3b7f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_91d04816-da99-4514-ba18-3728d3425153 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure13 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure14 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure15">
                      <title xml:lang="de">Tonsatz, Korrekturen in T. 13-15 Pf in K_s1</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 sind mehrere Einzelnoten nachträglich gelöscht und ersetzt bzw. überschrieben: T. 13b rH untere Note ursprünglich <rend fontstyle="ital">h</rend>, lH ursprünglich <rend fontstyle="ital">H</rend>; T. 14 lH erste Note ursprünglich <rend fontstyle="ital">e</rend>,
-                                dritte Note ursprünglich <rend fontstyle="ital">E</rend>; T. 15b untere Note ursprünglich <rend fontstyle="ital">e</rend>
+                     <p>In K_s1 sind mehrere Einzelnoten nachträglich gelöscht und ersetzt bzw. überschrieben: T. 13b rH untere Note ursprünglich <rend fontstyle="italic">h</rend>, lH ursprünglich <rend fontstyle="italic">H</rend>; T. 14 lH erste Note ursprünglich <rend fontstyle="italic">e</rend>,
+                                dritte Note ursprünglich <rend fontstyle="italic">E</rend>; T. 15b untere Note ursprünglich <rend fontstyle="italic">e</rend>
                         <rend rend="sup">1</rend>
                      </p>
                   </annot>
@@ -1318,7 +1330,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_6db67770-94ef-4171-8f58-dd40ea3c37eb xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7d5bb4e3-12e6-4eb5-bc7f-7a2e5ed5f17f xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure20">
                      <title xml:lang="de">Tonsatz in T. 20 Pf, rH</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 sind in der rH die beiden unteren Noten als punktierte Halbe notiert, die Oberstimme hat statt der Achtelpause eine Achtelnote <rend fontstyle="ital">a</rend>
+                     <p>In K_s1 sind in der rH die beiden unteren Noten als punktierte Halbe notiert, die Oberstimme hat statt der Achtelpause eine Achtelnote <rend fontstyle="italic">a</rend>
                         <rend rend="sup">1</rend>.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Dynamics"
@@ -1369,7 +1381,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_311770c4-b6b5-4d10-98fe-a99781b3f1c4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_a317ebb2-39c6-44f3-b0f8-1bf180b60eee xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure31">
                      <title xml:lang="de">Tonsatz in T. 31 Pf, lH</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 ist in der zweiten Takthälfte als Oberstimme der lH eine punktierte Viertel <rend fontstyle="ital">a</rend> notiert (weiterschreitend zum <rend fontstyle="ital">ais</rend> in T. 28), jedoch keine Pause in der ersten Takthälfte. Bargheer hat in A2 nur die
+                     <p>In K_s1 ist in der zweiten Takthälfte als Oberstimme der lH eine punktierte Viertel <rend fontstyle="italic">a</rend> notiert (weiterschreitend zum <rend fontstyle="italic">ais</rend> in T. 28), jedoch keine Pause in der ersten Takthälfte. Bargheer hat in A2 nur die
                                 Unterstimme übernommen, vermutlich aber lediglich aus Unachtsamkeit vor dem Seitenumbruch nach diesem Takt. Mit Bleistift sind hier Pausen und die Note der Oberstimme nachgetragen. Vom Hg. wurde diese naheliegende, möglicherweise von Bargheers Hand stammende Korrektur
                                 übernommen.</p>
                   </annot>
@@ -1387,11 +1399,11 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_442dc8fe-4400-4583-83f2-ca4054744434 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_91749b69-23fa-423e-a115-bae122210dd9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_ff51a123-7e2d-4ec4-af89-5dfb485f8ab4 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure33">
                      <title xml:lang="de">Korrekturen in T. 33 Pf, rH und Vl</title>
                      <title xml:lang="en"></title>
-                     <p>Statt der oberen Note der rH waren in K_s1 zunächst punktierte Viertelnoten <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">2</rend> und <rend fontstyle="ital">cis</rend>
-                        <rend rend="sup">2</rend> notiert. Nachträglich ist mit Bleistift <rend fontstyle="ital">cis</rend>
-                        <rend rend="sup">2</rend> durchgestrichen und durch eine angebundene Viertelnote <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">2</rend> ersetzt, <rend fontstyle="ital">cis</rend>
+                     <p>Statt der oberen Note der rH waren in K_s1 zunächst punktierte Viertelnoten <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">2</rend> und <rend fontstyle="italic">cis</rend>
+                        <rend rend="sup">2</rend> notiert. Nachträglich ist mit Bleistift <rend fontstyle="italic">cis</rend>
+                        <rend rend="sup">2</rend> durchgestrichen und durch eine angebundene Viertelnote <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">2</rend> ersetzt, <rend fontstyle="italic">cis</rend>
                         <rend rend="sup">2</rend> ist dagegen als Achtelnote auf Zählzeit 6
                                 verschoben (dieselbe Bleistiftkorrektur findet sich auch in T. 41 von Lied 1 in K_s1). In der Vl ist die zweite Takthälfte in K_s1 abweichend notiert, zeigt aber nicht (wie in Lied 1, T. 41) Korrekturspuren; die Version von A2 und in der separaten Violinstimme A3
                                 entspricht aber der in Lied 1 notierten Endfassung. Dagegen zeigt die separate Vl-Solostimme an dieser Stelle eine Zwischenfassung: gegenüber K ist lediglich die letzte Achtel nach oben oktaviert.</p>
@@ -1402,8 +1414,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_d7520b14-09d3-4879-aecd-9d0b3039e702 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e6259474-cb70-4606-bca7-9aef7ec64eac xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_13d7e4f9-934e-4fe6-81c5-871c411febd9 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure34">
                      <title xml:lang="de">Bogensetzung, Rhyhtmik in T. 34 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s1 stand hier in der Vl ein ganztaktiger Bindebogen zwischen den Hauptnoten <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend> und <rend fontstyle="ital">h</rend>
+                     <p>In K_s1 stand hier in der Vl ein ganztaktiger Bindebogen zwischen den Hauptnoten <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend> und <rend fontstyle="italic">h</rend>
                         <rend rend="sup">1</rend>. In der separaten Vl-Stimme A3 sind statt der Vorschlagsnoten nach der
                                 punktierten Viertel reguläre 16tel-Noten (nach Viertelnote) notiert, der Bogen reicht hier bis zur 3. Note. Nachträglich wurde mit Bleistift das nicht vorhandene oder undeutlich gesetzte Auflösungszeichen ergänzt bzw. verdeutlicht.</p>
                   </annot>
@@ -1454,7 +1466,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_a5ac17e5-b880-44ea-bf8b-ae5e2cfdb3a0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_501869e1-b1a2-4fee-8eaa-29026d15f9c4 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure42">
                      <title xml:lang="de">Korrekturen in T. 42 Singstimme in A2</title>
                      <title xml:lang="en"></title>
-                     <p>Bargheer hatte hier in A2 (wie in T. 39) die zweite Note ursprünglich als <rend fontstyle="ital">d</rend>
+                     <p>Bargheer hatte hier in A2 (wie in T. 39) die zweite Note ursprünglich als <rend fontstyle="italic">d</rend>
                         <rend rend="sup">2</rend> notiert; der Ton ist hier nicht gestrichen, aber daneben mit Bleistift die tiefere Oktave (wie in K_s1) notiert. Von den Hg. wurde diese
                                 Korrektur wie in T. 39 übernommen.</p>
                   </annot>
@@ -1491,8 +1503,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_d3bd8b69-6309-4ff1-b06a-2ee3fc54224b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_676d1b59-2ce0-48d5-8668-588f00a5dd02 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure49">
                      <title xml:lang="de">Korrektur Tonsatz T. 49 Pf in K_s2</title>
                      <title xml:lang="en"></title>
-                     <p>In K_s2 stand in der rH in der zweiten Takthälfte als Unterstimme ein Viertel <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">1</rend>, dies wurde mit Bleistift durchgestrichen. In der lH stand dort zunächst als Oktave <rend fontstyle="ital">E</rend>-<rend fontstyle="ital">e</rend>, auf dem letzten Achtel vermutlich ebenfalls eine Oktave, die aber nicht mehr lesbar ist.</p>
+                     <p>In K_s2 stand in der rH in der zweiten Takthälfte als Unterstimme ein Viertel <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">1</rend>, dies wurde mit Bleistift durchgestrichen. In der lH stand dort zunächst als Oktave <rend fontstyle="italic">E</rend>-<rend fontstyle="italic">e</rend>, auf dem letzten Achtel vermutlich ebenfalls eine Oktave, die aber nicht mehr lesbar ist.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Dynamics"
                          type="editorialComment"
@@ -1509,7 +1521,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_773192e0-22f7-40d0-988c-0c8eabf7cda0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_390dd461-e66d-4a33-b6e3-a107ca54525c xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure1">
                      <title xml:lang="de">Bogensetzung in T. 1 rH</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en ist der erste Bogen der rH nach der 2. Note unterteilt, der dritte Bogen endet mit <rend fontstyle="ital">d</rend>
+                     <p>In KA-en ist der erste Bogen der rH nach der 2. Note unterteilt, der dritte Bogen endet mit <rend fontstyle="italic">d</rend>
                         <rend rend="sup">1</rend>.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Dynamics"
@@ -1542,7 +1554,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_5b1d5687-9b5e-4caf-9481-88f772af860e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1caf8b49-d0af-4011-8941-7f78889023a6 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure6">
                      <title xml:lang="de">Rhythmus in T. 6 Pf rH</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en ist als 3. Note der Unterstimme der rH irrtümlich eine Halbe <rend fontstyle="ital">a</rend> statt Achtel notiert, aber nicht korrigiert. In A2 ist korrekt eine Achtel notiert, an der Stelle findet sich aber eine Bleistiftmarkierung, deren Bedeutung unklar
+                     <p>In KA-en ist als 3. Note der Unterstimme der rH irrtümlich eine Halbe <rend fontstyle="italic">a</rend> statt Achtel notiert, aber nicht korrigiert. In A2 ist korrekt eine Achtel notiert, an der Stelle findet sich aber eine Bleistiftmarkierung, deren Bedeutung unklar
                                 bleibt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction #annotation.category.Dynamics"
@@ -1591,8 +1603,8 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_2c1c5629-ef9a-4601-9847-55aa0e0833ab xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6151b2b1-7119-423b-b478-97834abec9a1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_ee5376c9-409b-48d6-9a3e-57d71d0ffb75 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure11">
                      <title xml:lang="de">Notation in T. 11 Pf rH</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en ist in der rH am Ende eine Viertel <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">1</rend> statt der wegen des Seitenumbruchs in A2 notwendigen zwei Achtel <rend fontstyle="ital">c</rend>
+                     <p>In KA-en ist in der rH am Ende eine Viertel <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">1</rend> statt der wegen des Seitenumbruchs in A2 notwendigen zwei Achtel <rend fontstyle="italic">c</rend>
                         <rend rend="sup">1</rend> mit Haltebogen notiert.</p>
                   </annot>
                   <!--<annot type="editorialComment" xml:id="Lied4_012" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6151b2b1-7119-423b-b478-97834abec9a1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_ee5376c9-409b-48d6-9a3e-57d71d0ffb75 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_2c1c5629-ef9a-4601-9847-55aa0e0833ab">
@@ -1607,7 +1619,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_31906e9a-1074-48fc-8baf-adedc3506046 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1aa44745-feb6-4bab-aa1b-52d039ed2841 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure14">
                      <title xml:lang="de">Rasur in T. 14 Pf lH</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en ist die 2. Note der Oberstimme der lH (<rend fontstyle="ital">a</rend>) zusätzlich auch in der Unterstimme der rH notiert; in A1 war dies übernommen, die Note in der lH ist aber radiert.</p>
+                     <p>In KA-en ist die 2. Note der Oberstimme der lH (<rend fontstyle="italic">a</rend>) zusätzlich auch in der Unterstimme der rH notiert; in A1 war dies übernommen, die Note in der lH ist aber radiert.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Dynamics"
                          type="editorialComment"
@@ -1677,7 +1689,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_4781e56c-6a6d-4db8-8194-34c01ecad74c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_0a6a222c-b21c-4ab9-b2b3-2dd8f7160a74 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure28">
                      <title xml:lang="de">Bleistiftkorrektur in KA-en, T. 28 Pf lH</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en war offensichtlich als letzte Viertel der lH zunächst <rend fontstyle="ital">F</rend> notiert, die Note <rend fontstyle="ital">G</rend> ist mit Bleistift danebengeschrieben, ohne <rend fontstyle="ital">F</rend> zu löschen; in A2 ist <rend fontstyle="ital">G</rend> übernommen.</p>
+                     <p>In KA-en war offensichtlich als letzte Viertel der lH zunächst <rend fontstyle="italic">F</rend> notiert, die Note <rend fontstyle="italic">G</rend> ist mit Bleistift danebengeschrieben, ohne <rend fontstyle="italic">F</rend> zu löschen; in A2 ist <rend fontstyle="italic">G</rend> übernommen.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Bogensetzung #annotation.category.NotationalVariant #annotation.category.Dynamics #annotation.category.Correction"
                          type="editorialComment"
@@ -1694,7 +1706,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_10e07a6e-a116-4939-b881-53daecee7bf4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_4fc5e7ba-6631-4109-b369-9125ee660ae2 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure31">
                      <title xml:lang="de">Notensatz T. 31 Pf rH</title>
                      <title xml:lang="en"></title>
-                     <p>In A2 ist zu Taktanfang in der unteren Stimme offensichtlich das zweite Achtel <rend fontstyle="ital">d</rend> nachgetragen; es fehlt in KA-en, wo die erste Note als Viertel notiert ist.</p>
+                     <p>In A2 ist zu Taktanfang in der unteren Stimme offensichtlich das zweite Achtel <rend fontstyle="italic">d</rend> nachgetragen; es fehlt in KA-en, wo die erste Note als Viertel notiert ist.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Lyrics #annotation.category.Correction"
                          type="editorialComment"
@@ -1750,7 +1762,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_96249ffe-6834-4106-aa73-e3d7aee8edb8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_4d4c757d-df8a-4851-bd5e-92ae9bd4d7ae xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure35">
                      <title xml:lang="de">Tonsatz, Herausgeberkorrektur in T. 35 Pf rH</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en ist in der Unterstimme der rH zu Taktanfang eine Halbe <rend fontstyle="ital">c</rend> notiert, die in A2 fehlt. Hier dürfte ein Versehen Bargheers bei der Abschrift anzunehmen sein, daher von den Hg. ergänzt.</p>
+                     <p>In KA-en ist in der Unterstimme der rH zu Taktanfang eine Halbe <rend fontstyle="italic">c</rend> notiert, die in A2 fehlt. Hier dürfte ein Versehen Bargheers bei der Abschrift anzunehmen sein, daher von den Hg. ergänzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Bogensetzung"
                          type="editorialComment"
@@ -1814,10 +1826,10 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_1f2ec074-187c-42b3-bdd7-b1f470c62285 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_5c562c4e-423d-47b8-a072-d1003e0985e0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_9ac2a602-9548-44e7-8893-d561e318929b xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure10">
                      <title xml:lang="de">Korrektur in T. 10 Vl in KA-en und A3</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en war die vorletzte Note der Vl ursprünglich als <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend> notiert, in dünnem Bleistift ist darüber <rend fontstyle="ital">d</rend>
-                        <rend rend="sup">2</rend> ergänzt. In A3 war <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend> übernommen, wurde aber mit Bleistift durchgestrichen und darüber ebenfalls <rend fontstyle="ital">d</rend>
+                     <p>In KA-en war die vorletzte Note der Vl ursprünglich als <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend> notiert, in dünnem Bleistift ist darüber <rend fontstyle="italic">d</rend>
+                        <rend rend="sup">2</rend> ergänzt. In A3 war <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend> übernommen, wurde aber mit Bleistift durchgestrichen und darüber ebenfalls <rend fontstyle="italic">d</rend>
                         <rend rend="sup">2</rend> ergänzt. A2 hat bereits die korrigierte Fassung in der Niederschrift übernommen.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.NotationalVariant"
@@ -1891,7 +1903,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_5e5062c0-9377-49c7-b04e-ddb9c8d3b734 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_78f3c3dc-915d-4f0e-a9b8-bdb64cf8bf55 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure39">
                      <title xml:lang="de">Korrektur in T. 39 Singstimme in KA-en</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en war vor der letzten Note der Singstimme bereits eine Achtel <rend fontstyle="ital">a</rend>
+                     <p>In KA-en war vor der letzten Note der Singstimme bereits eine Achtel <rend fontstyle="italic">a</rend>
                         <rend rend="sup">1</rend> eingetragen, sie wurde ausradiert, bevor die 2. Achtel notiert wurde.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Direction"
@@ -1988,7 +2000,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_4bacea48-1880-44c8-b7b7-dd6c64781a9f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_9aeffd4a-a1c8-4387-b77d-c2af148f1780 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv5Measure7">
                      <title xml:lang="de">Rasur in T. 7 Pf rH in KA-en</title>
                      <title xml:lang="en"></title>
-                     <p>In KA-en stand in der Oberstimme der rH auf Zählzeit 3 vermtlich eine Viertelnote <rend fontstyle="ital">g</rend>
+                     <p>In KA-en stand in der Oberstimme der rH auf Zählzeit 3 vermtlich eine Viertelnote <rend fontstyle="italic">g</rend>
                         <rend rend="sup">1</rend>, die Note wurde ausradiert und durch die beiden Achtel ersetzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Accidentals #annotation.category.Correction"
@@ -2005,13 +2017,13 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_c8f9ec4c-1003-4baa-bc4f-5dfbc3ec1edb xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_fb1d957b-5478-4c46-ab64-3e055a5503f4 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv5Measure8">
                      <title xml:lang="de">Rasur in T. 8 Pf in KA-en</title>
                      <title xml:lang="en"></title>
-                     <p>Auf Zählzeit 4 stand in KA-en in der rH vermutlich eine Achtelpause gefolgt von einer Achtel <rend fontstyle="ital">f</rend>
-                        <rend rend="sup">1</rend>; die Pause wurde ausradiert und mit einer Achtel <rend fontstyle="ital">e</rend>
+                     <p>Auf Zählzeit 4 stand in KA-en in der rH vermutlich eine Achtelpause gefolgt von einer Achtel <rend fontstyle="italic">f</rend>
+                        <rend rend="sup">1</rend>; die Pause wurde ausradiert und mit einer Achtel <rend fontstyle="italic">e</rend>
                         <rend rend="sup">1</rend> ersetzt,
-                                zugleich wurde das angebalkte vorausgehende Achtel <rend fontstyle="ital">f</rend>
+                                zugleich wurde das angebalkte vorausgehende Achtel <rend fontstyle="italic">f</rend>
                         <rend rend="sup">1</rend> eingetragen und der Balken bis zur letzten Note verlängert; allerdings ist der ursprüngliche Eintrag nicht mehr zu erkennen. In der lH standen ursprünglich in
-                                der zweiten Takthälfte durchgängige Achtelwerte (vermutlich <rend fontstyle="ital">F</rend>, <rend fontstyle="ital">f</rend>, <rend fontstyle="ital">f</rend>, <rend fontstyle="ital">f</rend>). Dabei war wohl auf Zählzeit 4 zusätzlich eine abwärts gehalste Viertel
-                                    <rend fontstyle="ital">e</rend> eingetragen. Die Noten wurden ausradiert und teilweise mit der Viertelpause überschrieben.</p>
+                                der zweiten Takthälfte durchgängige Achtelwerte (vermutlich <rend fontstyle="italic">F</rend>, <rend fontstyle="italic">f</rend>, <rend fontstyle="italic">f</rend>, <rend fontstyle="italic">f</rend>). Dabei war wohl auf Zählzeit 4 zusätzlich eine abwärts gehalste Viertel
+                                    <rend fontstyle="italic">e</rend> eingetragen. Die Noten wurden ausradiert und teilweise mit der Viertelpause überschrieben.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Music"
                          type="editorialComment"
@@ -2111,13 +2123,13 @@
                      <title xml:lang="de">Überarbeitung T. 1-4</title>
                      <title xml:lang="en"></title>
                      <p>Die vier instrumentalen Einleitungstakte des Liedes haben mehrere Veränderungsstufen durchlaufen: <lb/> – Die ursprüngliche Fassung A1_s1 befindet sich auf dem separaten Doppelblatt in Bargheers Handschrift. Dort waren in der Tenorstimme der lH in T. 1 und 2
-                                ursprünglich noch jeweils Halbe <rend fontstyle="ital">g</rend> notiert, die später ausradiert und überschrieben wurden.<lb/> – Diese erste Fassung von A1_s1, die ohne die Überlappung mit dem Ende des Liedes 5 begann und in T. 4 mit einem Halbschluss endete, wurde von
+                                ursprünglich noch jeweils Halbe <rend fontstyle="italic">g</rend> notiert, die später ausradiert und überschrieben wurden.<lb/> – Diese erste Fassung von A1_s1, die ohne die Überlappung mit dem Ende des Liedes 5 begann und in T. 4 mit einem Halbschluss endete, wurde von
                                 Weidig in seine Abschrift K_s1 übernommen (vgl. S. 23 bzw. in der alten Tintennummerierung S. 16) und ist unter der Überklebung sichtbar.<lb/> - Später ist dort mit Bleistift die Überlappung mit dem Ende der Singstimme des vorausgehenden Lieds vermerkt ("Wald." mit
-                                halber Note <rend fontstyle="ital">g</rend>
+                                halber Note <rend fontstyle="italic">g</rend>
                         <rend rend="sup">1</rend>). <lb/> - In Bargheers Autograph der Urfassung A1_s1 ist erst nachträglich eine rhythmische Belebung der Mittelstimme vorgenommen (die von den ursprünglichen T. 46-47 hergeleitet ist). Die weitere
                                 Arbeit vollzog sich dann aber in Weidigs Abschrift K1_s1, wo Bargheer die T. 1-4 mit einer neuen Fassung K1_s2, die mit einer Kadenz in der Ausgangstonart schließt, überklebt hat.<lb/> - Diese Version hat Bargheer dann auch in A2 übernommen, allerdings in der zweiten
-                                Takthälfte von T. 1 und 2 die untere Note der rH jeweils eine Terz höher versetzt (<rend fontstyle="ital">c</rend>
-                        <rend rend="sup">1</rend> statt <rend fontstyle="ital">a</rend>). Bei den Umarbeitungen ist die Ausgangslautstärke (p) in A2 nicht mehr übernommen worden,
+                                Takthälfte von T. 1 und 2 die untere Note der rH jeweils eine Terz höher versetzt (<rend fontstyle="italic">c</rend>
+                        <rend rend="sup">1</rend> statt <rend fontstyle="italic">a</rend>). Bei den Umarbeitungen ist die Ausgangslautstärke (p) in A2 nicht mehr übernommen worden,
                                 dort ist sie allerdings mit Bleistift ergänzt und wurde von den Hg., da sie in allen vorausgehenden Quellen vorhanden ist, übernommen. Ebenso wurde das in allen älteren Schichten vorhandene "dolce" in der Vl ergänzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Bogensetzung"
@@ -2166,7 +2178,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_7c44768a-70ea-4fba-9503-5ba18d77c272 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_998f6c73-6fde-4138-bd53-17598b18acd6 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e4ded7a9-c7a5-42f3-8aeb-1c768733df31 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e65dfc4c-af95-4eed-ae38-00e0b76fba2d xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure16 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure17">
                      <title xml:lang="de">Korrekturen in A1_s1, T. 16-17 lH</title>
                      <title xml:lang="en"></title>
-                     <p>In A1_s1 standen als Tenorstimme der lH ursprünglich wie in T. 1-2 jeweils Halbe <rend fontstyle="ital">g</rend>. Die Noten sind radiert und durch die spätere Version überschrieben (vgl. auch Angaben zu T. 1-4 und T. 17-19).</p>
+                     <p>In A1_s1 standen als Tenorstimme der lH ursprünglich wie in T. 1-2 jeweils Halbe <rend fontstyle="italic">g</rend>. Die Noten sind radiert und durch die spätere Version überschrieben (vgl. auch Angaben zu T. 1-4 und T. 17-19).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Correction"
                          type="editorialComment"
@@ -2190,7 +2202,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e4ded7a9-c7a5-42f3-8aeb-1c768733df31 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_3b720784-a6cf-475e-98ac-c2b7b93a16a6 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure16">
                      <title xml:lang="de">Akzidens T. 16 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In der separaten Vl-Stimme A3 fehlt das (nicht zwingend notwendige) Warnungsakzidens vor <rend fontstyle="ital">f</rend>
+                     <p>In der separaten Vl-Stimme A3 fehlt das (nicht zwingend notwendige) Warnungsakzidens vor <rend fontstyle="italic">f</rend>
                         <rend rend="sup">1</rend>.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Bogensetzung"
@@ -2207,7 +2219,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_cd7de4d5-8494-4fe4-bd68-dba32a157399 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_0465732c-edca-4d92-bdcc-b0346b80ceff xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_970b1dc4-bd8c-4379-9970-0f9d37e1723a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_50bda199-f2ac-4eb0-b8e2-aef00bc32d5f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_05f3086a-5cc2-416b-bc70-ee95f6214bf9 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure18 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure19">
                      <title xml:lang="de">Tonsatz T. 18–19 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>A1_s1 wurde, nachdem Weidig seine Abschrift K_s1 angefertigt hatte, nochmals so korrigiert, dass ein Halbschluss auf <rend fontstyle="ital">D</rend> entstand (mit Bleistift ist unter der etwas undeutlichen Bassnote "<rend fontstyle="ital">D</rend>" notiert; diese
+                     <p>A1_s1 wurde, nachdem Weidig seine Abschrift K_s1 angefertigt hatte, nochmals so korrigiert, dass ein Halbschluss auf <rend fontstyle="italic">D</rend> entstand (mit Bleistift ist unter der etwas undeutlichen Bassnote "<rend fontstyle="italic">D</rend>" notiert; diese
                                 offensichtlich erst nachträgliche eingefügte Variante (die der Wendung in den ursprünglichen T. 1-4 korrespondiert) hat Bargheer aber nicht in die Endversion übernommen. </p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Rhythm"
@@ -2216,7 +2228,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_50bda199-f2ac-4eb0-b8e2-aef00bc32d5f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_05f3086a-5cc2-416b-bc70-ee95f6214bf9 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure19">
                      <title xml:lang="de">Rhythmus T. 19 lH in A2</title>
                      <title xml:lang="en"></title>
-                     <p>In A2 hat Bargheer versehentlich den Verlängerungspunkt zum tieferen <rend fontstyle="ital">G</rend> vergessen.</p>
+                     <p>In A2 hat Bargheer versehentlich den Verlängerungspunkt zum tieferen <rend fontstyle="italic">G</rend> vergessen.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Bogensetzung #annotation.category.Ornaments"
                          type="editorialComment"
@@ -2224,7 +2236,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_42149921-84d9-4f2c-bece-692ee2019b7d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_ecb64724-17cb-4b5f-9fa5-e2ebf5ddf5bc xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_5e6db3b8-29b1-413f-8352-84272f4e4a0d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_90bf183c-0e75-48c4-b719-4dc8a8e2ffcd xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure20">
                      <title xml:lang="de">Bogensetzung T. 20 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In A1_s1 und A3 fehlen die beiden Bögen von den Vorschlagsnoten zur jeweiligen Hauptnote (in A1_s1 ist der zweite nur mit Bleistift eingetragen), in K_s1 nur der erste (dort ist die Vorschlagsnote versehentlich als <rend fontstyle="ital">a</rend>
+                     <p>In A1_s1 und A3 fehlen die beiden Bögen von den Vorschlagsnoten zur jeweiligen Hauptnote (in A1_s1 ist der zweite nur mit Bleistift eingetragen), in K_s1 nur der erste (dort ist die Vorschlagsnote versehentlich als <rend fontstyle="italic">a</rend>
                         <rend rend="sup">2</rend> notiert).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Dynamics #annotation.category.Correction"
@@ -2322,7 +2334,7 @@
                      <title xml:lang="de">Akzidentien T. 31-33 Vl</title>
                      <title xml:lang="en"></title>
                      <p>In A1_s1 und K_s1 ist in T. 32 zur 5. Note kein Warnungsakzidens notiert; in A3 fehlen Warnungsakzidentien vor der 4. und 5. Note. Dort war zur letzten Note T. 31 ebenfalls kein Akzidens notiert, es ist in Bleistift ergänzt. Nur in A3 ist in T. 33 vor der letzten Note
-                                der 2. Zählzeit (<rend fontstyle="ital">g</rend>
+                                der 2. Zählzeit (<rend fontstyle="italic">g</rend>
                         <rend rend="sup">1</rend>) mit Bleistift der notwendige Auflöser notiert, er wurde von den Hg. danach in der Edition ergänzt.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Dynamics #annotation.category.Correction"
@@ -2331,7 +2343,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_db37100f-6bbd-477c-9f99-e3e5aa905cd8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_38dbaaa6-85af-4830-b567-492eadbcf605 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_d4ee1a85-e129-4702-981a-a318c3ef5f21 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure31">
                      <title xml:lang="de">Dynamik, Korrekturen T. 31 Pf</title>
                      <title xml:lang="en"></title>
-                     <p>In A1_s1 und K_s1 ist kein Dynamikzeichen notiert.<lb/>In A1-s1 standen in der Oberstimme der lH zunächst jeweils Halbe <rend fontstyle="ital">g</rend>, sie sind radiert und durch die Version des Edierten Textes ersetzt (vgl. auch T. 1-2 und 16-17).</p>
+                     <p>In A1_s1 und K_s1 ist kein Dynamikzeichen notiert.<lb/>In A1-s1 standen in der Oberstimme der lH zunächst jeweils Halbe <rend fontstyle="italic">g</rend>, sie sind radiert und durch die Version des Edierten Textes ersetzt (vgl. auch T. 1-2 und 16-17).</p>
                   </annot>
                   <annot class="#ediromAnnotPrio3 #annotation.category.Harmony #annotation.category.Correction #annotation.category.Accidentals"
                          type="editorialComment"
@@ -2339,9 +2351,9 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f34c39d8-6f1d-41f5-b4f3-7f1fc38e610a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_00233099-0d47-4a7d-8938-97076c70ac6a xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure33">
                      <title xml:lang="de">Tonsatz-Korrektur und Akzidens T. 33 Vl A3</title>
                      <title xml:lang="en"></title>
-                     <p>In A3 war die 1. Note von T. 33 ursprünglich fälschlich als <rend fontstyle="ital">b</rend>
-                        <rend rend="sup">1</rend> notiert, darüber ist mit Bleistift <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend> notiert und zur Verdeutlichung der Tonbuchstabe "<rend fontstyle="ital">c</rend>" unter der Note angegeben.<lb/> Vor der 7. Note wurde mit Bleistift ein Warnungsakzidens nachtgetragen.</p>
+                     <p>In A3 war die 1. Note von T. 33 ursprünglich fälschlich als <rend fontstyle="italic">b</rend>
+                        <rend rend="sup">1</rend> notiert, darüber ist mit Bleistift <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend> notiert und zur Verdeutlichung der Tonbuchstabe "<rend fontstyle="italic">c</rend>" unter der Note angegeben.<lb/> Vor der 7. Note wurde mit Bleistift ein Warnungsakzidens nachtgetragen.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio1 #annotation.category.Correction #annotation.category.Bogensetzung"
                          type="editorialComment"
@@ -2366,7 +2378,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_e505220a-dd7b-41b3-aae0-a6dab706a776 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_0409ded7-6f74-49cf-8e5d-e6e1fa2b350b xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure34">
                      <title xml:lang="de">Bogensetzung, Korrektur T. 34 Vl</title>
                      <title xml:lang="en"></title>
-                     <p>In A1_s1 war in der Vl ursprünglich kein Bogen notiert, er wurde später mit Bleistift zugefügt. Die 3. Note war ursprünglich als <rend fontstyle="ital">g</rend>
+                     <p>In A1_s1 war in der Vl ursprünglich kein Bogen notiert, er wurde später mit Bleistift zugefügt. Die 3. Note war ursprünglich als <rend fontstyle="italic">g</rend>
                         <rend rend="sup">1</rend> notiert, scheint aber im Schreibvorgang korrigiert worden zu sein.</p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Bogensetzung"
@@ -2399,7 +2411,7 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_ca19ee3b-d7a6-422b-ab53-f98fb0e66569 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_87064628-121f-4b4e-b691-45eb99d6497f xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure38">
                      <title xml:lang="de">Korrektur, Rhythums T. 38 Vl in A1_s1</title>
                      <title xml:lang="en"></title>
-                     <p>In A1_s1 war in der Vl zunächst als 1. Note eine Viertel und als 2. Note eine punktierte Halbe <rend fontstyle="ital">d</rend>
+                     <p>In A1_s1 war in der Vl zunächst als 1. Note eine Viertel und als 2. Note eine punktierte Halbe <rend fontstyle="italic">d</rend>
                         <rend rend="sup">2</rend> notiert. Die 2. Note ist radiert (vermutlich uch die erste) und die neue Version wurde zunächst mit Bleistift
                                 eingetragen, wurde dann aber mit Tinte überschrieben (auch die 1. Note zur Halben).</p>
                   </annot>
@@ -2417,10 +2429,10 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_19f6a896-1046-4b80-94f6-213c47e222a1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_e5b8d43e-d0dd-4132-816d-85696e621c84 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_9f558eba-0586-4ded-8477-85a0700250c8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_2cec0a35-690d-4e71-ae89-70d35c08c862 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure41 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure42">
                      <title xml:lang="de">Tonsatz T. 41, 42 rH</title>
                      <title xml:lang="en"></title>
-                     <p>In A1_s1 war die Unterstimme der rH in der ersten Takthälfte jeweils zunächst abweichend notiert (die Noten sind nicht mehr lesbar ausradiert und überschrieben; vermutlich stand in T. 42 zu Beginn <rend fontstyle="ital">dis</rend>
+                     <p>In A1_s1 war die Unterstimme der rH in der ersten Takthälfte jeweils zunächst abweichend notiert (die Noten sind nicht mehr lesbar ausradiert und überschrieben; vermutlich stand in T. 42 zu Beginn <rend fontstyle="italic">dis</rend>
                         <rend rend="sup">1</rend> und statt der
-                                3./4. Note <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">d</rend>
+                                3./4. Note <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">d</rend>
                         <rend rend="sup">1</rend>). </p>
                   </annot>
                   <annot class="#ediromAnnotPrio2 #annotation.category.Bogensetzung"
@@ -2453,19 +2465,19 @@
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_87de31a8-3818-4f13-809f-ca132c79bf4f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_87fbea49-a6ea-4128-ac79-956a443ad643 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a30530d1-adaa-42bc-9191-fef37d0518ab xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_b133d790-ba11-4fb8-887f-7ef7ab5a5695 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_10a8d7df-2d60-44c5-8259-1a9bf73871d8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_10a7493e-a9ae-411b-8675-c240fdf2c52e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a7db7f0d-5874-47c5-886e-fb45d8cf7084 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_ba26e042-7545-40d4-90bd-13415162d678 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_762d02c3-420f-49ff-83e8-7c426a15033e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_b1a157cc-a4f5-49bd-9fdc-7e926ba15096 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_c6b9e7e3-fbe9-4a78-8bfa-0db623993326 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_140bd0bb-4600-4e74-af81-ef9bb8186d23 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_20693b95-fe14-49c1-ac3c-c698e588d84a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4fdf7298-4854-4853-b232-722f05d0da24 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_e091897f-2413-424a-8295-440b838a906c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_484fcbff-646b-4ef4-9600-8f562d92d41b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1c473b05-df2c-4721-84f0-5139010f7b07 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_0a8521ad-985d-4cec-9532-d55ea70c23a1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6da7c4e8-3673-449a-895b-9bf0905fb992 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_6533dcfa-c1f6-401c-9291-e57a801b345b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8e27391c-c0df-4cb2-9cb5-d9dd2a542e88 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1299830c-0414-47f0-b038-8f505870eae8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_14a62a28-06af-4c6b-9271-21b5aa3293c5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_fcd42649-899a-48fb-a4b4-b4f0aa57b5d6 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_e962f4de-837a-4dc3-8212-9129213d317b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_ab38e3f9-bba5-40cb-9aee-25a38451e911 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_097d7b9b-9e31-4dd8-a521-91dbe27a0a55 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_77d1d319-59a0-4eca-bb04-5109dd7b7b94 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_7e61d8ec-8470-4b8f-bdb9-59a34e683304 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_03854b4e-60ee-4dfe-93a8-065a18659360 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_9f04726d-8630-4138-8fb4-def9ff5d4646 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_abed0ac7-e6d6-48e3-9ced-df6999a2f105 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure46 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure47 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure48 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure49 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure50 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure51 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure52 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure53">
                      <title xml:lang="de">Überarbeitung T. 46-53</title>
                      <title xml:lang="en"></title>
-                     <p>Die Schlusstakte sind von Bargheer in mehreren Stufen (wie im Folgenden beschrieben) überarbeitet worden:<lb/> – Stufe 1: In A1_s1 setzte die Vl unter der Überklebung das Vorige mit Achtelnoten in der gleichen Oktave (<rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">c</rend>
-                        <rend rend="sup">2</rend>, <rend fontstyle="ital">h</rend>
-                        <rend rend="sup">1</rend>, <rend fontstyle="ital">d</rend>
+                     <p>Die Schlusstakte sind von Bargheer in mehreren Stufen (wie im Folgenden beschrieben) überarbeitet worden:<lb/> – Stufe 1: In A1_s1 setzte die Vl unter der Überklebung das Vorige mit Achtelnoten in der gleichen Oktave (<rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">c</rend>
+                        <rend rend="sup">2</rend>, <rend fontstyle="italic">h</rend>
+                        <rend rend="sup">1</rend>, <rend fontstyle="italic">d</rend>
                         <rend rend="sup">2</rend>) fort [klären, das ist noch nicht klar, die 2 Takte separat gehören
                                 dazu!!!]<lb/> – Stufe 2: In A1_s1 wurden die T. 48ff. durch eine neue Schlussbildung überklebt, die jetzt sichtbar ist.<lb/> – Stufe 3: In A1_s1 wurde mit Bleistift im System der Singstimme eine Variante für die Vl eingetragen (2. Takthälfte T. 46, 1. Takthälfte T. 47
                                 und T. 49-50, 1. Zählzeit sowie T. 51b). Dabei ist T. 49 nicht eindeutig notiert; in Bleistift wurden wohl zunächst zwei Halbe eingetragen, dann wurde vor der 2. Halben eine punktierte Halbe notiert. Ab T. 46 sind anschließend die gültigen Noten dieser Fassung durch
                                 Blaustift überschrieben bzw. ergänzt (dabei ist T. 48 erst jetzt im System der Singstimme notiert, zur Verdeutlichung von T. 49 hat der Schreiber die beiden Noten (Viertel, punktierte Halbe) nun in der Violinstimme notiert. Im Zuge der Bleistiftkorrekturen wurden auch
-                                die letzten 3 Takte der rH Pf modifiziert. In T. 51b wurde die obere Note <rend fontstyle="ital">e</rend>
-                        <rend rend="sup">1</rend> gestrichen und durch <rend fontstyle="ital">a</rend> ersetzt, in T. 52b wurde die obere Note <rend fontstyle="ital">e</rend>
+                                die letzten 3 Takte der rH Pf modifiziert. In T. 51b wurde die obere Note <rend fontstyle="italic">e</rend>
+                        <rend rend="sup">1</rend> gestrichen und durch <rend fontstyle="italic">a</rend> ersetzt, in T. 52b wurde die obere Note <rend fontstyle="italic">e</rend>
                         <rend rend="sup">2</rend> gestrichen und ein Akzent zugefügt.<lb/> – Stufe 4: In dieser Version hat Weidig die Takte in seine Abschrift K_s1 kopiert. Nachträglich wurde in Bleistift über T. 52 Pf ein "a T." notiert (für "a Tempo") und ferner offensichtlich eine
                                 Viertelpause nach der 1. Note eingefügt (so dass diese zur Viertel zu verkürzen wäre).<lb/> – Stufe 5: In diesem Stadium hat Bargheer seine Version A2 kopiert und dabei während der Abschrift weitere Änderungen vorgenommen. In T. 47 erhielt die Vl eine Variante in
-                                Triolen, in T. 49 kehrte er zur Ganzen zurück; in T. 51 nahm er das vorher gestrichenw <rend fontstyle="ital">g</rend> als Achtel vor <rend fontstyle="ital">c</rend>
+                                Triolen, in T. 49 kehrte er zur Ganzen zurück; in T. 51 nahm er das vorher gestrichenw <rend fontstyle="italic">g</rend> als Achtel vor <rend fontstyle="italic">c</rend>
                         <rend rend="sup">1</rend> wieder auf und notierte die 1. Note als punktierte Viertel, fügte ein
                                 "riten." im gleichen Takt im Pf hinzu und änderte T. 52 so, wie mit Bleistift in Weidigs Kopie vermerkt (Viertelnote + Viertelpause, "a Tempo") <lb/> – Stufe 6: Schließlich änderte (vermutlich Bargheer selbst) den T. 49 in der Vl mit Bleistift zum Rhythmus Viertel -
                                 Halbe - Viertel. Da diese Änderung tatsächlich auf Bargheer zurückgehen dürfte, wurde sie von den Hg. in den Edierten Text übernommen. Diese Korrektur findet sich erstaunlicherweise bereits in A3 ausgeführt; dort war T. 51 aber am Anfang noch mit Halber notiert und
