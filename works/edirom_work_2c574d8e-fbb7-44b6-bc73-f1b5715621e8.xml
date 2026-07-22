@@ -850,7 +850,7 @@
                      <title xml:lang="en"></title>
                      <p>In K_s1 steht kein Akzent unter der ersten Note.</p>
                   </annot>
-                  <annot class="#ediromAnnotPrio1 #annotation.category.Ariculation"
+                  <annot class="#ediromAnnotPrio1 #annotation.category.Articulation"
                          type="editorialComment"
                          xml:id="Lied_2_057"
                          plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_d311c892-12c2-41d0-83cd-a723bde0ead4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_3cc9e505-9df9-4d59-85b6-990e3839a2d4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_42edeaf9-08cd-4671-b047-b0a70f67e1e2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_a10cbdfd-7245-4064-8a89-0077499793fc xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure25 xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure27">
