@@ -9,126 +9,151 @@
             <navigatorDefinition>
                 <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-001.xml" xml:id="navItem-00701" sortNo="1">
                     <names>
-                        <name>Aktuelles</name>
+                        <name xml:lang="de">Aktuelles</name>
+                        <name xml:lang="en">Current</name>
                     </names>
                 </navigatorItem>
                 <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-01.xml" xml:id="navItem-0701" sortNo="2">
                     <names>
-                        <name>Zu dieser Website</name>
+                        <name xml:lang="de">Zu dieser Website</name>
+                        <name xml:lang="en">About this website</name>
                     </names>
                 </navigatorItem>
                 <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-012.xml" xml:id="navItem-000701" sortNo="3">
                     <names>
-                        <name>➞ Hilfe</name>
+                        <name xml:lang="de">➞ Hilfe</name>
+                        <name xml:lang="en">➞ Help</name>
                     </names>
                 </navigatorItem>
                 <navigatorCategory xml:id="navCategory-0" sortNo="0">
                     <names>
-                        <name>Werk</name>
+                        <name xml:lang="de">Werk</name>
+                        <name xml:lang="en">Work</name>
                     </names>
                     <navigatorItem xml:id="navItem-0" targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-009.xml" sortNo="4">
                         <names>
-                            <name>Fiedellieder</name><!-- Link zur Ausgabe: targets="xmldb:exist:///db/apps/Bargheer-Edition/works/edirom_work_2c574d8e-fbb7-44b6-bc73-f1b5715621e8.xml" -->
+                            <name xml:lang="de">Fiedellieder</name><!-- Link zur Ausgabe: targets="xmldb:exist:///db/apps/Bargheer-Edition/works/edirom_work_2c574d8e-fbb7-44b6-bc73-f1b5715621e8.xml" -->
+                            <name xml:lang="en">Fiedellieder</name>
                         </names>
                     </navigatorItem>
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-1" sortNo="1">
                     <names>
-                        <name>Quellen</name>
+                        <name xml:lang="de">Quellen</name>
+                        <name xml:lang="en">Sources</name>
                     </names>
                     <navigatorItem xml:id="navItem-2" sortNo="1" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml">
                         <names>
-                            <name>Urfassung (Nr. 6): A1</name>
+                            <name xml:lang="de">Urfassung (Nr. 6): A1</name>
+                            <name xml:lang="en">Original version (No. 6): A1</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-1" sortNo="2" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml">
                         <names>
-                            <name>Urfassung (Nr. 6), Revision: A1-2</name>
+                            <name xml:lang="de">Urfassung (Nr. 6), Revision: A1-2</name>
+                            <name xml:lang="en">Original version (No. 6), Revision: A1-2</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-5" sortNo="3" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml">
                         <names>
-                            <name>Kopie Weidig (Nr. 1-3, 6): K</name>
+                            <name xml:lang="de">Kopie Weidig (Nr. 1-3, 6): K</name>
+                            <name xml:lang="en">Copy by Weidig (Nos. 1-3, 6): K</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-7" sortNo="4" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml">
                         <names>
-                            <name>Kopie Weidig, Revision: K-2</name>
+                            <name xml:lang="de">Kopie Weidig, Revision: K-2</name>
+                            <name xml:lang="en">Copy by Weidig, Revision: K-2</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-3" sortNo="5" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml">
                         <names>
-                            <name>Erstniederschrift Nr. 4-5: KA-en</name>
+                            <name xml:lang="de">Erstniederschrift Nr. 4-5: KA-en</name>
+                            <name xml:lang="en">First draft No. 4-5: KA-en</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-6" sortNo="6" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml">
                         <names>
-                            <name>Autogr. Reinschrift (Nr. 1-6): A2</name>
+                            <name xml:lang="de">Autogr. Reinschrift (Nr. 1-6): A2</name>
+                            <name xml:lang="en">Autographed copy (No. 1-6): A2</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-8" sortNo="7" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml">
                         <names>
-                            <name>Autogr. Reinschrift, Revision: A2-2</name>
+                            <name xml:lang="de">Autogr. Reinschrift, Revision: A2-2</name>
+                            <name xml:lang="en">Autographed copy, Revision: A2-2</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-4" sortNo="8" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml">
                         <names>
-                            <name>Violinstimme (Nr. 1-6): A3</name>
+                            <name xml:lang="de">Violinstimme (Nr. 1-6): A3</name>
+                            <name xml:lang="en">Violin part (No. 1-6): A3</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-9" sortNo="9" targets="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml">
                         <names>
-                            <name>Neusatz: ED</name>
+                            <name xml:lang="de">Neusatz: ED</name>
+                            <name xml:lang="en">Addition: ED</name>
                         </names>
                     </navigatorItem>
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-0701" sortNo="4">
                     <names>
-                        <name>Liedtexte</name>
+                        <name xml:lang="de">Liedtexte</name>
+                        <name xml:lang="en">Song texts</name>
                     </names>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-03.xml" xml:id="navItem-0703" sortNo="1">
                         <names>
-                            <name>Sonnenkind</name>
+                            <name xml:lang="de">Sonnenkind</name>
+                            <name xml:lang="en">Sonnenkind</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1002.xml" xml:id="navItem-0776" sortNo="2">
                         <names>
-                            <name>Textausgaben Überblick</name>
+                            <name xml:lang="de">Textausgaben Überblick</name>
+                            <name xml:lang="en">Overview of Text Editions</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-004.xml" xml:id="navItem-0704" sortNo="3">
                         <names>
-                            <name>Storm, Fiedellieder-Fassungen</name>
+                            <name xml:lang="de">Storm, Fiedellieder-Fassungen</name>
+                            <name xml:lang="en">Storm, Fiedellieder-Fassungen</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-060.xml" xml:id="navItem-0768" sortNo="4">
                         <names>
-                            <name>Bargheer, Fiedelliedertexte</name>
+                            <name xml:lang="de">Bargheer, Fiedelliedertexte</name>
+                            <name xml:lang="en">Bargheer, Fiedellieder texts</name>
                         </names>
                     </navigatorItem>
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-0702" sortNo="6">
                     <names>
-                        <name>Kritischer Bericht</name>
+                        <name xml:lang="de">Kritischer Bericht</name>
+                        <name xml:lang="en">Critical Report</name>
                     </names>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-05.xml" xml:id="navItem-0705" sortNo="1">
                         <names>
-                            <name>Entstehung</name>
+                            <name xml:lang="de">Entstehung</name>
+                            <name xml:lang="en">Origin</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-06.xml" xml:id="navItem-0706" sortNo="2">
                         <names>
-                            <name>Quellenbeschreibung</name><!-- eventuell die Quellenbeschreibung noch auf eine Übersicht verweisen lassen und mit 4-6 zusammenfassen -->
+                            <name xml:lang="de">Quellenbeschreibung</name><!-- eventuell die Quellenbeschreibung noch auf eine Übersicht verweisen lassen und mit 4-6 zusammenfassen -->
+                            <name xml:lang="en">Source description</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-02.xml" xml:id="navItem-00706" sortNo="3"><!-- navItem ggf. anpassen -->
                         <names>
-                            <name>Zur Edition</name>
+                            <name xml:lang="de">Zur Edition</name>
+                            <name xml:lang="en">To the Edition</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem xml:id="navItem-0A" sortNo="1" targets="xmldb:exist:///db/apps/Bargheer-Edition/works/edirom_work_2c574d8e-fbb7-44b6-bc73-f1b5715621e8.xml">
                         <names>
-                            <name>Variantenverzeichnis</name>
+                            <name xml:lang="de">Variantenverzeichnis</name>
+                            <name xml:lang="en">Variant List</name>
                         </names>
                     </navigatorItem>
                     <!--<navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1001.xml" xml:id="navItem-0775" sortNo="4">
@@ -149,7 +174,8 @@
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-0703" sortNo="7">
                     <names>
-                        <name>Biographisches</name>
+                        <name xml:lang="de">Biographisches</name>
+                        <name xml:lang="en">Biographical</name>
                     </names>                  
                     <!--<navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-07.xml" xml:id="navItem-0707" sortNo="1">
                         <names>
@@ -163,12 +189,14 @@
                     </navigatorItem>-->
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-006.xml" xml:id="navItem-0709" sortNo="3">
                         <names>
-                            <name>Zu Bargheer</name>
+                            <name xml:lang="de">Zu Bargheer</name>
+                            <name xml:lang="en">About Bargheer</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-007.xml" xml:id="navItem-00707" sortNo="1">
                         <names>
-                            <name>Sonstige Biographien</name>
+                            <name xml:lang="de">Sonstige Biographien</name>
+                            <name xml:lang="en">Other Biographies</name>
                         </names>
                     </navigatorItem>
                     <!--<navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-09.xml" xml:id="navItem-0743" sortNo="9">
@@ -199,11 +227,13 @@
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-0704" sortNo="8">
                     <names>
-                        <name>Handschriftliche Dokumente</name>
+                        <name xml:lang="de">Handschriftliche Dokumente</name>
+                        <name xml:lang="en">Handwritten Documents</name>
                     </names>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-002.xml" xml:id="navItem-0711" sortNo="1">
                         <names>
-                            <name>D-DT (Lippische Landesbibliothek)</name>
+                            <name xml:lang="de">D-DT (Lippische Landesbibliothek)</name>
+                            <name xml:lang="en">D-DT (Lippische Landesbibliothek)</name>
                         </names>
                     </navigatorItem>
                     <!--<navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-12.xml" xml:id="navItem-0712" sortNo="2">
@@ -318,22 +348,26 @@
                     </navigatorItem>-->
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-003.xml" xml:id="navItem-0740" sortNo="40">
                         <names>
-                            <name>D-DTsta (Landesarchiv)</name>
+                            <name xml:lang="de">D-DTsta (Landesarchiv)</name>
+                            <name xml:lang="en">D-DTsta (State Archive)</name>
                         </names>
                     </navigatorItem>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-010.xml" xml:id="navItem-0741" sortNo="42">
                         <names>
-                            <name>Sonstige Institutionen</name>
+                            <name xml:lang="de">Sonstige Institutionen</name>
+                            <name xml:lang="en">Other Institutions</name>
                         </names>
                     </navigatorItem>
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-0705" sortNo="9">
                     <names>
-                        <name>Gedruckte Materialien</name>
+                        <name xml:lang="de">Gedruckte Materialien</name>
+                        <name xml:lang="en">Printed Materials</name>
                     </names>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-005.xml" xml:id="navItem-0880" sortNo="1">
                         <names>
-                            <name>Übersicht über die Materialien</name>
+                            <name xml:lang="de">Übersicht über die Materialien</name>
+                            <name xml:lang="en">Overview of the Materials</name>
                         </names>
                     </navigatorItem>
                    <!-- <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-080.xml" xml:id="navItem-0880" sortNo="1">
@@ -414,31 +448,37 @@
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-0707" sortNo="10">
                     <names>
-                        <name>Musikalien</name>
+                        <name xml:lang="de">Musikalien</name>
+                        <name xml:lang="en">Musical Scores</name>
                     </names>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-1022.xml" xml:id="navItem-0770n" sortNo="1">
                         <names>
-                            <name>Übersicht sonstiger Musikalien</name>
+                            <name xml:lang="de">Übersicht sonstiger Musikalien</name>
+                            <name xml:lang="en">Overview of Other Musical Scores</name>
                         </names>
                     </navigatorItem>
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-07071" sortNo="11">
                     <names>
-                        <name>Audiomaterial</name>
+                        <name xml:lang="de">Audiomaterial</name>
+                        <name xml:lang="en">Audio Material</name>
                     </names>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-801.xml" xml:id="navItem-0770n" sortNo="1">
                         <names>
-                            <name>Tonaufnahmen der Fiedellieder</name>
+                            <name xml:lang="de">Tonaufnahmen der Fiedellieder</name>
+                            <name xml:lang="en">Audio Recordings of the Fiedellieder</name>
                         </names>
                     </navigatorItem>
                 </navigatorCategory>
                 <navigatorCategory xml:id="navCategory-0706" sortNo="12">
                     <names>
-                        <name>Bildmaterial</name>
+                        <name xml:lang="de">Bildmaterial</name>
+                        <name xml:lang="en">Visual Material</name>
                     </names>
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-008.xml" xml:id="navItem-0770" sortNo="1">
                         <names>
-                            <name>Übersicht Bildmaterial</name>
+                            <name xml:lang="de">Übersicht Bildmaterial</name>
+                            <name xml:lang="en">Overview of Visual Material</name>
                         </names>
                     </navigatorItem>
                     <!--<navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-900.xml" xml:id="navItem-0770" sortNo="1">
@@ -514,15 +554,28 @@
                 </navigatorCategory>
                 <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-011.xml" xml:id="navItem-000701" sortNo="13">
                     <names>
-                        <name>Register und Versionsinfos</name>
+                        <name xml:lang="de">Register und Versionsinfos</name>
+                        <name xml:lang="en">Index and Version Information</name>
                     </names>
                 </navigatorItem>
             </navigatorDefinition>
             <searchWindowConfig/>
             <concordances>
-                <concordance name="Taktnavigation nach: Reinschrift">
+                <concordance name="taktnavigation_nach_reinschrift">
+                    <names>
+                        <name xml:lang="de">Taktnavigation nach: Reinschrift</name>
+                        <name xml:lang="en">Measure Navigation according to: Fair Copy</name>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 1">
+                        <names>
+                            <name xml:lang="de">Satz</name>
+                            <name xml:lang="en">Movement</name>
+                        </names>
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 1</name>
+                                <name xml:lang="en">Song 1</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_539044dc-d8b6-42a7-8b67-10da08445400 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_dc81cb4e-b572-4dd7-bd8b-281ca60c83b5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7c6efed5-3d9c-4bdc-b510-b339b7848d6c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_63324dd8-fb8f-40b7-b760-052bf92570ae"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_c8dceb25-ff0d-4c5f-8a4a-29416dedfce9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_04cca104-c96e-4ed8-94ed-d9c00af18ad9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f4bffdd1-aad7-4a37-b26f-5c348e431797 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_1d56ba45-9142-4c96-b9ed-0a056e32b633"/>
@@ -579,7 +632,11 @@
                                 <connection name="52b" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv1Measure52b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_0ffbbcdd-49c6-4a5b-b491-eba56596baff xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d4df0ca6-68be-499a-896d-46bc844ae03d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_301e32e2-f491-4a83-8660-62f6623b4ee1"/>
                             </connections>
                         </group>
-                        <group name="Lied 2">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 2</name>
+                                <name xml:lang="en">Song 2</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_f1d91e24-1870-4f40-a95c-321b7803f352 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4ebd8c41-85c8-4e59-864d-ffac398452d6 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_36ab3a74-daa3-48d9-a836-8e1eb8573f06 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_4b54ee17-80b3-4869-af7f-3cfa779d8571 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_9101c072-c01b-4a46-bdef-38ed0c3cb0e2"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d9b920c7-460c-4294-bfda-565f7ad79651 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_3e85cb2e-18fc-4e41-a0d0-9fb7ad3559be xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8c6b0bc0-a525-4ca0-bdf9-c22eba1fe3ef xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_19766c8c-28aa-4ac0-9aed-b913b5a4d025 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_6b59c8b8-96cf-4d3b-b3c0-e99bb1bd5317"/>
@@ -632,7 +689,11 @@
                                 <connection name="48" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv2Measure48 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_6c987bca-e851-4892-9400-3a23758227c2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_e94a945f-d6b0-4a93-b2dd-f6f0653f13a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3dad7f4a-3b55-47b2-841d-6707a30ebe39 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cf8c036a-9005-4359-b086-14790517ca3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_57927706-5ef9-4fe1-9493-c84500fe9473 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_09a2bd6c-2fd0-4a7c-b5df-200d6b862896"/>
                             </connections>
                         </group>
-                        <group name="Lied 3">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 3</name>
+                                <name xml:lang="en">Song 3</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_4f47adad-d3e7-4595-9e84-5e5d3efe57c2?ediromMultiRest=subMeasure-1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_18496036-a54e-41b9-a346-74228c934189 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_c7478082-47c6-4af4-b970-0c271347f4be"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_4f47adad-d3e7-4595-9e84-5e5d3efe57c2?ediromMultiRest=subMeasure-2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7611bbf3-f476-44c8-88c6-848791d21e35 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_d3c160c3-d816-4353-bf96-5ff661119bdf"/>
@@ -687,7 +748,11 @@
                                 <connection name="50b" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv3Measure50b xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e92d9649-9cd4-4e3c-9222-6e6849298252 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_379cd08c-62ae-4b67-b39b-fd8a5de8c2f1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_05bb1851-966e-4380-ad96-189f9997dac9"/>
                             </connections>
                         </group>
-                        <group name="Lied 4">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 4</name>
+                                <name xml:lang="en">Song 4</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="0" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_9c4b24f4-37e0-47dd-948e-6b16ce1d27d0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2b7cb48f-55c5-4941-abf3-e33b22141138 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_eb0bb910-039d-493a-ae13-36b7d1eb29da"/>
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_773192e0-22f7-40d0-988c-0c8eabf7cda0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_48d06f27-7433-4966-b177-a4ecdaf3b9f7 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_390dd461-e66d-4a33-b6e3-a107ca54525c"/>
@@ -738,7 +803,11 @@
                                 <connection name="42" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv4Measure42 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1a55014c-2415-4006-9dd6-684fa94ab14c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_69ff7821-99fd-4340-a291-5674804c9181 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_5107af69-15ab-447d-af08-fb95182c6730"/>
                             </connections>
                         </group>
-                        <group name="Lied 5">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 5</name>
+                                <name xml:lang="en">Song 5</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv5Measure1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_7b11aca8-be4b-49f2-a4a3-912d8d4ed1f9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_995b1b9b-43fa-4d68-8898-377cc01e4b96?ediromMultiRest=subMeasure-1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_75d03024-ddb0-4d54-a843-1b486c6c5e34 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_390fc5e0-48d8-4190-b3bc-8560de08435a"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv5Measure2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_63bf0436-7cd8-4b23-85e8-7a028d8d5103 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_995b1b9b-43fa-4d68-8898-377cc01e4b96?ediromMultiRest=subMeasure-2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_b92112c9-c76c-4477-9a9e-113c6bf22a1d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2ebc3618-1a12-4c56-b42c-144af416fbd5"/>
@@ -759,7 +828,11 @@
                                 <connection name="17" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_b5378445-7ee7-4bd6-a3ed-d16d9389f02e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_c44fe83c-03cc-4ff7-bcd5-b56aeaf2fe70 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_db593993-62de-4033-82ac-b48965d37b60 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_451f77a2-98ff-4c8b-a8d7-c4462ea5f1b2"/>
                             </connections>
                         </group>
-                        <group name="Lied 6">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 6</name>
+                                <name xml:lang="en">Song 6</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_041b4e78-fbb6-4ce1-afb9-7f2ef60e2ef4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a529b842-2829-4641-b82f-8e20e9465944 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_a092b5b3-fc6a-4f13-b0b8-bc0ac91ff52a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_532b1a7e-c28b-474c-96ad-bc68ec1b64e4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cba5ebaf-6d31-4319-8f40-5d4896eb201e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_b13d31e2-067e-4b17-8789-c1e198791ffa"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/neusatz.xml#neusatzMdiv6Measure2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_54878ec8-acf2-4d68-9648-8a2b02187de2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_024013cc-c131-422a-afe3-9c01725f9a3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2f4d4aa6-c6cc-4dc7-ba6a-009a1914d5a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3b3059c1-5dff-4d21-90b3-5c41085527da xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_117d0314-91be-4908-b4e6-01bf2a8f27bd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_cfe35e46-f823-4768-a88d-23960560c377"/>
@@ -821,9 +894,21 @@
                         </group>
                     </groups>
                 </concordance>
-                <concordance name="Taktnavigation nach: Urfassung, Revision 1">
+                <concordance name="taktnavigation_nach_urfassung_revision_1">
+                    <names>
+                        <name xml:lang="de">Taktnavigation nach: Urfassung, Revision 1</name>
+                        <name xml:lang="en">Measure Navigation according to: Urfassung, Revision 1</name>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 6">
+                        <names>
+                            <name xml:lang="de">Satz</name>
+                            <name xml:lang="en">Movement</name>
+                        </names>
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 6</name>
+                                <name xml:lang="en">Song 6</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_041b4e78-fbb6-4ce1-afb9-7f2ef60e2ef4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a529b842-2829-4641-b82f-8e20e9465944 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_a092b5b3-fc6a-4f13-b0b8-bc0ac91ff52a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_532b1a7e-c28b-474c-96ad-bc68ec1b64e4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cba5ebaf-6d31-4319-8f40-5d4896eb201e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_b13d31e2-067e-4b17-8789-c1e198791ffa"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_54878ec8-acf2-4d68-9648-8a2b02187de2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_024013cc-c131-422a-afe3-9c01725f9a3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2f4d4aa6-c6cc-4dc7-ba6a-009a1914d5a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3b3059c1-5dff-4d21-90b3-5c41085527da xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_117d0314-91be-4908-b4e6-01bf2a8f27bd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_cfe35e46-f823-4768-a88d-23960560c377"/>
@@ -882,9 +967,21 @@
                         </group>
                     </groups>
                 </concordance>
-                <concordance name="Taktnavigation nach: Urfassung">
+                <concordance name="taktnavigation_nach_urfassung">
+                    <names>
+                        <name xml:lang="de">Taktnavigation nach: Urfassung</name>
+                        <name xml:lang="en">Measure Navigation according to: Urfassung</name>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 6">
+                        <names>
+                            <name xml:lang="de">Satz</name>
+                            <name xml:lang="en">Movement</name>
+                        </names>
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 6</name>
+                                <name xml:lang="en">Song 6</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_041b4e78-fbb6-4ce1-afb9-7f2ef60e2ef4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a529b842-2829-4641-b82f-8e20e9465944 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_a092b5b3-fc6a-4f13-b0b8-bc0ac91ff52a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_532b1a7e-c28b-474c-96ad-bc68ec1b64e4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cba5ebaf-6d31-4319-8f40-5d4896eb201e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_b13d31e2-067e-4b17-8789-c1e198791ffa"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_54878ec8-acf2-4d68-9648-8a2b02187de2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_024013cc-c131-422a-afe3-9c01725f9a3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2f4d4aa6-c6cc-4dc7-ba6a-009a1914d5a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3b3059c1-5dff-4d21-90b3-5c41085527da xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_117d0314-91be-4908-b4e6-01bf2a8f27bd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_cfe35e46-f823-4768-a88d-23960560c377"/>
@@ -943,9 +1040,21 @@
                         </group>
                     </groups>
                 </concordance>
-                <concordance name="Taktnavigation nach: Erstniederschrift">
+                <concordance name="taktnavigation_nach_erstniederschrift">
+                    <names>
+                        <name xml:lang="de">Taktnavigation nach: Erstniederschrift</name>
+                        <name xml:lang="en">Measure Navigation according to: Erstniederschrift</name>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 4">
+                        <names>
+                            <name xml:lang="de">Satz</name>
+                            <name xml:lang="en">Movement</name>
+                        </names>
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 4</name>
+                                <name xml:lang="en">Song 4</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="0" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_9c4b24f4-37e0-47dd-948e-6b16ce1d27d0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2b7cb48f-55c5-4941-abf3-e33b22141138 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_eb0bb910-039d-493a-ae13-36b7d1eb29da"/>
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_773192e0-22f7-40d0-988c-0c8eabf7cda0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_48d06f27-7433-4966-b177-a4ecdaf3b9f7 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_390dd461-e66d-4a33-b6e3-a107ca54525c"/>
@@ -994,7 +1103,11 @@
                                 <connection name="42" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1a55014c-2415-4006-9dd6-684fa94ab14c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_69ff7821-99fd-4340-a291-5674804c9181 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_5107af69-15ab-447d-af08-fb95182c6730"/>
                             </connections>
                         </group>
-                        <group name="Lied 5">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 5</name>
+                                <name xml:lang="en">Song 5</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_7b11aca8-be4b-49f2-a4a3-912d8d4ed1f9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_995b1b9b-43fa-4d68-8898-377cc01e4b96?ediromMultiRest=subMeasure-1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_75d03024-ddb0-4d54-a843-1b486c6c5e34 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_390fc5e0-48d8-4190-b3bc-8560de08435a"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_63bf0436-7cd8-4b23-85e8-7a028d8d5103 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_995b1b9b-43fa-4d68-8898-377cc01e4b96?ediromMultiRest=subMeasure-2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_b92112c9-c76c-4477-9a9e-113c6bf22a1d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2ebc3618-1a12-4c56-b42c-144af416fbd5"/>
@@ -1017,9 +1130,21 @@
                         </group>
                     </groups>
                 </concordance>
-                <concordance name="Taktnavigation nach: Violinstimme">
+                <concordance name="taktnavigation_nach_violinstimme">
+                    <names>
+                        <name xml:lang="de">Taktnavigation nach: Violinstimme</name>
+                        <name xml:lang="en">Measure Navigation according to: Violinstimme</name>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 1">
+                        <names>
+                            <name xml:lang="de">Satz</name>
+                            <name xml:lang="en">Movement</name>
+                        </names>
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 1</name>
+                                <name xml:lang="en">Song 1</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_539044dc-d8b6-42a7-8b67-10da08445400 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_dc81cb4e-b572-4dd7-bd8b-281ca60c83b5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7c6efed5-3d9c-4bdc-b510-b339b7848d6c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_63324dd8-fb8f-40b7-b760-052bf92570ae"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_c8dceb25-ff0d-4c5f-8a4a-29416dedfce9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_04cca104-c96e-4ed8-94ed-d9c00af18ad9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f4bffdd1-aad7-4a37-b26f-5c348e431797 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_1d56ba45-9142-4c96-b9ed-0a056e32b633"/>
@@ -1072,7 +1197,11 @@
                                 <connection name="52b" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_0ffbbcdd-49c6-4a5b-b491-eba56596baff xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d4df0ca6-68be-499a-896d-46bc844ae03d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_301e32e2-f491-4a83-8660-62f6623b4ee1"/>
                             </connections>
                         </group>
-                        <group name="Lied 2">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 2</name>
+                                <name xml:lang="en">Song 2</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_f1d91e24-1870-4f40-a95c-321b7803f352 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4ebd8c41-85c8-4e59-864d-ffac398452d6 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_36ab3a74-daa3-48d9-a836-8e1eb8573f06 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_4b54ee17-80b3-4869-af7f-3cfa779d8571 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_9101c072-c01b-4a46-bdef-38ed0c3cb0e2"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d9b920c7-460c-4294-bfda-565f7ad79651 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_3e85cb2e-18fc-4e41-a0d0-9fb7ad3559be xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8c6b0bc0-a525-4ca0-bdf9-c22eba1fe3ef xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_19766c8c-28aa-4ac0-9aed-b913b5a4d025 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_6b59c8b8-96cf-4d3b-b3c0-e99bb1bd5317"/>
@@ -1126,7 +1255,11 @@
                                 <connection name="48" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_6c987bca-e851-4892-9400-3a23758227c2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_e94a945f-d6b0-4a93-b2dd-f6f0653f13a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3dad7f4a-3b55-47b2-841d-6707a30ebe39 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cf8c036a-9005-4359-b086-14790517ca3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_57927706-5ef9-4fe1-9493-c84500fe9473 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_09a2bd6c-2fd0-4a7c-b5df-200d6b862896"/>
                             </connections>
                         </group>
-                        <group name="Lied 3">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 3</name>
+                                <name xml:lang="en">Song 3</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="5" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_df884fc7-0565-4f0c-b8bf-53ef30aaf260 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_f3559195-c118-4872-8fcf-aa8e1e181664 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_9fe144f2-3f61-4ff4-b429-f4a6097a1611 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_b52ea7b8-dce5-4882-a127-4833ea870e17"/>
                                 <connection name="6" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_b0328557-fe2d-49fe-b894-6ef32ee63230 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_d42c0e11-7013-43c3-add7-fe97dd235c66 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_714c8930-3815-49ee-b46b-8644baa57968 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_3c4fe701-01ba-4b03-a04b-ac4248603511"/>
@@ -1175,7 +1308,11 @@
                                 <connection name="50b" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e92d9649-9cd4-4e3c-9222-6e6849298252 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_379cd08c-62ae-4b67-b39b-fd8a5de8c2f1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_05bb1851-966e-4380-ad96-189f9997dac9"/>
                             </connections>
                         </group>
-                        <group name="Lied 4">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 4</name>
+                                <name xml:lang="en">Song 4</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="0" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_9c4b24f4-37e0-47dd-948e-6b16ce1d27d0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2b7cb48f-55c5-4941-abf3-e33b22141138 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_eb0bb910-039d-493a-ae13-36b7d1eb29da"/>
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_773192e0-22f7-40d0-988c-0c8eabf7cda0 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_48d06f27-7433-4966-b177-a4ecdaf3b9f7 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_390dd461-e66d-4a33-b6e3-a107ca54525c"/>
@@ -1222,14 +1359,22 @@
                                 <connection name="42" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_1a55014c-2415-4006-9dd6-684fa94ab14c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_69ff7821-99fd-4340-a291-5674804c9181 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_5107af69-15ab-447d-af08-fb95182c6730"/>
                             </connections>
                         </group>
-                        <group name="Lied 5">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 5</name>
+                                <name xml:lang="en">Song 5</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="15" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_0269906f-de37-4054-b6a6-63db7d0d663a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_e66f5c60-2a3c-4d50-9257-89effd5adb38 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_edf887fc-7871-4784-ac0b-dc936af4d2e5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2682cab7-9287-404b-a766-d0deae17cea4"/>
                                 <connection name="16" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_7bcbf7a2-8ff7-4ffe-98f5-8653a4e77530 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_ce286374-6a86-4ccb-b23e-bb4cf59986c5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_c6f0c242-91c6-4e15-8ee0-543161186b3e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_b1ed516b-44fc-410a-af03-212238ec4f0d"/>
                                 <connection name="17" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_b5378445-7ee7-4bd6-a3ed-d16d9389f02e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_c44fe83c-03cc-4ff7-bcd5-b56aeaf2fe70 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_db593993-62de-4033-82ac-b48965d37b60 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_451f77a2-98ff-4c8b-a8d7-c4462ea5f1b2"/>
                             </connections>
                         </group>
-                        <group name="Lied 6">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 6</name>
+                                <name xml:lang="en">Song 6</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_041b4e78-fbb6-4ce1-afb9-7f2ef60e2ef4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a529b842-2829-4641-b82f-8e20e9465944 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_a092b5b3-fc6a-4f13-b0b8-bc0ac91ff52a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_532b1a7e-c28b-474c-96ad-bc68ec1b64e4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cba5ebaf-6d31-4319-8f40-5d4896eb201e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_b13d31e2-067e-4b17-8789-c1e198791ffa"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_54878ec8-acf2-4d68-9648-8a2b02187de2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_024013cc-c131-422a-afe3-9c01725f9a3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2f4d4aa6-c6cc-4dc7-ba6a-009a1914d5a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3b3059c1-5dff-4d21-90b3-5c41085527da xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_117d0314-91be-4908-b4e6-01bf2a8f27bd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_cfe35e46-f823-4768-a88d-23960560c377"/>
@@ -1279,9 +1424,17 @@
                         </group>
                     </groups>
                 </concordance>
-                <concordance name="Taktnavigation nach: Kopie Weidig">
+                <concordance name="taktnavigation_nach_kopie_weidig">
+                    <names>
+                        <name xml:lang="de">Taktnavigation nach: Kopie Weidig</name>
+                        <name xml:lang="en">Measure navigation after: Copy Weidig</name>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 1">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 1</name>
+                                <name xml:lang="en">Song 1</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_539044dc-d8b6-42a7-8b67-10da08445400 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_dc81cb4e-b572-4dd7-bd8b-281ca60c83b5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7c6efed5-3d9c-4bdc-b510-b339b7848d6c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_63324dd8-fb8f-40b7-b760-052bf92570ae"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_c8dceb25-ff0d-4c5f-8a4a-29416dedfce9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_04cca104-c96e-4ed8-94ed-d9c00af18ad9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f4bffdd1-aad7-4a37-b26f-5c348e431797 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_1d56ba45-9142-4c96-b9ed-0a056e32b633"/>
@@ -1337,7 +1490,11 @@
                                 <connection name="56" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_af8d2c3a-00a3-4e28-8637-03632a607e02 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_c37fa879-f4d2-48db-aabd-5601d229b330 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_6a77924a-3863-4a7f-abf8-e285100c5f63 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_1fd0e13a-5d83-47a6-b2df-36c6ab14dc41"/>
                             </connections>
                         </group>
-                        <group name="Lied 2">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 2</name>
+                                <name xml:lang="en">Song 2</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_f1d91e24-1870-4f40-a95c-321b7803f352 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4ebd8c41-85c8-4e59-864d-ffac398452d6 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_36ab3a74-daa3-48d9-a836-8e1eb8573f06 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_4b54ee17-80b3-4869-af7f-3cfa779d8571 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_9101c072-c01b-4a46-bdef-38ed0c3cb0e2"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d9b920c7-460c-4294-bfda-565f7ad79651 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_3e85cb2e-18fc-4e41-a0d0-9fb7ad3559be xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8c6b0bc0-a525-4ca0-bdf9-c22eba1fe3ef xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_19766c8c-28aa-4ac0-9aed-b913b5a4d025 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_6b59c8b8-96cf-4d3b-b3c0-e99bb1bd5317"/>
@@ -1385,7 +1542,11 @@
                                 <connection name="48" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_6c987bca-e851-4892-9400-3a23758227c2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_e94a945f-d6b0-4a93-b2dd-f6f0653f13a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3dad7f4a-3b55-47b2-841d-6707a30ebe39 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cf8c036a-9005-4359-b086-14790517ca3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_57927706-5ef9-4fe1-9493-c84500fe9473 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_09a2bd6c-2fd0-4a7c-b5df-200d6b862896"/>
                             </connections>
                         </group>
-                        <group name="Lied 3">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 3</name>
+                                <name xml:lang="en">Song 3</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_df884fc7-0565-4f0c-b8bf-53ef30aaf260 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_f3559195-c118-4872-8fcf-aa8e1e181664 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_9fe144f2-3f61-4ff4-b429-f4a6097a1611 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_b52ea7b8-dce5-4882-a127-4833ea870e17"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_b0328557-fe2d-49fe-b894-6ef32ee63230 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_d42c0e11-7013-43c3-add7-fe97dd235c66 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_714c8930-3815-49ee-b46b-8644baa57968 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_3c4fe701-01ba-4b03-a04b-ac4248603511"/>
@@ -1435,7 +1596,11 @@
                                 <connection name="46" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_e5771307-8f66-4dcb-bfae-13ffc158f19f xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_0557b3ce-0578-4a4f-bd0d-b662f65c9c32 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e05f10cd-4563-480e-8cdc-fbc9bc926a5e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_a35a8946-e6d0-41a4-8e99-bf75deabc98a"/>
                             </connections>
                         </group>
-                        <group name="Lied 6">
+                        <group>
+                            <names>
+                                <name xml:lang="de">Lied 6</name>
+                                <name xml:lang="en">Song 6</name>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_041b4e78-fbb6-4ce1-afb9-7f2ef60e2ef4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a529b842-2829-4641-b82f-8e20e9465944 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_a092b5b3-fc6a-4f13-b0b8-bc0ac91ff52a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_532b1a7e-c28b-474c-96ad-bc68ec1b64e4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cba5ebaf-6d31-4319-8f40-5d4896eb201e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_b13d31e2-067e-4b17-8789-c1e198791ffa"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_54878ec8-acf2-4d68-9648-8a2b02187de2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_024013cc-c131-422a-afe3-9c01725f9a3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2f4d4aa6-c6cc-4dc7-ba6a-009a1914d5a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3b3059c1-5dff-4d21-90b3-5c41085527da xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_117d0314-91be-4908-b4e6-01bf2a8f27bd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_cfe35e46-f823-4768-a88d-23960560c377"/>
@@ -1494,9 +1659,21 @@
                         </group>
                     </groups>
                 </concordance>
-                <concordance name="Taktnavigation nach: Kopie, Revision 1">
+                <concordance name="taktnavigation_nach_kopie_revision_1 1">
+                    <names>
+                        <name xml:lang="de" value="Taktnavigation nach: Kopie, Revision 1"/>
+                        <name xml:lang="en" value="Measure navigation after: Copy, Revision 1"/>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 1">
+                        <names>
+                            <name xml:lang="de" value="Satz"/>
+                            <name xml:lang="en" value="Movement"/>
+                        </names>
+                        <group>
+                            <names>
+                                <name xml:lang="de" value="Lied 1"/>
+                                <name xml:lang="en" value="Song 1"/>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_539044dc-d8b6-42a7-8b67-10da08445400 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_dc81cb4e-b572-4dd7-bd8b-281ca60c83b5 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7c6efed5-3d9c-4bdc-b510-b339b7848d6c xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_63324dd8-fb8f-40b7-b760-052bf92570ae"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_c8dceb25-ff0d-4c5f-8a4a-29416dedfce9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_04cca104-c96e-4ed8-94ed-d9c00af18ad9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_f4bffdd1-aad7-4a37-b26f-5c348e431797 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_1d56ba45-9142-4c96-b9ed-0a056e32b633"/>
@@ -1555,7 +1732,11 @@
                                 <connection name="52b" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_0ffbbcdd-49c6-4a5b-b491-eba56596baff xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d4df0ca6-68be-499a-896d-46bc844ae03d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_301e32e2-f491-4a83-8660-62f6623b4ee1"/>
                             </connections>
                         </group>
-                        <group name="Lied 2">
+                        <group>
+                            <names>
+                                <name xml:lang="de" value="Lied 2"/>
+                                <name xml:lang="en" value="Song 2"/>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_f1d91e24-1870-4f40-a95c-321b7803f352 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4ebd8c41-85c8-4e59-864d-ffac398452d6 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_36ab3a74-daa3-48d9-a836-8e1eb8573f06 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_4b54ee17-80b3-4869-af7f-3cfa779d8571 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_9101c072-c01b-4a46-bdef-38ed0c3cb0e2"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d9b920c7-460c-4294-bfda-565f7ad79651 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_3e85cb2e-18fc-4e41-a0d0-9fb7ad3559be xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8c6b0bc0-a525-4ca0-bdf9-c22eba1fe3ef xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_19766c8c-28aa-4ac0-9aed-b913b5a4d025 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_6b59c8b8-96cf-4d3b-b3c0-e99bb1bd5317"/>
@@ -1613,7 +1794,11 @@
                                 <connection name="48a" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_6c987bca-e851-4892-9400-3a23758227c2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_e94a945f-d6b0-4a93-b2dd-f6f0653f13a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3dad7f4a-3b55-47b2-841d-6707a30ebe39 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cf8c036a-9005-4359-b086-14790517ca3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_57927706-5ef9-4fe1-9493-c84500fe9473 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_09a2bd6c-2fd0-4a7c-b5df-200d6b862896"/>
                             </connections>
                         </group>
-                        <group name="Lied 3">
+                        <group>
+                            <names>
+                                <name xml:lang="de" value="Lied 3"/>
+                                <name xml:lang="en" value="Song 3"/>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_4f47adad-d3e7-4595-9e84-5e5d3efe57c2?ediromMultiRest=subMeasure-1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_18496036-a54e-41b9-a346-74228c934189 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_c7478082-47c6-4af4-b970-0c271347f4be"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_4f47adad-d3e7-4595-9e84-5e5d3efe57c2?ediromMultiRest=subMeasure-2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_7611bbf3-f476-44c8-88c6-848791d21e35 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_d3c160c3-d816-4353-bf96-5ff661119bdf"/>
@@ -1668,7 +1853,11 @@
                                 <connection name="50b" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_e92d9649-9cd4-4e3c-9222-6e6849298252 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_379cd08c-62ae-4b67-b39b-fd8a5de8c2f1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_05bb1851-966e-4380-ad96-189f9997dac9"/>
                             </connections>
                         </group>
-                        <group name="Lied 5">
+                        <group>
+                            <names>
+                                <name xml:lang="de" value="Lied 5"/>
+                                <name xml:lang="en" value="Song 5"/>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_7b11aca8-be4b-49f2-a4a3-912d8d4ed1f9 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_995b1b9b-43fa-4d68-8898-377cc01e4b96?ediromMultiRest=subMeasure-1 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_75d03024-ddb0-4d54-a843-1b486c6c5e34 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_390fc5e0-48d8-4190-b3bc-8560de08435a"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_63bf0436-7cd8-4b23-85e8-7a028d8d5103 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_995b1b9b-43fa-4d68-8898-377cc01e4b96?ediromMultiRest=subMeasure-2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_b92112c9-c76c-4477-9a9e-113c6bf22a1d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_2ebc3618-1a12-4c56-b42c-144af416fbd5"/>
@@ -1689,7 +1878,11 @@
                                 <connection name="17" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceEN.xml#edirom_measure_b5378445-7ee7-4bd6-a3ed-d16d9389f02e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_c44fe83c-03cc-4ff7-bcd5-b56aeaf2fe70 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_db593993-62de-4033-82ac-b48965d37b60 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_451f77a2-98ff-4c8b-a8d7-c4462ea5f1b2"/>
                             </connections>
                         </group>
-                        <group name="Lied 6">
+                        <group>
+                            <names>
+                                <name xml:lang="de" value="Lied 6"/>
+                                <name xml:lang="en" value="Song 6"/>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_041b4e78-fbb6-4ce1-afb9-7f2ef60e2ef4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_a529b842-2829-4641-b82f-8e20e9465944 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_a092b5b3-fc6a-4f13-b0b8-bc0ac91ff52a xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_532b1a7e-c28b-474c-96ad-bc68ec1b64e4 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_cba5ebaf-6d31-4319-8f40-5d4896eb201e xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_b13d31e2-067e-4b17-8789-c1e198791ffa"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s2.xml#edirom_measure_54878ec8-acf2-4d68-9648-8a2b02187de2 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA1_s1.xml#edirom_measure_024013cc-c131-422a-afe3-9c01725f9a3d xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_2f4d4aa6-c6cc-4dc7-ba6a-009a1914d5a8 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_3b3059c1-5dff-4d21-90b3-5c41085527da xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_117d0314-91be-4908-b4e6-01bf2a8f27bd xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_cfe35e46-f823-4768-a88d-23960560c377"/>
@@ -1748,9 +1941,21 @@
                         </group>
                     </groups>
                 </concordance>
-                <concordance name="Taktnavigation nach: Reinschrift, Revision 1">
+                <concordance name="taktnavigation_nach_reinschrift_revision_1">
+                    <names>
+                        <name xml:lang="de" value="Taktnavigation nach: Reinschrift, Revision 1"/>
+                        <name xml:lang="en" value="Measure navigation according to: Reinschrift, Revision 1"/>
+                    </names>
                     <groups label="Satz">
-                        <group name="Lied 2">
+                        <names>
+                            <name xml:lang="de" value="Satz"/>
+                            <name xml:lang="en" value="Movement"/>
+                        </names>
+                        <group>
+                            <names>
+                                <name xml:lang="de" value="Lied 2"/>
+                                <name xml:lang="en" value="Song 2"/>
+                            </names>
                             <connections label="Takt">
                                 <connection name="1" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_f1d91e24-1870-4f40-a95c-321b7803f352 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_4ebd8c41-85c8-4e59-864d-ffac398452d6 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_36ab3a74-daa3-48d9-a836-8e1eb8573f06 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_4b54ee17-80b3-4869-af7f-3cfa779d8571 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_9101c072-c01b-4a46-bdef-38ed0c3cb0e2"/>
                                 <connection name="2" plist="xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA3.xml#edirom_measure_d9b920c7-460c-4294-bfda-565f7ad79651 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s1.xml#edirom_measure_3e85cb2e-18fc-4e41-a0d0-9fb7ad3559be xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s1.xml#edirom_measure_8c6b0bc0-a525-4ca0-bdf9-c22eba1fe3ef xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceK_s2.xml#edirom_measure_19766c8c-28aa-4ac0-9aed-b913b5a4d025 xmldb:exist:///db/apps/Bargheer-Edition/sources/sourceA2_s2.xml#edirom_measure_6b59c8b8-96cf-4d3b-b3c0-e99bb1bd5317"/>
