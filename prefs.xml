@@ -14,6 +14,7 @@
         <entry key="image_prefix" value="https://bargheer.edirom.de/Scaler/IIIF/"/>
         <entry key="edition_path" value="/db/apps/Bargheer-Edition/"/>
         <entry key="additional_css_path" value="xmldb:exist:///db/apps/Bargheer-Edition/css/bargheer.css"/>
+        <entry key="plugin_tooltips" value="../Bargheer-Edition/js/tooltips.js"/>
     </entries>
 
 
