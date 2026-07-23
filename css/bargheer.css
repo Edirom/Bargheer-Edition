@@ -1,3 +1,16 @@
+h1 span.head{
+    display: block;
+    background: -moz-linear-gradient(center top , #87E0FD, #05ABE0) repeat scroll 0 0 transparent;
+    border: 1px solid #666666;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 5px #333333;
+    font-family: "Caudex",Arial,sans-serif;
+    font-size: 22.4px;
+    margin: 10px 0 30px;
+    padding: 5px;
+    text-align: center;
+}
+
 .songTitle {
     
 }
