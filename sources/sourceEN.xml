@@ -21,7 +21,7 @@
          </appInfo>
       </encodingDesc>
       <manifestationList>
-         <manifestation>
+         <manifestation singleton="true">
             <identifier type="siglum">KA-en</identifier>
             <titleStmt>
                <title>Erstniederschrift</title>

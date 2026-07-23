@@ -21,7 +21,7 @@
          </appInfo>
       </encodingDesc>
       <manifestationList>
-         <manifestation>
+         <manifestation singleton="true">
             <identifier type="siglum">A2_s2</identifier>
             <titleStmt>
                <title>Reinschrift, Revision 1</title>
