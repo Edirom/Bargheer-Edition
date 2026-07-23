@@ -12,18 +12,18 @@
                         <name xml:lang="de">Einführung</name>
                         <name xml:lang="en">Introduction</name>
                     </names>
-                    <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-001.xml" xml:id="navItem-00701" sortNo="1">
-                        <names>
-                            <name xml:lang="de">Aktuelles</name>
-                            <name xml:lang="en">Current background</name>
-                        </names>
-                    </navigatorItem>
-                    <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-01.xml" xml:id="navItem-0701" sortNo="2">
+                    <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-01.xml" xml:id="navItem-0701" sortNo="1">
                         <names>
                             <name xml:lang="de">Zu dieser Website</name>
                             <name xml:lang="en">About this website</name>
                         </names>
-                    </navigatorItem>     
+                    </navigatorItem>  
+                    <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-001.xml" xml:id="navItem-00701" sortNo="2">
+                        <names>
+                            <name xml:lang="de">Aktuelles</name>
+                            <name xml:lang="en">Current background</name>
+                        </names>
+                    </navigatorItem>   
                     <navigatorItem targets="xmldb:exist:///db/apps/Bargheer-Edition/texts/text-011.xml" xml:id="navItem-000701" sortNo="3">
                         <names>
                             <name xml:lang="de">Register und Versionsinfos</name>
