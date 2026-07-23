@@ -27,3 +27,17 @@
     display: block;
     clear: both;
 }
+
+.graphic {
+    float: inline-start;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.textViewContent{
+    max-width: 80%;
+}
+
+.textViewContent .teidiv0 > ul {
+    margin-left: 0;
+}
