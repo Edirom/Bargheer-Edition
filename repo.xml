@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
-    <description>Bargheer-Fiedellieder-Edition</description>
+    <description>Edition Bargheer Fiedellieder</description>
     <author>Musikwissenschaftliches Seminar Detmold/Paderborn</author>
     <website>https://github.com/Edirom/Bargheer-Edition</website>
     <status>dev</status>
