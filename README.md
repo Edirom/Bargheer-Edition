@@ -21,10 +21,17 @@ git clone https://github.com/Edirom/Bargheer-Edition.git .
 
 **Step 2**: Start Edirom Online.
 
-The Edirom Online is started via entering the following command in the command line:
+The Edirom Online is started via entering the following commands in the command line.
+
+(a) Build Docker container:
 
 ```bash
 docker build -t bargheer-edirom-online:latest .
+```
+
+(b) Run Docker container:
+
+```bash
 docker run --name bargheer-edirom-online -p 8080:8080 -v exist-data:/var/lib/exist bargheer-edirom-online:latest
 ```
 
@@ -38,8 +45,19 @@ If it does not show up directly, try a reload of the page.
 
 **Step 3**: Stop Edirom Online.
 
-You can stop the environment by hitting Ctrl+C in the command line in which the Docker process is running. If you have used the detached mode, you can stop the environment by typing `docker stop bargheer-edirom-online`. To start the Docker container again (without building anew) type `docker start bargheer-edirom-online`.
+You can stop the environment by hitting Ctrl+C in the command line in which the Docker process is running. 
 
+If you have used the detached mode, you can stop the environment by typing:
+
+```bash
+docker stop bargheer-edirom-online
+``` 
+
+To start the Docker container again (without building anew) type:
+
+```bash
+docker start bargheer-edirom-online`
+```
 
 
 ## License
