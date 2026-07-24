@@ -7,21 +7,20 @@ FROM eclipse-temurin:25-jre AS builder
 LABEL maintainer="Peter Stadler for the ViFE"
 LABEL maintainer="Daniel Jettka"
 
-
-ARG ROASTER_VERSION=1.11.0
-ARG FRONTEND_VERSION=1.4.0
 ARG BACKEND_VERSION=1.4.0
+ARG FRONTEND_VERSION=1.4.0
+ARG ROASTER_VERSION=1.11.0
 
-
+# install ant, curl and unzip
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ant curl unzip
 
+# build the edition
 WORKDIR "/opt/data-build"
-
 COPY . .
-
 RUN ant
 
+# download xar packages
 WORKDIR "/opt/packages"
 
 RUN echo "Downloading Edirom Online Backend xar..." && \
