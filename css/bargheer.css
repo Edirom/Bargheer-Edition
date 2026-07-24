@@ -1,4 +1,4 @@
-h1 span.head{
+h1:has(.head){
     display: block;
     background: -moz-linear-gradient(center top , #87E0FD, #05ABE0) repeat scroll 0 0 transparent;
     border: 1px solid #666666;
@@ -47,10 +47,31 @@ h1 span.head{
     margin-bottom: 20px;
 }
 
+.note {
+  display: inline-block;
+  background-color: #e5e5e5;
+  color: #666666;
+  margin: 0 10px;
+}
+
+/** textViewContent **/
+
 .textViewContent{
     max-width: 80%;
 }
 
 .textViewContent .teidiv0 > ul {
     margin-left: 0;
+}
+.textViewContent span.note {
+  font-size: smaller;
+}
+.textViewContent .letter {
+  border-top: 1pt solid green;
+  border-bottom: 1pt solid green;
+}
+
+.textViewContent .letter h1:has(.head) {
+  border: none;
+  box-shadow: none;
 }
