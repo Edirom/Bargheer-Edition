@@ -5,40 +5,49 @@
 #########################
 FROM eclipse-temurin:25-jre AS builder
 LABEL maintainer="Peter Stadler for the ViFE"
+LABEL maintainer="Daniel Jettka"
 
-ENV EOL_BUILD_HOME="/opt/eol-build"
-ENV DATA_BUILD_HOME="/opt/data-build"
+
+ARG ROASTER_VERSION=1.11.0
+ARG FRONTEND_VERSION=1.4.0
+ARG BACKEND_VERSION=1.4.0
+
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ant curl unzip
 
-WORKDIR ${EOL_BUILD_HOME}
-
-RUN curl -LO https://github.com/Edirom/Bargheer-EdiromOnline/archive/master.zip \
-    && unzip master.zip \
-    && cd Bargheer-EdiromOnline-master \
-    && ant
-
-WORKDIR ${DATA_BUILD_HOME}
+WORKDIR "/opt/data-build"
 
 COPY . .
 
 RUN ant
 
+WORKDIR "/opt/packages"
+
+RUN echo "Downloading Edirom Online Backend xar..." && \
+    curl -L -O "https://github.com/Edirom/Edirom-Online-Backend/releases/download/v${BACKEND_VERSION}/Edirom-Online-Backend-${BACKEND_VERSION}.xar";
+
+RUN echo "Downloading Edirom Online Frontend xar..." && \
+    curl -L -O "https://github.com/Edirom/Edirom-Online-Frontend/releases/download/v${FRONTEND_VERSION}/Edirom-Online-Frontend-${FRONTEND_VERSION}.xar";
+
+RUN echo "Downloading Roaster xar..." && \
+    curl -L -O "https://exist-db.org/exist/apps/public-repo/public/roaster-${ROASTER_VERSION}.xar";
+
+
 #########################
 # Now running the eXist-db
-# and adding our freshly built xar-packages
+# and adding our freshly built and downloaded xar-packages
 #########################
-FROM stadlerpeter/existdb:4
+FROM stadlerpeter/existdb:6
 
 # add specific settings for this app 
 # For more details about the options see  
 # https://github.com/peterstadler/existdb-docker
-ENV EXIST_ENV="production"
-ENV EXIST_CONTEXT_PATH="/edition"
-ENV EXIST_DEFAULT_APP_PATH="xmldb:exist:///db/apps/Bargheer-EdiromOnline"
+#ENV EXIST_ENV="production"
+#ENV EXIST_CONTEXT_PATH="/edition"
+#ENV EXIST_DEFAULT_APP_PATH="xmldb:exist:///db/apps/Edirom-Online-Frontend"
 
 # simply copy our xar packages
 # to the eXist-db autodeploy folder
-COPY --from=builder /opt/eol-build/Bargheer-EdiromOnline-master/build/*.xar ${EXIST_HOME}/autodeploy/
 COPY --from=builder /opt/data-build/build/*.xar ${EXIST_HOME}/autodeploy/
+COPY --from=builder /opt/packages/*.xar ${EXIST_HOME}/autodeploy/
