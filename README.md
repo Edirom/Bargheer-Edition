@@ -1,6 +1,12 @@
 # Edition der Bargheer Fiedellieder
 
-Studentisches Projekt am Musikwissenschaftlichen Seminar Detmold/Paderborn unter der Leitung von Joachim Veit. 
+Die Edition der Fiedellieder von Carl Louis Bargheer basiert auf einem studentischen Projekt, das am Musikwissenschaftlichen Seminar Detmold/Paderborn unter der Leitung von Joachim Veit durchgeführt wurde. 
+
+Die Edition enthält einerseits Informationen zu den Fiedelliedern, die der Kapellmeister, Komponist und Violinist Carl Louis Bargheer (1831–1902) nach Textvorlagen von Theodor Storm (1817–1888) komponierte. Integriert ist eine vollständige digitale Edition dieser Lieder einschließlich eines ausführlichen Kritischen Berichts, der auch die komplizierte Genese bzw. den Überarbeitungsprozess dieser Lieder im Detail verdeutlichen will. 
+
+Darüber hinaus werden zahlreiche Informationen und Dokumente bereitgestellt, die über den engeren Gegenstand dieser Fiedellieder hinausgehen und Bargheers Biographie, aber auch seine Rolle im Musikleben, speziell seine Zeit in der Detmolder Hofkapelle und die Kontakte zu Johannes Brahms, beleuchten. Dabei sind in erster Linie Briefe und Archivalien, aber auch bildliche Zeugnisse aufgenommen. Die Mehrzahl dieser Dokumente stammt aus der Lippischen Landesbibliothek Detmold und dem Landesarchiv NRW, Abteilung Ostwestfalen-Lippe und wurden im Zuge der Edition erstmals veröffentlicht.
+
+Im Folgenden finden sich Informationen (auf Englisch) zum Installieren der Edition in der Präsentations- und Analysesoftware Edirom Online.
 
 
 ## Running in Edirom Online
@@ -56,7 +62,7 @@ docker stop bargheer-edirom-online
 To start the Docker container again (without building anew) type:
 
 ```bash
-docker start bargheer-edirom-online`
+docker start bargheer-edirom-online
 ```
 
 
