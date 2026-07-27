@@ -26,7 +26,7 @@ git clone https://github.com/Edirom/Bargheer-Edition.git .
 &ast; Wenn Sie Git nicht verwenden, können Sie ein ZIP- oder TAR-Archiv von der Seite [Releases](https://github.com/Edirom/Bargheer-Edition/releases) herunterladen, das Archiv entpacken und anschließend in das Verzeichnis wechseln.
 
 
-**Schritt 2**: Starten Sie Edirom Online.
+**Schritt 2**: Starten der Edirom Online.
 
 Edirom Online wird durch Eingabe der folgenden Befehle in der Befehlszeile gestartet.
 
@@ -42,15 +42,16 @@ docker build -t bargheer-edirom-online:latest .
 docker run --name bargheer-edirom-online -p 8080:8080 -v exist-data:/var/lib/exist bargheer-edirom-online:latest
 ```
 
-Alternativ können Sie im detachierten Modus starten (der Prozess läuft im Hintergrund, sodass das Terminal nach dem Start beschreibbar ist), indem Sie im obigen Befehl das Flag "-d" hinter "docker run" verwenden. 
+Alternativ können Sie im "detached mode" starten (der Prozess läuft dann im Hintergrund, sodass das Terminal nach dem Start wieder beschreibbar ist), indem Sie im obigen Befehl die Flag "-d" hinter "docker run" verwenden. 
 
-Nachdem die Umgebung eingerichtet wurde (was einige Minuten dauern kann), ist Bargheer Edirom Online unter folgender Adresse verfügbar:
+Nachdem die Umgebung eingerichtet wurde (was einige Minuten dauern kann), ist die Bargheer Edition in der Edirom Online unter folgender Adresse verfügbar:
 
 [http://localhost:8080/exist/apps/Edirom-Online-Frontend/index.html](http://localhost:8080/exist/apps/Edirom-Online-Frontend/index.html)
 
-Falls es nicht sofort angezeigt wird, laden Sie die Seite bitte neu.
+Falls die Seite nicht sofort angezeigt wird, laden Sie sie bitte neu.
 
-**Schritt 3**: Beenden Sie Edirom Online.
+
+**Schritt 3**: Beenden der Edirom Online.
 
 Sie können die Umgebung beenden, indem Sie in der Befehlszeile, in der der Docker-Prozess läuft, Strg+C drücken. 
 
