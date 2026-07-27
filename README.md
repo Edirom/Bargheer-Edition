@@ -6,66 +6,68 @@ Die Edition enthält einerseits Informationen zu den Fiedelliedern, die der Kape
 
 Darüber hinaus werden zahlreiche Informationen und Dokumente bereitgestellt, die über den engeren Gegenstand dieser Fiedellieder hinausgehen und Bargheers Biographie, aber auch seine Rolle im Musikleben, speziell seine Zeit in der Detmolder Hofkapelle und die Kontakte zu Johannes Brahms, beleuchten. Dabei sind in erster Linie Briefe und Archivalien, aber auch bildliche Zeugnisse aufgenommen. Die Mehrzahl dieser Dokumente stammt aus der Lippischen Landesbibliothek Detmold und dem Landesarchiv NRW, Abteilung Ostwestfalen-Lippe und wurden im Zuge der Edition erstmals veröffentlicht.
 
-Im Folgenden finden sich Informationen (auf Englisch) zum Installieren der Edition in der Präsentations- und Analysesoftware Edirom Online.
+Im Folgenden finden sich Informationen zum Installieren der Edition in der Präsentations- und Analysesoftware Edirom Online.
 
 
-## Running in Edirom Online
+## In Edirom Online ausführen
 
-Prerequisites: [Docker Desktop](https://www.docker.com/products/docker-desktop/) has to be installed. The 'docker' command must be available in the terminal.
+Voraussetzungen: [Docker Desktop](https://www.docker.com/products/docker-desktop/) muss installiert sein. Der Befehl "docker" muss im Terminal verfügbar sein.
 
-**Step 1**: Clone the Git repository.
 
-On your computer create and navigate to a new directory for the Bargheer Edirom Online. 
-Then open the command line of your computer (also known as Shell, PowerShell, Terminal) and clone the Bargheer Edition Git repository to your machine with:
+**Schritt 1**: Klonen des Git-Repository.
+
+Erstellen Sie auf Ihrem Computer ein neues Verzeichnis für die Bargheer Edirom Online und wechseln Sie in das Verzeichnis. 
+Öffnen Sie anschließend die Befehlszeile Ihres Computers (auch bekannt als Shell, PowerShell oder Terminal) und klonen Sie das Git-Repository der Bargheer-Edition mit folgendem Befehl auf Ihren Rechner:
 
 ```bash
 git clone https://github.com/Edirom/Bargheer-Edition.git .
 ```
 
-&ast; If you do not use Git, it is possible to download a zip or tar archive from the [Releases](https://github.com/Edirom/Bargheer-Edition/releases), unzip the archive, and  then navigate into it.
+&ast; Wenn Sie Git nicht verwenden, können Sie ein ZIP- oder TAR-Archiv von der Seite [Releases](https://github.com/Edirom/Bargheer-Edition/releases) herunterladen, das Archiv entpacken und anschließend in das Verzeichnis wechseln.
 
 
-**Step 2**: Start Edirom Online.
+**Schritt 2**: Starten der Edirom Online.
 
-The Edirom Online is started via entering the following commands in the command line.
+Edirom Online wird durch Eingabe der folgenden Befehle in der Befehlszeile gestartet.
 
-(a) Build Docker container:
+(a) Docker-Container erstellen:
 
 ```bash
 docker build -t bargheer-edirom-online:latest .
 ```
 
-(b) Run Docker container:
+(b) Docker-Container ausführen:
 
 ```bash
 docker run --name bargheer-edirom-online -p 8080:8080 -v exist-data:/var/lib/exist bargheer-edirom-online:latest
 ```
 
-Alternatively start in detached mode (running in background so that the terminal is writable after startup) by using the flag " -d" after "docker run" in the command above. 
+Alternativ können Sie im "detached mode" starten (der Prozess läuft dann im Hintergrund, sodass das Terminal nach dem Start wieder beschreibbar ist), indem Sie im obigen Befehl die Flag "-d" hinter "docker run" verwenden. 
 
-After the environment has been setup (which may take several minutes) the Bargheer Edirom Online is available at:
+Nachdem die Umgebung eingerichtet wurde (was einige Minuten dauern kann), ist die Bargheer Edition in der Edirom Online unter folgender Adresse verfügbar:
 
 [http://localhost:8080/exist/apps/Edirom-Online-Frontend/index.html](http://localhost:8080/exist/apps/Edirom-Online-Frontend/index.html)
 
-If it does not show up directly, try a reload of the page.
+Falls die Seite nicht sofort angezeigt wird, laden Sie sie bitte neu.
 
-**Step 3**: Stop Edirom Online.
 
-You can stop the environment by hitting Ctrl+C in the command line in which the Docker process is running. 
+**Schritt 3**: Beenden der Edirom Online.
 
-If you have used the detached mode, you can stop the environment by typing:
+Sie können die Umgebung beenden, indem Sie in der Befehlszeile, in der der Docker-Prozess läuft, Strg+C drücken. 
+
+Wenn Sie den Detached-Modus verwendet haben, können Sie die Umgebung mit folgendem Befehl beenden:
 
 ```bash
 docker stop bargheer-edirom-online
 ``` 
 
-To start the Docker container again (without building anew) type:
+Um den Docker-Container erneut zu starten (ohne ihn neu zu erstellen), geben Sie Folgendes ein:
 
 ```bash
 docker start bargheer-edirom-online
 ```
 
 
-## License
+## Lizenz
 
-This work is available under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+Dieses Projekt ist verfügbar unter der [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
