@@ -46,7 +46,7 @@ Alternativ können Sie im "detached mode" starten (der Prozess läuft dann im Hi
 
 Nachdem die Umgebung eingerichtet wurde (was einige Minuten dauern kann), ist die Bargheer Edition in der Edirom Online unter folgender Adresse verfügbar:
 
-[http://localhost:8080/exist/apps/Edirom-Online-Frontend/index.html](http://localhost:8080/exist/apps/Edirom-Online-Frontend/index.html)
+[http://localhost:8080/](http://localhost:8080/)
 
 Falls die Seite nicht sofort angezeigt wird, laden Sie sie bitte neu.
 
