@@ -10,10 +10,12 @@ LABEL maintainer="Daniel Jettka"
 ARG BACKEND_VERSION=1.4.0
 ARG FRONTEND_VERSION=1.4.0
 ARG ROASTER_VERSION=1.11.0
+ARG BACKEND_URL=http://localhost:8080/apps/Edirom-Online-Backend/
+ARG BACKEND_PATH=/apps/Edirom-Online-Backend
 
 # install ant, curl and unzip
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends ant curl unzip
+    && apt-get install -y --no-install-recommends ant curl unzip zip
 
 # build the edition
 WORKDIR "/opt/data-build"
@@ -29,6 +31,13 @@ RUN echo "Downloading Edirom Online Backend xar..." && \
 RUN echo "Downloading Edirom Online Frontend xar..." && \
     curl -L -O "https://github.com/Edirom/Edirom-Online-Frontend/releases/download/v${FRONTEND_VERSION}/Edirom-Online-Frontend-${FRONTEND_VERSION}.xar";
 
+# replace backendURL and backendPath value in config.json inside the Edirom-Online-Frontend xar package
+RUN unzip -o "Edirom-Online-Frontend-${FRONTEND_VERSION}.xar" "config.json" && \
+    sed -i "s|\"backendURL\": \".*\"|\"backendURL\": \"${BACKEND_URL}\"|g" config.json && \
+    sed -i "s|\"backendPath\": \".*\"|\"backendPath\": \"${BACKEND_PATH}\"|g" config.json && \
+    zip -q -f "Edirom-Online-Frontend-${FRONTEND_VERSION}.xar" "config.json" && \
+    rm config.json;
+
 RUN echo "Downloading Roaster xar..." && \
     curl -L -O "https://exist-db.org/exist/apps/public-repo/public/roaster-${ROASTER_VERSION}.xar";
 
@@ -43,8 +52,8 @@ FROM stadlerpeter/existdb:6
 # For more details about the options see  
 # https://github.com/peterstadler/existdb-docker
 #ENV EXIST_ENV="production"
-#ENV EXIST_CONTEXT_PATH="/edition"
-#ENV EXIST_DEFAULT_APP_PATH="xmldb:exist:///db/apps/Edirom-Online-Frontend"
+ENV EXIST_CONTEXT_PATH="/"
+ENV EXIST_DEFAULT_APP_PATH="xmldb:exist:///db/apps/Edirom-Online-Frontend"
 
 # simply copy our xar packages
 # to the eXist-db autodeploy folder
