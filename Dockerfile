@@ -57,5 +57,5 @@ ENV EXIST_DEFAULT_APP_PATH="xmldb:exist:///db/apps/Edirom-Online-Frontend"
 
 # simply copy our xar packages
 # to the eXist-db autodeploy folder
-COPY --from=builder /opt/data-build/build/*.xar ${EXIST_HOME}/autodeploy/
+COPY --from=builder /opt/data-build/dist/*.xar ${EXIST_HOME}/autodeploy/
 COPY --from=builder /opt/packages/*.xar ${EXIST_HOME}/autodeploy/
