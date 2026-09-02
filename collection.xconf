@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection xmlns="http://exist-db.org/collection-config/1.0">
-        <index xmlns:mei="http://www.music-encoding.org/ns/mei">
+        <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mei="http://www.music-encoding.org/ns/mei">
                 <fulltext default="none" attributes="false"/>
                 <lucene>
                         <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
                         <analyzer id="ws" class="org.apache.lucene.analysis.core.WhitespaceAnalyzer"/>
+
                         <text qname="@type" analyzer="ws"/>
                         <text qname="@dbkey"/>
                         <text qname="@role"/>
@@ -12,36 +13,66 @@
                         <text qname="@target"/>
                         <text qname="@plist" analyzer="ws"/>
                         <text qname="@label"/>
-                </lucene>
-                <create qname="@type" type="xs:string"/>
-                <create qname="@plist" type="xs:string"/>
-                <create qname="@facs" type="xs:string"/>
 
-                <!--
-        
-        <create qname="@dbkey" type="xs:string"/>
-        <create qname="@role" type="xs:string"/>
-        <create qname="@target" type="xs:string"/>
-        <create qname="@label" type="xs:string"/>
-		<create qname="mei:title" type="xs:string"/>
-        <create qname="mei:name" type="xs:string"/>
-        <create qname="mei:persname" type="xs:string"/>
-        <create qname="@endid" type="xs:string"/>
-        <create qname="@endto" type="xs:string"/>
-        <create qname="@facs" type="xs:string"/>
-        <create qname="@label" type="xs:string"/>
-        <create qname="@n" type="xs:string"/>
-        <create qname="@reg" type="xs:string"/>
-        <create qname="@rel" type="xs:string"/>
-        <create qname="@role" type="xs:string"/>
-        <create qname="@staff" type="xs:string"/>
-        <create qname="@startid" type="xs:string"/>
-        <create qname="@startto" type="xs:string"/>
-        <create qname="@target" type="xs:string"/>
-        <create qname="@type" type="xs:string"/>
-        <create qname="@xlink:href" type="xs:string"/>
-        <create qname="@source" type="xs:string"/>
-        <create qname="@classcode" type="xs:string"/>
--->
+                        <!--TEI-->
+                        <text qname="tei:orgName" boost="2.0"/>
+                        <text qname="tei:persName" boost="2.0"/>
+                        <text qname="tei:settlement" boost="2.0"/>
+                        <text qname="tei:text"/>
+                        <text qname="tei:title" boost="2.0"/>
+
+                        <!--MEI-->
+                        <text qname="mei:mei">
+                                <ignore qname="mei:music"/>
+                                <ignore qname="mei:title"/>
+                                <ignore qname="mei:annot"/>
+                        </text>
+                        <text qname="mei:title" boost="2.0"/>
+                        <text qname="mei:annot"/>
+                        
+                        <!--  HTML documents with XHTML namespace -->
+                        <text qname="html:body" xmlns:html="http://www.w3.org/1999/xhtml"/>
+                        <text qname="html:title" boost="2.0" xmlns:html="http://www.w3.org/1999/xhtml"/>
+
+                        <!--  HTML documents without namespace (DOCTYPE html) -->
+                        <text qname="body"/>
+                        <text qname="title" boost="2.0"/>
+
+                </lucene>
+
+                <!-- Range indexes -->
+                <range>
+                        <create qname="tei:title" type="xs:string"/>
+                        <create qname="tei:bibl" type="xs:string"/>
+                        <create qname="tei:persName" type="xs:string"/>
+                        <create qname="tei:persName" type="xs:string">
+                                <field name="persName-key" match="@key" type="xs:string"/>
+                        </create>
+                        <create qname="tei:objectDesc">
+                                <field name="objectDesc-form" match="@form" type="xs:string"/>
+                        </create>
+                        <create qname="tei:correspAction">
+                                <field name="correspAction-type" match="@type" type="xs:string"/>
+                        </create>
+                        <create qname="tei:date">
+                                <field name="date-type" match="@type" type="xs:string"/>
+                                <field name="date-when" match="@when" type="xs:date"/>
+                        </create>
+                        <create qname="tei:note">
+                                <field name="note-type" match="@type" type="xs:string"/>
+                        </create>
+                        <create qname="@type" type="xs:string"/>
+                        <create qname="tei:collection" type="xs:string">
+                                <field name="collection-key" match="@key" type="xs:string"/>
+                        </create>
+                        <create qname="tei:repository" type="xs:string">
+                                <field name="repository-key" match="@key" type="xs:string"/>
+                        </create>
+                        
+                        <!--<create qname="author" type="xs:string"/>
+                        <create qname="year" type="xs:integer"/>-->
+                </range>
+
         </index>
+        
 </collection>
