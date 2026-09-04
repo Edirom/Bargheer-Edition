@@ -198,42 +198,6 @@
                     </list></p>
             </div>
             <div>
-                <head>Hinweise zu Einschränkungen im gegenwärtigen Stand (Version 0.9)</head>
-                <p>Das <hi rend="bold">Lesartenverzeichnis</hi> in seiner gegenwärtigen Form ähnelt
-                    konzeptionell noch sehr der traditionellen Anlage solcher Verzeichnisse und
-                    unterscheidet sich lediglich durch die Integration der Quellenfaksimiles und
-                    verschiedene Filtermöglichkeiten. Die zum gezielten Filtern notwendige Vergabe
-                    von Prioritäten und Kategorien ist z. Zt. noch nicht konsequent umgesetzt. Um
-                    die Benutzung zu erleichtern, ist eine weitere Differenzierung und deutlichere
-                    Strukturierung der Angaben geplant.</p>
-                <p>In diesem Kontext ist auch eine grundsätzliche Problematik anzusprechen, die die
-                    Entscheidung betrifft, ob <hi rend="bold">Anmerkungen</hi> gezielt nur für
-                    einzelne Phänomene oder <hi rend="italic">Kategorien</hi> angelegt oder alle in
-                    einem Takt oder einer Taktgruppe vorkommenden Phänomene zusammen in einer
-                    Anmerkung beschrieben werden sollen. Das Problem wird zusätzlich kompliziert
-                    durch die Vergabe von <hi rend="italic">Prioritäten</hi>, die die Wichtigkeit
-                    einzelner Anmerkungen bezeichnen (im Sinne ihrer Bedeutung für die Edition des
-                    musikalischen Textes). Die jetzige Lösung kann nur als Angebot zum Testen
-                    unterschiedlicher Formen verstanden werden; eine Differenzierung würde aber z.
-                    B. erlauben, Fremdeinträge, Nachträge oder Stufen der Entstehung besser durch
-                    Filter gruppieren zu können.</p>
-                <p>Die komplexe <hi rend="bold">Textgenese</hi> dieser Lieder zwingt an vielen
-                    Stellen, die verschiedenen Stufen der Entstehung deutlich zu trennen und
-                    darzustellen. Dies ist aufgrund der nicht immer freizulegenden Überklebungen in
-                    den Manuskripten gelegentlich schwierig. Soweit die Stellen nicht komplett
-                    abzulösen, aber wenigstens zum Teil entzifferbar waren, sind sie in Neusatz
-                    übertragen und in dieser Form in die Faksimiles einmontiert worden. Dennoch ist
-                    die Textentwicklung dabei nicht immer einfach nachzuvollziehen. Erst die
-                    Codierung erleichtert das Erfassen der Textbewegungen. Die größtenteils bereits
-                    erstellte Codierung im Format der <ref target="http://www.music-encoding.org"
-                        >Music Encoding Initative MEI</ref> wird erst zu einem späteren Zeitpunkt in
-                    die Website integriert.</p>
-                <p>Das <hi rend="bold">Layout</hi> der Anmerkungen ist in der gegenwärtigen Version
-                    als vorläufig zu verstehen. Es wird bis zur Veröffentlichung der Version 1.0
-                    überarbeitet sein. Dasselbe gilt für die Darstellung und Binnenauszeichnung
-                    einiger wiedergegebener Texte.</p>
-            </div>
-            <div>
                 <head>Hinweise</head>
                 <p>Diese Website wurde erstellt mit den empfohlenen Codierungen von <figure>
                         <graphic url="https://www.tei-c.org/about/logos/TEI_Logo_Horizontal.png"/>
