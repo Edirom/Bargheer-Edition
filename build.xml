@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="Bargheer-Edition">
+<project default="xar" name="Bargheer-Edition" basedir=".">
     
     <!-- import version and name from expath package file -->
     <xmlproperty file="expath-pkg.xml"/>
+
+    <!-- define more properties -->
     <property name="project.version" value="${package(version)}"/>
-    <property name="project.app" value="${package(name)}"/>
+    <property name="project.name" value="${package(name)}"/>
     <property name="build.dir" value="dist"/>
     
+    <!-- define tasks -->
     <target name="all" depends="xar"/>
     
+    <!-- create build directory -->
     <target name="init">
         <mkdir dir="${build.dir}"/>
     </target>
     
+    <!-- create xar file in build directory -->
     <target name="xar" depends="init">
-        <zip destfile="${build.dir}/${project.app}-${project.version}.xar">
+        <zip destfile="${build.dir}/${project.name}-${project.version}.xar">
             <fileset dir=".">
                 <exclude name="${build.dir}/**"/>
             </fileset>
