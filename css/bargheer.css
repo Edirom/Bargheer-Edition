@@ -41,12 +41,6 @@ h1:has(.head){
     clear: both;
 }
 
-.graphic {
-    float: inline-start;
-    margin-right: 20px;
-    margin-bottom: 20px;
-}
-
 .note {
   display: inline-block;
   background-color: #e5e5e5;

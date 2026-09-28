@@ -28,9 +28,11 @@
         <body>
             <div>
                 <head type="main">Zu dieser Website</head>
-                <p><figure place="inline">
-                        <graphic url="https://bargheer.edirom.de/Scaler/images/bargheer_symbol1.jpg?dh=220&amp;mo_fit"/>
-                    </figure></p>
+                <p>
+                    <figure place="inline">
+                        <graphic url="https://bargheer.edirom.de/Scaler/images/bargheer_symbol1.jpg?dh=220&amp;mo_fit" style="float: inline-start; margin-right: 20px; margin-bottom: 20px;"/>
+                    </figure>
+                </p>
                 <p>Auf der vorliegenden Website finden Sie einerseits Informationen zu den <hi
                         rend="italic">Fiedelliedern</hi>, die der Kapellmeister, Komponist und
                     Violinist Carl Louis Bargheer (1831–1902) nach Textvorlagen von Theodor Storm
@@ -236,10 +238,11 @@
             <div>
                 <head>Hinweise</head>
                 <p>Diese Website wurde erstellt mit den empfohlenen Codierungen von <figure>
-                        <graphic url="https://www.tei-c.org/about/logos/TEI_Logo_Horizontal.png"/>
+                        <graphic url="https://www.tei-c.org/about/logos/TEI_Logo_Horizontal.png" style="display:block; height:200px; margin: -30px 0 -20px 0;
+"/>
                     </figure> bzw. im musikalischen Teil von <figure>
-                        <graphic url="https://music-encoding.org/pix/logos/mei-logo-full-light.png"
-                        />
+                        <graphic url="https://music-encoding.org/pix/logos/mei-logo-full-light.png" style="display:block; height:100px; margin: 30px 0 30px 0;
+"/>
                     </figure> Die technische Konzeption und Betreuung lag beim DFG-Projekt <ref
                         target="http://www.edirom.de">Edirom</ref>. </p>
             </div>
