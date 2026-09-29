@@ -42,40 +42,40 @@
                         <item rend="noBullet">
                             <seg rend="songTitle">Nr. 1: "Wenn mir unterm Fiedelbogen"</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/01_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/01_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/01_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/01_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item rend="noBullet">
                             <seg rend="songTitle">Nr. 2: "Nun ein Scherflein in die Runde"</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/02_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/02_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/02_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/02_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item rend="noBullet">
                             <seg rend="songTitle">Nr. 3: "Musikanten wollen wandern"</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/03_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/03_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/03_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/03_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item rend="noBullet">
                             <seg rend="songTitle">Nr. 4: "Am Markte bei der Kirchen"</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/04_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/04_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/04_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/04_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item rend="noBullet">
                             <seg rend="songTitle">Nr. 5: "Weiter geht’s und immer weiter" und Nr. 6: "Nun geht der Mond zur Wolkennacht"</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/05_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/05_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/05_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/05_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
@@ -92,40 +92,40 @@
                         <item>
                             <seg rend="songTitle">Nr. 1 "Will die Rose firsch erblühn" (Text: Julius Kessler)</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/06_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/06_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/06_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/06_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item>
                             <seg rend="songTitle">Nr. 2 "O könnt ich zu dir fliegen" (Text: Max von Schenkendorf)</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/07_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/07_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/07_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/07_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item>
                             <seg rend="songTitle">Nr. 3 "Wär ich ein Stern" (Text: aus Jean Pauls <hi rend="italic">Flegeljahren</hi>)</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/08_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/08_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/08_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/08_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item>
                             <seg rend="songTitle">Nr. 4 Lebewohl (Wanderlieder Nr. 1) "Lebe wohl, mein Lieb!" (Text: Ludwig Uhland)</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/09_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/09_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/09_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/09_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
                         <item>
                             <seg rend="songTitle">Nr. 5 In der Ferne "Will ruhen unter den Bäumen hier" (Text: Ludwig Uhland)</seg>
                             <audio xmlns="http://www.w3.org/1999/xhtml" class="songAudio" preload="auto" controls="controls">
-                                <source src="$bargheer-edition$/audio/ogg/10_Bargheer.ogg" type="audio/ogg"/>
-                                <source src="$bargheer-edition$/audio/mp3/10_Bargheer.mp3" type="audio/mp3"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/ogg/10_Bargheer.ogg" type="audio/ogg"/>
+                                <source src="https://bargheer.edirom.de/edition/apps/Bargheer-Edition/audio/mp3/10_Bargheer.mp3" type="audio/mp3"/>
                                 <p>Your browser does not support the audio element.</p>
                             </audio>
                         </item>
