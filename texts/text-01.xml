@@ -4,10 +4,14 @@
         <fileDesc>
             <titleStmt>
                 <title>Zu dieser Website</title>
-                <respStmt>
+                <respStmt n="1">
                     <name>Herausgeber</name>
                     <resp>Kostadin Delinikolov, Andreas Fukerider, Joachim Iffland, Ran Mo, Stefanie
                         Rauch, Agnes Seipelt und Joachim Veit</resp>
+                </respStmt>
+                <respStmt n="2">
+                    <orgName>ZenMEM</orgName>
+                    <resp>Kostadin Delinikolov, Daniel Jettka, Peter Stadler, Joachim Veit</resp>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -21,6 +25,7 @@
             <p>Interne Text-Nr.: text-01</p>
         </encodingDesc>
         <revisionDesc>
+            <change when="2026-09-30" who="JV">Beginn der Änderungen für das neue Release</change>
             <change when="2012-11-25" who="JV">Ersteinrichtung; noch unvollständig</change>
         </revisionDesc>
     </teiHeader>
@@ -33,6 +38,19 @@
                         <graphic url="https://bargheer.edirom.de/Scaler/images/bargheer_symbol1.jpg?dh=220&amp;mo_fit" style="float: inline-start; margin-right: 20px; margin-bottom: 20px;"/>
                     </figure>
                 </p>
+                <p>(<hi rend="bold">Vorbemerkung 2026</hi>: Die vorliegende Website ist zweigeteilt:
+                    Der erste Teil enthält alle Ergebnisse eines im Sommersemester 2011 begonnenen
+                    Projektseminars am Musikwissenschaftlichen Seminar Detmold/Paderborn sowie der
+                    sich in den folgenden Semestern daran anschließenden Arbeiten der Teilnehmer bis
+                    zum Release 1.1. Mit der Übernahme der technischen Betreuung durch das <ref
+                        target="https://zenmem.uni-paderborn.de">Zentrum Musik | Edition | Medien
+                        (ZenMEM)</ref> und einer softwareseitigen Überarbeitung im Jahr 2026 waren
+                    auch inhaltliche Erweiterungen verbunden, die mit einem Wechsel der
+                    Verantwortlichkeiten einhergehen. Dies ist im unteren Teil dieser Einführung
+                    (unter dem Stichpunkt: Zu den Veränderungen und Erweiterungen ab Version 2026.8) näher beschrieben. Ein
+                    besonders herzlicher Dank gilt den <ref target="https://edirom-online.edirom.de/index.html"><hi rend="italic">Edirom</hi></ref>- und <ref target="https://www.uni-paderborn.de/projekt/1332"><hi rend="italic">Edirom-reloaded</hi></ref>-Teams, ohne
+                    deren Unterstützung in den Anfängen und nun auch in der überarbeiteten Version
+                    der Software diese Website nicht hätte realisiert werden können.)</p>
                 <p>Auf der vorliegenden Website finden Sie einerseits Informationen zu den <hi
                         rend="italic">Fiedelliedern</hi>, die der Kapellmeister, Komponist und
                     Violinist Carl Louis Bargheer (1831–1902) nach Textvorlagen von Theodor Storm
@@ -98,7 +116,7 @@
                         <hi rend="italic">Fiedellieder</hi> liegen beim Carus-Verlag Stuttgart.</p>
             </div>
             <div>
-                <head>Überblick über die Materialien dieser Website</head>
+                <head>Überblick über die Materialien dieser Website in Version 1.1</head>
                 <p>Die Seite enthält gegenwärtig folgende Materialien: <list>
                         <item><hi rend="bold">Sämtliche Quellen zu Bargheers <hi rend="italic"
                                     >Fiedelliedern</hi></hi><lb/> Die einzelnen Entstehungsstufen
@@ -198,6 +216,42 @@
                                 >➞ Zur Tonaufnahme</ref>. </item>
                         <lb/>
                     </list></p>
+            </div>
+            <div>
+                <head>Bemerkungen zu den Veränderungen und Erweiterungen ab Version 2026.8</head>
+                <p>Im Zuge des <ref target="https://www.uni-paderborn.de/projekt/1332">DFG-Projekts <hi rend="italic">Edirom reloaded</hi></ref> wurde das Backend
+                    der <hi rend="italic">Edirom</hi>-Software grundlegend überarbeitet. Die
+                    vielfältigen Materialien (Texte, Faksimiles, Annotationen, Abbildungen, Audio)
+                    der Bargheer-Website boten dabei willkommenes Testmaterial. Zugleich profitierte
+                    die Bargheer-Seite erheblich von diesen Entwicklungen und konnte damit für einen
+                    dauerhaften Betrieb optimiert werden. Nähere Informationen zu Änderungen und
+                    ergänzten Inhalten sind nachfolgend zusammengefasst.</p>
+                <p>Erfreuliche inhaltliche Erweiterungen der Website entstanden in den vergangenen
+                    Jahren durch die Editionstätigkeit Kostadin Delinikolovs im Kontext seiner
+                    Masterarbeit zum Liedschaffen Bargheers. Zu verweisen ist in diesem Zusammenhang
+                    auch auf einen entsprechenden <ref target="#Bargheer_A_2019-01-08">Beitrag Delinikolovs in den <hi rend="italic">Brahms-Studien</hi>, Band
+                        18</ref>, aus dem Jahr 2018, ferner auf die <ref target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/10331749">Veröffentlichung der <hi rend="italic">IX Lieder und
+                    Balladen</hi> Bargheers</ref> über die Website der Lippischen Landesbibliothek –
+                    Theologischen Bibliothek Detmold im Januar 2024 und der <ref target="https://digitale-sammlungen.llb-detmold.de/content/titleinfo/9859825"><hi rend="italic"
+                        >Wanderlieder für eine Singstimme mit Begleitung des Pianoforte</hi></ref> im
+                    November 2025, ebenfalls über die digitalen Sammlungen der Bibliothek. </p>
+                <p>Im Frühjahr 2026 startete Delinikolov eine Initiative zur Einspielung und
+                    Veröffentlichung von Aufnahmen der Lieder Bargheers. Hierfür gewann er
+                    erfreulicherweise die Unterstützung des Ministeriums für Kultur und Wissenschaft
+                    des Landes Nordrhein-Westfallen, des Landschaftsverbandes Westfalen-Lippe,
+                    der Kulturstiftung Marienmünster und privater Förderer. Dadurch konnte in Verbindung
+                    mit einem <ref target="#Bargheer_A_2026-07-23">Konzert in der Kulturstiftung Marienmünster</ref> am 28. Juni 2026 eine
+                    Aufnahme der genannten Editionen sowie der <hi rend="italic">Fiedellieder für Bariton, Violine und
+                    Klavier</hi> realisiert werden. Eine Veröffentlichung ist in Vorbereitung.</p>
+                <p>Durch das Team von <ref target="https://www.uni-paderborn.de/projekt/1332"><hi
+                            rend="italic">Edirom reloaded</hi></ref>, maßgeblich unter Beteiligung
+                    von Daniel Jettka, Hizkiel Alemayehu und Kristin Herold sowie Peter Stadler vom
+                        <ref target="https://zenmem.uni-paderborn.de/">ZenMEM</ref> konnte im Sommer
+                    2026 die Datenstruktur der Website an die Edirom Online-Version 2.4.0 angepasst
+                    werden, gleichzeitig wurde sowohl die Darstellung der Edirom-Teile als auch der
+                    Texte optimiert. Die Verantwortung für neu zugefügte Inhalte der Website liegen
+                    (soweit nicht anders angegeben) bei Kostadin Delinikolov und Joachim Veit.</p>
+                <p>Informationen zu inhaltlichen oder auch technischen Erweiterungen diese Website finden sich auch unter der Rubrik Aktuelles. Dadurch ggf. notwendige Erweiterungen der Menüstruktur werden künftig an hier kurz erläutert.</p>
             </div>
             <div>
                 <head>Hinweise</head>
