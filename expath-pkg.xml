@@ -2,7 +2,7 @@
 <package xmlns="http://expath.org/ns/pkg" 
     name="bargheer-edition"
     abbrev="bargheer-edition" 
-    version="2026.8" 
+    version="2026.10" 
     spec="1.0">
     <title>Edition Bargheer Fiedellieder</title>
 </package>
