@@ -34,11 +34,12 @@
             <div>
                 <head>Carl Louis Bargheer: Fiedellieder <hi rend="italic">plus</hi></head>
                 <head type="sub">Eine digitale Edition</head>
-                <p><!-- hier soll das Bild von der Website hin, das momentan noch auf der anderen Seite unter: ../../Bargheer-Website/MUS-H_1_B_184_B002R.jpg liegt, dann könnte die Bargheer-Website abgeschaltet werden. Titelei ganz oben noch überlegen  -->
-                    <!--<figure place="left">
-                        <graphic></graphic>
-                    </figure>-->
-                    <!-- Bildunterschrift: Carl Louis Bargheer (1831 – 1902), (Fotografie aus dem Bargheer-Nachlass der Lippischen Landesbibliothek Detmold) -->
+                <p>
+                    <figure place="inline">
+                        <graphic url="https://bargheer.edirom.de/Scaler/images/Mus-h1-B-184B.jpg?dh=550&amp;mo_fit" style="float: inline-start; margin-right: 20px; margin-bottom: 20px;"/>
+                        <figDesc>Bildunterschrift: Carl Louis Bargheer (1831 – 1902), (Fotografie aus dem Bargheer-Nachlass der Lippischen Landesbibliothek Detmold)</figDesc>
+                    </figure>
+                    
                     Hier entsteht im Rahmen einer Hybridedition eine Website mit Materialien zu Carl Louis Bargheers Fiedelliedern für Bariton, Violine und Klavier auf Texte von Theodor Storm. Die Noten des Werkes sind Anfang Dezember 2012 im <ref target="https://www.carus-verlag.com/musiknoten-und-aufnahmen/carl-louis-bargheer-fiedellieder-530300.html?redirected=1">Carus-Verlag, Stuttgart</ref>, erschienen. Die vorliegende Website entstand aus einer Zusammenarbeit des <ref target="https://www.muwi-detmold-paderborn.de/">Musikwissenschaftlichen Seminars Detmold/Paderborn</ref> mit der <ref target="https://www.llb-detmold.de/">Lippischen Landesbibliothek Detmold</ref> und dem <ref target="https://www.archive.nrw.de/landesarchiv-nrw/landesarchiv-nrw-abteilung-ostwestfalen-lippe-detmold">Landesarchiv NRW, Abteilung Ostwestfalen-Lippe</ref>. Sie wurde zunächst mit Hilfe von <ref target="https://textgrid.de/">TextGrid</ref> vorbereitet und in der technischen Konzeption und Umsetzung vom DFG-Projekt <ref target="https://www.edirom.de/">Edirom</ref> betreut. 2026 wurde die Betreuung durch das <ref
                         target="https://zenmem.uni-paderborn.de">Zentrum Musik – Edition – Medien (ZenMEM)</ref> der Universität Paderborn übernommen.</p>
                 <p>Die Website versteht sich als ein work in progress, das zunächst von Basisinformationen sowie einem digitalen Kritischen Bericht zur Edition der Fiedellieder ausging. Nach und nach wurden und werden aber weitere, über die Fiedellieder hinausgehende Informationen zu Bargheer und Umkreis (Briefe, Dokumente, Archivalien) eingearbeitet, ebenso wird die (digitale) Edition seiner Lieder schrittweise mit neuen Mitteln tiefer erschlossen. Jede Erweiterung wird durch eine neue Versionsnummer gekennzeichnet.</p>
